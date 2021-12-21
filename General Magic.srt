@@ -235,13 +235,11 @@ to the world, for the very first time.
 
 59
 00:06:32,500 --> 00:06:35,291
-We called it the computer
-for the rest of us,
+我们把他叫做所有人的电脑
 
 60
 00:06:35,291 --> 00:06:38,333
-because computers
-weren't for ordinary people.
+因为最早的时候普通人真的用不来
 
 61
 00:06:38,333 --> 00:06:42,458
@@ -803,8 +801,6 @@ Andy Hertzfeld 知道我是 Mac 的工程师，所以他给我打了电话让我
 198
 00:15:39,500 --> 00:15:41,917
 他不能告诉我到底进去之后做什么，大我当时就在想
-But he couldn't tell me what it
-was, and I was just thinking,
 
 199
 00:15:41,917 --> 00:15:44,041
@@ -824,148 +820,119 @@ was, and I was just thinking,
 
 203
 00:15:58,417 --> 00:16:01,333
-我就说「不要，我就是想去 General Magic」
+我跟他们说「不要，我就是想去 General Magic」
 
 204
 00:16:01,333 --> 00:16:05,250
-He would call me ten, fifteen
-times a day just begging,
+他大概一天能给我打十个、十五个电话，就为了求我
 
 205
 00:16:05,250 --> 00:16:08,625
-"Please get my resume"
-and he would just ask me,
+「看一下我的简历吧~」
 
 206
 00:16:08,625 --> 00:16:11,250
-"Please, I will not stop
-until I work there."
+「你不让我去你们那儿上班，我就一直打」
 
 207
 00:16:11,250 --> 00:16:13,667
-[Tony] And so I go into
-the interview, first thing in,
+[Tony] 终于我得到了一次面试机会
 
 208
 00:16:13,667 --> 00:16:18,875
-people sat me down on the floor,
-ripped my tie off, ripped off
-my jacket and said,
+刚一坐下他们就把我的领带给扯掉，还脱掉了我的外套
 
 209
 00:16:18,875 --> 00:16:23,333
-"That's not how we work here."
-So I go home back to Michigan,
-packed up all my things,
+「在我们这儿工作不用穿这些」
+后来我就回到密西根的家里开始打包
 
 210
 00:16:23,333 --> 00:16:26,000
-and put them in a car
-and then I'm like,
-I got to hear something.
+不听到他们给我回复总觉得心里难受
 
 211
 00:16:26,000 --> 00:16:30,417
-So I called Dee. "What's
-going on?" "We have a process,
-we are going through it.
+所以我又打给 Dee
+- 情况怎么样了？
+- 我们是有流程的，还在推进中
 
 212
 00:16:30,417 --> 00:16:33,000
-We are gonna have a meeting
-we will talk about you,
-we will let you know."
+我们会安排一个会议让你过来聊，有消息了会通知你的
 
 213
 00:16:33,000 --> 00:16:34,625
-[Dee] He would not
-stop calling me.
+[Dee] 他还是不停地给我打电话
 
 214
 00:16:34,625 --> 00:16:37,041
-Then I started calling
-like every day.
+然后我就开始每天都打电话
 
 215
 00:16:37,041 --> 00:16:40,667
-I said, "please call him
-because he is driving me crazy."
+我只能跟面试官说「给他打电话吧，我实在受不了他了」
 
 216
 00:16:40,667 --> 00:16:43,125
--[ring tone]
--I got the call.
-"Congratulations
+[电话铃声] 
+我接到一个电话「恭喜你，你被录取了」
 
 217
 00:16:43,125 --> 00:16:46,458
-you got the job,"
-and I just went nuts.
+当时我就疯了！
 
 218
 00:16:46,458 --> 00:16:49,083
-[lively music]
+[活泼的音乐]
 
 219
 00:17:21,041 --> 00:17:25,750
-[Marc] Email from me
-to John Sculley: "We realize
-that the root of our strength
+[Marc] 我写给 John Sculley 的邮件里说：「我们最强的地方
 
 220
 00:17:25,750 --> 00:17:31,208
-was that we understood how
-people use information machines
-better than anyone else.
+是我们很懂用户怎么使用信息化设备，比任何人都懂
 
 221
 00:17:31,208 --> 00:17:34,166
-This is our early vision
-for the product.
+我们在产品开发早期的愿景就是
 
 222
 00:17:34,166 --> 00:17:39,333
-A tiny computer, a phone,
-a very personal object.
+一台迷你的电脑，亦是一部电话机，非常个人化的物件
 
 223
 00:17:39,333 --> 00:17:41,625
-It must be beautiful.
+同时它必须落落大方
 
 224
 00:17:41,625 --> 00:17:46,792
-It must offer the kind of
-personal satisfaction that
-a fine piece of jewelry brings.
+好似一件珠宝，给人以满足感
 
 225
 00:17:49,250 --> 00:17:54,208
-It will have a perceived value
-even when it is not being used.
+即使当它只是被放在那儿的时候，也没人能忽视
 
 226
 00:17:54,208 --> 00:17:57,792
-It should offer the comfort
-of a touchstone.
+它应该像一块试金石，摸起来很舒服
 
 227
 00:17:57,792 --> 00:18:02,250
-The tactile
-satisfaction of a seashell.
-The enchantment of a crystal.
+拥有贝壳和水晶那样另人愉悦的触感
 
 228
 00:18:05,500 --> 00:18:08,709
-Once you use it, you won't
-be able to live without it.
+一旦你用过一次，此生就无法放下了
 
 229
 00:18:10,667 --> 00:18:12,333
-It's just not another telephone.
+它绝不只是一部简简单单的电话机
 
 230
 00:18:14,709 --> 00:18:16,333
-It must be something else."
+它一定会呈现出别样的形态
 
 231
 00:18:21,375 --> 00:18:24,333
@@ -2631,7 +2598,7 @@ it's all clear.
 
 541
 00:36:48,041 --> 00:36:51,709
-[woman] Leading the way to
+[女声] Leading the way to
 a new age of personal
 communication,
 
@@ -2917,9 +2884,7 @@ Journal. No small thing.
 
 593
 00:39:51,542 --> 00:39:54,625
-[reporter] If this works
-the way this industry
-wants it to work,
+[reporter] If this works the way this industry wants it to work,
 
 594
 00:39:54,625 --> 00:39:57,959
@@ -3225,8 +3190,7 @@ didn't have a revenue stream,
 
 651
 00:43:02,041 --> 00:43:04,917
-but, you know, it seemed cool
-at the time, let's invest.
+but, you know, it seemed cool at the time, let's invest.
 
 652
 00:43:04,917 --> 00:43:07,667
@@ -3251,7 +3215,9 @@ And he stripped down...
 
 656
 00:43:20,834 --> 00:43:24,125
--Don't film this stuff.
+- 别拍这个
+- [笑]
+- Don't film this stuff.
 -[laughter]
 
 657
@@ -5278,11 +5244,12 @@ uhm, saving, unfortunately.
 
 1030
 01:06:36,667 --> 01:06:39,750
-[Stern] It looked like
-a massive disaster,
+[Stern] 看起来就像一个巨大的灾难
+It looked like a massive disaster,
 
 1031
 01:06:39,750 --> 01:06:42,333
+一次失败、一个悲剧
 a failure, a catastrophe.
 
 1032
@@ -5313,31 +5280,31 @@ time before I start committing
 
 1037
 01:07:22,208 --> 01:07:28,750
-to yet another blue sky,
-uh, proposition."
+to yet another blue sky, uh, proposition."
 
 1038
 01:07:30,417 --> 01:07:34,041
-[Stern] The vision that
-Marc, Bill and Andy had sold,
+[Stern] Marc、Bill 和 Andy 向全世界
+The vision that Marc, Bill and Andy had sold,
 
 1039
 01:07:34,041 --> 01:07:37,583
-not just to the world,
-but to us,
+向我们自己灌输了这个想法
+not just to the world, but to us,
 
 1040
 01:07:37,583 --> 01:07:41,166
+这东西很酷、很有趣
 that this was a cool, fun,
 
 1041
 01:07:41,166 --> 01:07:45,750
-lovely thing to have,
-and that everybody would
-want one because we did.
+每个人都会想要一个，因为感觉我们自己就很想要
+lovely thing to have, and that everybody would want one because we did.
 
 1042
 01:07:46,792 --> 01:07:48,250
+但我们错了
 And we were wrong.
 
 1043
@@ -5346,21 +5313,18 @@ And we were wrong.
 
 1044
 01:08:08,542 --> 01:08:13,625
-[Swisher] I think the conceptual
-ideas were there, the user base
-was not there,
+[Swisher] 我觉得这个概念是有了，单用户基础不存在
+I think the conceptual ideas were there, the user base was not there,
 
 1045
 01:08:13,625 --> 01:08:17,625
-the technology was not there,
-the things to do on it
-were not there,
+我们需要的技术也并不存在
+the technology was not there, the things to do on it were not there,
 
 1046
 01:08:17,625 --> 01:08:20,166
-it's like inventing
-the television in the 1880's,
-you just couldn't.
+就想要在 1880 年代发明电视机，这完全不可能
+it's like inventing the television in the 1880's, you just couldn't.
 
 1047
 01:08:20,166 --> 01:08:23,625
