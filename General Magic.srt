@@ -126,41 +126,35 @@ is because it involves something fundamental,
 
 32
 00:04:45,458 --> 00:04:49,125
-Soapbox derby racer, or we could repair
-lawnmowers or what have you.
+开过肥皂盒飞车，也修过割草机
 
 33
 00:04:49,125 --> 00:04:55,166
-But with this I could create new things. I could sit there
-and I could program a game,
+但只有通过电脑，才能真正创造东西，原地坐在那儿就可以写出一个游戏
 
 34
 00:04:55,166 --> 00:05:00,250
-or I could program graphics, I could do things and you spoke
-a language no one else knew
+或者生成一个计算机图形，就好像能够掌握一门只有自己懂的语言一样
 
 35
 00:05:00,250 --> 00:05:02,875
-and you could tell people about it and they were like, wow.
+当你把这些东西高速别人的时候，他们就会觉得「哇！」
 
 36
 00:05:04,542 --> 00:05:07,834
-然后就是 Mac，
-And then it was the Mac and it was all about the Mac.
+然后就是 Mac 了，一切都围绕这个 Mac 了
 
 37
 00:05:09,166 --> 00:05:10,917
-[whispering] What is that?
+[低声耳语] 那是什么？
 
 38
 00:05:14,625 --> 00:05:19,208
-There were names of people like Andy Hertzfeld, Joanna Hoffman,
-Bill Atkinson,
+有很多响当当的名字：Andy Hertzfeld、Joanna Hoffman、Bill Atkinson
 
 39
 00:05:19,208 --> 00:05:24,375
-rock stars in Rolling Stone, but had nothing to do with
-music. They were my heroes.
+就想滚石乐队的成员们一样，只不过他们玩的不是音乐，他们是我心目中的英雄
 
 40
 00:05:24,375 --> 00:05:28,500
@@ -168,37 +162,31 @@ music. They were my heroes.
 
 41
 00:05:28,500 --> 00:05:35,250
-And went to work for Apple in 1979 and was lucky enough to help design the Macintosh.
+然后在 1979 年开始为 Apple 工作，很幸运，参与设计了 Macintosh
 
 42
 00:05:35,250 --> 00:05:37,375
-You have to go
-and find out more about them,
+你实在是很想去更多了解他们
 
 43
 00:05:37,375 --> 00:05:40,208
-and how can I go work with them,
-because I wanted to be
-like them.
+想去和他们工作，因为我就像成为他们那样的人
 
 44
 00:05:41,583 --> 00:05:45,625
-[Chariots of Fire
-by Vangelis playing]
+[Vangelis 的著名配乐《烈火战车》响起]
 
 45
 00:05:45,625 --> 00:05:48,208
-[audience cheering]
+[观众们在欢呼]
 
 46
 00:05:48,208 --> 00:05:53,834
-[computerized voice] Hello,
-I am Macintosh. It sure is
-great to get out of that bag.
+[程序化的声音] 你好，我是 Macintosh，从盒子里放出来的感觉，真好
 
 47
 00:05:53,834 --> 00:05:55,125
-[crowd cheering]
+[观众们在欢呼]
 
 48
 00:05:55,125 --> 00:05:57,625
@@ -207,7 +195,6 @@ great to get out of that bag.
 49
 00:05:57,625 --> 00:06:00,166
 Macintosh 正式公开发布
-uh, the Macintosh was being publicly introduced
 
 50
 00:06:00,166 --> 00:06:03,709
@@ -216,43 +203,35 @@ to the world, for the very first time.
 
 51
 00:06:03,709 --> 00:06:06,375
-[Joanna] You know what I remember? We were sitting here
+[Joanna] 你问我还记得什么？我就坐在那儿
 
 52
 00:06:06,375 --> 00:06:13,542
-and there was this roar,
-just sort of like a sound
-wave coming, coming at us.
+听到人群在咆哮，就像声浪一样涌向我们
 
 53
 00:06:13,542 --> 00:06:19,417
-It was a culmination of years of
-work, of years of expectation.
+那是多年工作的成果，也是大家多年的期待
 
 54
 00:06:19,417 --> 00:06:20,583
-This was it.
+就在那个时刻了
 
 55
 00:06:20,583 --> 00:06:24,125
-What we are trying to do
-with Macintosh is take away
+通过 Macintosh，我们努力想要去掉一个障碍
 
 56
 00:06:24,125 --> 00:06:27,208
-yet another barrier
-to usage of personal computers.
+阻止普通人使用个人电脑的障碍
 
 57
 00:06:27,208 --> 00:06:29,625
-One of the neatest things
-about Macintosh was
-we had a chance
+一个很明显的事情是，Macintosh 让我们有机会
 
 58
 00:06:29,625 --> 00:06:32,500
-to change the way that people
-thought of computers.
+彻底改变人们对于电脑的想法
 
 59
 00:06:32,500 --> 00:06:35,291
@@ -266,17 +245,16 @@ weren't for ordinary people.
 
 61
 00:06:38,333 --> 00:06:42,458
-We thought we had a chance to
-make a difference. Steve Jobs
-just drummed it into us.
+当时感觉我们有机会给这个世界带来一些不一样的东西
+Steve Jobs 反复向我们灌输这些
 
 62
 00:06:42,458 --> 00:06:45,041
-He was just such
-a brilliant motivator.
+他是一个杰出的激励者
 
 63
 00:06:45,041 --> 00:06:48,083
+厉害的人不需要
 The greatest people are
 self-managing. They don't
 need to be managed.
