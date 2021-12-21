@@ -25,9 +25,6 @@
 7
 00:01:45,375 --> 00:01:48,125
 [Sculley] 你必须相信、必须要自豪
-[Sculley] You have to believe,
-you have to be proud,
-you have to be
 
 8
 00:01:48,125 --> 00:01:52,458
@@ -47,107 +44,85 @@ you have to be
 
 12
 00:02:05,583 --> 00:02:09,750
-[Joanna] No matter how big
-we dreamed, the fact
-that you could touch
+[Joanna] 无论我们的梦想多夸张，事实是你能
+No matter how big we dreamed, the fact that you could touch
 
 13
 00:02:09,750 --> 00:02:12,125
-the lives of billions,
-billions,
+触碰到数以亿计的 the lives of billions, billions,
 
 14
 00:02:12,125 --> 00:02:13,959
-it was vaguely
-imaginable,
+it was vaguely imaginable,
 
 15
 00:02:13,959 --> 00:02:18,000
-but the scale of it
-was inconceivable.
+but the scale of it was inconceivable.
 
 16
 00:02:18,000 --> 00:02:21,458
-[Hershenson] The reason
-you should care about
-the story of General Magic
+[Hershenson] 你为什么要关心 General Magic 的故事？
 
 17
 00:02:21,458 --> 00:02:25,000
-is because it involves
-something fundamental,
+因为这个故事关系到现实世界里很基本的东西
+is because it involves something fundamental,
 
 18
 00:02:25,000 --> 00:02:29,667
-and that is...
-failure isn't the end.
+那就是……失败兵不是一切的结束
 
 19
 00:02:29,667 --> 00:02:31,875
-Failure is actually
-the beginning.
+失败其实是一个开始
 
 20
 00:02:34,959 --> 00:02:39,000
-[Hoffman] The reason this story
-so haunts the people
-that were involved,
+[Hoffman] 这个故事至今萦绕在经历者们的心中
 
 21
 00:02:39,000 --> 00:02:45,000
-that they still live with it,
-is because they knew
-that they were right.
+就是因为他们知道他们当时做的事情是正确的
 
 22
 00:02:47,250 --> 00:02:51,917
-[Hershenson] Did it fail?
-I mean, the company itself
-failed, the ideas didn't fail.
+[Hershenson] 它失败了？或者说，这个公司失败了，但这些想法没有
 
 23
 00:02:51,917 --> 00:02:56,375
-The people who worked
-there didn't fail.
-So, was it a failure?
+为这些想法工作的人们没有失败，那……这件事算失败吗？
 
 24
 00:03:00,375 --> 00:03:05,375
-[dramatic music]
+[戏剧性的配乐]
 
 25
 00:03:46,542 --> 00:03:48,417
-[bell ringing]
+[铃声响起]
 
 26
 00:04:21,625 --> 00:04:23,000
 [Tony] 我当时正在念高中
-[Tony] I was in high school.
 
 27
 00:04:24,375 --> 00:04:27,125
 应该是 16 岁吧当时
-Sixteen at the time.
 
 28
 00:04:27,125 --> 00:04:31,041
-I didn't really wanna go to class. 
-Every waking moment that I wasn't in school
+我完全不想上学，在家的日子只要一起床
 
 29
 00:04:31,041 --> 00:04:35,000
-I was on the computer, learning something about it,
-programming and doing something.
+就在电脑前，学习编程和一切跟电脑有关的东西
 
 30
 00:04:35,000 --> 00:04:39,375
-Talking to friends about it, I was the geek, you know,
-The Revenge of the Nerds.
+还跟我朋友讲这些，我是个极客，你知道吗，就是《菜鸟大反攻》里那种
 
 31
 00:04:39,375 --> 00:04:45,458
-For me every weekend was fixing things, or building things,
-from the age of three or four.
+从三四岁开始，每个周末我不是在造东西就是在拆东西
 
 32
 00:04:45,458 --> 00:04:49,125
@@ -170,6 +145,7 @@ and you could tell people about it and they were like, wow.
 
 36
 00:05:04,542 --> 00:05:07,834
+然后就是 Mac，
 And then it was the Mac and it was all about the Mac.
 
 37
@@ -188,14 +164,11 @@ music. They were my heroes.
 
 40
 00:05:24,375 --> 00:05:28,500
-My name is Andy Hertzfeld, I bought and fell in love
-with an Apple II in 1978.
+我的名字叫 Andy Hertzfeld, 我在 1978 年买了 Apple II 并且爱上了它
 
 41
 00:05:28,500 --> 00:05:35,250
-And went to work for Apple
-in 1979 and was lucky enough
-to help design the Macintosh.
+And went to work for Apple in 1979 and was lucky enough to help design the Macintosh.
 
 42
 00:05:35,250 --> 00:05:37,375
@@ -229,22 +202,21 @@ great to get out of that bag.
 
 48
 00:05:55,125 --> 00:05:57,625
-January 24th 1984,
+1984 年 1 月 24 日
 
 49
 00:05:57,625 --> 00:06:00,166
-uh, the Macintosh was being
-publicly introduced
+Macintosh 正式公开发布
+uh, the Macintosh was being publicly introduced
 
 50
 00:06:00,166 --> 00:06:03,709
-to the world,
-for the very first time.
+第一次在世人面前揭开面纱
+to the world, for the very first time.
 
 51
 00:06:03,709 --> 00:06:06,375
-[Joanna] You know what
-I remember? We were sitting here
+[Joanna] You know what I remember? We were sitting here
 
 52
 00:06:06,375 --> 00:06:13,542
@@ -311,30 +283,23 @@ need to be managed.
 
 64
 00:06:48,083 --> 00:06:50,542
-What they need
-is a common vision.
+What they need is a common vision.
 
 65
 00:06:50,542 --> 00:06:53,750
-Once they know what to do,
-they'll go figure out
-how to do it.
+Once they know what to do, they'll go figure out how to do it.
 
 66
 00:06:53,750 --> 00:06:57,041
-[Andy] We truly believed
-with every fiber of our being
+[Andy] We truly believed with every fiber of our being
 
 67
 00:06:57,041 --> 00:07:02,458
-that if we can solve
-that problem of, um,
-making computers accessible
+that if we can solve that problem of, um, making computers accessible
 
 68
 00:07:02,458 --> 00:07:05,875
-to an ordinary person by making
-them easy enough to use,
+to an ordinary person by making them easy enough to use,
 
 69
 00:07:05,875 --> 00:07:08,291
@@ -342,23 +307,20 @@ we could truly change the world.
 
 70
 00:07:10,291 --> 00:07:11,583
-[Joanna]
-But behind the scenes,
+[Joanna] But behind the scenes,
 
 71
 00:07:11,583 --> 00:07:14,792
-behind that facade,
-things were changing.
+behind that facade, things were changing.
 
 72
 00:07:14,792 --> 00:07:17,792
-Steve Jobs was involved
-in palace politics.
+Steve Jobs 深陷政治斗争中
+Steve Jobs was involved in palace politics.
 
 73
 00:07:17,792 --> 00:07:20,792
-That was much bigger
-at that moment than the Mac.
+That was much bigger at that moment than the Mac.
 
 74
 00:07:20,792 --> 00:07:24,959
@@ -523,8 +485,7 @@ you are in the future,
 
 105
 00:09:42,625 --> 00:09:47,000
-and you see something very,
-very clearly. You just see it.
+and you see something very, very clearly. You just see it.
 
 106
 00:09:47,000 --> 00:09:49,959
@@ -586,21 +547,15 @@ We definitely had it.
 
 117
 00:10:52,417 --> 00:10:55,375
-Business is just stories.
-That's what people do,
-they tell stories.
+Business is just stories. That's what people do, they tell stories.
 
 118
 00:10:55,375 --> 00:10:59,500
-And they-- and the ones who tell
-the most compelling stories
-are the ones who,
+And they-- and the ones who tell the most compelling stories are the ones who,
 
 119
 00:10:59,500 --> 00:11:04,834
-you know, end up making the most
-progress forward and Marc was
-a great story teller.
+you know, end up making the most progress forward and Marc was a great story teller.
 
 120
 00:11:04,834 --> 00:11:09,041
@@ -1186,32 +1141,27 @@ It must be something else."
 
 231
 00:18:21,375 --> 00:18:24,333
-So a lot of people in the
-valley they have this idea
+So a lot of people in the valley they have this idea
 
 232
 00:18:24,333 --> 00:18:26,834
-that they're, that they're
-changing the world and they say
-that a lot.
+that they're, that they're changing the world and they say that a lot.
 
 233
 00:18:26,834 --> 00:18:30,041
-They sometimes call themselves
-"chief change agents,"
-and stuff like that.
+他们有时自称「首席变革代理人」这样的
+They sometimes call themselves "chief change agents," and stuff like that.
 
 234
 00:18:30,041 --> 00:18:33,750
+大部分时间都在瞎扯，额，
 It's mostly bullshit, uh,
 but they have to believe it in
 order, you know, you don't make
 
 235
 00:18:33,750 --> 00:18:36,208
-a photo app and you're not
-changing the world with a photo
-app. You're just not.
+a photo app and you're not changing the world with a photo app. You're just not.
 
 236
 00:18:36,208 --> 00:18:40,542
@@ -1500,18 +1450,15 @@ for posterity.
 
 288
 00:21:33,417 --> 00:21:37,333
-It'll be a good historical
-or hysterical document, uh,
+It'll be a good historical or hysterical document, uh,
 
 289
 00:21:37,333 --> 00:21:39,500
-some time in the future anyway,
-and so...
+some time in the future anyway, and so...
 
 290
 00:21:39,500 --> 00:21:42,166
-Well, I was the black sheep.
-I was a filmmaker.
+Well, I was the black sheep. I was a filmmaker.
 
 291
 00:21:42,166 --> 00:21:43,959
@@ -1519,13 +1466,11 @@ I'd never heard of a startup.
 
 292
 00:21:43,959 --> 00:21:46,500
-[Andy] I'm wired and wired
-for Sam here.
+[Andy] I'm wired and wired for Sam here.
 
 293
 00:21:46,500 --> 00:21:48,500
-It shouldn't, it shouldn't
-be too disruptive.
+It shouldn't, it shouldn't be too disruptive.
 
 294
 00:21:48,500 --> 00:21:50,792
@@ -1776,27 +1721,19 @@ all like nuclear power plants,
 
 339
 00:24:17,834 --> 00:24:21,208
-each one of them
-working on solving
-these difficult problems.
+each one of them working on solving these difficult problems.
 
 340
 00:24:21,208 --> 00:24:25,000
-For me the challenge was
-challenging myself to try
-and work at that level.
+For me the challenge was challenging myself to try and work at that level.
 
 341
 00:24:25,000 --> 00:24:29,834
-I was a newbie. A lot of people
-got to just do, you know, if
-you're the young guy in the team
+I was a newbie. A lot of people got to just do, you know, if you're the young guy in the team
 
 342
 00:24:29,834 --> 00:24:33,000
-you had to learn and do.
-So you had to work double
-or triple time.
+you had to learn and do. So you had to work double or triple time.
 
 343
 00:24:33,000 --> 00:24:35,291
@@ -1819,9 +1756,7 @@ everything, from everyone.
 
 347
 00:24:43,917 --> 00:24:47,750
-Whatever it was, yes!
-And more of it and how can
-I do more to help.
+Whatever it was, yes! And more of it and how can I do more to help.
 
 348
 00:24:47,750 --> 00:24:50,834
@@ -6791,9 +6726,7 @@ by your work in technology.
 
 1272
 01:24:23,000 --> 01:24:26,125
-[Tony] When you look at
-someone like Megan taking
-all of her knowledge
+[Tony] When you look at someone like Megan taking all of her knowledge
 
 1273
 01:24:27,458 --> 01:24:29,125
@@ -6801,13 +6734,11 @@ and all the things she learned,
 
 1274
 01:24:29,125 --> 01:24:31,208
-and now bringing it
-to the government and seeing
+and now bringing it to the government and seeing
 
 1275
 01:24:31,208 --> 01:24:34,333
-how the US Government is
-transforming through that.
+how the US Government is transforming through that.
 
 1276
 01:24:34,333 --> 01:24:38,417
@@ -6853,147 +6784,111 @@ to make people's lives better
 
 1284
 01:24:59,291 --> 01:25:02,083
-and sort of harness talent
-and unlock talent.
+and sort of harness talent and unlock talent.
 
 1285
 01:25:02,083 --> 01:25:06,792
-I love thinking about,
-uh, how magic is anywhere.
+I love thinking about, uh, how magic is anywhere.
 
 1286
 01:25:06,792 --> 01:25:11,083
-Uh, in everyone,
-and how do you pull that out
+Uh, in everyone, and how do you pull that out
 
 1287
 01:25:11,083 --> 01:25:16,792
-and really make sure that
-the talent that wants to do
-its thing is able to do it.
+and really make sure that the talent that wants to do its thing is able to do it.
 
 1288
 01:25:22,625 --> 01:25:25,709
-[Swisher] You know,
-as the human race thrives
-really on this planet
+[Swisher] You know, as the human race thrives really on this planet
 
 1289
 01:25:25,709 --> 01:25:29,959
-it creates all kinds
-of problems, education,
-uniting people, climate change.
+it creates all kinds of problems, education, uniting people, climate change.
 
 1290
 01:25:29,959 --> 01:25:34,041
-There is not enough water,
-there is not enough food.
-What are we going to do?
+There is not enough water, there is not enough food. What are we going to do?
 
 1291
 01:25:34,041 --> 01:25:38,667
-Those can all be solved
-with technologies, it's just
-a question how humanity uses it.
+Those can all be solved with technologies, it's just a question how humanity uses it.
 
 1292
 01:25:41,041 --> 01:25:46,500
-But, the reliance on technology
-for everything, for human
-interactions is worrisome.
+But, the reliance on technology for everything, for human interactions is worrisome.
 
 1293
 01:25:46,500 --> 01:25:49,625
-Where people are, you know,
-you go to anything and everyone
-is like this, right.
+Where people are, you know, you go to anything and everyone is like this, right.
 
 1294
 01:25:49,625 --> 01:25:53,166
-Um, so I worry about what
-happens to society and children
+Um, so I worry about what happens to society and children
 
 1295
 01:25:53,166 --> 01:25:55,667
-and how they interact
-with each other.
+and how they interact with each other.
 
 1296
 01:25:58,375 --> 01:26:01,208
-You can't change the human race,
-yeah, but you can start
+You can't change the human race, yeah, but you can start
 
 1297
 01:26:01,208 --> 01:26:03,458
-to educate them so that they
-change their behaviors.
+to educate them so that they change their behaviors.
 
 1298
 01:26:03,458 --> 01:26:06,583
-And so the question is, can you
-take these powerful tools
+And so the question is, can you take these powerful tools
 
 1299
 01:26:06,583 --> 01:26:10,208
-and do something that really
-does help a lot of people?
+and do something that really does help a lot of people?
 
 1300
 01:26:10,208 --> 01:26:13,375
-Can you inspire a group
-of young people now, to really,
+Can you inspire a group of young people now, to really,
 
 1301
 01:26:13,375 --> 01:26:17,250
-to be creative and come up
-with these new ideas?
+to be creative and come up with these new ideas?
 
 1302
 01:26:22,375 --> 01:26:26,333
-Tonight, we feature an iconic
-inventor of iPod and iPhone,
+Tonight, we feature an iconic inventor of iPod and iPhone,
 
 1303
 01:26:26,333 --> 01:26:28,542
-I would like to bring up
-five numbers to introduce him.
+I would like to bring up five numbers to introduce him.
 
 1304
 01:26:28,542 --> 01:26:31,667
-Seven billion, two hundred
-and seventy nine million,
+Seven billion, two hundred and seventy nine million,
 
 1305
 01:26:31,667 --> 01:26:35,375
-three hundred and ninety five
-thousand, eight hundred
-and seventy three.
+three hundred and ninety five thousand, eight hundred and seventy three.
 
 1306
 01:26:35,375 --> 01:26:39,208
-This is the number
-of kilowatt hours saved
-by Nest Thermostat owners.
+This is the number of kilowatt hours saved by Nest Thermostat owners.
 
 1307
 01:26:39,208 --> 01:26:43,375
-Eighteen, the number of
-generations of iPod's shipped.
+Eighteen, the number of generations of iPod's shipped.
 
 1308
 01:26:43,375 --> 01:26:46,542
-Three hundred, the number
-of patents authored.
+Three hundred, the number of patents authored.
 
 1309
 01:26:46,542 --> 01:26:50,375
-Three hundred and fifty million,
-the number of iPods sold.
+Three hundred and fifty million, the number of iPods sold.
 
 1310
 01:26:50,375 --> 01:26:54,750
-Join me in welcoming
-the one and only Tony Fadell.
+Join me in welcoming the one and only Tony Fadell.
 
 1311
 01:26:54,750 --> 01:26:58,583
@@ -7001,62 +6896,47 @@ Hi, everybody.
 
 1312
 01:26:58,583 --> 01:27:03,041
-Let's say,
-you show up now, you're a kid,
-you show up here in the Valley,
+Let's say, you show up now, you're a kid, you show up here in the Valley,
 
 1313
 01:27:03,041 --> 01:27:06,583
-um, what would
-you tell someone similar
-to you who just walked in,
+um, what would you tell someone similar to you who just walked in,
 
 1314
 01:27:06,583 --> 01:27:09,417
-you know, wet behind the ears
-in Silicon Valley today?
+you know, wet behind the ears in Silicon Valley today?
 
 1315
 01:27:09,417 --> 01:27:14,417
-You know I am only up here
-because of many people
-in this audience,
+You know I am only up here because of many people in this audience,
 
 1316
 01:27:14,417 --> 01:27:19,583
-who helped me get here,
-and that's the magic
-of Silicon Valley.
+who helped me get here, and that's the magic of Silicon Valley.
 
 1317
 01:27:19,583 --> 01:27:23,250
-We all started in the same place
-you are in today.
+We all started in the same place you are in today.
 
 1318
 01:27:23,250 --> 01:27:27,208
-Everyone has the same self
-doubts and no one's perfect.
+Everyone has the same self doubts and no one's perfect.
 
 1319
 01:27:27,208 --> 01:27:30,250
-And when you meet your heroes
-and when you work with them
+And when you meet your heroes and when you work with them
 
 1320
 01:27:30,250 --> 01:27:34,250
-and they treat you as a peer,
-learn from it.
+and they treat you as a peer, learn from it.
 
 1321
 01:27:34,250 --> 01:27:37,583
-Keep moving. If you're
-dreaming the right dream,
+Keep moving. If you're dreaming the right dream,
 
 1322
 01:27:37,583 --> 01:27:40,709
-you're on the right path.
-I've been there before,
+you're on the right path. I've been there before,
 
 1323
 01:27:40,709 --> 01:27:42,458
@@ -7064,13 +6944,11 @@ it's tough, keep going.
 
 1324
 01:27:44,458 --> 01:27:47,458
-These people helped me
-to become the person I am.
+These people helped me to become the person I am.
 
 1325
 01:27:51,625 --> 01:27:57,792
-How can we take this same idea
-of bold dramatic change
+How can we take this same idea of bold dramatic change
 
 1326
 01:27:57,792 --> 01:27:59,917
@@ -7078,57 +6956,43 @@ to help create a better society?
 
 1327
 01:27:59,917 --> 01:28:02,208
-We are going to have
-to invent those things
+We are going to have to invent those things
 
 1328
 01:28:02,208 --> 01:28:08,333
-and do it in all of these other
-domains that are being touched
-or revolutionized by technology.
+and do it in all of these other domains that are being touched or revolutionized by technology.
 
 1329
 01:28:12,291 --> 01:28:16,583
-It may seem daunting,
-it may seem difficult,
-it may seem impossible,
+它可能看起来让人畏惧；它可能看起来很难；它可能看起来完全不可能
 
 1330
 01:28:16,583 --> 01:28:20,083
-but if you just find the right
-people and keep seeking out
+but if you just find the right people and keep seeking out
 
 1331
 01:28:20,083 --> 01:28:24,375
-knowledge and advice
-and keep staying open
-to make a better world
+knowledge and advice and keep staying open to make a better world
 
 1332
 01:28:24,375 --> 01:28:28,041
-regardless of where you come
-from, great things can happen.
+regardless of where you come from, great things can happen.
 
 1333
 01:28:28,041 --> 01:28:30,583
-We judge things
-by the moment in which we feel
+We judge things by the moment in which we feel
 
 1334
 01:28:30,583 --> 01:28:33,667
-that they have made an impact
-on the mass culture.
+that they have made an impact on the mass culture.
 
 1335
 01:28:33,667 --> 01:28:37,291
-They are in the anthropology,
-they are in the culture
-of how we see
+They are in the anthropology, they are in the culture of how we see
 
 1336
 01:28:37,291 --> 01:28:40,291
-ourselves, and how we come
-to expect the world to be
+ourselves, and how we come to expect the world to be
 
 1337
 01:28:40,291 --> 01:28:43,625
@@ -7142,29 +7006,23 @@ incrementally and every quarter
 
 1339
 01:28:46,000 --> 01:28:48,083
-and every year it will
-get closer and closer,
+and every year it will get closer and closer,
 
 1340
 01:28:48,083 --> 01:28:50,875
-but I don't think it will
-be until the 21st century
-when the stuff
+but I don't think it will be until the 21st century when the stuff
 
 1341
 01:28:50,875 --> 01:28:54,542
-we are working on today becomes
-unexceptional, unexceptional.
+we are working on today becomes unexceptional, unexceptional.
 
 1342
 01:28:54,542 --> 01:28:57,792
-Not worth making a video about,
-and, and that's the test--
+Not worth making a video about, and, and that's the test--
 
 1343
 01:28:57,792 --> 01:29:01,583
-Except for historical
-documentary purposes.
+Except for historical documentary purposes.
 [chuckles]
 
 1344
