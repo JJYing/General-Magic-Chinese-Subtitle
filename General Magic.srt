@@ -66,7 +66,6 @@ but the scale of it was inconceivable.
 17
 00:02:21,458 --> 00:02:25,000
 因为这个故事关系到现实世界里很基本的东西
-is because it involves something fundamental,
 
 18
 00:02:25,000 --> 00:02:29,667
@@ -178,7 +177,6 @@ is because it involves something fundamental,
 
 45
 00:05:45,625 --> 00:05:48,208
-[观众们在欢呼]
 
 46
 00:05:48,208 --> 00:05:53,834
@@ -186,7 +184,7 @@ is because it involves something fundamental,
 
 47
 00:05:53,834 --> 00:05:55,125
-[观众们在欢呼]
+
 
 48
 00:05:55,125 --> 00:05:57,625
@@ -325,7 +323,7 @@ Steve 和 John Sculley 对于要做什么没有达成统一
 
 81
 00:07:57,625 --> 00:08:01,458
-emm……对所有人来说都是非常痛苦的决定
+emm…… 对所有人来说都是非常痛苦的决定
 
 82
 00:08:01,458 --> 00:08:05,250
@@ -362,7 +360,6 @@ emm……对所有人来说都是非常痛苦的决定
 
 90
 00:08:30,875 --> 00:08:33,792
-[柔和的音乐]
 
 91
 00:08:42,458 --> 00:08:45,792
@@ -466,7 +463,6 @@ emm……对所有人来说都是非常痛苦的决定
 
 116
 00:10:43,875 --> 00:10:46,500
-[健身器材的噪音]
 
 117
 00:10:52,417 --> 00:10:55,375
@@ -476,7 +472,6 @@ emm……对所有人来说都是非常痛苦的决定
 118
 00:10:55,375 --> 00:10:59,500
 故事讲得最有说服力的那些人
-And they-- and the ones who tell the most compelling stories are the ones who,
 
 119
 00:10:59,500 --> 00:11:04,834
@@ -544,7 +539,7 @@ Marc 走到哪儿都带着他那本书，经常说着说着就开始翻起来
 
 135
 00:11:59,792 --> 00:12:03,959
-emmm...他成功地说服了我
+emmm... 他成功地说服了我
 
 136
 00:12:03,959 --> 00:12:07,792
@@ -552,11 +547,11 @@ emmm...他成功地说服了我
 
 137
 00:12:07,792 --> 00:12:09,542
-[电话答录机] Please leave a message and we will return
+
 
 138
 00:12:09,542 --> 00:12:11,875
-your call as quickly as possible.
+
 
 139
 00:12:11,875 --> 00:12:15,333
@@ -661,7 +656,6 @@ Apple 成功地把这部分独立了出去，就有了 General Magic
 
 164
 00:13:36,166 --> 00:13:39,875
-[轻快的音乐]
 
 165
 00:13:45,834 --> 00:13:47,667
@@ -763,12 +757,10 @@ Apple 暗中给这家公司助力
 189
 00:15:06,000 --> 00:15:09,000
 [Bill] Hi Megan，欢迎加入我们
-[微笑]
 
 190
 00:15:09,000 --> 00:15:11,000
-来~ 笑一个~
-你在我们的镜头里了
+来~ 笑一个~ 你在我们的镜头里了
 
 191
 00:15:11,000 --> 00:15:13,458
@@ -884,7 +876,6 @@ Andy Hertzfeld 知道我是 Mac 的工程师，所以他给我打了电话让我
 
 218
 00:16:46,458 --> 00:16:49,083
-<font color="#898989">·♫ 活泼的音乐·</font>
 
 219
 00:17:21,041 --> 00:17:25,750
@@ -1015,7 +1006,7 @@ Andy Hertzfeld 知道我是 Mac 的工程师，所以他给我打了电话让我
 
 250
 00:19:23,583 --> 00:19:25,667
-[笑声和交谈声]
+
 
 251
 00:19:28,208 --> 00:19:31,542
@@ -1035,7 +1026,7 @@ Dan Winkler？他也来了？我知道 Dan
 
 255
 00:19:39,667 --> 00:19:41,583
-Emmm……这里正在做什么呢？
+emmm…… 这里正在做什么呢？
 
 256
 00:19:41,583 --> 00:19:44,333
@@ -1125,187 +1116,188 @@ Joanna Hoffman 走过来了，我就感觉「我的天哪！」
 
 277
 00:20:52,950 --> 00:20:57,540
--...the camera. -[indistinct chattering]
 
 278
 00:20:57,540 --> 00:21:00,290
--[all] Ooh! -[woman] Tony, was that you?
+Tony，是你吗？
 
 279
 00:21:00,290 --> 00:21:02,750
-You know, I hadn't had that many first days of jobs before
+其实我之前没加入过很多公司
 
 280
 00:21:02,750 --> 00:21:06,620
-and I wondered, "Is the first day of every job like this?"
+所以就很好奇，每个公司的第一天上班日都是这样的吗？
 
 281
 00:21:06,620 --> 00:21:09,950
--The answer to that is no. -[Tony] Zed, the cell broke open.
+显然不是的
 
 282
 00:21:09,950 --> 00:21:13,120
-我第一次见到了 Andy Hertzfeld，他那时候已经很有名了
+我第一次见到了 Andy Hertzfeld，他那时候已经很有名了，所以我知道他长啥样
 
 283
 00:21:13,120 --> 00:21:17,700
-所以我知道他长啥样， In my world he was one of the superstars, and it is a little embarrassing
+在我的世界里他就是个超级巨星，说起来有点尴尬
 
 284
 00:21:17,700 --> 00:21:20,200
-to put it this way, but that was, that was pretty much like falling in love.
+但是一看见他，我就像陷入爱河一样
 
 285
 00:21:20,200 --> 00:21:24,620
--[laughter] -OK! Let's-- let's try to, uh, start the meeting,
+我们准备开始开会吧~
 
 286
 00:21:24,620 --> 00:21:29,250
-the-- the first, uh, the first obvious thing to mention is-- is
+首先，不得不提一下，今天这里不光只有我们自己人
 
 287
 00:21:29,250 --> 00:21:33,410
-that we are not alone here today. we're being filmed for posterity.
+我们还邀请了一个摄制组
 
 288
 00:21:33,410 --> 00:21:37,330
-It'll be a good historical or hysterical document, uh,
+所有这些场景也许会成为一部有历史意义的纪录片
 
 289
 00:21:37,330 --> 00:21:39,500
-some time in the future anyway, and so...
+当然也有可能只是我们自作多情了，就让未来来见证吧
 
 290
 00:21:39,500 --> 00:21:42,160
-Well, I was the black sheep. I was a filmmaker.
+我作为一个电影制作人，其实当时在那里显得很突兀
 
 291
 00:21:42,160 --> 00:21:43,950
-I'd never heard of a startup.
+我从来没听说过这家创业公司
 
 292
 00:21:43,950 --> 00:21:46,500
-[Andy] I'm wired and wired for Sam here.
 
 293
 00:21:46,500 --> 00:21:48,500
-It shouldn't, it shouldn't be too disruptive.
 
 294
 00:21:48,500 --> 00:21:50,790
-[Hoffman] What I understood was that these people were
+[Hoffman] 但我能感觉到这些人
 
 295
 00:21:50,790 --> 00:21:53,540
-doing something so charmingly different,
+在做的事情很特别
 
 296
 00:21:53,540 --> 00:21:57,910
-so charmingly new. So...fun.
+很新潮，而且……也很好玩
 
 297
 00:21:57,910 --> 00:22:02,500
-And you could trust them because what they were driven towards, wasn't a job,
+你能完全信任这些人，因为他们并不是被单纯的工作所驱动
 
 298
 00:22:02,500 --> 00:22:05,910
-the job never came up, the salary never came up.
+没人把这个当工作，也没有人在乎什么薪水
 
 299
 00:22:05,910 --> 00:22:09,250
-It was where we were headed, we were going to change the world.
+真正驱动他们的，是改变世界的信念 
 
 300
 00:22:09,250 --> 00:22:13,250
-We all basically sat on the floor-- no, I did not. They all basically sat on the floor
+我们基本上都坐在地板上，哦不对，应该是他们是都坐在地上
 
 301
 00:22:13,250 --> 00:22:19,580
-to talk about what it was, what are we gonna call this handheld product.
+一起在讨论这个手持设备应该叫什么名字
 
 302
 00:22:19,580 --> 00:22:22,790
-We've been talking about possible names, what is the device?
+说到这个名字，我们应该怎么称呼这个设备？
 
 303
 00:22:22,790 --> 00:22:26,950
-One of the things that's really special is that it's in my pocket with me all the time.
+最特别的一点是，它平常就放在我的口袋里，我会一直携带它
 
 304
 00:22:26,950 --> 00:22:31,540
-It's a very different thing than computers. It's something that is in my pocket
+跟普通的电脑很不一样，你可以把它放进你的口袋里
 
 305
 00:22:31,540 --> 00:22:34,700
-and I run my life out of it and through it.
+它甚至会跟着我一辈子
 
 306
 00:22:34,700 --> 00:22:36,830
+这个想法是让你能在任何时间、任何地点进行沟通
 It was this notion of anytime, anywhere communication.
 
 307
 00:22:36,830 --> 00:22:39,250
-The notion that it wasn't just gonna be a phone,
+这个想法不只是一部电话
 
 308
 00:22:39,250 --> 00:22:42,370
-but you could do all these other things with it, to integrate all that
+你可以用它做任何事，所有的东西
 
 309
 00:22:42,370 --> 00:22:44,000
-into one thing that I could hold in my hand.
+都集成在我的掌心
 
 310
 00:22:44,000 --> 00:22:45,620
-I thought, "Oh my god,
+我就想说
 
 311
 00:22:45,620 --> 00:22:47,620
-if I could have one of those."
+好想拥有一个啊！
 
 312
 00:22:47,620 --> 00:22:50,750
-I'm ready. And that was how things started.
+我准备好做这一切了，然后对我来说就开始了
 
 313
 00:22:50,750 --> 00:22:52,620
--[interviewer] We're rolling. -Oh yeah?
+- 我们开始拍了
+- 哦，是吗？
 
 314
 00:22:52,620 --> 00:22:54,080
-[indistinct chatter]
+
 
 315
 00:22:54,080 --> 00:22:59,580
--Show us what's in the box. -Uhm. OK.
+- 给我们看看柜子里有什么东西吧
+- 好啊~
 
 316
 00:22:59,580 --> 00:23:03,250
-We are trying to make something that people love. We need it to be like your watch,
+我们想做一些大众喜欢的东西，像手表一样的东西
 
 317
 00:23:03,250 --> 00:23:07,450
-you know, it feels like you're saying your watch, your glasses, your, your, um, your wallet.
+像你的手表、你的眼镜，或者……你的钱包
 
 318
 00:23:07,450 --> 00:23:10,330
-Something that you like the color, you like the way it feels.
+你喜欢它的颜色，你喜欢它的触感
 
 319
 00:23:10,330 --> 00:23:15,000
+我手里这个东西很大，也很丑，但这只是个早期版本
 You know this is a huge, ugly thing, but, um, we had to start somewhere, we had to start
 
 320
 00:23:15,000 --> 00:23:18,040
-with components that we could buy off the shelf because you're--
+市场上你买不到什么匹配的零件
 
 321
 00:23:18,040 --> 00:23:22,620
-you're working from, uh-- You're working from wishes and ideas
+因为我们现在做的东西，是给未来准备
 
 322
 00:23:22,620 --> 00:23:25,080
-of how you wish it would be and real components
+很多零件的功能只有未来才可能比较低廉地买到
 
 323
 00:23:25,080 --> 00:23:28,000
