@@ -923,263 +923,205 @@ Andy Hertzfeld 知道我是 Mac 的工程师，所以他给我打了电话让我
 拥有贝壳和水晶那样另人愉悦的触感
 
 228
-00:18:05,500 --> 00:18:08,709
+00:18:05,500 --> 00:18:09,542
 一旦你用过一次，此生就无法放下了
 
 229
-00:18:10,667 --> 00:18:12,333
+00:18:10,569 --> 00:18:12,764
 它绝不只是一部简简单单的电话机
 
 230
-00:18:14,709 --> 00:18:16,333
+00:18:14,611 --> 00:18:16,705
 它一定会呈现出别样的形态
 
 231
-00:18:21,375 --> 00:18:24,333
-So a lot of people in the valley they have this idea
+00:18:21,375 --> 00:18:25,000
+<font color="#ffffff"><b>Kara Swisher ── 记者、Recode 创始人: </b></font>
+硅谷里很多人都觉得自己在改变这个世界
 
 232
-00:18:24,333 --> 00:18:26,834
-that they're, that they're changing the world and they say that a lot.
+00:18:25,000 --> 00:18:26,834
+而且他们会反复跟别人这么说
 
 233
 00:18:26,834 --> 00:18:30,041
-他们有时自称「首席变革代理人」这样的
-They sometimes call themselves "chief change agents," and stuff like that.
+他们有时自称为「首席变革代理人」之类的
 
 234
 00:18:30,041 --> 00:18:33,750
-大部分时间都在瞎扯，额，
-It's mostly bullshit, uh,
-but they have to believe it in
-order, you know, you don't make
+大部分时间都在瞎扯，但他们必须这么想
 
 235
 00:18:33,750 --> 00:18:36,208
-a photo app and you're not changing the world with a photo app. You're just not.
+可能你实际上在做一个照片软件，这个没法真的改变世界
 
 236
 00:18:36,208 --> 00:18:40,542
-It's not solving cancer,
-it's not solving poverty,
-it's not solving climate change.
+毕竟不是像治疗癌症、解决贫穷和改变气候变暖这样的大课题
 
 237
-00:18:40,542 --> 00:18:42,875
-You know, they all have
-this idea that they are
-doing something bigger
+00:18:40,542 --> 00:18:43,875
+他们经常会夸大自己所做的东西和想法
 
 238
-00:18:42,875 --> 00:18:46,625
-than what the actual thing is,
-but it's like the car,
-the lightbulb,
+00:18:43,875 --> 00:18:46,625
+但就像汽车和灯泡一样
 
 239
 00:18:46,625 --> 00:18:50,458
-it's the idea of
-a computer in your pocket,
-it's a really big idea.
+一个在口袋里的电脑，真的是个很宏大的想法
 
 240
 00:18:50,458 --> 00:18:54,125
-This device that allows them
-to access everything.
+设想中这个设备能让你自由访问任何东西
 
 241
 00:18:54,125 --> 00:18:56,417
-But back then,
-there wasn't an internet,
+但在那时，还没有互联网
 
 242
 00:18:56,417 --> 00:18:58,917
-there wasn't the worldwide
-network of information.
+没有一个全球互通的网络
 
 243
 00:18:58,917 --> 00:19:01,542
-There weren't people using it,
-there wasn't cell phones then,
+没有人用这个东西，手机也还没在世界上普及
 
 244
 00:19:01,542 --> 00:19:05,333
-'cause there wasn't, you know,
-wireless, like everything
-there wasn't, wasn't.
+更没有 Wi-Fi，你懂的，这个没有，那个也没有
 
 245
 00:19:05,333 --> 00:19:08,333
-The reason I started
-covering it, was because
-when I saw it, I was like, "Oh!
+我开始报道他们是因为觉得
 
 246
 00:19:08,333 --> 00:19:15,458
-This is where it leads."
-The idea of mobile computing,
-uhm, started at General Magic.
+「哇！感觉未来就应该是这样的！」
+这个移动中的计算机的想法就是诞生在 General Magic
 
 247
 00:19:15,458 --> 00:19:17,792
--Hi guys, I've got the chips
-from Motorola.
--Yeah.
+- 快来看看，摩托罗拉的芯片寄到了~
+- 耶~
 
 248
 00:19:17,792 --> 00:19:19,917
-[man] Yay, all right, all right.
+- 耶，太棒了太棒了 
 
 249
 00:19:22,375 --> 00:19:23,583
-Cool.
+- 酷！
 
 250
 00:19:23,583 --> 00:19:25,667
--[laughter]
--[chattering]
+[笑声和交谈声]
 
 251
 00:19:28,208 --> 00:19:31,542
-When you started to hear about
-the different people that were
-also there, it was like
+你不断发现有新的人过来，比如
 
 252
 00:19:31,542 --> 00:19:33,875
-Dan Winkler?
-Dan Winkler's here? I know Dan
+Dan Winkler？他也来了？我知道 Dan
 
 253
 00:19:33,875 --> 00:19:37,500
-I would read all of his books!
-There was Scott Knaster,
-Jimmy Freelander,
+他每本书我都看过！还有 Scott Knaster，还有 Jimmy Freelander！
 
 254
 00:19:37,500 --> 00:19:39,667
-Susan Kare, "They're here too?"
+以及 Susan Kare，「他们都来了？」
 
 255
 00:19:39,667 --> 00:19:41,583
-Uhm, what am I doing right now?
-Uhm...
+Emmm……这里正在做什么呢？
 
 256
 00:19:41,583 --> 00:19:44,333
-Picking that "Paradigm" movie.
+我正在挑选一段范例影片
 
 257
 00:19:44,333 --> 00:19:47,208
-[Tony] And then, all of
-a sudden,
-Andy Hertzfeld walks by,
+然后突然间 Andy Hertzfeld 走过来了
 
 258
 00:19:47,208 --> 00:19:50,542
-Joanna Hoffman walks by,
-and you're like,
-"Oh my god!" You know.
+Joanna Hoffman 走过来了，我就感觉「我的天哪！」
 
 259
 00:19:50,542 --> 00:19:54,125
-"Aah," you know,
-you're resonating, like
-the rock stars are here.
+这种感觉就好像你喜欢的摇滚明星来到你身边一样
 
 260
 00:19:54,125 --> 00:19:58,250
--[Tony] And then they just sit
-down on the floor next to you!
--How are you doing?
+- 还那么平易近人，就坐在地板上似的
+- 嗨，你好~
 
 261
 00:19:58,250 --> 00:20:01,542
-[Tony] It wasn't just the best
-of the Apple of the 80's.
+不光是 Apple 在 80 年代最好的团队
 
 262
 00:20:01,542 --> 00:20:05,875
-It was the best of Apple early
-90's that were all coming.
+整个 90 年代早期最好的团队也都在这里
 
 263
 00:20:05,875 --> 00:20:08,208
-And here is this whole
-team of people bubbling
+团队里的人在爆发式增长
 
 264
 00:20:08,208 --> 00:20:11,417
-and bursting, you know,
-and I'm still trying to
-figure out how to get along.
+我一直想要更好地融入进去
 
 265
 00:20:11,417 --> 00:20:16,667
-I have this kind of longer hair
-and I got my high tops
-from Detroit.
+当时我还是一头长发，穿着底特律带过来的高领衣服
 
 266
 00:20:16,667 --> 00:20:20,417
-I was the lowest guy on the
-totem pole, you know, "Give him
-some stuff and try things."
+论资历我肯定是最浅的那个了，他们经常说「给他点工作让他试试看」
 
 267
 00:20:20,417 --> 00:20:23,750
--I was worried the chips
-had bugs in them.
--Cut your hands.
+- 我担心这个芯片里有「虫子」
+- 把你的手拿开~
 
 268
 00:20:23,750 --> 00:20:28,250
-[Amy] I was only going into
-engineering because I knew that
-it would be like a tool kit
+[Amy] 一开始在工程方面进行研究
 
 269
 00:20:28,250 --> 00:20:30,375
-I could use until
-someone would hire me.
+只是觉得这有可能让我找到一份谋生的工作
 
 270
 00:20:30,375 --> 00:20:32,750
-But then I got into it, and
-it turns out, oh jeez, you know,
+但是深入进去之后我发现，嘿
 
 271
 00:20:32,750 --> 00:20:36,500
-like I was actually really
-good at circuit design, like
-who knew, you know, who knew?
+我还挺擅长设计集成电路的，这谁会想到呢？反正我想不到
 
 272
 00:20:36,500 --> 00:20:39,375
-The service I would most like to
-see would be a shopping service.
+我最想要的一个东西就是一种购物服务
 
 273
 00:20:39,375 --> 00:20:41,667
-I could order everything,
-from my Teletouch.
+从我的汽车方向盘上就能一键下单，买任何东西
 
 274
 00:20:41,667 --> 00:20:44,583
-[Megan] A lot of times people
-in their twenties are out,
-you know,
+[Megan] 普通人的二十几岁就是经常出去玩，每天泡在酒吧里
 
 275
 00:20:44,583 --> 00:20:47,125
-in the bars and hanging out,
-but our twenties are spent
+而我们的二十几岁完全不一样
 
 276
 00:20:47,125 --> 00:20:52,959
-you know, just powering through,
-with each other, building these
-extraordinary things together.
+全都在互相帮忙，创造各种与众不同的东西
 
 277
 00:20:52,959 --> 00:20:57,542
