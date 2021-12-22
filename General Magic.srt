@@ -1124,85 +1124,67 @@ Joanna Hoffman 走过来了，我就感觉「我的天哪！」
 全都在互相帮忙，创造各种与众不同的东西
 
 277
-00:20:52,959 --> 00:20:57,542
--...the camera.
--[indistinct chattering]
+00:20:52,950 --> 00:20:57,540
+-...the camera. -[indistinct chattering]
 
 278
-00:20:57,542 --> 00:21:00,291
--[all] Ooh!
--[woman] Tony, was that you?
+00:20:57,540 --> 00:21:00,290
+-[all] Ooh! -[woman] Tony, was that you?
 
 279
-00:21:00,291 --> 00:21:02,750
-You know, I hadn't had that many
-first days of jobs before
+00:21:00,290 --> 00:21:02,750
+You know, I hadn't had that many first days of jobs before
 
 280
-00:21:02,750 --> 00:21:06,625
-and I wondered, "Is the first
-day of every job like this?"
+00:21:02,750 --> 00:21:06,620
+and I wondered, "Is the first day of every job like this?"
 
 281
-00:21:06,625 --> 00:21:09,959
--The answer to that is no.
--[Tony] Zed,
-the cell broke open.
+00:21:06,620 --> 00:21:09,950
+-The answer to that is no. -[Tony] Zed, the cell broke open.
 
 282
-00:21:09,959 --> 00:21:13,125
-I met Andy Hertzfeld
-for the first time,
-he was already famous, I knew
+00:21:09,950 --> 00:21:13,120
+我第一次见到了 Andy Hertzfeld，他那时候已经很有名了
 
 283
-00:21:13,125 --> 00:21:17,709
-what he looked like. In my world
-he was one of the superstars,
-and it is a little embarrassing
+00:21:13,120 --> 00:21:17,700
+所以我知道他长啥样， In my world he was one of the superstars, and it is a little embarrassing
 
 284
-00:21:17,709 --> 00:21:20,208
-to put it this way, but that
-was, that was pretty much like
-falling in love.
+00:21:17,700 --> 00:21:20,200
+to put it this way, but that was, that was pretty much like falling in love.
 
 285
-00:21:20,208 --> 00:21:24,625
--[laughter]
--OK! Let's-- let's try to, uh,
-start the meeting,
+00:21:20,200 --> 00:21:24,620
+-[laughter] -OK! Let's-- let's try to, uh, start the meeting,
 
 286
-00:21:24,625 --> 00:21:29,250
-the-- the first, uh,
-the first obvious thing
-to mention is-- is
+00:21:24,620 --> 00:21:29,250
+the-- the first, uh, the first obvious thing to mention is-- is
 
 287
-00:21:29,250 --> 00:21:33,417
-that we are not alone here
-today. we're being filmed
-for posterity.
+00:21:29,250 --> 00:21:33,410
+that we are not alone here today. we're being filmed for posterity.
 
 288
-00:21:33,417 --> 00:21:37,333
+00:21:33,410 --> 00:21:37,330
 It'll be a good historical or hysterical document, uh,
 
 289
-00:21:37,333 --> 00:21:39,500
+00:21:37,330 --> 00:21:39,500
 some time in the future anyway, and so...
 
 290
-00:21:39,500 --> 00:21:42,166
+00:21:39,500 --> 00:21:42,160
 Well, I was the black sheep. I was a filmmaker.
 
 291
-00:21:42,166 --> 00:21:43,959
+00:21:42,160 --> 00:21:43,950
 I'd never heard of a startup.
 
 292
-00:21:43,959 --> 00:21:46,500
+00:21:43,950 --> 00:21:46,500
 [Andy] I'm wired and wired for Sam here.
 
 293
@@ -1210,5164 +1192,3848 @@ I'd never heard of a startup.
 It shouldn't, it shouldn't be too disruptive.
 
 294
-00:21:48,500 --> 00:21:50,792
-[Hoffman] What I understood
-was that these people were
+00:21:48,500 --> 00:21:50,790
+[Hoffman] What I understood was that these people were
 
 295
-00:21:50,792 --> 00:21:53,542
-doing something
-so charmingly different,
+00:21:50,790 --> 00:21:53,540
+doing something so charmingly different,
 
 296
-00:21:53,542 --> 00:21:57,917
+00:21:53,540 --> 00:21:57,910
 so charmingly new. So...fun.
 
 297
-00:21:57,917 --> 00:22:02,500
-And you could trust them
-because what they were driven
-towards, wasn't a job,
+00:21:57,910 --> 00:22:02,500
+And you could trust them because what they were driven towards, wasn't a job,
 
 298
-00:22:02,500 --> 00:22:05,917
-the job never came up,
-the salary never came up.
+00:22:02,500 --> 00:22:05,910
+the job never came up, the salary never came up.
 
 299
-00:22:05,917 --> 00:22:09,250
-It was where we were headed,
-we were going to change
-the world.
+00:22:05,910 --> 00:22:09,250
+It was where we were headed, we were going to change the world.
 
 300
 00:22:09,250 --> 00:22:13,250
-We all basically sat on the
-floor-- no, I did not. They all
-basically sat on the floor
+We all basically sat on the floor-- no, I did not. They all basically sat on the floor
 
 301
-00:22:13,250 --> 00:22:19,583
-to talk about what it was,
-what are we gonna call
-this handheld product.
+00:22:13,250 --> 00:22:19,580
+to talk about what it was, what are we gonna call this handheld product.
 
 302
-00:22:19,583 --> 00:22:22,792
-We've been talking about
-possible names,
-what is the device?
+00:22:19,580 --> 00:22:22,790
+We've been talking about possible names, what is the device?
 
 303
-00:22:22,792 --> 00:22:26,959
-One of the things that's really
-special is that it's in my
-pocket with me all the time.
+00:22:22,790 --> 00:22:26,950
+One of the things that's really special is that it's in my pocket with me all the time.
 
 304
-00:22:26,959 --> 00:22:31,542
-It's a very different thing than
-computers. It's something that
-is in my pocket
+00:22:26,950 --> 00:22:31,540
+It's a very different thing than computers. It's something that is in my pocket
 
 305
-00:22:31,542 --> 00:22:34,709
-and I run my life out of it
-and through it.
+00:22:31,540 --> 00:22:34,700
+and I run my life out of it and through it.
 
 306
-00:22:34,709 --> 00:22:36,834
-It was this notion of anytime,
-anywhere communication.
+00:22:34,700 --> 00:22:36,830
+It was this notion of anytime, anywhere communication.
 
 307
-00:22:36,834 --> 00:22:39,250
-The notion that it wasn't
-just gonna be a phone,
+00:22:36,830 --> 00:22:39,250
+The notion that it wasn't just gonna be a phone,
 
 308
-00:22:39,250 --> 00:22:42,375
-but you could do
-all these other things
-with it, to integrate all that
+00:22:39,250 --> 00:22:42,370
+but you could do all these other things with it, to integrate all that
 
 309
-00:22:42,375 --> 00:22:44,000
-into one thing
-that I could hold in my hand.
+00:22:42,370 --> 00:22:44,000
+into one thing that I could hold in my hand.
 
 310
-00:22:44,000 --> 00:22:45,625
+00:22:44,000 --> 00:22:45,620
 I thought, "Oh my god,
 
 311
-00:22:45,625 --> 00:22:47,625
+00:22:45,620 --> 00:22:47,620
 if I could have one of those."
 
 312
-00:22:47,625 --> 00:22:50,750
-I'm ready. And that was
-how things started.
+00:22:47,620 --> 00:22:50,750
+I'm ready. And that was how things started.
 
 313
-00:22:50,750 --> 00:22:52,625
--[interviewer] We're rolling.
--Oh yeah?
+00:22:50,750 --> 00:22:52,620
+-[interviewer] We're rolling. -Oh yeah?
 
 314
-00:22:52,625 --> 00:22:54,083
+00:22:52,620 --> 00:22:54,080
 [indistinct chatter]
 
 315
-00:22:54,083 --> 00:22:59,583
--Show us what's in the box.
--Uhm. OK.
+00:22:54,080 --> 00:22:59,580
+-Show us what's in the box. -Uhm. OK.
 
 316
-00:22:59,583 --> 00:23:03,250
-We are trying to make something
-that people love. We need it
-to be like your watch,
+00:22:59,580 --> 00:23:03,250
+We are trying to make something that people love. We need it to be like your watch,
 
 317
-00:23:03,250 --> 00:23:07,458
-you know, it feels like you're
-saying your watch, your glasses,
-your, your, um, your wallet.
+00:23:03,250 --> 00:23:07,450
+you know, it feels like you're saying your watch, your glasses, your, your, um, your wallet.
 
 318
-00:23:07,458 --> 00:23:10,333
-Something that you like
-the color, you like
-the way it feels.
+00:23:07,450 --> 00:23:10,330
+Something that you like the color, you like the way it feels.
 
 319
-00:23:10,333 --> 00:23:15,000
-You know this is a huge, ugly
-thing, but, um, we had to
-start somewhere, we had to start
+00:23:10,330 --> 00:23:15,000
+You know this is a huge, ugly thing, but, um, we had to start somewhere, we had to start
 
 320
-00:23:15,000 --> 00:23:18,041
-with components that we could
-buy off the shelf because
-you're--
+00:23:15,000 --> 00:23:18,040
+with components that we could buy off the shelf because you're--
 
 321
-00:23:18,041 --> 00:23:22,625
-you're working from, uh--
-You're working from wishes
-and ideas
+00:23:18,040 --> 00:23:22,620
+you're working from, uh-- You're working from wishes and ideas
 
 322
-00:23:22,625 --> 00:23:25,083
-of how you wish it would be
-and real components
+00:23:22,620 --> 00:23:25,080
+of how you wish it would be and real components
 
 323
-00:23:25,083 --> 00:23:28,000
-that you can buy that are cheap
-enough that you can make the
-product reasonable
+00:23:25,080 --> 00:23:28,000
+that you can buy that are cheap enough that you can make the product reasonable
 
 324
-00:23:28,000 --> 00:23:30,792
-so people can afford it
-because if it cost
-a million dollars, forget it.
+00:23:28,000 --> 00:23:30,790
+so people can afford it because if it cost a million dollars, forget it.
 
 325
-00:23:30,792 --> 00:23:32,959
-[interviewer] Was that the first
-one or the begin--
-in the beginning?
+00:23:30,790 --> 00:23:32,950
+[interviewer] Was that the first one or the begin-- in the beginning?
 
 326
-00:23:32,959 --> 00:23:36,083
-This is in the very beginning
-and, um, one of the problems
-with this,
+00:23:32,950 --> 00:23:36,080
+This is in the very beginning and, um, one of the problems with this,
 
 327
-00:23:36,083 --> 00:23:39,125
-was that the touchscreen
-was extremely noisy.
+00:23:36,080 --> 00:23:39,120
+was that the touchscreen was extremely noisy.
 
 328
-00:23:39,125 --> 00:23:43,041
-And it just didn't have
-the resolution, it would
-be a horrible experience
+00:23:39,120 --> 00:23:43,040
+And it just didn't have the resolution, it would be a horrible experience
 
 329
-00:23:43,041 --> 00:23:46,417
-for people to use this thing.
-So that was actually
-our hardest component.
+00:23:43,040 --> 00:23:46,410
+for people to use this thing. So that was actually our hardest component.
 
 330
-00:23:46,417 --> 00:23:49,959
-We were pushing the envelope
-on every single front,
+00:23:46,410 --> 00:23:49,950
+We were pushing the envelope on every single front,
 
 331
-00:23:49,959 --> 00:23:53,166
-so we're figuring out what size
-should it be, what sensor,
+00:23:49,950 --> 00:23:53,160
+so we're figuring out what size should it be, what sensor,
 
 332
-00:23:53,166 --> 00:23:57,166
-what electric plug should
-it have, how many buttons
-should we have if any.
+00:23:53,160 --> 00:23:57,160
+what electric plug should it have, how many buttons should we have if any.
 
 333
-00:23:57,166 --> 00:24:00,291
-[Kevin] The feeling was
-that anything was possible.
-You could shoot
+00:23:57,160 --> 00:24:00,290
+[Kevin] The feeling was that anything was possible. You could shoot
 
 334
-00:24:00,291 --> 00:24:03,834
-as high as you wanted to here
-and as a team we were gonna
-be able to do it.
+00:24:00,290 --> 00:24:03,830
+as high as you wanted to here and as a team we were gonna be able to do it.
 
 335
-00:24:03,834 --> 00:24:08,792
-The purpose of doing
-all this, is to go out and--
-and create prototypes
+00:24:03,830 --> 00:24:08,790
+The purpose of doing all this, is to go out and-- and create prototypes
 
 336
-00:24:08,792 --> 00:24:11,834
-so that the team can
-plug them into the Mac
-and run the software
+00:24:08,790 --> 00:24:11,830
+so that the team can plug them into the Mac and run the software
 
 337
-00:24:11,834 --> 00:24:14,291
-behind it and experience
-what a user would experience.
+00:24:11,830 --> 00:24:14,290
+behind it and experience what a user would experience.
 
 338
-00:24:14,291 --> 00:24:17,834
-[Amy] The array
-of personalities, they were
-all like nuclear power plants,
+00:24:14,290 --> 00:24:17,830
+[Amy] The array of personalities, they were all like nuclear power plants,
 
 339
-00:24:17,834 --> 00:24:21,208
+00:24:17,830 --> 00:24:21,200
 each one of them working on solving these difficult problems.
 
 340
-00:24:21,208 --> 00:24:25,000
+00:24:21,200 --> 00:24:25,000
 For me the challenge was challenging myself to try and work at that level.
 
 341
-00:24:25,000 --> 00:24:29,834
+00:24:25,000 --> 00:24:29,830
 I was a newbie. A lot of people got to just do, you know, if you're the young guy in the team
 
 342
-00:24:29,834 --> 00:24:33,000
+00:24:29,830 --> 00:24:33,000
 you had to learn and do. So you had to work double or triple time.
 
 343
-00:24:33,000 --> 00:24:35,291
+00:24:33,000 --> 00:24:35,290
 He was our college kid.
 
 344
-00:24:35,291 --> 00:24:37,959
-[Tony] I'm hooking up
-a demo so that we can see
+00:24:35,290 --> 00:24:37,950
+[Tony] I'm hooking up a demo so that we can see
 
 345
-00:24:37,959 --> 00:24:39,917
-keyboards working
-with the device.
+00:24:37,950 --> 00:24:39,910
+keyboards working with the device.
 
 346
-00:24:39,917 --> 00:24:43,917
-[Adler] Tony wanted to learn
-everything, from everyone.
+00:24:39,910 --> 00:24:43,910
+[Adler] Tony wanted to learn everything, from everyone.
 
 347
-00:24:43,917 --> 00:24:47,750
+00:24:43,910 --> 00:24:47,750
 Whatever it was, yes! And more of it and how can I do more to help.
 
 348
-00:24:47,750 --> 00:24:50,834
--[interviewer] Is it important?
--Uh, if you want to hook up
-disc drives
+00:24:47,750 --> 00:24:50,830
+-[interviewer] Is it important? -Uh, if you want to hook up disc drives
 
 349
-00:24:50,834 --> 00:24:53,458
-and things of that nature, yeah.
-It's really important.
+00:24:50,830 --> 00:24:53,450
+and things of that nature, yeah. It's really important.
 
 350
-00:24:53,458 --> 00:24:57,208
-[Tony] I wanted to make it work
-really seamlessly and fast.
+00:24:53,450 --> 00:24:57,200
+[Tony] I wanted to make it work really seamlessly and fast.
 
 351
-00:24:57,208 --> 00:25:01,667
-This is basically
-our first test of our--
-our-- basically a first demo
+00:24:57,200 --> 00:25:01,660
+This is basically our first test of our-- our-- basically a first demo
 
 352
-00:25:01,667 --> 00:25:04,917
-of our peripheral system
-for the-- for the walkabout.
+00:25:01,660 --> 00:25:04,910
+of our peripheral system for the-- for the walkabout.
 
 353
-00:25:04,917 --> 00:25:09,792
-And this was a technology
-to string peripherals together.
+00:25:04,910 --> 00:25:09,790
+And this was a technology to string peripherals together.
 
 354
-00:25:09,792 --> 00:25:14,917
-Today we call it USB,
-and so we were creating USB
-before the world knew about it.
+00:25:09,790 --> 00:25:14,910
+Today we call it USB, and so we were creating USB before the world knew about it.
 
 355
-00:25:14,917 --> 00:25:16,875
--[woman whispering] Oh god.
--[Tony] It finally works.
+00:25:14,910 --> 00:25:16,870
+-[woman whispering] Oh god. -[Tony] It finally works.
 
 356
-00:25:16,875 --> 00:25:21,041
-We decided to make everything.
-I mean, we were making it all.
+00:25:16,870 --> 00:25:21,040
+We decided to make everything. I mean, we were making it all.
 
 357
-00:25:21,041 --> 00:25:25,333
-See right now the whole class
-viewable texture is one
-formatter for everything.
+00:25:21,040 --> 00:25:25,330
+See right now the whole class viewable texture is one formatter for everything.
 
 358
-00:25:25,333 --> 00:25:30,208
-That meant we were custom
-building every piece, it's kind
-of like hand assembling a car
+00:25:25,330 --> 00:25:30,200
+That meant we were custom building every piece, it's kind of like hand assembling a car
 
 359
-00:25:30,208 --> 00:25:35,041
-rather than using a factory.
-And so it's, it's insane,
-it's insane.
+00:25:30,200 --> 00:25:35,040
+rather than using a factory. And so it's, it's insane, it's insane.
 
 360
-00:25:35,041 --> 00:25:40,125
-In many projects,
-you might build one or two
-innovative break-out things,
+00:25:35,040 --> 00:25:40,120
+In many projects, you might build one or two innovative break-out things,
 
 361
-00:25:40,125 --> 00:25:43,375
-and then you build on top
-of a lot of existing stuff,
-you kind of stand on
+00:25:40,120 --> 00:25:43,370
+and then you build on top of a lot of existing stuff, you kind of stand on
 
 362
-00:25:43,375 --> 00:25:46,917
-the shoulders of giants,
-and we weren't doing that
-at General Magic, we were
+00:25:43,370 --> 00:25:46,910
+the shoulders of giants, and we weren't doing that at General Magic, we were
 
 363
-00:25:46,917 --> 00:25:50,208
-building the giant from the toes
-all the way up to its head.
-[chuckles]
+00:25:46,910 --> 00:25:50,200
+building the giant from the toes all the way up to its head. [chuckles]
 
 364
-00:25:50,208 --> 00:25:52,750
-We couldn't find
-a touch screen to solve
-this problem, in fact,
+00:25:50,200 --> 00:25:52,750
+We couldn't find a touch screen to solve this problem, in fact,
 
 365
-00:25:52,750 --> 00:25:56,083
-at one point,
-let me see if I can find it.
+00:25:52,750 --> 00:25:56,080
+at one point, let me see if I can find it.
 
 366
-00:25:57,667 --> 00:25:59,875
-At one point, we had to
-invent one. [chuckles]
+00:25:57,660 --> 00:25:59,870
+At one point, we had to invent one. [chuckles]
 
 367
-00:25:59,875 --> 00:26:03,291
-This Wendell, who works for
-Wendell Sander, he came up
-with this idea
+00:25:59,870 --> 00:26:03,290
+This Wendell, who works for Wendell Sander, he came up with this idea
 
 368
-00:26:03,291 --> 00:26:06,041
-of a touch screen that would be
-balanced on four points
+00:26:03,290 --> 00:26:06,040
+of a touch screen that would be balanced on four points
 
 369
-00:26:06,041 --> 00:26:09,208
-and as you pushed on it you
-could, you could sense touch.
+00:26:06,040 --> 00:26:09,200
+and as you pushed on it you could, you could sense touch.
 
 370
-00:26:09,208 --> 00:26:11,750
-So as you touch it
-in any particular place,
+00:26:09,200 --> 00:26:11,750
+So as you touch it in any particular place,
 
 371
 00:26:11,750 --> 00:26:14,000
-you can do the math,
-so you do the whole force
+you can do the math, so you do the whole force
 
 372
-00:26:14,000 --> 00:26:16,959
-minus the X and Y and you can
-figure out where you are.
+00:26:14,000 --> 00:26:16,950
+minus the X and Y and you can figure out where you are.
 
 373
-00:26:16,959 --> 00:26:19,417
-Whether you are touching T
-or whether you're touching
-Caps Lock.
+00:26:16,950 --> 00:26:19,410
+Whether you are touching T or whether you're touching Caps Lock.
 
 374
-00:26:19,417 --> 00:26:23,208
--[interviewer] How small will
-it finally be, do you think?
--Some day?
+00:26:19,410 --> 00:26:23,200
+-[interviewer] How small will it finally be, do you think? -Some day?
 
 375
-00:26:23,208 --> 00:26:26,125
-Dick Tracy wrist watch,
-but... [chuckles]
+00:26:23,200 --> 00:26:26,120
+Dick Tracy wrist watch, but... [chuckles]
 
 376
-00:26:26,125 --> 00:26:30,333
-Right now, in the beginning, we
-are starting with a screen size
-that's probably about that big.
+00:26:26,120 --> 00:26:30,330
+Right now, in the beginning, we are starting with a screen size that's probably about that big.
 
 377
-00:26:30,333 --> 00:26:35,333
-Technically it was really,
-really hard to build something
-the size of those models.
+00:26:30,330 --> 00:26:35,330
+Technically it was really, really hard to build something the size of those models.
 
 378
-00:26:35,333 --> 00:26:39,041
-Uh, the technology just wasn't
-there yet, but, hey,
-that was ok,
+00:26:35,330 --> 00:26:39,040
+Uh, the technology just wasn't there yet, but, hey, that was ok,
 
 379
-00:26:39,041 --> 00:26:42,458
-to build something a little
-clunkier for the first
-generation,
+00:26:39,040 --> 00:26:42,450
+to build something a little clunkier for the first generation,
 
 380
-00:26:42,458 --> 00:26:47,208
-we knew, uh,
-if it caught on, it would
-eventually get down there.
+00:26:42,450 --> 00:26:47,200
+we knew, uh, if it caught on, it would eventually get down there.
 
 381
-00:26:48,750 --> 00:26:51,875
-[Adler] The touchscreen
-is a little funky.
+00:26:48,750 --> 00:26:51,870
+[Adler] The touchscreen is a little funky.
 
 382
-00:26:51,875 --> 00:26:54,041
-What was this thing
-gonna look like? You know,
-we knew what size screen
+00:26:51,870 --> 00:26:54,040
+What was this thing gonna look like? You know, we knew what size screen
 
 383
-00:26:54,041 --> 00:26:55,792
-we were gonna have,
-but we didn't know that early
+00:26:54,040 --> 00:26:55,790
+we were gonna have, but we didn't know that early
 
 384
-00:26:55,792 --> 00:26:58,208
-everything we're gonna
-put on that screen.
+00:26:55,790 --> 00:26:58,200
+everything we're gonna put on that screen.
 
 385
-00:26:58,208 --> 00:26:59,667
-The thing
-about computer programming
+00:26:58,200 --> 00:26:59,660
+The thing about computer programming
 
 386
-00:26:59,667 --> 00:27:02,583
-is you're making something
-out of nothing.
+00:26:59,660 --> 00:27:02,580
+is you're making something out of nothing.
 
 387
-00:27:02,583 --> 00:27:04,959
-[cameraman] This is not nerds
-creating for others nerds here.
+00:27:02,580 --> 00:27:04,950
+[cameraman] This is not nerds creating for others nerds here.
 
 388
-00:27:04,959 --> 00:27:07,959
-There is a creative
-process here that is much like
+00:27:04,950 --> 00:27:07,950
+There is a creative process here that is much like
 
 389
-00:27:07,959 --> 00:27:10,166
-making a film or painting
-a picture or doing a play.
+00:27:07,950 --> 00:27:10,160
+making a film or painting a picture or doing a play.
 
 390
-00:27:10,166 --> 00:27:13,417
-This is very creative, which is
-a surprise to a lot of people.
+00:27:10,160 --> 00:27:13,410
+This is very creative, which is a surprise to a lot of people.
 
 391
-00:27:13,417 --> 00:27:15,750
--This is a very
-creative process.
--[producer] You mean artistic?
+00:27:13,410 --> 00:27:15,750
+-This is a very creative process. -[producer] You mean artistic?
 
 392
-00:27:15,750 --> 00:27:17,667
--Artistic? You mean artistic.
--Yeah.
+00:27:15,750 --> 00:27:17,660
+-Artistic? You mean artistic. -Yeah.
 
 393
-00:27:17,667 --> 00:27:19,500
+00:27:17,660 --> 00:27:19,500
 I'll ask him about them, OK?
 
 394
-00:27:19,500 --> 00:27:21,709
-Yeah, that's absolut--
-that got the crew yesterday.
+00:27:19,500 --> 00:27:21,700
+Yeah, that's absolut-- that got the crew yesterday.
 
 395
-00:27:21,709 --> 00:27:24,792
-The common ground between
-Apple and what we did
+00:27:21,700 --> 00:27:24,790
+The common ground between Apple and what we did
 
 396
-00:27:24,792 --> 00:27:28,166
-at General Magic
-in the sixties was idealism.
+00:27:24,790 --> 00:27:28,160
+at General Magic in the sixties was idealism.
 
 397
-00:27:28,166 --> 00:27:31,834
-Our art could make a difference
-in, in the lives of everyone,
+00:27:28,160 --> 00:27:31,830
+Our art could make a difference in, in the lives of everyone,
 
 398
-00:27:31,834 --> 00:27:35,333
-everyone you know
-and everyone you don't know.
+00:27:31,830 --> 00:27:35,330
+everyone you know and everyone you don't know.
 
 399
-00:27:35,333 --> 00:27:39,667
-I think, uh, communications
-is the most fundamentally
-human thing that we do,
+00:27:35,330 --> 00:27:39,660
+I think, uh, communications is the most fundamentally human thing that we do,
 
 400
-00:27:39,667 --> 00:27:44,625
-and that's really why what
-we are doing cuts to the heart
-of-- of-- of who we are.
+00:27:39,660 --> 00:27:44,620
+and that's really why what we are doing cuts to the heart of-- of-- of who we are.
 
 401
-00:27:44,625 --> 00:27:49,291
-Uh, that's what distinguishes
-people more than any other thing
-I think, the, uh,
+00:27:44,620 --> 00:27:49,290
+Uh, that's what distinguishes people more than any other thing I think, the, uh,
 
 402
-00:27:49,291 --> 00:27:55,041
-the sense of community,
-a sense of, of, reaching out
-from yourself to someone else.
+00:27:49,290 --> 00:27:55,040
+the sense of community, a sense of, of, reaching out from yourself to someone else.
 
 403
-00:27:55,041 --> 00:27:58,959
-One of the things Bill and I do
-is just by word of mouth
-passing, passing
+00:27:55,040 --> 00:27:58,950
+One of the things Bill and I do is just by word of mouth passing, passing
 
 404
-00:27:58,959 --> 00:28:02,500
-that spirit down, down
-to the next generation.
+00:27:58,950 --> 00:28:02,500
+that spirit down, down to the next generation.
 
 405
-00:28:02,500 --> 00:28:06,333
-We were always saying, wow,
-wouldn't it be great if we did
-that and Andy would do this,
+00:28:02,500 --> 00:28:06,330
+We were always saying, wow, wouldn't it be great if we did that and Andy would do this,
 
 406
-00:28:06,333 --> 00:28:09,709
-he would stay up all night
-coding the thing that we just
-came up with
+00:28:06,330 --> 00:28:09,700
+he would stay up all night coding the thing that we just came up with
 
 407
-00:28:09,709 --> 00:28:13,000
-the idea that evening. He would
-stay up all night and bring in
+00:28:09,700 --> 00:28:13,000
+the idea that evening. He would stay up all night and bring in
 
 408
-00:28:13,000 --> 00:28:16,083
-a fully working thing
-the next morning.
+00:28:13,000 --> 00:28:16,080
+a fully working thing the next morning.
 
 409
-00:28:16,083 --> 00:28:20,709
-[Kevin] So we created this
-concept of different rooms,
-and Andy went off
+00:28:16,080 --> 00:28:20,700
+[Kevin] So we created this concept of different rooms, and Andy went off
 
 410
-00:28:20,709 --> 00:28:23,500
-and over the weekend
-he completely rewrote the system
+00:28:20,700 --> 00:28:23,500
+and over the weekend he completely rewrote the system
 
 411
-00:28:23,500 --> 00:28:28,375
-to implement this hallways
-thing. So we come back
-and it's all there.
+00:28:23,500 --> 00:28:28,370
+to implement this hallways thing. So we come back and it's all there.
 
 412
-00:28:28,375 --> 00:28:32,959
-That shouldn't have been
-possible for one person to do
-that much work in one go.
+00:28:28,370 --> 00:28:32,950
+That shouldn't have been possible for one person to do that much work in one go.
 
 413
-00:28:32,959 --> 00:28:36,458
-[Adler] Passion is the thing
-that breaks through logic
+00:28:32,950 --> 00:28:36,450
+[Adler] Passion is the thing that breaks through logic
 
 414
-00:28:36,458 --> 00:28:39,750
-and makes you try
-to get every part right,
+00:28:36,450 --> 00:28:39,750
+and makes you try to get every part right,
 
 415
 00:28:39,750 --> 00:28:43,750
-not because of some science,
-but because of
+not because of some science, but because of
 
 416
 00:28:43,750 --> 00:28:48,250
-your feeling of pride and desire
-to do something great.
+your feeling of pride and desire to do something great.
 
 417
-00:28:48,250 --> 00:28:51,875
-[Andy] All you have to do
-is tap on this little letter
-creating icon
+00:28:48,250 --> 00:28:51,870
+[Andy] All you have to do is tap on this little letter creating icon
 
 418
-00:28:51,875 --> 00:28:54,125
-and, uh, your favorite
-stationary pops out
+00:28:51,870 --> 00:28:54,120
+and, uh, your favorite stationary pops out
 
 419
-00:28:54,125 --> 00:28:56,917
-of the drawer. You notice
-it looks like a little postcard.
+00:28:54,120 --> 00:28:56,910
+of the drawer. You notice it looks like a little postcard.
 
 420
-00:28:56,917 --> 00:29:00,667
-[Joanna] There was mail,
-there was calendar, everything
-was communicating
+00:28:56,910 --> 00:29:00,660
+[Joanna] There was mail, there was calendar, everything was communicating
 
 421
-00:29:00,667 --> 00:29:04,000
-with each other
-and tiny little things
-that would delight people
+00:29:00,660 --> 00:29:04,000
+with each other and tiny little things that would delight people
 
 422
-00:29:04,000 --> 00:29:08,667
-that would wink at people that
-would just make it so special.
+00:29:04,000 --> 00:29:08,660
+that would wink at people that would just make it so special.
 
 423
-00:29:08,667 --> 00:29:13,125
-One interesting area
-we-- we haven't done is--
-is expressing emotions.
+00:29:08,660 --> 00:29:13,120
+One interesting area we-- we haven't done is-- is expressing emotions.
 
 424
-00:29:13,125 --> 00:29:16,000
-Uh, what-- what extent would you
-use to express anger at someone.
+00:29:13,120 --> 00:29:16,000
+Uh, what-- what extent would you use to express anger at someone.
 
 425
-00:29:16,000 --> 00:29:19,208
-[Marc] Emoticons, today,
-emoticons are a big deal.
+00:29:16,000 --> 00:29:19,200
+[Marc] Emoticons, today, emoticons are a big deal.
 
 426
-00:29:19,208 --> 00:29:21,834
-In those days no one knew what
-it was, there was no such thing.
+00:29:19,200 --> 00:29:21,830
+In those days no one knew what it was, there was no such thing.
 
 427
-00:29:21,834 --> 00:29:25,291
-Andy and Bill would disappear
-and come back with emoticons
+00:29:21,830 --> 00:29:25,290
+Andy and Bill would disappear and come back with emoticons
 
 428
-00:29:25,291 --> 00:29:29,125
-that were animated. They were
-amazingly cute and intelligent.
+00:29:25,290 --> 00:29:29,120
+that were animated. They were amazingly cute and intelligent.
 
 429
-00:29:29,125 --> 00:29:32,208
-Only one person hated
-the happy face. It's like--
+00:29:29,120 --> 00:29:32,200
+Only one person hated the happy face. It's like--
 
 430
-00:29:32,208 --> 00:29:35,291
--Who was that?
--[laughter]
+00:29:32,200 --> 00:29:35,290
+-Who was that? -[laughter]
 
 431
-00:29:35,291 --> 00:29:38,250
-[Adler] I've certainly
-never worked with a team as
-ambitious. It's almost like
+00:29:35,290 --> 00:29:38,250
+[Adler] I've certainly never worked with a team as ambitious. It's almost like
 
 432
-00:29:38,250 --> 00:29:42,792
-we didn't care about what made
-sense. You know, how else could
-it be good enough?
+00:29:38,250 --> 00:29:42,790
+we didn't care about what made sense. You know, how else could it be good enough?
 
 433
-00:29:42,792 --> 00:29:46,125
-There was, uh, confidence,
-even arrogance there too.
+00:29:42,790 --> 00:29:46,120
+There was, uh, confidence, even arrogance there too.
 
 434
-00:29:46,125 --> 00:29:49,542
-[Tony] Are you kidding me?
-This is, this is fun!
+00:29:46,120 --> 00:29:49,540
+[Tony] Are you kidding me? This is, this is fun!
 
 435
-00:29:49,542 --> 00:29:52,667
-[Amy] It was like we
-could walk through walls
-and do anything.
+00:29:49,540 --> 00:29:52,660
+[Amy] It was like we could walk through walls and do anything.
 
 436
-00:29:52,667 --> 00:29:55,959
-[Tony] Being there with
-all these people who were
-like, "We can change the world
+00:29:52,660 --> 00:29:55,950
+[Tony] Being there with all these people who were like, "We can change the world
 
 437
-00:29:55,959 --> 00:29:58,834
-and we're going to do it
-and let me show you how."
+00:29:55,950 --> 00:29:58,830
+and we're going to do it and let me show you how."
 
 438
-00:29:58,834 --> 00:30:02,166
-[Hoffman] They were on
-a joy ride, a rocket ride
+00:29:58,830 --> 00:30:02,160
+[Hoffman] They were on a joy ride, a rocket ride
 
 439
-00:30:02,166 --> 00:30:05,083
-with all the freedom
-to do what they wanted to do.
+00:30:02,160 --> 00:30:05,080
+with all the freedom to do what they wanted to do.
 
 440
-00:30:05,083 --> 00:30:08,917
-Now it's getting them
-to understand this thing
-costs money.
+00:30:05,080 --> 00:30:08,910
+Now it's getting them to understand this thing costs money.
 
 441
-00:30:13,083 --> 00:30:14,041
+00:30:13,080 --> 00:30:14,040
 Real money.
 
 442
-00:30:17,834 --> 00:30:21,875
-In 1990 there was no digital
-telecommunications industry.
+00:30:17,830 --> 00:30:21,870
+In 1990 there was no digital telecommunications industry.
 
 443
-00:30:21,875 --> 00:30:24,959
-It did not exist,
-anywhere in the world.
+00:30:21,870 --> 00:30:24,950
+It did not exist, anywhere in the world.
 
 444
-00:30:24,959 --> 00:30:28,125
-We were in the analog era,
-there were no
+00:30:24,950 --> 00:30:28,120
+We were in the analog era, there were no
 
 445
-00:30:28,125 --> 00:30:31,333
-digital cellphones,
-there was no World Wide Web.
+00:30:28,120 --> 00:30:31,330
+digital cellphones, there was no World Wide Web.
 
 446
-00:30:31,333 --> 00:30:33,834
-[Stern] We were talking
-about bringing millions
-of people onto a network
+00:30:31,330 --> 00:30:33,830
+[Stern] We were talking about bringing millions of people onto a network
 
 447
-00:30:33,834 --> 00:30:36,917
-that had to be industrial
-strength, reliable,
+00:30:33,830 --> 00:30:36,910
+that had to be industrial strength, reliable,
 
 448
-00:30:36,917 --> 00:30:40,208
-and run 24 by 7 by 365
-with no glitches.
+00:30:36,910 --> 00:30:40,200
+and run 24 by 7 by 365 with no glitches.
 
 449
-00:30:40,208 --> 00:30:42,709
-Who else could do that,
-but the telephone company?
+00:30:40,200 --> 00:30:42,700
+Who else could do that, but the telephone company?
 
 450
-00:30:42,709 --> 00:30:44,959
-That's who we needed,
-and that meant AT&T.
+00:30:42,700 --> 00:30:44,950
+That's who we needed, and that meant AT&T.
 
 451
-00:30:50,333 --> 00:30:53,208
-[Michael] The AT&T folks came
-in this gigantic stretched
-limo that was too big
+00:30:50,330 --> 00:30:53,200
+[Michael] The AT&T folks came in this gigantic stretched limo that was too big
 
 452
-00:30:53,208 --> 00:30:55,542
-to get into the parking lot
-and I was watching them out
-of the window
+00:30:53,200 --> 00:30:55,540
+to get into the parking lot and I was watching them out of the window
 
 453
-00:30:55,542 --> 00:30:58,250
-of the second floor conference
-room. Watching them trying
-to maneuver the car
+00:30:55,540 --> 00:30:58,250
+of the second floor conference room. Watching them trying to maneuver the car
 
 454
-00:30:58,250 --> 00:31:03,208
-into the parking lot.
-They just couldn't do it.
+00:30:58,250 --> 00:31:03,200
+into the parking lot. They just couldn't do it.
 
 455
-00:31:03,208 --> 00:31:05,625
-So they eventually got out
-of their car and they
-trouped upstairs.
+00:31:03,200 --> 00:31:05,620
+So they eventually got out of their car and they trouped upstairs.
 
 456
-00:31:05,625 --> 00:31:09,041
-We're still waiting for Bill
-and people are staring
-at their shoes
+00:31:05,620 --> 00:31:09,040
+We're still waiting for Bill and people are staring at their shoes
 
 457
-00:31:09,041 --> 00:31:12,208
-and a little uncomfortable.
-That was not a good start.
+00:31:09,040 --> 00:31:12,200
+and a little uncomfortable. That was not a good start.
 
 458
-00:31:12,208 --> 00:31:14,250
--Um...
--[woman] What happened?
+00:31:12,200 --> 00:31:14,250
+-Um... -[woman] What happened?
 
 459
-00:31:14,250 --> 00:31:18,125
-So Bill finally shows up.
-Um, he hadn't taken
-a shower in a week.
+00:31:14,250 --> 00:31:18,120
+So Bill finally shows up. Um, he hadn't taken a shower in a week.
 
 460
-00:31:18,125 --> 00:31:22,542
-He was wearing a Hawaiian shirt,
-he stunk like a goat.
+00:31:18,120 --> 00:31:22,540
+He was wearing a Hawaiian shirt, he stunk like a goat.
 
 461
-00:31:22,542 --> 00:31:25,667
-You could see the noses wrinkle
-on the faces of
-the three AT&T guys,
+00:31:22,540 --> 00:31:25,660
+You could see the noses wrinkle on the faces of the three AT&T guys,
 
 462
-00:31:25,667 --> 00:31:27,750
+00:31:25,660 --> 00:31:27,750
 but they launched the demo.
 
 463
-00:31:27,750 --> 00:31:30,083
--[AT&T] This is a touchscreen?
-So I can ahead go and touch it.
--[Andy] Yeah, yeah. Yeah.
+00:31:27,750 --> 00:31:30,080
+-[AT&T] This is a touchscreen? So I can ahead go and touch it. -[Andy] Yeah, yeah. Yeah.
 
 464
-00:31:30,083 --> 00:31:33,083
-[Stern] No one had ever thought
-of the kind of ideas
+00:31:30,080 --> 00:31:33,080
+[Stern] No one had ever thought of the kind of ideas
 
 465
-00:31:33,083 --> 00:31:36,000
-that Marc, Bill and Andy
-had instantiated in this demo.
+00:31:33,080 --> 00:31:36,000
+that Marc, Bill and Andy had instantiated in this demo.
 
 466
-00:31:36,000 --> 00:31:37,875
-...another step.
-Would you like a cookie?
+00:31:36,000 --> 00:31:37,870
+...another step. Would you like a cookie?
 
 467
-00:31:37,875 --> 00:31:39,792
--Oh no. I've eaten too many.
--Would you like a cookie?
+00:31:37,870 --> 00:31:39,790
+-Oh no. I've eaten too many. -Would you like a cookie?
 
 468
-00:31:39,792 --> 00:31:45,458
-The AT&T folks said, "We're in,"
-and they joined us as
-the first network partner.
+00:31:39,790 --> 00:31:45,450
+The AT&T folks said, "We're in," and they joined us as the first network partner.
 
 469
-00:31:46,959 --> 00:31:50,583
-[Hoffman] You got to have AT&T,
-you got to have Apple,
+00:31:46,950 --> 00:31:50,580
+[Hoffman] You got to have AT&T, you got to have Apple,
 
 470
-00:31:50,583 --> 00:31:52,166
+00:31:50,580 --> 00:31:52,160
 that's your roots.
 
 471
-00:31:52,166 --> 00:31:56,750
-You got to have Motorola and
-Sony, they make the devices.
+00:31:52,160 --> 00:31:56,750
+You got to have Motorola and Sony, they make the devices.
 
 472
-00:31:56,750 --> 00:31:58,083
+00:31:56,750 --> 00:31:58,080
 And you got to have Phillips.
 
 473
-00:31:58,083 --> 00:32:00,208
-They're also gonna
-make devices.
+00:31:58,080 --> 00:32:00,200
+They're also gonna make devices.
 
 474
-00:32:00,208 --> 00:32:03,125
-Without those, we couldn't
-have been General Magic.
+00:32:00,200 --> 00:32:03,120
+Without those, we couldn't have been General Magic.
 
 475
-00:32:03,125 --> 00:32:08,959
-[Stern] And we charged them
-six million dollars for the
-privilege of joining... each.
+00:32:03,120 --> 00:32:08,950
+[Stern] And we charged them six million dollars for the privilege of joining... each.
 
 476
-00:32:08,959 --> 00:32:12,250
-Here was this little startup
-in Silicon Valley, that was
-gonna change the world,
+00:32:08,950 --> 00:32:12,250
+Here was this little startup in Silicon Valley, that was gonna change the world,
 
 477
-00:32:12,250 --> 00:32:16,125
-everybody was afraid of being
-left out of the vision.
+00:32:12,250 --> 00:32:16,120
+everybody was afraid of being left out of the vision.
 
 478
-00:32:16,125 --> 00:32:19,750
-This company's scale is small,
-but thinking so big.
+00:32:16,120 --> 00:32:19,750
+This company's scale is small, but thinking so big.
 
 479
-00:32:19,750 --> 00:32:22,667
-Immediately we
-decided to join it
+00:32:19,750 --> 00:32:22,660
+Immediately we decided to join it
 
 480
-00:32:22,667 --> 00:32:26,417
-Yes, just, boom,
-one second, we decided.
+00:32:22,660 --> 00:32:26,410
+Yes, just, boom, one second, we decided.
 
 481
-00:32:26,417 --> 00:32:31,458
-[Joanna] Sony Japan
-was unbelievably great,
-but I think one of the things
+00:32:26,410 --> 00:32:31,450
+[Joanna] Sony Japan was unbelievably great, but I think one of the things
 
 482
-00:32:31,458 --> 00:32:38,291
-that Marc underestimated is how
-each one of those relationships
+00:32:31,450 --> 00:32:38,290
+that Marc underestimated is how each one of those relationships
 
 483
-00:32:38,291 --> 00:32:41,291
-contributed to an enormous
-level of complexity.
+00:32:38,290 --> 00:32:41,290
+contributed to an enormous level of complexity.
 
 484
-00:32:41,291 --> 00:32:44,375
-...he said we have these three
-bears out there, and we call
-them Goldilocks.
+00:32:41,290 --> 00:32:44,370
+...he said we have these three bears out there, and we call them Goldilocks.
 
 485
-00:32:44,375 --> 00:32:47,208
--We're gonna dance
-with the three bears.
--[laughter]
+00:32:44,370 --> 00:32:47,200
+-We're gonna dance with the three bears. -[laughter]
 
 486
-00:32:47,208 --> 00:32:50,500
--[Andy] Marc is Goldilocks.
--I find him, grraawr, grraawr!
+00:32:47,200 --> 00:32:50,500
+-[Andy] Marc is Goldilocks. -I find him, grraawr, grraawr!
 
 487
-00:32:50,500 --> 00:32:52,417
--[laughter]
--Gurrhr!
+00:32:50,500 --> 00:32:52,410
+-[laughter] -Gurrhr!
 
 488
-00:32:52,417 --> 00:32:54,709
+00:32:52,410 --> 00:32:54,700
 I thought you grraawr, grraawr!
 
 489
-00:32:54,709 --> 00:32:57,125
-[Marc] The vision was gonna
-happen because we were
-putting together
+00:32:54,700 --> 00:32:57,120
+[Marc] The vision was gonna happen because we were putting together
 
 490
-00:32:57,125 --> 00:33:00,333
-16 of the largest companies
-on the planet
+00:32:57,120 --> 00:33:00,330
+16 of the largest companies on the planet
 
 491
-00:33:00,333 --> 00:33:03,166
-who are natural enemies,
-into-- into the same room
-at the same time.
+00:33:00,330 --> 00:33:03,160
+who are natural enemies, into-- into the same room at the same time.
 
 492
-00:33:03,166 --> 00:33:07,458
-We knew we were innovating,
-no one had done anything like
-that, and if it succeeded
+00:33:03,160 --> 00:33:07,450
+We knew we were innovating, no one had done anything like that, and if it succeeded
 
 493
-00:33:07,458 --> 00:33:13,792
-it would change everything and
-that took a war-like energy.
+00:33:07,450 --> 00:33:13,790
+it would change everything and that took a war-like energy.
 
 494
-00:33:13,792 --> 00:33:17,166
-That was fighting,
-that was battle.
+00:33:13,790 --> 00:33:17,160
+That was fighting, that was battle.
 
 495
-00:33:17,166 --> 00:33:21,417
+00:33:17,160 --> 00:33:21,410
 [calm music]
 
 496
-00:33:21,417 --> 00:33:24,917
-[Sculley] We had no choice,
-but to keep quiet about
-the things we were doing
+00:33:21,410 --> 00:33:24,910
+[Sculley] We had no choice, but to keep quiet about the things we were doing
 
 497
-00:33:24,917 --> 00:33:30,542
-because other companies
-were interested in it as well,
-and we tried to keep secrecy
+00:33:24,910 --> 00:33:30,540
+because other companies were interested in it as well, and we tried to keep secrecy
 
 498
-00:33:30,542 --> 00:33:37,458
-at a level that would give a
-small company like General Magic
-time to create, time to develop.
+00:33:30,540 --> 00:33:37,450
+at a level that would give a small company like General Magic time to create, time to develop.
 
 499
-00:33:37,458 --> 00:33:42,750
-[Dee] Everybody had
-to shred everything. We couldn't
-put everything in one bin.
+00:33:37,450 --> 00:33:42,750
+[Dee] Everybody had to shred everything. We couldn't put everything in one bin.
 
 500
-00:33:42,750 --> 00:33:49,125
-We had to wait and--
-and kind of dole it out
-to various different places.
+00:33:42,750 --> 00:33:49,120
+We had to wait and-- and kind of dole it out to various different places.
 
 501
-00:33:49,125 --> 00:33:51,208
-We were asked not to talk
-about it outside
+00:33:49,120 --> 00:33:51,200
+We were asked not to talk about it outside
 
 502
-00:33:51,208 --> 00:33:54,041
-of the office because we didn't
-want any of it leaked.
+00:33:51,200 --> 00:33:54,040
+of the office because we didn't want any of it leaked.
 
 503
-00:33:54,041 --> 00:33:58,041
-So there was this buzz around
-the company, but it really was
-kind of this, this, cipher.
+00:33:54,040 --> 00:33:58,040
+So there was this buzz around the company, but it really was kind of this, this, cipher.
 
 504
-00:33:58,041 --> 00:34:02,208
-We had to keep it under wraps.
-Part of that was
-this PR strategy
+00:33:58,040 --> 00:34:02,200
+We had to keep it under wraps. Part of that was this PR strategy
 
 505
-00:34:02,208 --> 00:34:06,917
-that we had only one shot
-to make news.
+00:34:02,200 --> 00:34:06,910
+that we had only one shot to make news.
 
 506
-00:34:06,917 --> 00:34:10,458
-[Marc] "While we're
-in business development stage,
-security is essential.
+00:34:06,910 --> 00:34:10,450
+[Marc] "While we're in business development stage, security is essential.
 
 507
-00:34:10,458 --> 00:34:13,625
-If the concept leaks,
-we lose our competitive edge.
+00:34:10,450 --> 00:34:13,620
+If the concept leaks, we lose our competitive edge.
 
 508
-00:34:13,625 --> 00:34:18,417
-Please use the highest level
-of personal attention
-to security, including,
+00:34:13,620 --> 00:34:18,410
+Please use the highest level of personal attention to security, including,
 
 509
-00:34:18,417 --> 00:34:22,291
-if asked by an Apple colleague
-not on the team, say nothing.
+00:34:18,410 --> 00:34:22,290
+if asked by an Apple colleague not on the team, say nothing.
 
 510
-00:34:22,291 --> 00:34:24,917
-If asked by a non-Apple
-person, tell me immediately."
+00:34:22,290 --> 00:34:24,910
+If asked by a non-Apple person, tell me immediately."
 
 511
-00:34:24,917 --> 00:34:29,500
-Now it should be noted,
-John Sculley was running Apple
-at the time.
+00:34:24,910 --> 00:34:29,500
+Now it should be noted, John Sculley was running Apple at the time.
 
 512
-00:34:29,500 --> 00:34:35,125
-[Joanna] In that sense
-he was our ally,
-or so we thought.
+00:34:29,500 --> 00:34:35,120
+[Joanna] In that sense he was our ally, or so we thought.
 
 513
-00:34:39,250 --> 00:34:46,291
-I was getting intense pressure
-from the Apple board and from
-the Apple management team
+00:34:39,250 --> 00:34:46,290
+I was getting intense pressure from the Apple board and from the Apple management team
 
 514
-00:34:46,291 --> 00:34:49,458
-as to why was I spending
-so much time on General Magic.
+00:34:46,290 --> 00:34:49,450
+as to why was I spending so much time on General Magic.
 
 515
-00:34:49,458 --> 00:34:54,458
-And Apple was developing
-in parallel a business
-that it owned 100% of,
+00:34:49,450 --> 00:34:54,450
+And Apple was developing in parallel a business that it owned 100% of,
 
 516
-00:34:54,458 --> 00:34:58,291
-called Newton, and that looked
-like they could ship a product.
+00:34:54,450 --> 00:34:58,290
+called Newton, and that looked like they could ship a product.
 
 517
-00:34:58,291 --> 00:35:04,667
-Ten years ago we launched
-Macintosh, a revolution
-for the desktop.
+00:34:58,290 --> 00:35:04,660
+Ten years ago we launched Macintosh, a revolution for the desktop.
 
 518
-00:35:04,667 --> 00:35:09,208
-And today we are launching
-Newton, a revolution
-for the pocket.
+00:35:04,660 --> 00:35:09,200
+And today we are launching Newton, a revolution for the pocket.
 
 519
-00:35:09,208 --> 00:35:13,667
-John Sculley gave a keynote
-address at the 1993
+00:35:09,200 --> 00:35:13,660
+John Sculley gave a keynote address at the 1993
 
 520
-00:35:13,667 --> 00:35:17,792
-consumer electronic shows
-where he announced
-what we were doing.
+00:35:13,660 --> 00:35:17,790
+consumer electronic shows where he announced what we were doing.
 
 521
-00:35:17,792 --> 00:35:22,458
-Imagine being able to take
-a cellular telephone
-and be able to be paged
+00:35:17,790 --> 00:35:22,450
+Imagine being able to take a cellular telephone and be able to be paged
 
 522
-00:35:22,458 --> 00:35:26,917
-on the phone and write a little
-note and fax it off to someone
-else in response.
+00:35:22,450 --> 00:35:26,910
+on the phone and write a little note and fax it off to someone else in response.
 
 523
-00:35:26,917 --> 00:35:32,333
-Except he announced it
-as something Apple was doing.
-We thought Apple wasn't doing it
+00:35:26,910 --> 00:35:32,330
+Except he announced it as something Apple was doing. We thought Apple wasn't doing it
 
 524
-00:35:32,333 --> 00:35:34,917
-and we found out from
-that speech that they were.
+00:35:32,330 --> 00:35:34,910
+and we found out from that speech that they were.
 
 525
-00:35:34,917 --> 00:35:38,375
-I wish I could say
-that I was hurt. I wasn't--
+00:35:34,910 --> 00:35:38,370
+I wish I could say that I was hurt. I wasn't--
 
 526
-00:35:38,375 --> 00:35:42,166
-I wasn't just hurt, I was angry.
-I was fur-- I was really angry.
+00:35:38,370 --> 00:35:42,160
+I wasn't just hurt, I was angry. I was fur-- I was really angry.
 
 527
-00:35:42,166 --> 00:35:44,375
-[Andy] They had, uh,
-decided to make something
+00:35:42,160 --> 00:35:44,370
+[Andy] They had, uh, decided to make something
 
 528
-00:35:44,375 --> 00:35:48,000
-essentially based on
-Marc's models.
+00:35:44,370 --> 00:35:48,000
+essentially based on Marc's models.
 
 529
-00:35:48,000 --> 00:35:53,166
-I thought Newton was,
-I thought that they could
-co-exist, you know.
+00:35:48,000 --> 00:35:53,160
+I thought Newton was, I thought that they could co-exist, you know.
 
 530
-00:35:53,166 --> 00:35:58,500
-And, so I wasn't really
-concerned that Newton
-would hurt General Magic.
+00:35:53,160 --> 00:35:58,500
+And, so I wasn't really concerned that Newton would hurt General Magic.
 
 531
-00:35:58,500 --> 00:36:03,333
-They were our closest partner
-who really gave us
-our life.
+00:35:58,500 --> 00:36:03,330
+They were our closest partner who really gave us our life.
 
 532
-00:36:03,333 --> 00:36:09,959
-And so when we found out that
-they were trying to kill us,
-we felt completely betrayed.
+00:36:03,330 --> 00:36:09,950
+And so when we found out that they were trying to kill us, we felt completely betrayed.
 
 533
-00:36:09,959 --> 00:36:15,250
-You wanna know about the
-Newton? I'll tell you about
-the Newton, #### the Newton.
+00:36:09,950 --> 00:36:15,250
+You wanna know about the Newton? I'll tell you about the Newton, #### the Newton.
 
 534
-00:36:18,208 --> 00:36:22,291
-[Joanna] The Newton
-announcement caused vision envy
+00:36:18,200 --> 00:36:22,290
+[Joanna] The Newton announcement caused vision envy
 
 535
-00:36:22,291 --> 00:36:24,625
-on the part of all
-of our partners.
+00:36:22,290 --> 00:36:24,620
+on the part of all of our partners.
 
 536
-00:36:24,625 --> 00:36:28,542
-They thought that Sculley's
-was bigger than theirs.
+00:36:24,620 --> 00:36:28,540
+They thought that Sculley's was bigger than theirs.
 
 537
-00:36:28,542 --> 00:36:32,041
-"I want that vision thing. Do
-that vision thing for me too."
+00:36:28,540 --> 00:36:32,040
+"I want that vision thing. Do that vision thing for me too."
 
 538
-00:36:32,041 --> 00:36:36,583
-And so
-they wanted to immediately
-go up there and introduce.
+00:36:32,040 --> 00:36:36,580
+And so they wanted to immediately go up there and introduce.
 
 539
-00:36:36,583 --> 00:36:40,583
-[Hoffman] We've got to explain
-the vision such that
-everybody gets it.
+00:36:36,580 --> 00:36:40,580
+[Hoffman] We've got to explain the vision such that everybody gets it.
 
 540
-00:36:40,583 --> 00:36:44,375
-The press gets it,
-the corporations get it,
-it's all clear.
+00:36:40,580 --> 00:36:44,370
+The press gets it, the corporations get it, it's all clear.
 
 541
-00:36:48,041 --> 00:36:51,709
-[女声] Leading the way to
-a new age of personal
-communication,
+00:36:48,040 --> 00:36:51,700
+[女声] Leading the way to a new age of personal communication,
 
 542
-00:36:51,709 --> 00:36:56,000
-creating a revolutionary
-electronic messaging
-environment.
+00:36:51,700 --> 00:36:56,000
+creating a revolutionary electronic messaging environment.
 
 543
-00:36:56,000 --> 00:36:59,083
-We call this environment,
-the Cloud.
+00:36:56,000 --> 00:36:59,080
+We call this environment, the Cloud.
 
 544
-00:36:59,083 --> 00:37:01,750
-[Stern] The fact
-that the Newton was going
-to ship and it was getting
+00:36:59,080 --> 00:37:01,750
+[Stern] The fact that the Newton was going to ship and it was getting
 
 545
-00:37:01,750 --> 00:37:04,875
-all this publicity meant
-that we had to come out
-of stealth mode
+00:37:01,750 --> 00:37:04,870
+all this publicity meant that we had to come out of stealth mode
 
 546
-00:37:04,875 --> 00:37:08,667
-earlier than we had planned
-and well before we were
-ready to ship.
+00:37:04,870 --> 00:37:08,660
+earlier than we had planned and well before we were ready to ship.
 
 547
-00:37:08,667 --> 00:37:12,625
-Stakes are higher, you better
-be better than these guys.
+00:37:08,660 --> 00:37:12,620
+Stakes are higher, you better be better than these guys.
 
 548
-00:37:12,625 --> 00:37:16,250
-[Marc] Big event? This was
-huge and we made it huge
+00:37:12,620 --> 00:37:16,250
+[Marc] Big event? This was huge and we made it huge
 
 549
-00:37:16,250 --> 00:37:18,333
-on purpose to raise
-the jeopardy.
+00:37:16,250 --> 00:37:18,330
+on purpose to raise the jeopardy.
 
 550
-00:37:18,333 --> 00:37:22,250
-We knew it was gonna be
-a marathon that we were
-gonna run at sprint speed.
+00:37:18,330 --> 00:37:22,250
+We knew it was gonna be a marathon that we were gonna run at sprint speed.
 
 551
-00:37:22,250 --> 00:37:27,417
-It was gonna take everything
-out of us. Down the torpedoes,
-it's full speed ahead.
+00:37:22,250 --> 00:37:27,410
+It was gonna take everything out of us. Down the torpedoes, it's full speed ahead.
 
 552
-00:37:29,625 --> 00:37:33,625
-This is it, we're coming,
-these amazing devices.
+00:37:29,620 --> 00:37:33,620
+This is it, we're coming, these amazing devices.
 
 553
-00:37:33,625 --> 00:37:36,792
+00:37:33,620 --> 00:37:36,790
 [dramatic music]
 
 554
-00:37:40,625 --> 00:37:42,792
--[Markoff] You remember
-much about that day?
--[Saffo] Yeah, well,
+00:37:40,620 --> 00:37:42,790
+-[Markoff] You remember much about that day? -[Saffo] Yeah, well,
 
 555
-00:37:42,792 --> 00:37:45,625
-I remember my impression
-of Marc was, "Huh,
+00:37:42,790 --> 00:37:45,620
+I remember my impression of Marc was, "Huh,
 
 556
-00:37:45,625 --> 00:37:50,792
-most of the vision of Jobs,
-but he had better interface".
+00:37:45,620 --> 00:37:50,790
+most of the vision of Jobs, but he had better interface".
 
 557
-00:37:50,792 --> 00:37:52,792
-[announcer]
-Presenting Marc Porat.
+00:37:50,790 --> 00:37:52,790
+[announcer] Presenting Marc Porat.
 
 558
-00:37:52,792 --> 00:37:54,291
+00:37:52,790 --> 00:37:54,290
 [audience applauding]
 
 559
-00:37:54,291 --> 00:37:56,125
-Today we are going
-to introduce the vision.
+00:37:54,290 --> 00:37:56,120
+Today we are going to introduce the vision.
 
 560
-00:37:56,125 --> 00:38:00,458
-Today we are introducing
-the technology,
-introducing The Alliance.
+00:37:56,120 --> 00:38:00,450
+Today we are introducing the technology, introducing The Alliance.
 
 561
-00:38:00,458 --> 00:38:02,792
-But let it be said
-it's about feelings.
+00:38:00,450 --> 00:38:02,790
+But let it be said it's about feelings.
 
 562
-00:38:02,792 --> 00:38:07,458
-How you feel about
-the communication
-with another person.
+00:38:02,790 --> 00:38:07,450
+How you feel about the communication with another person.
 
 563
-00:38:07,458 --> 00:38:10,667
-To me the relationships
-of your life, is the fabric
-of your life.
+00:38:07,450 --> 00:38:10,660
+To me the relationships of your life, is the fabric of your life.
 
 564
-00:38:10,667 --> 00:38:14,250
-That's the stuff that defines
-who we are as people.
+00:38:10,660 --> 00:38:14,250
+That's the stuff that defines who we are as people.
 
 565
-00:38:14,250 --> 00:38:17,166
-[MacAskill] Marc was one of
-the most charismatic presenters
-you could ever imagine.
+00:38:14,250 --> 00:38:17,160
+[MacAskill] Marc was one of the most charismatic presenters you could ever imagine.
 
 566
-00:38:17,166 --> 00:38:21,458
-But let me just hold it up for
-you, so you can see what this
-thing is, you know, about.
+00:38:17,160 --> 00:38:21,450
+But let me just hold it up for you, so you can see what this thing is, you know, about.
 
 567
-00:38:21,458 --> 00:38:23,500
-Its intent is to be
-with me all the time.
+00:38:21,450 --> 00:38:23,500
+Its intent is to be with me all the time.
 
 568
-00:38:23,500 --> 00:38:26,834
-The thing about Porat
-when he speaks is,
-everybody in the audience
+00:38:23,500 --> 00:38:26,830
+The thing about Porat when he speaks is, everybody in the audience
 
 569
-00:38:26,834 --> 00:38:31,000
-says to themselves
-two things, they say,
-"My god this guy is right.
+00:38:26,830 --> 00:38:31,000
+says to themselves two things, they say, "My god this guy is right.
 
 570
-00:38:31,000 --> 00:38:36,583
-I can go to
-the roof of this building
-and if I jump, I will fly."
+00:38:31,000 --> 00:38:36,580
+I can go to the roof of this building and if I jump, I will fly."
 
 571
-00:38:36,583 --> 00:38:40,625
-And the second thing
-they would think is,
-"And that guy up there on stage,
+00:38:36,580 --> 00:38:40,620
+And the second thing they would think is, "And that guy up there on stage,
 
 572
-00:38:40,625 --> 00:38:44,625
-and me, we're the only
-two guys who really get it."
+00:38:40,620 --> 00:38:44,620
+and me, we're the only two guys who really get it."
 
 573
-00:38:44,625 --> 00:38:48,375
-This, we hope will be
-with you as simply part
-of your existence.
+00:38:44,620 --> 00:38:48,370
+This, we hope will be with you as simply part of your existence.
 
 574
-00:38:48,375 --> 00:38:52,125
-It will be that useful.
-The minute I see it in a store,
-I smile.
+00:38:48,370 --> 00:38:52,120
+It will be that useful. The minute I see it in a store, I smile.
 
 575
-00:38:52,125 --> 00:38:55,583
-It's about having fun,
-it's about leisure,
-it's about entertainment.
+00:38:52,120 --> 00:38:55,580
+It's about having fun, it's about leisure, it's about entertainment.
 
 576
-00:38:55,583 --> 00:38:59,291
-I just recall listening to him
-and thinking, "Yes, yes!"
+00:38:55,580 --> 00:38:59,290
+I just recall listening to him and thinking, "Yes, yes!"
 
 577
-00:38:59,291 --> 00:39:04,375
-When we were talking
-about re-inventing telephony,
-we meant it. This is inexorable.
+00:38:59,290 --> 00:39:04,370
+When we were talking about re-inventing telephony, we meant it. This is inexorable.
 
 578
-00:39:04,375 --> 00:39:08,125
-The world of personal
-communications, when it's
-fulfilled, uh, possibly
+00:39:04,370 --> 00:39:08,120
+The world of personal communications, when it's fulfilled, uh, possibly
 
 579
-00:39:08,125 --> 00:39:12,291
-in one generation, when I say
-generation, I mean my children,
-my son and daughter.
+00:39:08,120 --> 00:39:12,290
+in one generation, when I say generation, I mean my children, my son and daughter.
 
 580
-00:39:12,291 --> 00:39:14,500
-When they walk
-around with these things
-they will be wireless.
+00:39:12,290 --> 00:39:14,500
+When they walk around with these things they will be wireless.
 
 581
-00:39:14,500 --> 00:39:16,375
-[Hershenson] Reporters would
-leave these briefings saying,
+00:39:14,500 --> 00:39:16,370
+[Hershenson] Reporters would leave these briefings saying,
 
 582
-00:39:16,375 --> 00:39:20,000
-"My god, uh, forget the story
-I'm writing, I want that.
+00:39:16,370 --> 00:39:20,000
+"My god, uh, forget the story I'm writing, I want that.
 
 583
-00:39:20,000 --> 00:39:22,709
-The world that they just
-described to me,
+00:39:20,000 --> 00:39:22,700
+The world that they just described to me,
 
 584
-00:39:22,709 --> 00:39:25,709
-I want to live in that world,
-I want my kids to live
-in that world."
+00:39:22,700 --> 00:39:25,700
+I want to live in that world, I want my kids to live in that world."
 
 585
-00:39:25,709 --> 00:39:28,875
-[reporter 1] A tiny gadget
-that combines the telephone,
+00:39:25,700 --> 00:39:28,870
+[reporter 1] A tiny gadget that combines the telephone,
 
 586
-00:39:28,875 --> 00:39:31,625
-a fax machine,
-and a personal computer.
+00:39:28,870 --> 00:39:31,620
+a fax machine, and a personal computer.
 
 587
-00:39:31,625 --> 00:39:34,250
-Cellular phone,
-a pocket pager and a notepad.
+00:39:31,620 --> 00:39:34,250
+Cellular phone, a pocket pager and a notepad.
 
 588
-00:39:34,250 --> 00:39:37,166
-Sounds a bit like
-something from Star Trek, you
-can send and receive messages,
+00:39:34,250 --> 00:39:37,160
+Sounds a bit like something from Star Trek, you can send and receive messages,
 
 589
-00:39:37,166 --> 00:39:42,250
-order tickets, get the latest
-headlines or stock quotes
-and also you can talk on it.
+00:39:37,160 --> 00:39:42,250
+order tickets, get the latest headlines or stock quotes and also you can talk on it.
 
 590
-00:39:42,250 --> 00:39:46,667
-It was wall to wall coverage.
-New York times, Wall Street
-Journal, L.A. Times.
+00:39:42,250 --> 00:39:46,660
+It was wall to wall coverage. New York times, Wall Street Journal, L.A. Times.
 
 591
-00:39:46,667 --> 00:39:48,583
-[Hoffman] It was front page
-in the Economist,
+00:39:46,660 --> 00:39:48,580
+[Hoffman] It was front page in the Economist,
 
 592
-00:39:48,583 --> 00:39:51,542
-front page on the Wall Street
-Journal. No small thing.
+00:39:48,580 --> 00:39:51,540
+front page on the Wall Street Journal. No small thing.
 
 593
-00:39:51,542 --> 00:39:54,625
+00:39:51,540 --> 00:39:54,620
 [reporter] If this works the way this industry wants it to work,
 
 594
-00:39:54,625 --> 00:39:57,959
-this is going to be huge,
-I mean, you are talking about
+00:39:54,620 --> 00:39:57,950
+this is going to be huge, I mean, you are talking about
 
 595
-00:39:57,959 --> 00:40:01,375
-the potential for hundreds of
-millions of devices eventually.
+00:39:57,950 --> 00:40:01,370
+the potential for hundreds of millions of devices eventually.
 
 596
-00:40:01,375 --> 00:40:05,709
-IBM is conspicuously absent from
-the alliance. So is Microsoft,
+00:40:01,370 --> 00:40:05,700
+IBM is conspicuously absent from the alliance. So is Microsoft,
 
 597
-00:40:05,709 --> 00:40:10,250
-which is racing to develop
-its own personal communicating
-software standard.
+00:40:05,700 --> 00:40:10,250
+which is racing to develop its own personal communicating software standard.
 
 598
-00:40:10,250 --> 00:40:15,709
-[reporter] Some say
-it's revolutionary.
-Others simply say it's magic.
+00:40:10,250 --> 00:40:15,700
+[reporter] Some say it's revolutionary. Others simply say it's magic.
 
 599
-00:40:15,709 --> 00:40:17,709
-So we got a ton of coverage,
-a ton of coverage,
+00:40:15,700 --> 00:40:17,700
+So we got a ton of coverage, a ton of coverage,
 
 600
-00:40:17,709 --> 00:40:21,166
-and that's also where,
-the first questions where,
+00:40:17,700 --> 00:40:21,160
+and that's also where, the first questions where,
 
 601
-00:40:21,166 --> 00:40:22,792
+00:40:21,160 --> 00:40:22,790
 "Well, this is, this is huge.
 
 602
-00:40:22,792 --> 00:40:26,000
-Are they going to be able
-to actually fulfill
-on that vision?"
+00:40:22,790 --> 00:40:26,000
+Are they going to be able to actually fulfill on that vision?"
 
 603
-00:40:26,000 --> 00:40:29,917
-[radio host] Marc Porat
-the President and CEO
-and co-founder of General Magic.
+00:40:26,000 --> 00:40:29,910
+[radio host] Marc Porat the President and CEO and co-founder of General Magic.
 
 604
-00:40:29,917 --> 00:40:34,667
-Thank you very much for being
-here. What do you see as your--
-your startup date
+00:40:29,910 --> 00:40:34,660
+Thank you very much for being here. What do you see as your-- your startup date
 
 605
-00:40:34,667 --> 00:40:37,458
-to actually have one of these
-things in somebody's hand?
+00:40:34,660 --> 00:40:37,450
+to actually have one of these things in somebody's hand?
 
 606
-00:40:37,458 --> 00:40:40,291
-[Marc Porat on the phone]
-We'll be talking about dates
-and about product features
+00:40:37,450 --> 00:40:40,290
+[Marc Porat on the phone] We'll be talking about dates and about product features
 
 607
-00:40:40,291 --> 00:40:43,625
-in some detail this summer,
-but I did want to have a chance
-to answer your--
+00:40:40,290 --> 00:40:43,620
+in some detail this summer, but I did want to have a chance to answer your--
 
 608
-00:40:43,625 --> 00:40:45,834
-In other words nobody is saying
-when one of these is gonna be
-available?
+00:40:43,620 --> 00:40:45,830
+In other words nobody is saying when one of these is gonna be available?
 
 609
-00:40:45,834 --> 00:40:47,625
--[Marc Porat] That's correct.
--OK, OK. So--
+00:40:45,830 --> 00:40:47,620
+-[Marc Porat] That's correct. -OK, OK. So--
 
 610
-00:40:47,625 --> 00:40:50,458
-[Marc] I caution--
-I-- I-- I counsel caution...
+00:40:47,620 --> 00:40:50,450
+[Marc] I caution-- I-- I-- I counsel caution...
 
 611
-00:40:50,458 --> 00:40:54,250
-[Adler] ...written record of it.
-Um, but what we have,
-we have sort of...
+00:40:50,450 --> 00:40:54,250
+[Adler] ...written record of it. Um, but what we have, we have sort of...
 
 612
 00:40:54,250 --> 00:40:57,000
-It did not go smoothly
-after that at all.
+It did not go smoothly after that at all.
 
 613
-00:40:57,000 --> 00:41:01,208
-Moments where somebody has
-to start doing something and,
-uh, what we have decided is
+00:40:57,000 --> 00:41:01,200
+Moments where somebody has to start doing something and, uh, what we have decided is
 
 614
-00:41:01,208 --> 00:41:03,750
-that for each of those important
-moments we want to make sure
-that there is
+00:41:01,200 --> 00:41:03,750
+that for each of those important moments we want to make sure that there is
 
 615
-00:41:03,750 --> 00:41:06,959
-real responsibility for someone
-to, you know, to-- to say,
+00:41:03,750 --> 00:41:06,950
+real responsibility for someone to, you know, to-- to say,
 
 616
-00:41:06,959 --> 00:41:09,250
-"I am at this important moment,
-you'll start doing your work."
+00:41:06,950 --> 00:41:09,250
+"I am at this important moment, you'll start doing your work."
 
 617
-00:41:09,250 --> 00:41:14,333
-Marc and Bill
-and Andy together decided,
-"Well, this is the person
+00:41:09,250 --> 00:41:14,330
+Marc and Bill and Andy together decided, "Well, this is the person
 
 618
-00:41:14,333 --> 00:41:18,667
-to manage the engineering team."
-That's what they-- that's what
-they wanted me to do.
+00:41:14,330 --> 00:41:18,660
+to manage the engineering team." That's what they-- that's what they wanted me to do.
 
 619
-00:41:18,667 --> 00:41:20,834
-And then there was
-this one day where
-I came to talk to all of them
+00:41:18,660 --> 00:41:20,830
+And then there was this one day where I came to talk to all of them
 
 620
-00:41:20,834 --> 00:41:24,125
-at once and they said,
-"Oh we don't need a manager.
+00:41:20,830 --> 00:41:24,120
+at once and they said, "Oh we don't need a manager.
 
 621
-00:41:24,125 --> 00:41:28,458
-We don't want you, because
-we don't need a manager.
-Our leader, our leaders
+00:41:24,120 --> 00:41:28,450
+We don't want you, because we don't need a manager. Our leader, our leaders
 
 622
-00:41:28,458 --> 00:41:33,166
-are Andy and Bill. Uh, that's
-what makes this place great,
-is we don't have managers."
+00:41:28,450 --> 00:41:33,160
+are Andy and Bill. Uh, that's what makes this place great, is we don't have managers."
 
 623
-00:41:33,166 --> 00:41:37,125
-[Tony] "We can be
-engineers without a manager
-and we know what's best.
+00:41:33,160 --> 00:41:37,120
+[Tony] "We can be engineers without a manager and we know what's best.
 
 624
-00:41:37,125 --> 00:41:41,000
-Managers are just going to get
-in the way. We don't need
-program managers,
+00:41:37,120 --> 00:41:41,000
+Managers are just going to get in the way. We don't need program managers,
 
 625
-00:41:41,000 --> 00:41:43,667
-we don't need any of that stuff.
-We are just going to
-make it happen."
+00:41:41,000 --> 00:41:43,660
+we don't need any of that stuff. We are just going to make it happen."
 
 626
-00:41:43,667 --> 00:41:45,709
+00:41:43,660 --> 00:41:45,700
 [engine revving]
 
 627
-00:41:49,750 --> 00:41:53,834
-[Marc] There was a fearlessness
-and a sense of correctness,
+00:41:49,750 --> 00:41:53,830
+[Marc] There was a fearlessness and a sense of correctness,
 
 628
-00:41:53,834 --> 00:41:58,375
-no questioning
-of "Could I be wrong?" None.
+00:41:53,830 --> 00:41:58,370
+no questioning of "Could I be wrong?" None.
 
 629
-00:41:58,375 --> 00:42:01,542
-Because that's what
-you need to break
-out of earth's gravity,
+00:41:58,370 --> 00:42:01,540
+Because that's what you need to break out of earth's gravity,
 
 630
-00:42:01,542 --> 00:42:04,667
-you need-- you need
-an enormous amount of momentum.
+00:42:01,540 --> 00:42:04,660
+you need-- you need an enormous amount of momentum.
 
 631
-00:42:04,667 --> 00:42:08,166
-And that momentum comes
-from suppressing introspection
+00:42:04,660 --> 00:42:08,160
+And that momentum comes from suppressing introspection
 
 632
-00:42:08,166 --> 00:42:10,583
-about the possibility
-of failure.
+00:42:08,160 --> 00:42:10,580
+about the possibility of failure.
 
 633
-00:42:12,583 --> 00:42:14,834
-[Stern] The Alliance was the
-biggest and most complicated
+00:42:12,580 --> 00:42:14,830
+[Stern] The Alliance was the biggest and most complicated
 
 634
-00:42:14,834 --> 00:42:17,709
-consortium of global companies
-that had been created
+00:42:14,830 --> 00:42:17,700
+consortium of global companies that had been created
 
 635
-00:42:17,709 --> 00:42:19,375
-up until that time
-in American business.
+00:42:17,700 --> 00:42:19,370
+up until that time in American business.
 
 636
-00:42:19,375 --> 00:42:20,583
-You had competitors
-at the table.
+00:42:19,370 --> 00:42:20,580
+You had competitors at the table.
 
 637
-00:42:20,583 --> 00:42:22,583
-Sony and Panasonic
-hated each other,
+00:42:20,580 --> 00:42:22,580
+Sony and Panasonic hated each other,
 
 638
-00:42:22,583 --> 00:42:24,250
-and it made it
-hard for them to commit
+00:42:22,580 --> 00:42:24,250
+and it made it hard for them to commit
 
 639
-00:42:24,250 --> 00:42:26,125
+00:42:24,250 --> 00:42:26,120
 fully to our business.
 
 640
-00:42:26,125 --> 00:42:27,959
+00:42:26,120 --> 00:42:27,950
 We needed to become independent,
 
 641
-00:42:27,959 --> 00:42:29,333
-and the only way
-we could do that
+00:42:27,950 --> 00:42:29,330
+and the only way we could do that
 
 642
-00:42:29,333 --> 00:42:31,750
-was buy selling stock
-to the public.
+00:42:29,330 --> 00:42:31,750
+was buy selling stock to the public.
 
 643
-00:42:31,750 --> 00:42:34,709
-It was the first,
-so called, concept IPO,
+00:42:31,750 --> 00:42:34,700
+It was the first, so called, concept IPO,
 
 644
-00:42:34,709 --> 00:42:37,208
-which is when a company could
-go public without any revenue,
+00:42:34,700 --> 00:42:37,200
+which is when a company could go public without any revenue,
 
 645
-00:42:37,208 --> 00:42:38,959
+00:42:37,200 --> 00:42:38,950
 let alone any profits.
 
 646
-00:42:38,959 --> 00:42:42,667
-What made that possible?
-The imprimatur of Goldman Sachs.
+00:42:38,950 --> 00:42:42,660
+What made that possible? The imprimatur of Goldman Sachs.
 
 647
-00:42:44,792 --> 00:42:49,375
-Goldman Sachs was the gold
-standard for investment banking.
+00:42:44,790 --> 00:42:49,370
+Goldman Sachs was the gold standard for investment banking.
 
 648
-00:42:49,375 --> 00:42:55,417
-If Goldman was going to do
-your initial public offering,
-it meant that you too
+00:42:49,370 --> 00:42:55,410
+If Goldman was going to do your initial public offering, it meant that you too
 
 649
-00:42:55,417 --> 00:42:59,792
-met the gold standard for
-being a real company
-with real prospects.
+00:42:55,410 --> 00:42:59,790
+met the gold standard for being a real company with real prospects.
 
 650
-00:42:59,792 --> 00:43:02,041
-Didn't have a product,
-didn't have a revenue stream,
+00:42:59,790 --> 00:43:02,040
+Didn't have a product, didn't have a revenue stream,
 
 651
-00:43:02,041 --> 00:43:04,917
+00:43:02,040 --> 00:43:04,910
 but, you know, it seemed cool at the time, let's invest.
 
 652
-00:43:04,917 --> 00:43:07,667
-[Marc] The best investment
-bankers came to pitch us.
+00:43:04,910 --> 00:43:07,660
+[Marc] The best investment bankers came to pitch us.
 
 653
-00:43:07,667 --> 00:43:13,458
-One of them came and said,
-"I must have a piece of the IPO.
+00:43:07,660 --> 00:43:13,450
+One of them came and said, "I must have a piece of the IPO.
 
 654
-00:43:13,458 --> 00:43:17,000
-What would it take, what--
-if I gave you the shirt off
-my back, would that do it?
+00:43:13,450 --> 00:43:17,000
+What would it take, what-- if I gave you the shirt off my back, would that do it?
 
 655
-00:43:17,000 --> 00:43:20,834
-And I said, "Yeah. It would!"
-And he stripped down...
+00:43:17,000 --> 00:43:20,830
+And I said, "Yeah. It would!" And he stripped down...
 
 656
-00:43:20,834 --> 00:43:24,125
-- 别拍这个
-- [笑]
-- Don't film this stuff.
--[laughter]
+00:43:20,830 --> 00:43:24,120
+- 别拍这个 - [笑] - Don't film this stuff. -[laughter]
 
 657
-00:43:24,125 --> 00:43:27,625
-[Marc] And there we were
-standing in the conference room
-with a half-naked banker.
+00:43:24,120 --> 00:43:27,620
+[Marc] And there we were standing in the conference room with a half-naked banker.
 
 658
-00:43:27,625 --> 00:43:30,250
-He got the deal,
-he participated in the IPO.
+00:43:27,620 --> 00:43:30,250
+He got the deal, he participated in the IPO.
 
 659
-00:43:30,250 --> 00:43:33,792
+00:43:30,250 --> 00:43:33,790
 [indistinct chatter]
 
 660
-00:43:33,792 --> 00:43:35,625
-Where is that
-[indistinct] happening?
+00:43:33,790 --> 00:43:35,620
+Where is that [indistinct] happening?
 
 661
-00:43:38,834 --> 00:43:39,667
+00:43:38,830 --> 00:43:39,660
 Right here.
 
 662
-00:43:42,041 --> 00:43:46,458
-So then they didn't make
-any 44260s in five volts without
-this, right, enable thing?
+00:43:42,040 --> 00:43:46,450
+So then they didn't make any 44260s in five volts without this, right, enable thing?
 
 663
-00:43:46,458 --> 00:43:50,250
-[Megan] Probably the most
-challenging part of the product
-was deciding what not to do.
+00:43:46,450 --> 00:43:50,250
+[Megan] Probably the most challenging part of the product was deciding what not to do.
 
 664
-00:43:50,250 --> 00:43:53,166
-What to do and what not to do,
-because it's really hard,
-you're building
+00:43:50,250 --> 00:43:53,160
+What to do and what not to do, because it's really hard, you're building
 
 665
-00:43:53,166 --> 00:43:58,291
-a very complex platform.
-And so just often things
-would take longer.
+00:43:53,160 --> 00:43:58,290
+a very complex platform. And so just often things would take longer.
 
 666
-00:43:58,291 --> 00:44:02,166
-For me, I had never
-done anything like that.
-It was a huge challenge.
+00:43:58,290 --> 00:44:02,160
+For me, I had never done anything like that. It was a huge challenge.
 
 667
-00:44:02,166 --> 00:44:06,875
-You really had to work very hard
-to build what we were
-trying to build.
+00:44:02,160 --> 00:44:06,870
+You really had to work very hard to build what we were trying to build.
 
 668
-00:44:08,834 --> 00:44:12,583
-I really had to up my game
-and they were all like,
-"Fadell you're doing it wrong.
+00:44:08,830 --> 00:44:12,580
+I really had to up my game and they were all like, "Fadell you're doing it wrong.
 
 669
-00:44:12,583 --> 00:44:15,667
-You should be doing it
-that way." And I'm like, "No,
-I think it's the right way."
+00:44:12,580 --> 00:44:15,660
+You should be doing it that way." And I'm like, "No, I think it's the right way."
 
 670
-00:44:15,667 --> 00:44:18,166
-But I couldn't really articulate
-the way they could. So yeah,
+00:44:15,660 --> 00:44:18,160
+But I couldn't really articulate the way they could. So yeah,
 
 671
-00:44:18,166 --> 00:44:22,333
--I had to challenge myself
-and kinda go into the dark hole.
--A3 Volts...
+00:44:18,160 --> 00:44:22,330
+-I had to challenge myself and kinda go into the dark hole. -A3 Volts...
 
 672
-00:44:22,333 --> 00:44:25,709
-[Megan] Once we got the basics
-there, you take the new chip
-that had
+00:44:22,330 --> 00:44:25,700
+[Megan] Once we got the basics there, you take the new chip that had
 
 673
-00:44:25,709 --> 00:44:29,750
-whatever the latest software
-that everybody had put together,
+00:44:25,700 --> 00:44:29,750
+whatever the latest software that everybody had put together,
 
 674
-00:44:29,750 --> 00:44:33,291
-pop it in and begin to see
-the screen come to life.
+00:44:29,750 --> 00:44:33,290
+pop it in and begin to see the screen come to life.
 
 675
 00:44:35,250 --> 00:44:37,000
 [keyboard clicking]
 
 676
-00:44:37,000 --> 00:44:41,375
-[Amy] We could see it,
-we could touch it and feel it.
+00:44:37,000 --> 00:44:41,370
+[Amy] We could see it, we could touch it and feel it.
 
 677
-00:44:41,375 --> 00:44:46,083
-But the responsiveness of
-the device was really slow. Uh,
-the processor was underpowered,
+00:44:41,370 --> 00:44:46,080
+But the responsiveness of the device was really slow. Uh, the processor was underpowered,
 
 678
-00:44:46,083 --> 00:44:52,375
-for example. So the experience
-was a bit tap... tap...
+00:44:46,080 --> 00:44:52,370
+for example. So the experience was a bit tap... tap...
 
 679
-00:44:52,375 --> 00:44:54,458
+00:44:52,370 --> 00:44:54,450
 And, you know, kind of annoying.
 
 680
-00:44:56,375 --> 00:45:00,083
-I was sitting in a lot
-of the user test labs.
+00:44:56,370 --> 00:45:00,080
+I was sitting in a lot of the user test labs.
 
 681
-00:45:00,083 --> 00:45:03,041
-The engineers would sit there
-and say, "No, lady,
-what are you doing?
+00:45:00,080 --> 00:45:03,040
+The engineers would sit there and say, "No, lady, what are you doing?
 
 682
-00:45:03,041 --> 00:45:06,083
-Don't, don't tap that. No, it's
-not there, it's over there!"
+00:45:03,040 --> 00:45:06,080
+Don't, don't tap that. No, it's not there, it's over there!"
 
 683
-00:45:06,083 --> 00:45:09,083
-And we'd all go, "Ooh."
-There was some comedy there.
+00:45:06,080 --> 00:45:09,080
+And we'd all go, "Ooh." There was some comedy there.
 
 684
-00:45:09,083 --> 00:45:12,083
-[woman 1] The thing
-at the bottom that kinda
-looks like a comb,
+00:45:09,080 --> 00:45:12,080
+[woman 1] The thing at the bottom that kinda looks like a comb,
 
 685
-00:45:12,083 --> 00:45:15,917
-I haven't the slightest idea
-what that is.
+00:45:12,080 --> 00:45:15,910
+I haven't the slightest idea what that is.
 
 686
-00:45:15,917 --> 00:45:17,667
-[man] This doesn't look
-like it's working.
+00:45:15,910 --> 00:45:17,660
+[man] This doesn't look like it's working.
 
 687
-00:45:17,667 --> 00:45:19,542
--[chimes]
--[woman] Is this noise
-supposed to be here?
+00:45:17,660 --> 00:45:19,540
+-[chimes] -[woman] Is this noise supposed to be here?
 
 688
-00:45:19,542 --> 00:45:21,917
--[engineer] OK, we've crashed.
-We just crashed.
--[woman] Uh-oh.
+00:45:19,540 --> 00:45:21,910
+-[engineer] OK, we've crashed. We just crashed. -[woman] Uh-oh.
 
 689
-00:45:21,917 --> 00:45:24,083
-[Hershenson]
-It had this little top hat.
+00:45:21,910 --> 00:45:24,080
+[Hershenson] It had this little top hat.
 
 690
-00:45:24,083 --> 00:45:26,542
-Like some operating systems
-had little spinning wheels
+00:45:24,080 --> 00:45:26,540
+Like some operating systems had little spinning wheels
 
 691
-00:45:26,542 --> 00:45:28,917
-or a top hat would
-just start spinning.
+00:45:26,540 --> 00:45:28,910
+or a top hat would just start spinning.
 
 692
-00:45:28,917 --> 00:45:30,959
-And just start spinning
-and just keep spinning.
+00:45:28,910 --> 00:45:30,950
+And just start spinning and just keep spinning.
 
 693
-00:45:30,959 --> 00:45:33,542
-You just stare
-at this ####### thing.
+00:45:30,950 --> 00:45:33,540
+You just stare at this ####### thing.
 
 694
-00:45:33,542 --> 00:45:36,250
-Finally you just pull out
-the battery and reset
-the device,
+00:45:33,540 --> 00:45:36,250
+Finally you just pull out the battery and reset the device,
 
 695
-00:45:36,250 --> 00:45:38,333
-because there is
-no point in waiting.
+00:45:36,250 --> 00:45:38,330
+because there is no point in waiting.
 
 696
-00:45:38,333 --> 00:45:41,750
--[beeping]
--[indistinct] target for
-re-bunking.
+00:45:38,330 --> 00:45:41,750
+-[beeping] -[indistinct] target for re-bunking.
 
 697
-00:45:41,750 --> 00:45:44,583
-[engineer] It's not my fault,
-is it? It's the software
-engineer.
+00:45:41,750 --> 00:45:44,580
+[engineer] It's not my fault, is it? It's the software engineer.
 
 698
-00:45:44,583 --> 00:45:49,208
-And, you know, it's slowly
-dawning on us, like we are not
-gonna get this done.
+00:45:44,580 --> 00:45:49,200
+And, you know, it's slowly dawning on us, like we are not gonna get this done.
 
 699
-00:45:49,208 --> 00:45:52,000
-[woman 1] This isn't a finished
-program by any means, is it?
+00:45:49,200 --> 00:45:52,000
+[woman 1] This isn't a finished program by any means, is it?
 
 700
-00:45:57,959 --> 00:46:01,166
-[Stern] The roadshow for
-the General Magic
-public offering
+00:45:57,950 --> 00:46:01,160
+[Stern] The roadshow for the General Magic public offering
 
 701
-00:46:01,166 --> 00:46:04,792
-was flying around in a private
-jet, flying first class,
+00:46:01,160 --> 00:46:04,790
+was flying around in a private jet, flying first class,
 
 702
-00:46:04,792 --> 00:46:10,291
-staying in the best hotels and
-having people sit at our feet
-and lap up what we were saying.
+00:46:04,790 --> 00:46:10,290
+staying in the best hotels and having people sit at our feet and lap up what we were saying.
 
 703
-00:46:10,291 --> 00:46:12,625
-The closest thing it comes to
-is touring with a rock band.
+00:46:10,290 --> 00:46:12,620
+The closest thing it comes to is touring with a rock band.
 
 704
-00:46:12,625 --> 00:46:16,125
-We've got a roadie crew
-that has to set up
-the cameras and the big screen
+00:46:12,620 --> 00:46:16,120
+We've got a roadie crew that has to set up the cameras and the big screen
 
 705
-00:46:16,125 --> 00:46:18,709
-to make sure that people
-can see the demonstration
-of the device.
+00:46:16,120 --> 00:46:18,700
+to make sure that people can see the demonstration of the device.
 
 706
-00:46:18,709 --> 00:46:24,583
-What we envisioned is something
-in your hand that's with you
-all the time, that allows you
+00:46:18,700 --> 00:46:24,580
+What we envisioned is something in your hand that's with you all the time, that allows you
 
 707
-00:46:24,583 --> 00:46:29,625
-to have access whether it's
-for fun or more importantly for
-mission critical applications.
+00:46:24,580 --> 00:46:29,620
+to have access whether it's for fun or more importantly for mission critical applications.
 
 708
-00:46:29,625 --> 00:46:31,333
+00:46:29,620 --> 00:46:31,330
 [audience applauding]
 
 709
-00:46:31,333 --> 00:46:33,709
-All we did was
-demonstrate the device.
+00:46:31,330 --> 00:46:33,700
+All we did was demonstrate the device.
 
 710
-00:46:33,709 --> 00:46:38,792
-I would go out in the hallway
-and I would pretend to be
-an airline company
+00:46:33,700 --> 00:46:38,790
+I would go out in the hallway and I would pretend to be an airline company
 
 711
-00:46:38,792 --> 00:46:44,166
-and Marc would make an airline
-reservation, and in real time,
-Marc would reserve a flight,
+00:46:38,790 --> 00:46:44,160
+and Marc would make an airline reservation, and in real time, Marc would reserve a flight,
 
 712
-00:46:44,166 --> 00:46:47,667
-and blow people away
-because no one had ever
-seen anything like it.
+00:46:44,160 --> 00:46:47,660
+and blow people away because no one had ever seen anything like it.
 
 713
-00:46:47,667 --> 00:46:49,959
-We've got tools,
-we've got partners.
+00:46:47,660 --> 00:46:49,950
+We've got tools, we've got partners.
 
 714
-00:46:49,959 --> 00:46:51,542
-We've got markets that are
-happening all around us.
+00:46:49,950 --> 00:46:51,540
+We've got markets that are happening all around us.
 
 715
-00:46:51,542 --> 00:46:53,625
--Give us a clap.
--[audience applauding]
+00:46:51,540 --> 00:46:53,620
+-Give us a clap. -[audience applauding]
 
 716
-00:46:53,625 --> 00:46:56,583
+00:46:53,620 --> 00:46:56,580
 Great. That's the right stuff.
 
 717
-00:46:56,583 --> 00:47:01,333
-[Stern] The roadshow succeeded
-beyond everybody's wild
-expectations.
+00:46:56,580 --> 00:47:01,330
+[Stern] The roadshow succeeded beyond everybody's wild expectations.
 
 718
-00:47:01,333 --> 00:47:04,208
-The first concept public
-offering in Silicon Valley
-history
+00:47:01,330 --> 00:47:04,200
+The first concept public offering in Silicon Valley history
 
 719
-00:47:04,208 --> 00:47:08,959
-and we raised a total of, uh,
-96 million dollars.
+00:47:04,200 --> 00:47:08,950
+and we raised a total of, uh, 96 million dollars.
 
 720
-00:47:08,959 --> 00:47:09,875
-That's about as good
-as it gets.
+00:47:08,950 --> 00:47:09,870
+That's about as good as it gets.
 
 721
-00:47:12,000 --> 00:47:17,041
-We were kings of the universe,
-and it was really fun.
+00:47:12,000 --> 00:47:17,040
+We were kings of the universe, and it was really fun.
 
 722
-00:47:19,875 --> 00:47:23,417
-[Marc] Today we would call it
-going viral. The press loved us.
+00:47:19,870 --> 00:47:23,410
+[Marc] Today we would call it going viral. The press loved us.
 
 723
-00:47:23,417 --> 00:47:26,375
-They heard the vision,
-they saw what was going on,
-and whoop! They're in.
+00:47:23,410 --> 00:47:26,370
+They heard the vision, they saw what was going on, and whoop! They're in.
 
 724
-00:47:26,375 --> 00:47:29,709
-[MacAskill]
-I was just afraid Marc thought
-things were just too easy to do.
+00:47:26,370 --> 00:47:29,700
+[MacAskill] I was just afraid Marc thought things were just too easy to do.
 
 725
-00:47:29,709 --> 00:47:32,375
-How are you gonna get
-the price point? How are you
-gonna keep it from crashing?
+00:47:29,700 --> 00:47:32,370
+How are you gonna get the price point? How are you gonna keep it from crashing?
 
 726
-00:47:32,375 --> 00:47:34,875
-How are you gonna make it
-fast enough? How are you
-gonna make it readable?
+00:47:32,370 --> 00:47:34,870
+How are you gonna make it fast enough? How are you gonna make it readable?
 
 727
-00:47:34,875 --> 00:47:37,208
-I just didn't think
-he was focused on that stuff.
+00:47:34,870 --> 00:47:37,200
+I just didn't think he was focused on that stuff.
 
 728
-00:47:37,208 --> 00:47:41,208
-[Tony] We were so distracted
-by all the articles,
+00:47:37,200 --> 00:47:41,200
+[Tony] We were so distracted by all the articles,
 
 729
-00:47:41,208 --> 00:47:45,417
-that we started to believe
-our own-- our own tale.
+00:47:41,200 --> 00:47:45,410
+that we started to believe our own-- our own tale.
 
 730
-00:47:45,417 --> 00:47:48,792
-You know that we're
-gonna conquer the world,
-but yet we hadn't finished.
+00:47:45,410 --> 00:47:48,790
+You know that we're gonna conquer the world, but yet we hadn't finished.
 
 731
-00:47:48,792 --> 00:47:53,291
-We were not paying attention
-to the other external trends
-that were happening around us,
+00:47:48,790 --> 00:47:53,290
+We were not paying attention to the other external trends that were happening around us,
 
 732
-00:47:53,291 --> 00:47:56,542
-because we were aiming
-so far out in the future.
-It was like the--
+00:47:53,290 --> 00:47:56,540
+because we were aiming so far out in the future. It was like the--
 
 733
-00:47:56,542 --> 00:48:00,083
-the current context around us
-really wasn't considered
-that relevant,
+00:47:56,540 --> 00:48:00,080
+the current context around us really wasn't considered that relevant,
 
 734
-00:48:00,083 --> 00:48:04,458
-because we were aiming to far
-out. But boy was that relevant.
+00:48:00,080 --> 00:48:04,450
+because we were aiming to far out. But boy was that relevant.
 
 735
-00:48:06,500 --> 00:48:09,583
+00:48:06,500 --> 00:48:09,580
 [modem connecting sound]
 
 736
-00:48:09,583 --> 00:48:13,583
-[TV announcer 1] Put simply
-the internet is just
-a network of networks.
+00:48:09,580 --> 00:48:13,580
+[TV announcer 1] Put simply the internet is just a network of networks.
 
 737
-00:48:13,583 --> 00:48:16,750
-[TV announcer] In recent years,
-a relatively unknown
-communication system,
+00:48:13,580 --> 00:48:16,750
+[TV announcer] In recent years, a relatively unknown communication system,
 
 738
-00:48:16,750 --> 00:48:20,792
-called the Internet,
-has exploded in popularity
-with such intensity
+00:48:16,750 --> 00:48:20,790
+called the Internet, has exploded in popularity with such intensity
 
 739
-00:48:20,792 --> 00:48:26,000
-that it's predicted that over
-25 million people will be
-using it by the year 1998...
+00:48:20,790 --> 00:48:26,000
+that it's predicted that over 25 million people will be using it by the year 1998...
 
 740
-00:48:26,000 --> 00:48:28,792
-And we had an intern who's like,
-"Hey everybody,
+00:48:26,000 --> 00:48:28,790
+And we had an intern who's like, "Hey everybody,
 
 741
-00:48:28,792 --> 00:48:32,041
-it's all about the Web. You
-guys are totally missing it."
-He was telling us this.
+00:48:28,790 --> 00:48:32,040
+it's all about the Web. You guys are totally missing it." He was telling us this.
 
 742
-00:48:32,041 --> 00:48:36,583
-It was probably late 94' early
-95' and you could go to every
-Website at that time.
+00:48:32,040 --> 00:48:36,580
+It was probably late 94' early 95' and you could go to every Website at that time.
 
 743
-00:48:36,583 --> 00:48:39,291
-There was a list of them
-and you could go and visit
-all of the Websites.
+00:48:36,580 --> 00:48:39,290
+There was a list of them and you could go and visit all of the Websites.
 
 744
-00:48:39,291 --> 00:48:42,875
-And it was all very rough,
-you know there was mostly text.
+00:48:39,290 --> 00:48:42,870
+And it was all very rough, you know there was mostly text.
 
 745
-00:48:42,875 --> 00:48:48,291
-Uh, having graphics was leading
-edge and we were working on
-this rich multimedia system
+00:48:42,870 --> 00:48:48,290
+Uh, having graphics was leading edge and we were working on this rich multimedia system
 
 746
-00:48:48,291 --> 00:48:53,375
-with audio and graphics
-and things animating
-and the richness was far beyond
+00:48:48,290 --> 00:48:53,370
+with audio and graphics and things animating and the richness was far beyond
 
 747
-00:48:53,375 --> 00:48:57,792
-what the web was, but the web
-had-- had worldwide reach.
+00:48:53,370 --> 00:48:57,790
+what the web was, but the web had-- had worldwide reach.
 
 748
-00:48:57,792 --> 00:49:01,291
-[Amy] This other force
-had appeared and we weren't
-looking at it, you know.
+00:48:57,790 --> 00:49:01,290
+[Amy] This other force had appeared and we weren't looking at it, you know.
 
 749
-00:49:01,291 --> 00:49:04,458
-We were in bed with AT&T
-with our private cloud.
+00:49:01,290 --> 00:49:04,450
+We were in bed with AT&T with our private cloud.
 
 750
-00:49:04,458 --> 00:49:09,250
-The whole point about having
-a closed network is that people
-had to pay to use it,
+00:49:04,450 --> 00:49:09,250
+The whole point about having a closed network is that people had to pay to use it,
 
 751
-00:49:09,250 --> 00:49:11,834
-and that's where AT&T was going
-to generate it's revenue.
+00:49:09,250 --> 00:49:11,830
+and that's where AT&T was going to generate it's revenue.
 
 752
-00:49:11,834 --> 00:49:18,291
-The problem was pivoting toward
-the World Wide Web, that would
-have meant cannibalizing
+00:49:11,830 --> 00:49:18,290
+The problem was pivoting toward the World Wide Web, that would have meant cannibalizing
 
 753
-00:49:18,291 --> 00:49:23,375
-or perhaps even wrecking AT&T's
-business model and we just
-couldn't do it.
+00:49:18,290 --> 00:49:23,370
+or perhaps even wrecking AT&T's business model and we just couldn't do it.
 
 754
-00:49:23,375 --> 00:49:28,875
-I have to invest the time,
-the time to keep banging
-on the web
+00:49:23,370 --> 00:49:28,870
+I have to invest the time, the time to keep banging on the web
 
 755
-00:49:28,875 --> 00:49:34,333
-with my mouse and my keyboard
-because unless I do that nothing
-happens. The web is passive.
+00:49:28,870 --> 00:49:34,330
+with my mouse and my keyboard because unless I do that nothing happens. The web is passive.
 
 756
-00:49:34,333 --> 00:49:37,625
-[Stern] But even though it was
-all here, right in front of us,
+00:49:34,330 --> 00:49:37,620
+[Stern] But even though it was all here, right in front of us,
 
 757
-00:49:37,625 --> 00:49:41,500
-we were unable to see
-that was the way to go.
+00:49:37,620 --> 00:49:41,500
+we were unable to see that was the way to go.
 
 758
-00:49:43,333 --> 00:49:46,542
+00:49:43,330 --> 00:49:46,540
 [lively music]
 
 759
-00:49:55,667 --> 00:50:00,417
-[MacAskill] One of our
-developers, Pierre Omidyar,
-very quiet, soft spoken guy.
+00:49:55,660 --> 00:50:00,410
+[MacAskill] One of our developers, Pierre Omidyar, very quiet, soft spoken guy.
 
 760
-00:50:00,417 --> 00:50:04,750
-He had a Webpage, and down
-at the bottom it had a click
-through called Auction Web.
+00:50:00,410 --> 00:50:04,750
+He had a Webpage, and down at the bottom it had a click through called Auction Web.
 
 761
-00:50:04,750 --> 00:50:07,083
-Every once in a while
-I would pass his desk
+00:50:04,750 --> 00:50:07,080
+Every once in a while I would pass his desk
 
 762
-00:50:07,083 --> 00:50:09,625
-and he would go, "Dee, come over
-here, let me show you this."
+00:50:07,080 --> 00:50:09,620
+and he would go, "Dee, come over here, let me show you this."
 
 763
-00:50:09,625 --> 00:50:13,125
-So he would show me
-what he was doing
-and of course he explained it as
+00:50:09,620 --> 00:50:13,120
+So he would show me what he was doing and of course he explained it as
 
 764
-00:50:13,125 --> 00:50:16,375
-it was gonna be kind
-of a garage sale, flea market,
+00:50:13,120 --> 00:50:16,370
+it was gonna be kind of a garage sale, flea market,
 
 765
-00:50:16,375 --> 00:50:21,542
-kind of site. OK, why do we need
-that? And so... [chuckling]
+00:50:16,370 --> 00:50:21,540
+kind of site. OK, why do we need that? And so... [chuckling]
 
 766
-00:50:21,542 --> 00:50:23,917
-[Stern] And he came to me
-and said, "Do you
-wanna help grow it?
+00:50:21,540 --> 00:50:23,910
+[Stern] And he came to me and said, "Do you wanna help grow it?
 
 767
-00:50:23,917 --> 00:50:26,917
-You know, is it something you
-think is a good idea? I'd like
-to turn it into a--
+00:50:23,910 --> 00:50:26,910
+You know, is it something you think is a good idea? I'd like to turn it into a--
 
 768
-00:50:26,917 --> 00:50:30,375
-into a company possibly.
-Would you help me spin it out?"
-I just looked at him and said,
+00:50:26,910 --> 00:50:30,370
+into a company possibly. Would you help me spin it out?" I just looked at him and said,
 
 769
-00:50:30,375 --> 00:50:33,375
-"You know, this is the dumbest
-idea I've ever heard.
+00:50:30,370 --> 00:50:33,370
+"You know, this is the dumbest idea I've ever heard.
 
 770
-00:50:33,375 --> 00:50:35,375
-You're gonna get strangers
-to trust each other
-on the Internet?
+00:50:33,370 --> 00:50:35,370
+You're gonna get strangers to trust each other on the Internet?
 
 771
-00:50:35,375 --> 00:50:38,458
-Lots of luck. We're
-not interested, have fun."
+00:50:35,370 --> 00:50:38,450
+Lots of luck. We're not interested, have fun."
 
 772
-00:50:38,458 --> 00:50:43,917
+00:50:38,450 --> 00:50:43,910
 [lively music]
 
 773
-00:50:43,917 --> 00:50:46,875
-[MacAskill] He tried to get
-lots of people to join
-and nobody would join
+00:50:43,910 --> 00:50:46,870
+[MacAskill] He tried to get lots of people to join and nobody would join
 
 774
-00:50:46,875 --> 00:50:50,250
-'cause they just thought it was
-a flea market. I took him down
-to an investor conference
+00:50:46,870 --> 00:50:50,250
+'cause they just thought it was a flea market. I took him down to an investor conference
 
 775
-00:50:50,250 --> 00:50:54,417
-in Palm Springs,
-so I got 15 people in there
-and seven of them left
+00:50:50,250 --> 00:50:54,410
+in Palm Springs, so I got 15 people in there and seven of them left
 
 776
-00:50:54,417 --> 00:50:56,750
-during his presentation,
-because it was a long,
-boring presentation.
+00:50:54,410 --> 00:50:56,750
+during his presentation, because it was a long, boring presentation.
 
 777
 00:50:56,750 --> 00:50:59,500
-He had this pony tail
-down to his waist. He didn't
-look like the kind of guy
+He had this pony tail down to his waist. He didn't look like the kind of guy
 
 778
-00:50:59,500 --> 00:51:02,917
-who was the CEO of any kind
-of company. Some investors said
-never do that to me again
+00:50:59,500 --> 00:51:02,910
+who was the CEO of any kind of company. Some investors said never do that to me again
 
 779
-00:51:02,917 --> 00:51:07,333
-because that's flea market,
-you could never make a good
-brand out of that.
+00:51:02,910 --> 00:51:07,330
+because that's flea market, you could never make a good brand out of that.
 
 780
-00:51:07,333 --> 00:51:09,375
--And that's how eBay
-was launched.
--[chimes]
+00:51:07,330 --> 00:51:09,370
+-And that's how eBay was launched. -[chimes]
 
 781
-00:51:09,375 --> 00:51:12,542
-[MacAskill] We had him in our
-midst, and we had no idea.
+00:51:09,370 --> 00:51:12,540
+[MacAskill] We had him in our midst, and we had no idea.
 
 782
-00:51:12,542 --> 00:51:17,125
-He was, he was a tech support
-engineer and a very quiet guy.
-We had no idea.
+00:51:12,540 --> 00:51:17,120
+He was, he was a tech support engineer and a very quiet guy. We had no idea.
 
 783
-00:51:19,667 --> 00:51:23,417
-[Hershenson] Meanwhile we are
-hearing about, you know,
-the partners
+00:51:19,660 --> 00:51:23,410
+[Hershenson] Meanwhile we are hearing about, you know, the partners
 
 784
-00:51:23,417 --> 00:51:26,083
-need a final version
-to put in the ROMS to ship.
+00:51:23,410 --> 00:51:26,080
+need a final version to put in the ROMS to ship.
 
 785
-00:51:26,083 --> 00:51:28,500
-[Andy] Any deferral of schedule
-is very politically charged,
+00:51:26,080 --> 00:51:28,500
+[Andy] Any deferral of schedule is very politically charged,
 
 786
-00:51:28,500 --> 00:51:33,041
-so what we decided to do was
-just remove the schedule
-from that information pack.
+00:51:28,500 --> 00:51:33,040
+so what we decided to do was just remove the schedule from that information pack.
 
 787
-00:51:33,041 --> 00:51:37,208
-Sony was just, you know,
-insistent about that, like,
-"Where is it? Where is it?"
+00:51:33,040 --> 00:51:37,200
+Sony was just, you know, insistent about that, like, "Where is it? Where is it?"
 
 788
-00:51:37,208 --> 00:51:42,208
-And there's only so many excuses
-you can come up with to try to
-put them off to say, you know,
+00:51:37,200 --> 00:51:42,200
+And there's only so many excuses you can come up with to try to put them off to say, you know,
 
 789
-00:51:42,208 --> 00:51:46,166
-"Just a little bit longer,
-just a little bit longer."
-They're losing patience.
+00:51:42,200 --> 00:51:46,160
+"Just a little bit longer, just a little bit longer." They're losing patience.
 
 790
-00:51:46,166 --> 00:51:48,792
-[General Magic engineer]
-Hope to deliver that
-by December 1st.
+00:51:46,160 --> 00:51:48,790
+[General Magic engineer] Hope to deliver that by December 1st.
 
 791
-00:51:48,792 --> 00:51:52,917
-Uh, we're still evaluating that,
-to see whether we can
-meet that date.
+00:51:48,790 --> 00:51:52,910
+Uh, we're still evaluating that, to see whether we can meet that date.
 
 792
-00:51:52,917 --> 00:51:55,250
-And then we started
-blowing schedules.
+00:51:52,910 --> 00:51:55,250
+And then we started blowing schedules.
 
 793
-00:51:55,250 --> 00:51:57,333
-It's... uh,
-it's in development right now.
+00:51:55,250 --> 00:51:57,330
+It's... uh, it's in development right now.
 
 794
-00:51:57,333 --> 00:52:00,458
-We expect to be delayed
-by approximately one quarter.
+00:51:57,330 --> 00:52:00,450
+We expect to be delayed by approximately one quarter.
 
 795
-00:52:00,458 --> 00:52:03,125
--What is going on here?
--[GM engineer] I've
-just gotten a little sick
+00:52:00,450 --> 00:52:03,120
+-What is going on here? -[GM engineer] I've just gotten a little sick
 
 796
-00:52:03,125 --> 00:52:06,792
-of all this complaining about
-our schedule slips, dammit.
-We do a good job here.
+00:52:03,120 --> 00:52:06,790
+of all this complaining about our schedule slips, dammit. We do a good job here.
 
 797
-00:52:06,792 --> 00:52:10,375
-We are a little slow sometimes
-and we have a lot of bugs,
-but so what?
+00:52:06,790 --> 00:52:10,370
+We are a little slow sometimes and we have a lot of bugs, but so what?
 
 798
-00:52:10,375 --> 00:52:13,750
-I started to understand
-where the cracks
-were starting to begin
+00:52:10,370 --> 00:52:13,750
+I started to understand where the cracks were starting to begin
 
 799
 00:52:13,750 --> 00:52:17,500
-and where we didn't have a real
-message, and a real clear
-what we were building,
+and where we didn't have a real message, and a real clear what we were building,
 
 800
 00:52:17,500 --> 00:52:20,250
-and what we weren't building,
-and for whom, and for how much
+and what we weren't building, and for whom, and for how much
 
 801
-00:52:20,250 --> 00:52:22,667
-was it gonna cost,
-and when it was going to ship.
+00:52:20,250 --> 00:52:22,660
+was it gonna cost, and when it was going to ship.
 
 802
-00:52:22,667 --> 00:52:25,500
-[Andy] This is kind of the pet
-shop where the animals are kept,
+00:52:22,660 --> 00:52:25,500
+[Andy] This is kind of the pet shop where the animals are kept,
 
 803
-00:52:25,500 --> 00:52:28,125
-and the animals have different
-behavior when you pick them up.
+00:52:25,500 --> 00:52:28,120
+and the animals have different behavior when you pick them up.
 
 804
-00:52:28,125 --> 00:52:31,875
-When I pick the cat up, it kind
-of scrunches up against
+00:52:28,120 --> 00:52:31,870
+When I pick the cat up, it kind of scrunches up against
 
 805
-00:52:31,875 --> 00:52:36,041
-the glass and when
-I drop him, he tumbles.
+00:52:31,870 --> 00:52:36,040
+the glass and when I drop him, he tumbles.
 
 806
-00:52:36,041 --> 00:52:39,333
-[Hershenson] These really
-creative people, but they would
-have these flights of fancy.
+00:52:36,040 --> 00:52:39,330
+[Hershenson] These really creative people, but they would have these flights of fancy.
 
 807
-00:52:39,333 --> 00:52:41,709
-I mean, they would just go off
-in all kinds of crazy directions
+00:52:39,330 --> 00:52:41,700
+I mean, they would just go off in all kinds of crazy directions
 
 808
-00:52:41,709 --> 00:52:47,333
-and they were amazing ideas,
-but, dudes, we got to ship
-a product at the end of the day.
+00:52:41,700 --> 00:52:47,330
+and they were amazing ideas, but, dudes, we got to ship a product at the end of the day.
 
 809
-00:52:47,333 --> 00:52:51,458
-And during that time,
-the Newton shipped.
+00:52:47,330 --> 00:52:51,450
+And during that time, the Newton shipped.
 
 810
-00:52:51,458 --> 00:52:53,917
-[Apple engineer] Ladies
-and gentleman, Newton is here.
+00:52:51,450 --> 00:52:53,910
+[Apple engineer] Ladies and gentleman, Newton is here.
 
 811
-00:52:53,917 --> 00:52:57,709
-[Sculley] Newton was the product
-that was ready to go.
+00:52:53,910 --> 00:52:57,700
+[Sculley] Newton was the product that was ready to go.
 
 812
-00:52:57,709 --> 00:53:00,041
-It was all about
-new technologies.
+00:52:57,700 --> 00:53:00,040
+It was all about new technologies.
 
 813
-00:53:00,041 --> 00:53:03,709
-The most important thing
-that I've ever been involved
-with in my entire life.
+00:53:00,040 --> 00:53:03,700
+The most important thing that I've ever been involved with in my entire life.
 
 814
-00:53:03,709 --> 00:53:06,333
-[Hershenson] It's bad enough you
-get betrayed by them, but now
+00:53:03,700 --> 00:53:06,330
+[Hershenson] It's bad enough you get betrayed by them, but now
 
 815
-00:53:06,333 --> 00:53:09,667
-they're gonna try to
-put you out of business.
+00:53:06,330 --> 00:53:09,660
+they're gonna try to put you out of business.
 
 816
-00:53:09,667 --> 00:53:13,375
+00:53:09,660 --> 00:53:13,370
 [ominous music]
 
 817
 00:53:16,250 --> 00:53:18,750
-[Marc] There was always
-something else to be tuned up,
+[Marc] There was always something else to be tuned up,
 
 818
-00:53:18,750 --> 00:53:20,375
-there was some bug
-to be caught,
+00:53:18,750 --> 00:53:20,370
+there was some bug to be caught,
 
 819
-00:53:20,375 --> 00:53:22,291
-there was some memory leak
-to be plugged up
+00:53:20,370 --> 00:53:22,290
+there was some memory leak to be plugged up
 
 820
-00:53:22,291 --> 00:53:25,291
-and the date got later
-and later and later.
+00:53:22,290 --> 00:53:25,290
+and the date got later and later and later.
 
 821
-00:53:26,041 --> 00:53:27,709
+00:53:26,040 --> 00:53:27,700
 I'd made commitments.
 
 822
-00:53:27,709 --> 00:53:29,291
-The company had made
-commitments,
+00:53:27,700 --> 00:53:29,290
+The company had made commitments,
 
 823
-00:53:29,291 --> 00:53:31,583
-and the commitments
-were now being undone
+00:53:29,290 --> 00:53:31,580
+and the commitments were now being undone
 
 824
-00:53:31,583 --> 00:53:35,667
-by our inability, or maybe
-even cultural unwillingness
+00:53:31,580 --> 00:53:35,660
+by our inability, or maybe even cultural unwillingness
 
 825
-00:53:35,667 --> 00:53:38,166
-to let something out the door
-that wasn't like perfect.
+00:53:35,660 --> 00:53:38,160
+to let something out the door that wasn't like perfect.
 
 826
-00:53:38,166 --> 00:53:43,250
-And I felt the first wave,
-that first zap of terror.
+00:53:38,160 --> 00:53:43,250
+And I felt the first wave, that first zap of terror.
 
 827
-00:53:43,250 --> 00:53:46,667
-We were too dazzled by
-what it could possibly do
+00:53:43,250 --> 00:53:46,660
+We were too dazzled by what it could possibly do
 
 828
-00:53:46,667 --> 00:53:51,625
-to kind of realize
-we were biting off
-more than we could chew.
+00:53:46,660 --> 00:53:51,620
+to kind of realize we were biting off more than we could chew.
 
 829
-00:53:51,625 --> 00:53:56,208
-I was still in creative mode,
-working on a flipping coin,
+00:53:51,620 --> 00:53:56,200
+I was still in creative mode, working on a flipping coin,
 
 830
-00:53:56,208 --> 00:53:58,417
-uh, so the game room would
-have something in it.
+00:53:56,200 --> 00:53:58,410
+uh, so the game room would have something in it.
 
 831
-00:53:58,417 --> 00:54:02,500
-Whereas you tap the coin and it
-would flip around heads or tails
+00:53:58,410 --> 00:54:02,500
+Whereas you tap the coin and it would flip around heads or tails
 
 832
-00:54:02,500 --> 00:54:05,417
-and gave you a random number
-for feedback and all.
+00:54:02,500 --> 00:54:05,410
+and gave you a random number for feedback and all.
 
 833
-00:54:05,417 --> 00:54:09,417
-And I was setting a bad example
-for the team by doing stuff
+00:54:05,410 --> 00:54:09,410
+And I was setting a bad example for the team by doing stuff
 
 834
-00:54:09,417 --> 00:54:13,250
-that was relatively
-frivolous when we needed
+00:54:09,410 --> 00:54:13,250
+that was relatively frivolous when we needed
 
 835
-00:54:13,250 --> 00:54:18,917
-to concentrate on the boring,
-uh, but necessary parts.
+00:54:13,250 --> 00:54:18,910
+to concentrate on the boring, uh, but necessary parts.
 
 836
-00:54:18,917 --> 00:54:24,417
-And it really made me
-do some soul searching
-that I was kind of, uh...
+00:54:18,910 --> 00:54:24,410
+And it really made me do some soul searching that I was kind of, uh...
 
 837
-00:54:24,417 --> 00:54:27,583
-leading people astray
-and not having
+00:54:24,410 --> 00:54:27,580
+leading people astray and not having
 
 838
-00:54:27,583 --> 00:54:31,792
-quite the right, uh,
-seriousness of our situation.
+00:54:27,580 --> 00:54:31,790
+quite the right, uh, seriousness of our situation.
 
 839
-00:54:31,792 --> 00:54:36,000
-[Adler] The deadline
-is everything, meet this date
-or miss your opportunity
+00:54:31,790 --> 00:54:36,000
+[Adler] The deadline is everything, meet this date or miss your opportunity
 
 840
-00:54:36,000 --> 00:54:37,458
+00:54:36,000 --> 00:54:37,450
 to change the world.
 
 841
-00:54:37,458 --> 00:54:39,166
-I don't think we had
-anyone saying that.
+00:54:37,450 --> 00:54:39,160
+I don't think we had anyone saying that.
 
 842
-00:54:39,166 --> 00:54:44,083
-I was like,
-"Huh... OK, I'm not crazy,
+00:54:39,160 --> 00:54:44,080
+I was like, "Huh... OK, I'm not crazy,
 
 843
-00:54:44,083 --> 00:54:47,458
-I love all the people I work
-with, but something
-ain't right."
+00:54:44,080 --> 00:54:47,450
+I love all the people I work with, but something ain't right."
 
 844
-00:54:49,417 --> 00:54:53,125
-My heroes, these icons,
-that I know as people now,
+00:54:49,410 --> 00:54:53,120
+My heroes, these icons, that I know as people now,
 
 845
-00:54:53,125 --> 00:54:55,834
-how are they letting
-this happen?
+00:54:53,120 --> 00:54:55,830
+how are they letting this happen?
 
 846
-00:54:55,834 --> 00:54:57,458
+00:54:55,830 --> 00:54:57,450
 Don't they see? Don't--
 
 847
-00:54:57,458 --> 00:54:59,542
-Aren't they listening?
-Kind of like parents, right?
+00:54:57,450 --> 00:54:59,540
+Aren't they listening? Kind of like parents, right?
 
 848
-00:54:59,542 --> 00:55:02,792
-At some point when you grow up,
-your parents can do no wrong,
+00:54:59,540 --> 00:55:02,790
+At some point when you grow up, your parents can do no wrong,
 
 849
-00:55:02,792 --> 00:55:05,583
-and then they can only do wrong.
-It was kind of that same thing.
+00:55:02,790 --> 00:55:05,580
+and then they can only do wrong. It was kind of that same thing.
 
 850
-00:55:05,583 --> 00:55:09,333
-I grew up as a person,
-and these people who I saw
+00:55:05,580 --> 00:55:09,330
+I grew up as a person, and these people who I saw
 
 851
-00:55:09,333 --> 00:55:13,041
-as parents and as educators
-started to become
+00:55:09,330 --> 00:55:13,040
+as parents and as educators started to become
 
 852
-00:55:13,041 --> 00:55:17,625
-you know, humans as well
-in my eye, not just icons.
+00:55:13,040 --> 00:55:17,620
+you know, humans as well in my eye, not just icons.
 
 853
-00:55:17,625 --> 00:55:21,667
-And that's when it kind
-of flipped for me like,
-"I can't just follow
+00:55:17,620 --> 00:55:21,660
+And that's when it kind of flipped for me like, "I can't just follow
 
 854
-00:55:21,667 --> 00:55:25,500
-the leader anymore. You need
-to be a leader yourself."
+00:55:21,660 --> 00:55:25,500
+the leader anymore. You need to be a leader yourself."
 
 855
-00:55:35,041 --> 00:55:39,917
-[Marc] One night,
-Sunday I think, and I walk
-into the building and I hear
+00:55:35,040 --> 00:55:39,910
+[Marc] One night, Sunday I think, and I walk into the building and I hear
 
 856
-00:55:39,917 --> 00:55:44,125
-slam, slam, bang, bang, bang.
-No idea what was going on,
-no idea.
+00:55:39,910 --> 00:55:44,120
+slam, slam, bang, bang, bang. No idea what was going on, no idea.
 
 857
-00:55:44,125 --> 00:55:47,542
-And just banging away
-building what looked
-to me like bunk beds.
+00:55:44,120 --> 00:55:47,540
+And just banging away building what looked to me like bunk beds.
 
 858
-00:55:47,542 --> 00:55:50,875
-I said, "Guys, what, what are
-you doing here?" They said,
-"We're building bunk beds."
+00:55:47,540 --> 00:55:50,870
+I said, "Guys, what, what are you doing here?" They said, "We're building bunk beds."
 
 859
-00:55:50,875 --> 00:55:55,875
-Why do you need to build
-a bunk bed in your office?
-Why don't you go home to sleep?
+00:55:50,870 --> 00:55:55,870
+Why do you need to build a bunk bed in your office? Why don't you go home to sleep?
 
 860
-00:55:55,875 --> 00:55:58,667
-[Tony] We had to
-go up against it,
-pull it together to get
+00:55:55,870 --> 00:55:58,660
+[Tony] We had to go up against it, pull it together to get
 
 861
-00:55:58,667 --> 00:56:02,333
-something out the door.
-We've got to get serious.
+00:55:58,660 --> 00:56:02,330
+something out the door. We've got to get serious.
 
 862
-00:56:02,333 --> 00:56:04,583
-[Megan] I remember like
-sleeping on, you know,
-some random
+00:56:02,330 --> 00:56:04,580
+[Megan] I remember like sleeping on, you know, some random
 
 863
-00:56:04,583 --> 00:56:07,250
-mattress on the floor,
-we didn't care about all this,
+00:56:04,580 --> 00:56:07,250
+mattress on the floor, we didn't care about all this,
 
 864
-00:56:07,250 --> 00:56:10,375
-we didn't care whether
-we had furniture or anything,
-we were just doing this thing.
+00:56:07,250 --> 00:56:10,370
+we didn't care whether we had furniture or anything, we were just doing this thing.
 
 865
-00:56:10,375 --> 00:56:13,875
-[Kevin] So we're just working
-all out all the time, uh, and
-I-- I was actually sleeping
+00:56:10,370 --> 00:56:13,870
+[Kevin] So we're just working all out all the time, uh, and I-- I was actually sleeping
 
 866
-00:56:13,875 --> 00:56:17,875
-under my desk sometimes and then
-I would get up in the morning
-and just start working again.
+00:56:13,870 --> 00:56:17,870
+under my desk sometimes and then I would get up in the morning and just start working again.
 
 867
-00:56:17,875 --> 00:56:22,083
-[Stern] It's night time,
-people are clustered around
-a handful of machines.
+00:56:17,870 --> 00:56:22,080
+[Stern] It's night time, people are clustered around a handful of machines.
 
 868
-00:56:22,083 --> 00:56:25,583
-The rabbits are running around
-under their feet, the parrot
-is squawking
+00:56:22,080 --> 00:56:25,580
+The rabbits are running around under their feet, the parrot is squawking
 
 869
-00:56:25,583 --> 00:56:27,792
-and shitting all the time.
-It smelled horrible.
+00:56:25,580 --> 00:56:27,790
+and shitting all the time. It smelled horrible.
 
 870
-00:56:27,792 --> 00:56:34,792
-[chuckles]
-Uh, it-- it was dank, musty,
-you know it smelt of sweat
+00:56:27,790 --> 00:56:34,790
+[chuckles] Uh, it-- it was dank, musty, you know it smelt of sweat
 
 871
-00:56:34,792 --> 00:56:40,750
-and exhaustion and no one
-wanted to be anywhere else.
+00:56:34,790 --> 00:56:40,750
+and exhaustion and no one wanted to be anywhere else.
 
 872
-00:56:40,750 --> 00:56:43,917
-We'll have it, we'll have it
-tomorrow morning, alright? So--
+00:56:40,750 --> 00:56:43,910
+We'll have it, we'll have it tomorrow morning, alright? So--
 
 873
-00:56:43,917 --> 00:56:47,542
-[Stern] Every single one of us,
-it was all hands on deck,
-ship or die.
+00:56:43,910 --> 00:56:47,540
+[Stern] Every single one of us, it was all hands on deck, ship or die.
 
 874
-00:56:47,542 --> 00:56:49,709
-[Hershenson] There was this
-constant drum beat of,
+00:56:47,540 --> 00:56:49,700
+[Hershenson] There was this constant drum beat of,
 
 875
-00:56:49,709 --> 00:56:53,250
-"We have to ship, we have
-to ship, we have to ship."
+00:56:49,700 --> 00:56:53,250
+"We have to ship, we have to ship, we have to ship."
 
 876
 00:56:53,250 --> 00:56:56,250
-[Stern] In terms of
-intensity and pressure
-it was the best of times
+[Stern] In terms of intensity and pressure it was the best of times
 
 877
-00:56:56,250 --> 00:56:59,959
-and it was the worst of times.
-In some ways we were never
-closer to each other
+00:56:56,250 --> 00:56:59,950
+and it was the worst of times. In some ways we were never closer to each other
 
 878
-00:56:59,959 --> 00:57:04,792
-and we never felt better
-about what we were doing,
-because we were getting there.
+00:56:59,950 --> 00:57:04,790
+and we never felt better about what we were doing, because we were getting there.
 
 879
-00:57:04,792 --> 00:57:07,250
--[woman] My fingers?
--[engineer] Uh-huh. Both hands.
+00:57:04,790 --> 00:57:07,250
+-[woman] My fingers? -[engineer] Uh-huh. Both hands.
 
 880
-00:57:07,250 --> 00:57:10,375
--[woman] That'll never work.
--[engineer] One finger
-at the other end.
+00:57:07,250 --> 00:57:10,370
+-[woman] That'll never work. -[engineer] One finger at the other end.
 
 881
-00:57:10,375 --> 00:57:12,792
--[keyboard clicking]
--[woman laughing]
+00:57:10,370 --> 00:57:12,790
+-[keyboard clicking] -[woman laughing]
 
 882
-00:57:12,792 --> 00:57:15,917
-[man] It's quick, it's--
-there's a pleasing pace to it.
+00:57:12,790 --> 00:57:15,910
+[man] It's quick, it's-- there's a pleasing pace to it.
 
 883
-00:57:15,917 --> 00:57:18,625
--[engineer] A little better? OK.
--[man 4] Yeah, much better,
-much better.
+00:57:15,910 --> 00:57:18,620
+-[engineer] A little better? OK. -[man 4] Yeah, much better, much better.
 
 884
-00:57:18,625 --> 00:57:21,166
-[Megan] It's this
-incredible experience
+00:57:18,620 --> 00:57:21,160
+[Megan] It's this incredible experience
 
 885
-00:57:21,166 --> 00:57:24,917
-of sort of all these different
-people working, you know,
-like a symphony.
+00:57:21,160 --> 00:57:24,910
+of sort of all these different people working, you know, like a symphony.
 
 886
-00:57:24,917 --> 00:57:28,458
-[Tony] This thing that we
-imagined, now has become real.
+00:57:24,910 --> 00:57:28,450
+[Tony] This thing that we imagined, now has become real.
 
 887
-00:57:28,458 --> 00:57:32,750
-[Hershenson] We've done it,
-and now you can see it and
-touch it and use it as well.
+00:57:28,450 --> 00:57:32,750
+[Hershenson] We've done it, and now you can see it and touch it and use it as well.
 
 888
-00:57:32,750 --> 00:57:36,792
-[Tony] It's time to ship.
-We need to get this out.
+00:57:32,750 --> 00:57:36,790
+[Tony] It's time to ship. We need to get this out.
 
 889
-00:57:36,792 --> 00:57:39,625
-[Adler] It was
-one in the morning,
-everyone was there,
+00:57:36,790 --> 00:57:39,620
+[Adler] It was one in the morning, everyone was there,
 
 890
-00:57:39,625 --> 00:57:41,166
+00:57:39,620 --> 00:57:41,160
 everyone was exhausted.
 
 891
-00:57:41,166 --> 00:57:42,709
+00:57:41,160 --> 00:57:42,700
 It was a classic decision
 
 892
-00:57:42,709 --> 00:57:45,291
-that every project has
-to make like, go or no go.
+00:57:42,700 --> 00:57:45,290
+that every project has to make like, go or no go.
 
 893
-00:57:45,291 --> 00:57:50,667
-So here we all were,
-in it together and saying like,
-"Is this it, are we done?"
+00:57:45,290 --> 00:57:50,660
+So here we all were, in it together and saying like, "Is this it, are we done?"
 
 894
-00:57:50,667 --> 00:57:53,709
-[Hershenson] Marc Porat said,
-"Anyone could speak about
-whether we should ship.
+00:57:50,660 --> 00:57:53,700
+[Hershenson] Marc Porat said, "Anyone could speak about whether we should ship.
 
 895
-00:57:53,709 --> 00:57:58,542
-Is the software ready?"
-And a ton of engineers
-said, "We should wait."
+00:57:53,700 --> 00:57:58,540
+Is the software ready?" And a ton of engineers said, "We should wait."
 
 896
-00:57:58,542 --> 00:58:03,542
-Marc listened and he said,
-"Our partners have given us
-a deadline, we're shipping."
+00:57:58,540 --> 00:58:03,540
+Marc listened and he said, "Our partners have given us a deadline, we're shipping."
 
 897
-00:58:10,917 --> 00:58:15,000
-So welcome to the first
-public demonstration of-- of
-General Magic's technologies.
+00:58:10,910 --> 00:58:15,000
+So welcome to the first public demonstration of-- of General Magic's technologies.
 
 898
-00:58:15,000 --> 00:58:19,291
-I wanna talk a little bit
-about, um, you know, we worked
-really hard the last four years
+00:58:15,000 --> 00:58:19,290
+I wanna talk a little bit about, um, you know, we worked really hard the last four years
 
 899
-00:58:19,291 --> 00:58:23,709
-putting all this stuff together.
-Uh, I feel, you know,
-emotional about it.
+00:58:19,290 --> 00:58:23,700
+putting all this stuff together. Uh, I feel, you know, emotional about it.
 
 900
-00:58:23,709 --> 00:58:27,667
--Uh, people, uh, people--
--[audience applauding]
+00:58:23,700 --> 00:58:27,660
+-Uh, people, uh, people-- -[audience applauding]
 
 901
-00:58:27,667 --> 00:58:31,917
--What I wanna do is, uh,
-is talk about the, uh--
--[audience applauding]
+00:58:27,660 --> 00:58:31,910
+-What I wanna do is, uh, is talk about the, uh-- -[audience applauding]
 
 902
-00:58:31,917 --> 00:58:35,875
-The incredible-- the best part
-of working on this the last four
-years is not the invention,
+00:58:31,910 --> 00:58:35,870
+The incredible-- the best part of working on this the last four years is not the invention,
 
 903
-00:58:35,875 --> 00:58:39,500
-I-- I love helping create
-this stuff, but the best
-part was working
+00:58:35,870 --> 00:58:39,500
+I-- I love helping create this stuff, but the best part was working
 
 904
-00:58:39,500 --> 00:58:41,792
-with the incredible team
-that we have assembled
-at General Magic.
+00:58:39,500 --> 00:58:41,790
+with the incredible team that we have assembled at General Magic.
 
 905
-00:58:41,792 --> 00:58:46,125
-This isn't the work of just me
-and Bill, but the work of some
-incredibly brilliant,
+00:58:41,790 --> 00:58:46,120
+This isn't the work of just me and Bill, but the work of some incredibly brilliant,
 
 906
-00:58:46,125 --> 00:58:50,250
-passionate people that I'm
-honored to be able to work with
-and I think these guys
+00:58:46,120 --> 00:58:50,250
+passionate people that I'm honored to be able to work with and I think these guys
 
 907
-00:58:50,250 --> 00:58:53,291
-these-- We're working
-with a bunch of young
-programmers in their twenties
+00:58:50,250 --> 00:58:53,290
+these-- We're working with a bunch of young programmers in their twenties
 
 908
-00:58:53,291 --> 00:58:57,667
-that are going to go on to do
-things that dwarf anything that
-Bill and I have ever done.
+00:58:53,290 --> 00:58:57,660
+that are going to go on to do things that dwarf anything that Bill and I have ever done.
 
 909
-00:58:57,667 --> 00:59:04,000
-They are just incredibly great
-and so, without further ado,
-with, uh, great pride, uh,
+00:58:57,660 --> 00:59:04,000
+They are just incredibly great and so, without further ado, with, uh, great pride, uh,
 
 910
-00:59:04,000 --> 00:59:07,458
-and representing Bill and--
-and the amazing team
-at General Magic,
+00:59:04,000 --> 00:59:07,450
+and representing Bill and-- and the amazing team at General Magic,
 
 911
-00:59:07,458 --> 00:59:10,250
+00:59:07,450 --> 00:59:10,250
 here it is world, Magic Cap.
 
 912
-00:59:10,250 --> 00:59:13,625
--[SONY commercial] It's a new
-way to reach just about anyone
--[beeping]
+00:59:10,250 --> 00:59:13,620
+-[SONY commercial] It's a new way to reach just about anyone -[beeping]
 
 913
-00:59:13,625 --> 00:59:16,709
--...anywhere, anytime.
--[beeping]
+00:59:13,620 --> 00:59:16,700
+-...anywhere, anytime. -[beeping]
 
 914
-00:59:16,709 --> 00:59:18,875
-You're only a press
-of a button away.
+00:59:16,700 --> 00:59:18,870
+You're only a press of a button away.
 
 915
-00:59:18,875 --> 00:59:22,834
--[beeping]
--Sony Magic Link,
-and what it takes off your desk
+00:59:18,870 --> 00:59:22,830
+-[beeping] -Sony Magic Link, and what it takes off your desk
 
 916
-00:59:22,834 --> 00:59:26,583
-is only matched,
-by what it takes off your mind.
+00:59:22,830 --> 00:59:26,580
+is only matched, by what it takes off your mind.
 
 917
-00:59:26,583 --> 00:59:32,667
-Sony Magic Link Intelligent
-Communicator. It clears your
-desk, it clears your mind."
+00:59:26,580 --> 00:59:32,660
+Sony Magic Link Intelligent Communicator. It clears your desk, it clears your mind."
 
 918
-00:59:32,667 --> 00:59:35,417
-[Kevin] Still so very
-disturbing when you, when you
-work on something for so long
+00:59:32,660 --> 00:59:35,410
+[Kevin] Still so very disturbing when you, when you work on something for so long
 
 919
-00:59:35,417 --> 00:59:38,291
-and then you let it out
-into the world.
-It's like having this baby
+00:59:35,410 --> 00:59:38,290
+and then you let it out into the world. It's like having this baby
 
 920
-00:59:38,291 --> 00:59:42,083
-and like, have you raised it
-well enough? Is it going to be
-okay on its own out there?
+00:59:38,290 --> 00:59:42,080
+and like, have you raised it well enough? Is it going to be okay on its own out there?
 
 921
-00:59:42,083 --> 00:59:45,250
-Uhm, it's a little traumatic,
-actually to let something
-out like that.
+00:59:42,080 --> 00:59:45,250
+Uhm, it's a little traumatic, actually to let something out like that.
 
 922
-00:59:45,250 --> 00:59:50,208
+00:59:45,250 --> 00:59:50,200
 [audience cheering, clapping]
 
 923
-00:59:56,125 --> 00:59:58,792
-Hey, these really belong to you,
-somebody asked me that.
-They are yours!
+00:59:56,120 --> 00:59:58,790
+Hey, these really belong to you, somebody asked me that. They are yours!
 
 924
-00:59:58,792 --> 01:00:01,417
--[laughter]
--[audience applauding]
+00:59:58,790 --> 01:00:01,410
+-[laughter] -[audience applauding]
 
 925
-01:00:01,417 --> 01:00:05,959
-[Marc] Whatever doubts we had
-or whatever disagreements
-or anything, we were on.
+01:00:01,410 --> 01:00:05,950
+[Marc] Whatever doubts we had or whatever disagreements or anything, we were on.
 
 926
-01:00:05,959 --> 01:00:09,417
-We were, this was the moment,
-this was the launch.
+01:00:05,950 --> 01:00:09,410
+We were, this was the moment, this was the launch.
 
 927
-01:00:09,417 --> 01:00:12,709
-We were gonna make it,
-we were gonna succeed
-and it was gonna be amazing.
+01:00:09,410 --> 01:00:12,700
+We were gonna make it, we were gonna succeed and it was gonna be amazing.
 
 928
-01:00:17,917 --> 01:00:22,208
-[Marc] So, what are we doing?
-Today we are making
-the first steps.
+01:00:17,910 --> 01:00:22,200
+[Marc] So, what are we doing? Today we are making the first steps.
 
 929
-01:00:22,208 --> 01:00:26,792
-This afternoon it's out there,
-the devices are out there
-and the service is out there.
+01:00:22,200 --> 01:00:26,790
+This afternoon it's out there, the devices are out there and the service is out there.
 
 930
-01:00:30,500 --> 01:00:33,875
-[Stern] We had arranged
-to have a demonstration day
-at Fry's,
+01:00:30,500 --> 01:00:33,870
+[Stern] We had arranged to have a demonstration day at Fry's,
 
 931
-01:00:33,875 --> 01:00:37,083
-a famous place
-for new product introductions.
+01:00:33,870 --> 01:00:37,080
+a famous place for new product introductions.
 
 932
-01:00:37,083 --> 01:00:40,083
-And a few famous people
-from Apple came, just
-out of courtesy.
+01:00:37,080 --> 01:00:40,080
+And a few famous people from Apple came, just out of courtesy.
 
 933
-01:00:40,083 --> 01:00:43,709
-We went into the store and all
-of the, all of the demonstration
-stuff was way in the back,
+01:00:40,080 --> 01:00:43,700
+We went into the store and all of the, all of the demonstration stuff was way in the back,
 
 934
-01:00:43,709 --> 01:00:48,083
-behind the refrigerators, you
-couldn't see anything. It became
-clear that the Fry's staff
+01:00:43,700 --> 01:00:48,080
+behind the refrigerators, you couldn't see anything. It became clear that the Fry's staff
 
 935
-01:00:48,083 --> 01:00:51,834
-had not been trained
-on how to demonstrate
-the devices, or even knew
+01:00:48,080 --> 01:00:51,830
+had not been trained on how to demonstrate the devices, or even knew
 
 936
-01:00:51,834 --> 01:00:55,709
-what they were or who we were,
-or why we were there.
+01:00:51,830 --> 01:00:55,700
+what they were or who we were, or why we were there.
 
 937
-01:00:55,709 --> 01:00:59,583
-[Amy] We talked about
-our user as being Joe Sixpack.
+01:00:55,700 --> 01:00:59,580
+[Amy] We talked about our user as being Joe Sixpack.
 
 938
-01:00:59,583 --> 01:01:05,458
-And I do remember sitting around
-thinking, "You know, Joe Sixpack
-really doesn't have email."
+01:00:59,580 --> 01:01:05,450
+And I do remember sitting around thinking, "You know, Joe Sixpack really doesn't have email."
 
 939
-01:01:05,458 --> 01:01:09,625
-And if that was our target,
-it was very early for--
-for Joe Sixpack.
+01:01:05,450 --> 01:01:09,620
+And if that was our target, it was very early for-- for Joe Sixpack.
 
 940
-01:01:09,625 --> 01:01:12,250
-[MacAskill] I worried
-about the size, I worried
-about the battery life,
+01:01:09,620 --> 01:01:12,250
+[MacAskill] I worried about the size, I worried about the battery life,
 
 941
-01:01:12,250 --> 01:01:13,917
+01:01:12,250 --> 01:01:13,910
 I worried about the 800 dollars.
 
 942
-01:01:13,917 --> 01:01:15,667
-I don't even know
-which button to push.
+01:01:13,910 --> 01:01:15,660
+I don't even know which button to push.
 
 943
-01:01:15,667 --> 01:01:18,458
-No, I don't need that.
-[laughter]
+01:01:15,660 --> 01:01:18,450
+No, I don't need that. [laughter]
 
 944
-01:01:18,458 --> 01:01:19,959
--[reporter] You might need it.
--I don't.
+01:01:18,450 --> 01:01:19,950
+-[reporter] You might need it. -I don't.
 
 945
-01:01:19,959 --> 01:01:22,917
-What it really comes down to
-is a personal decision
+01:01:19,950 --> 01:01:22,910
+What it really comes down to is a personal decision
 
 946
-01:01:22,917 --> 01:01:25,750
-as to whether or not you really
-wanna be in touch all the time.
+01:01:22,910 --> 01:01:25,750
+as to whether or not you really wanna be in touch all the time.
 
 947
-01:01:30,083 --> 01:01:35,750
-[Stern] My stomach turned sour
-and I thought we're doomed.
+01:01:30,080 --> 01:01:35,750
+[Stern] My stomach turned sour and I thought we're doomed.
 
 948
-01:01:35,750 --> 01:01:42,083
-No one came, no one
-bought it. Nothing.
+01:01:35,750 --> 01:01:42,080
+No one came, no one bought it. Nothing.
 
 949
-01:01:42,083 --> 01:01:47,375
-[Marc] And so we are
-waiting for the sales to happen
-and the sales numbers were low.
+01:01:42,080 --> 01:01:47,370
+[Marc] And so we are waiting for the sales to happen and the sales numbers were low.
 
 950
-01:01:47,375 --> 01:01:51,625
-Very low, and there were some
-problems with the AT&T Network.
-So bit by bit
+01:01:47,370 --> 01:01:51,620
+Very low, and there were some problems with the AT&T Network. So bit by bit
 
 951
-01:01:51,625 --> 01:01:54,750
-we began to get evidence
-that this thing wasn't gonna
-rocket right,
+01:01:51,620 --> 01:01:54,750
+we began to get evidence that this thing wasn't gonna rocket right,
 
 952
-01:01:54,750 --> 01:01:59,834
-it was gonna be more difficult,
-and that's the reality
-that starts to sink in,
+01:01:54,750 --> 01:01:59,830
+it was gonna be more difficult, and that's the reality that starts to sink in,
 
 953
-01:01:59,834 --> 01:02:01,959
-is that, this is not
-as easy as it seems.
+01:01:59,830 --> 01:02:01,950
+is that, this is not as easy as it seems.
 
 954
-01:02:01,959 --> 01:02:05,375
-We had sold fewer than 3000
-devices, and almost all of those
+01:02:01,950 --> 01:02:05,370
+We had sold fewer than 3000 devices, and almost all of those
 
 955
-01:02:05,375 --> 01:02:08,834
-had been sold
-to friends and family
-of the company and our partners.
+01:02:05,370 --> 01:02:08,830
+had been sold to friends and family of the company and our partners.
 
 956
-01:02:08,834 --> 01:02:12,083
-Virtually none
-to ordinary consumers.
+01:02:08,830 --> 01:02:12,080
+Virtually none to ordinary consumers.
 
 957
-01:02:12,083 --> 01:02:15,375
-I was looking at the list
-of the names of the buyers
+01:02:12,080 --> 01:02:15,370
+I was looking at the list of the names of the buyers
 
 958
-01:02:15,375 --> 01:02:19,458
-and I recognized all of them,
-I knew who they were,
-and I thought
+01:02:15,370 --> 01:02:19,450
+and I recognized all of them, I knew who they were, and I thought
 
 959
-01:02:19,458 --> 01:02:23,917
-that we don't have
-a business here,
-we are not gonna make it.
+01:02:19,450 --> 01:02:23,910
+that we don't have a business here, we are not gonna make it.
 
 960
-01:02:33,667 --> 01:02:36,667
-[Marc] Share price, that's
-I think, the greatest concern
-in this room and that's
+01:02:33,660 --> 01:02:36,660
+[Marc] Share price, that's I think, the greatest concern in this room and that's
 
 961
-01:02:36,667 --> 01:02:38,625
-what we're going to take on,
-head on.
+01:02:36,660 --> 01:02:38,620
+what we're going to take on, head on.
 
 962
-01:02:38,625 --> 01:02:42,041
-The explosion of the Internet
-has forced a rethinking
-of strategies
+01:02:38,620 --> 01:02:42,040
+The explosion of the Internet has forced a rethinking of strategies
 
 963
-01:02:42,041 --> 01:02:43,500
+01:02:42,040 --> 01:02:43,500
 across the entire industry.
 
 964
-01:02:43,500 --> 01:02:45,959
-I have believed for years,
-and continue to believe,
+01:02:43,500 --> 01:02:45,950
+I have believed for years, and continue to believe,
 
 965
-01:02:45,959 --> 01:02:50,166
-that the notion of taking
-intelligent devices with you,
+01:02:45,950 --> 01:02:50,160
+that the notion of taking intelligent devices with you,
 
 966
-01:02:50,166 --> 01:02:53,792
+01:02:50,160 --> 01:02:53,790
 of the scale from this big
 
 967
-01:02:53,792 --> 01:02:56,959
-to that small
-is for real as a market.
+01:02:53,790 --> 01:02:56,950
+to that small is for real as a market.
 
 968
-01:02:56,959 --> 01:02:59,125
-I continue to believe
-in the wireless dimension,
+01:02:56,950 --> 01:02:59,120
+I continue to believe in the wireless dimension,
 
 969
-01:02:59,125 --> 01:03:02,125
-there will be smart phones,
-there will be smart pagers,
+01:02:59,120 --> 01:03:02,120
+there will be smart phones, there will be smart pagers,
 
 970
-01:03:02,125 --> 01:03:04,917
-and maybe even things
-like intelligent watches,
-for all we know.
+01:03:02,120 --> 01:03:04,910
+and maybe even things like intelligent watches, for all we know.
 
 971
-01:03:04,917 --> 01:03:10,166
-It's a question of resources,
-priorities and market readiness,
+01:03:04,910 --> 01:03:10,160
+It's a question of resources, priorities and market readiness,
 
 972
-01:03:10,166 --> 01:03:12,375
-uh, for us to figure out
-where the sweet spot is. We--
+01:03:10,160 --> 01:03:12,370
+uh, for us to figure out where the sweet spot is. We--
 
 973
-01:03:12,375 --> 01:03:15,667
--[Heckler] Can we make some
-money while this is going on?
--[Marc chuckles]
+01:03:12,370 --> 01:03:15,660
+-[Heckler] Can we make some money while this is going on? -[Marc chuckles]
 
 974
-01:03:15,667 --> 01:03:18,500
-[Hershenson] This guy from
-the San Francisco Chronicle,
-I mean, I remember
+01:03:15,660 --> 01:03:18,500
+[Hershenson] This guy from the San Francisco Chronicle, I mean, I remember
 
 975
-01:03:18,500 --> 01:03:20,667
-he just drilled me.
-He was like,
+01:03:18,500 --> 01:03:20,660
+he just drilled me. He was like,
 
 976
-01:03:20,667 --> 01:03:23,583
-"You guys are going
-out of business.
+01:03:20,660 --> 01:03:23,580
+"You guys are going out of business.
 
 977
-01:03:23,583 --> 01:03:29,125
-Sony is going to drop you.
-I have sources that
-have told me that.
+01:03:23,580 --> 01:03:29,120
+Sony is going to drop you. I have sources that have told me that.
 
 978
-01:03:29,125 --> 01:03:31,834
+01:03:29,120 --> 01:03:31,830
 What is the company's response?
 
 979
-01:03:31,834 --> 01:03:35,250
-What happens
-when Sony drops you?
+01:03:31,830 --> 01:03:35,250
+What happens when Sony drops you?
 
 980
-01:03:35,250 --> 01:03:38,542
+01:03:35,250 --> 01:03:38,540
 You guys are dead."
 
 981
-01:03:38,542 --> 01:03:41,000
-It's like, dude,
-you didn't work here
-for three and a half years,
+01:03:38,540 --> 01:03:41,000
+It's like, dude, you didn't work here for three and a half years,
 
 982
 01:03:41,000 --> 01:03:43,000
-pulling all-nighters,
-seven days a week.
+pulling all-nighters, seven days a week.
 
 983
-01:03:43,000 --> 01:03:45,208
-You didn't see the future
-and know what's coming
+01:03:43,000 --> 01:03:45,200
+You didn't see the future and know what's coming
 
 984
-01:03:45,208 --> 01:03:50,000
-and, and now it's all
-just in ashes around you.
+01:03:45,200 --> 01:03:50,000
+and, and now it's all just in ashes around you.
 
 985
 01:03:50,000 --> 01:03:53,500
-[Stern] I'm looking
-at spreadsheets, in my office
+[Stern] I'm looking at spreadsheets, in my office
 
 986
-01:03:53,500 --> 01:03:56,792
-and thinking,
-"In a half hour I'm gonna
-have to get on the phone
+01:03:53,500 --> 01:03:56,790
+and thinking, "In a half hour I'm gonna have to get on the phone
 
 987
-01:03:56,792 --> 01:04:01,041
-and talk to the analyst from
-Goldman Sachs and I don't know
-what the hell I'm gonna say.
+01:03:56,790 --> 01:04:01,040
+and talk to the analyst from Goldman Sachs and I don't know what the hell I'm gonna say.
 
 988
-01:04:01,041 --> 01:04:04,041
-How do I create the impression
-that there is a future here."
+01:04:01,040 --> 01:04:04,040
+How do I create the impression that there is a future here."
 
 989
-01:04:04,041 --> 01:04:06,375
-Marc did it,
-but, uh, I was at a loss.
+01:04:04,040 --> 01:04:06,370
+Marc did it, but, uh, I was at a loss.
 
 990
-01:04:06,375 --> 01:04:11,000
-The initial experience
-is terrific,
-and where we are headed
+01:04:06,370 --> 01:04:11,000
+The initial experience is terrific, and where we are headed
 
 991
-01:04:11,000 --> 01:04:14,959
-is sublime, and to get from
-terrific to sublime takes time.
+01:04:11,000 --> 01:04:14,950
+is sublime, and to get from terrific to sublime takes time.
 
 992
-01:04:14,959 --> 01:04:17,875
--[Hoffman] I don't want
-to be negative.
--Why is this tilted?
+01:04:14,950 --> 01:04:17,870
+-[Hoffman] I don't want to be negative. -Why is this tilted?
 
 993
-01:04:17,875 --> 01:04:20,458
--[cameraman] It's not titled.
--[Hoffman] It's been
-a lot of hype.
+01:04:17,870 --> 01:04:20,450
+-[cameraman] It's not titled. -[Hoffman] It's been a lot of hype.
 
 994
-01:04:20,458 --> 01:04:24,250
-I would not say that
-in the video. Where we are
-starting, as exciting as it is,
+01:04:20,450 --> 01:04:24,250
+I would not say that in the video. Where we are starting, as exciting as it is,
 
 995
-01:04:24,250 --> 01:04:26,542
-is not where we are going
-to end up. This will take time.
+01:04:24,250 --> 01:04:26,540
+is not where we are going to end up. This will take time.
 
 996
-01:04:26,542 --> 01:04:30,458
-It's a voyage that takes time,
-it's a journey that takes time.
-This will take time.
+01:04:26,540 --> 01:04:30,450
+It's a voyage that takes time, it's a journey that takes time. This will take time.
 
 997
-01:04:30,458 --> 01:04:33,000
-It takes time.
-You have to be patient.
+01:04:30,450 --> 01:04:33,000
+It takes time. You have to be patient.
 
 998
 01:04:33,000 --> 01:04:34,500
-[Hoffman] Perfect,
-absolutely perfect.
+[Hoffman] Perfect, absolutely perfect.
 
 999
-01:04:34,500 --> 01:04:36,208
-You know, I just thought
-as you were talking
+01:04:34,500 --> 01:04:36,200
+You know, I just thought as you were talking
 
 1000
-01:04:36,208 --> 01:04:38,000
-how complicated it is
-for you to be figuring out
+01:04:36,200 --> 01:04:38,000
+how complicated it is for you to be figuring out
 
 1001
 01:04:38,000 --> 01:04:40,000
--what you can and can't say.
--Yeah, it's true. [chuckles]
+-what you can and can't say. -Yeah, it's true. [chuckles]
 
 1002
-01:04:40,000 --> 01:04:41,542
-It's a whole other issue
-I wasn't thinking about.
+01:04:40,000 --> 01:04:41,540
+It's a whole other issue I wasn't thinking about.
 
 1003
-01:04:41,542 --> 01:04:46,041
+01:04:41,540 --> 01:04:46,040
 [Hoffman indistinct]
 
 1004
-01:04:46,041 --> 01:04:48,500
+01:04:46,040 --> 01:04:48,500
 I was torn up, it was...
 
 1005
-01:04:51,417 --> 01:04:55,500
-To walk in, there was a week,
-you know, Phil actually
-had to set me aside
+01:04:51,410 --> 01:04:55,500
+To walk in, there was a week, you know, Phil actually had to set me aside
 
 1006
-01:04:55,500 --> 01:05:01,166
-because I was so distraught,
-that there was a week or two
-that I actually just took off.
+01:04:55,500 --> 01:05:01,160
+because I was so distraught, that there was a week or two that I actually just took off.
 
 1007
-01:05:01,166 --> 01:05:03,917
-I didn't even show up for work
-because I was so distraught.
+01:05:01,160 --> 01:05:03,910
+I didn't even show up for work because I was so distraught.
 
 1008
-01:05:03,917 --> 01:05:08,083
-And then Phil actually had to
-sit me down and go, "Tony what's
-wrong? You're not you."
+01:05:03,910 --> 01:05:08,080
+And then Phil actually had to sit me down and go, "Tony what's wrong? You're not you."
 
 1009
-01:05:08,083 --> 01:05:14,250
-Like to go from 80,
-120 hours a week to none.
+01:05:08,080 --> 01:05:14,250
+Like to go from 80, 120 hours a week to none.
 
 1010
-01:05:14,250 --> 01:05:18,333
-And so for me personally that
-was a major rocking event.
+01:05:14,250 --> 01:05:18,330
+And so for me personally that was a major rocking event.
 
 1011
-01:05:18,333 --> 01:05:23,291
-Then the next one disappointment
-for me is, you know, I started
-design devices
+01:05:18,330 --> 01:05:23,290
+Then the next one disappointment for me is, you know, I started design devices
 
 1012
-01:05:23,291 --> 01:05:26,959
-and I started to try to mold
-General Magic technology
+01:05:23,290 --> 01:05:26,950
+and I started to try to mold General Magic technology
 
 1013
-01:05:26,959 --> 01:05:30,625
-into something
-that I thought was sellable.
+01:05:26,950 --> 01:05:30,620
+into something that I thought was sellable.
 
 1014
-01:05:30,625 --> 01:05:34,250
-And so I created basically
-a whole product plan,
-and technology plan
+01:05:30,620 --> 01:05:34,250
+And so I created basically a whole product plan, and technology plan
 
 1015
-01:05:34,250 --> 01:05:36,875
-for what I thought was going
-to be a successful product.
+01:05:34,250 --> 01:05:36,870
+for what I thought was going to be a successful product.
 
 1016
-01:05:36,875 --> 01:05:39,959
-I go back to General Magic,
-I said, "Look I have
-a firmed up product plan,
+01:05:36,870 --> 01:05:39,950
+I go back to General Magic, I said, "Look I have a firmed up product plan,
 
 1017
-01:05:39,959 --> 01:05:43,542
-you need to mold your software
-to build this kind of device."
-And they just looked at me
+01:05:39,950 --> 01:05:43,540
+you need to mold your software to build this kind of device." And they just looked at me
 
 1018
-01:05:43,542 --> 01:05:48,542
-and said,
-"Sorry, we can't do that.
-We have other priorities."
+01:05:43,540 --> 01:05:48,540
+and said, "Sorry, we can't do that. We have other priorities."
 
 1019
-01:05:51,333 --> 01:05:57,291
-For General Magic, as I saw it,
-was, basically the end.
+01:05:51,330 --> 01:05:57,290
+For General Magic, as I saw it, was, basically the end.
 
 1020
-01:05:57,291 --> 01:06:01,458
-They were defeated.
-That was the saddest part
-about that meeting,
+01:05:57,290 --> 01:06:01,450
+They were defeated. That was the saddest part about that meeting,
 
 1021
-01:06:01,458 --> 01:06:06,000
-is that, and Andy in particular
-I think was the one who said,
+01:06:01,450 --> 01:06:06,000
+is that, and Andy in particular I think was the one who said,
 
 1022
-01:06:06,000 --> 01:06:11,417
-"We're not gonna--
-we can't do this. We're not
-going to do it," and...
+01:06:06,000 --> 01:06:11,410
+"We're not gonna-- we can't do this. We're not going to do it," and...
 
 1023
-01:06:11,417 --> 01:06:13,709
-they just didn't--
-They didn't have anything left.
+01:06:11,410 --> 01:06:13,700
+they just didn't-- They didn't have anything left.
 
 1024
-01:06:16,750 --> 01:06:19,583
-[Kevin]
-I am a particularly loyal
-person, so it was, it was
+01:06:16,750 --> 01:06:19,580
+[Kevin] I am a particularly loyal person, so it was, it was
 
 1025
-01:06:19,583 --> 01:06:21,542
-very hard for me
-to leave General Magic.
+01:06:19,580 --> 01:06:21,540
+very hard for me to leave General Magic.
 
 1026
-01:06:21,542 --> 01:06:24,333
-I was fully bought into
-what we were doing, uhm,
+01:06:21,540 --> 01:06:24,330
+I was fully bought into what we were doing, uhm,
 
 1027
-01:06:24,333 --> 01:06:28,709
-and I stayed perhaps even longer
-than maybe I ought to have,
-to try to help
+01:06:24,330 --> 01:06:28,700
+and I stayed perhaps even longer than maybe I ought to have, to try to help
 
 1028
-01:06:28,709 --> 01:06:31,208
+01:06:28,700 --> 01:06:31,200
 change the direction, uhm,
 
 1029
-01:06:31,208 --> 01:06:35,083
-but it was, it was beyond,
-uhm, saving, unfortunately.
+01:06:31,200 --> 01:06:35,080
+but it was, it was beyond, uhm, saving, unfortunately.
 
 1030
-01:06:36,667 --> 01:06:39,750
-[Stern] 看起来就像一个巨大的灾难
-It looked like a massive disaster,
+01:06:36,660 --> 01:06:39,750
+[Stern] 看起来就像一个巨大的灾难 It looked like a massive disaster,
 
 1031
-01:06:39,750 --> 01:06:42,333
-一次失败、一个悲剧
-a failure, a catastrophe.
+01:06:39,750 --> 01:06:42,330
+一次失败、一个悲剧 a failure, a catastrophe.
 
 1032
-01:06:42,333 --> 01:06:45,834
-It was a sense of rejection that
-penetrated right to your heart
+01:06:42,330 --> 01:06:45,830
+It was a sense of rejection that penetrated right to your heart
 
 1033
-01:06:45,834 --> 01:06:49,208
-and your gut,
-and I-- I just felt sick.
+01:06:45,830 --> 01:06:49,200
+and your gut, and I-- I just felt sick.
 
 1034
 01:07:07,750 --> 01:07:12,500
-[Joanna] It was, uh,
-devastating. For me it was,
-it was really devastating
+[Joanna] It was, uh, devastating. For me it was, it was really devastating
 
 1035
-01:07:12,500 --> 01:07:17,041
-and, uh, I thought immediately,
-"I have to take time off.
+01:07:12,500 --> 01:07:17,040
+and, uh, I thought immediately, "I have to take time off.
 
 1036
-01:07:17,041 --> 01:07:22,208
-It's-- it's going to be a long
-time before I start committing
+01:07:17,040 --> 01:07:22,200
+It's-- it's going to be a long time before I start committing
 
 1037
-01:07:22,208 --> 01:07:28,750
+01:07:22,200 --> 01:07:28,750
 to yet another blue sky, uh, proposition."
 
 1038
-01:07:30,417 --> 01:07:34,041
-[Stern] Marc、Bill 和 Andy 向全世界
-The vision that Marc, Bill and Andy had sold,
+01:07:30,410 --> 01:07:34,040
+[Stern] Marc、Bill 和 Andy 向全世界 The vision that Marc, Bill and Andy had sold,
 
 1039
-01:07:34,041 --> 01:07:37,583
-向我们自己灌输了这个想法
-not just to the world, but to us,
+01:07:34,040 --> 01:07:37,580
+向我们自己灌输了这个想法 not just to the world, but to us,
 
 1040
-01:07:37,583 --> 01:07:41,166
-这东西很酷、很有趣
-that this was a cool, fun,
+01:07:37,580 --> 01:07:41,160
+这东西很酷、很有趣 that this was a cool, fun,
 
 1041
-01:07:41,166 --> 01:07:45,750
-每个人都会想要一个，因为感觉我们自己就很想要
-lovely thing to have, and that everybody would want one because we did.
+01:07:41,160 --> 01:07:45,750
+每个人都会想要一个，因为感觉我们自己就很想要 lovely thing to have, and that everybody would want one because we did.
 
 1042
-01:07:46,792 --> 01:07:48,250
-但我们错了
-And we were wrong.
+01:07:46,790 --> 01:07:48,250
+但我们错了 And we were wrong.
 
 1043
-01:07:57,291 --> 01:08:00,917
+01:07:57,290 --> 01:08:00,910
 [whimsical music]
 
 1044
-01:08:08,542 --> 01:08:13,625
-[Swisher] 我觉得这个概念是有了，单用户基础不存在
-I think the conceptual ideas were there, the user base was not there,
+01:08:08,540 --> 01:08:13,620
+[Swisher] 我觉得这个概念是有了，单用户基础不存在 I think the conceptual ideas were there, the user base was not there,
 
 1045
-01:08:13,625 --> 01:08:17,625
-我们需要的技术也并不存在
-the technology was not there, the things to do on it were not there,
+01:08:13,620 --> 01:08:17,620
+我们需要的技术也并不存在 the technology was not there, the things to do on it were not there,
 
 1046
-01:08:17,625 --> 01:08:20,166
-就想要在 1880 年代发明电视机，这完全不可能
-it's like inventing the television in the 1880's, you just couldn't.
+01:08:17,620 --> 01:08:20,160
+就想要在 1880 年代发明电视机，这完全不可能 it's like inventing the television in the 1880's, you just couldn't.
 
 1047
-01:08:20,166 --> 01:08:23,625
-Like it doesn't
-matter if you invented it
-because you didn't have shows,
+01:08:20,160 --> 01:08:23,620
+Like it doesn't matter if you invented it because you didn't have shows,
 
 1048
-01:08:23,625 --> 01:08:25,792
+01:08:23,620 --> 01:08:25,790
 you didn't have capabilities.
 
 1049
-01:08:25,792 --> 01:08:29,166
-I think there was actually
-nothing General Magic
-could have done
+01:08:25,790 --> 01:08:29,160
+I think there was actually nothing General Magic could have done
 
 1050
-01:08:29,166 --> 01:08:32,875
-to succeed, because they were
-at the wrong time.
+01:08:29,160 --> 01:08:32,870
+to succeed, because they were at the wrong time.
 
 1051
-01:08:32,875 --> 01:08:38,333
-The way I think
-about that, it's like a wave.
-If you start paddling too early
+01:08:32,870 --> 01:08:38,330
+The way I think about that, it's like a wave. If you start paddling too early
 
 1052
-01:08:38,333 --> 01:08:41,000
-your arms will be tired
-by the time the wave arrives,
+01:08:38,330 --> 01:08:41,000
+your arms will be tired by the time the wave arrives,
 
 1053
-01:08:41,000 --> 01:08:43,917
-and the wave will slide right
-under you and leave you behind.
+01:08:41,000 --> 01:08:43,910
+and the wave will slide right under you and leave you behind.
 
 1054
-01:08:43,917 --> 01:08:47,792
-That's sort of what happened
-with General Magic. They saw
-the wave before anyone else,
+01:08:43,910 --> 01:08:47,790
+That's sort of what happened with General Magic. They saw the wave before anyone else,
 
 1055
-01:08:47,792 --> 01:08:52,291
-and they thought it was coming
-sooner and they got tired
-before it arrived.
+01:08:47,790 --> 01:08:52,290
+and they thought it was coming sooner and they got tired before it arrived.
 
 1056
-01:08:52,291 --> 01:08:54,875
-Yeah, but they had
-all the right talent.
+01:08:52,290 --> 01:08:54,870
+Yeah, but they had all the right talent.
 
 1057
-01:08:57,333 --> 01:09:00,083
-[Sculley] You can become
-so focused, and such a believer
+01:08:57,330 --> 01:09:00,080
+[Sculley] You can become so focused, and such a believer
 
 1058
-01:09:00,083 --> 01:09:04,667
-in what you are doing
-that you can miss the change
-of context in an industry.
+01:09:00,080 --> 01:09:04,660
+in what you are doing that you can miss the change of context in an industry.
 
 1059
-01:09:04,667 --> 01:09:09,834
-In this case, the World Wide Web
-and General Magic probably
-didn't pivot,
+01:09:04,660 --> 01:09:09,830
+In this case, the World Wide Web and General Magic probably didn't pivot,
 
 1060
-01:09:09,834 --> 01:09:15,375
-uh, fast enough to the post
-world after the Web,
-but I missed it as well.
+01:09:09,830 --> 01:09:15,370
+uh, fast enough to the post world after the Web, but I missed it as well.
 
 1061
-01:09:15,375 --> 01:09:17,917
-I was getting increased
-pressure as a CEO of Apple,
+01:09:15,370 --> 01:09:17,910
+I was getting increased pressure as a CEO of Apple,
 
 1062
-01:09:17,917 --> 01:09:22,500
-by the Apple board, you know,
-why was I wasting Apple's
-time and money
+01:09:17,910 --> 01:09:22,500
+by the Apple board, you know, why was I wasting Apple's time and money
 
 1063
-01:09:22,500 --> 01:09:26,166
-on these post PC devices and not
-just focusing on the Macintosh.
+01:09:22,500 --> 01:09:26,160
+on these post PC devices and not just focusing on the Macintosh.
 
 1064
-01:09:26,166 --> 01:09:28,834
-The result? I eventually
-got fired by Apple.
+01:09:26,160 --> 01:09:28,830
+The result? I eventually got fired by Apple.
 
 1065
-01:09:37,041 --> 01:09:41,709
-I learned from failure how
-incredibly painful it can be
-when you fail publicly.
+01:09:37,040 --> 01:09:41,700
+I learned from failure how incredibly painful it can be when you fail publicly.
 
 1066
-01:09:41,709 --> 01:09:44,333
-It wasn't just
-the little failures,
-but, you know, I had to fail
+01:09:41,700 --> 01:09:44,330
+It wasn't just the little failures, but, you know, I had to fail
 
 1067
-01:09:44,333 --> 01:09:47,542
-in front of the whole world
-when I was fired from Apple.
+01:09:44,330 --> 01:09:47,540
+in front of the whole world when I was fired from Apple.
 
 1068
-01:09:47,542 --> 01:09:51,166
-It really hurt me for a long,
-long time, and it wasn't
+01:09:47,540 --> 01:09:51,160
+It really hurt me for a long, long time, and it wasn't
 
 1069
-01:09:51,166 --> 01:09:55,709
-till about 15 years later that
-I could actually get my head
-around and deal with it.
+01:09:51,160 --> 01:09:55,700
+till about 15 years later that I could actually get my head around and deal with it.
 
 1070
-01:10:01,375 --> 01:10:04,375
-But the stories of Silicon
-Valley are always the stories
+01:10:01,370 --> 01:10:04,370
+But the stories of Silicon Valley are always the stories
 
 1071
-01:10:04,375 --> 01:10:08,291
-of these incredibly
-successful companies,
+01:10:04,370 --> 01:10:08,290
+of these incredibly successful companies,
 
 1072
-01:10:08,291 --> 01:10:11,542
-and yet here is a company,
-General Magic,
+01:10:08,290 --> 01:10:11,540
+and yet here is a company, General Magic,
 
 1073
-01:10:11,542 --> 01:10:15,959
-that wasn't
-commercially successful
-and eventually went bankrupt,
+01:10:11,540 --> 01:10:15,950
+that wasn't commercially successful and eventually went bankrupt,
 
 1074
-01:10:15,959 --> 01:10:20,583
-and yet so much of what came out
-of General Magic
+01:10:15,950 --> 01:10:20,580
+and yet so much of what came out of General Magic
 
 1075
-01:10:20,583 --> 01:10:24,333
-is the foundation of everything
-we take for granted today.
+01:10:20,580 --> 01:10:24,330
+is the foundation of everything we take for granted today.
 
 1076
-01:10:35,667 --> 01:10:39,250
-[Joanna]
-Failure doesn't-- doesn't
-stop me as long as it's
+01:10:35,660 --> 01:10:39,250
+[Joanna] Failure doesn't-- doesn't stop me as long as it's
 
 1077
-01:10:39,250 --> 01:10:42,583
-on a path towards
-something really wonderful.
+01:10:39,250 --> 01:10:42,580
+on a path towards something really wonderful.
 
 1078
-01:10:42,583 --> 01:10:47,125
-But with General Magic
-there was a certain deflation
-in me personally,
+01:10:42,580 --> 01:10:47,120
+But with General Magic there was a certain deflation in me personally,
 
 1079
-01:10:47,125 --> 01:10:52,333
-where I felt like, uh,
-"Will I be able to do this
-one more time? I'm not sure."
+01:10:47,120 --> 01:10:52,330
+where I felt like, uh, "Will I be able to do this one more time? I'm not sure."
 
 1080
-01:10:52,333 --> 01:10:57,709
-Because the potential was so
-phenomenal and you could see
-this is going to happen.
+01:10:52,330 --> 01:10:57,700
+Because the potential was so phenomenal and you could see this is going to happen.
 
 1081
-01:10:57,709 --> 01:11:01,500
-You know that this is going
-to happen, and you realize
+01:10:57,700 --> 01:11:01,500
+You know that this is going to happen, and you realize
 
 1082
-01:11:01,500 --> 01:11:04,542
-you're not gonna be the one
-that makes it happen.
+01:11:01,500 --> 01:11:04,540
+you're not gonna be the one that makes it happen.
 
 1083
-01:11:04,542 --> 01:11:08,625
-It's even more comprehensive
-than I remembered.
+01:11:04,540 --> 01:11:08,620
+It's even more comprehensive than I remembered.
 
 1084
-01:11:08,625 --> 01:11:10,792
+01:11:08,620 --> 01:11:10,790
 Yeah.
 
 1085
-01:11:10,792 --> 01:11:16,917
-[chuckles]
-Now that I look at it,
-I think, what were we thinking?
+01:11:10,790 --> 01:11:16,910
+[chuckles] Now that I look at it, I think, what were we thinking?
 
 1086
-01:11:16,917 --> 01:11:19,542
+01:11:16,910 --> 01:11:19,540
 We were trying to do all this?
 
 1087
-01:11:19,542 --> 01:11:21,625
+01:11:19,540 --> 01:11:21,620
 And, you know...
 
 1088
-01:11:21,625 --> 01:11:25,208
-And we thought
-we could push the industry,
-we could make them do it.
+01:11:21,620 --> 01:11:25,200
+And we thought we could push the industry, we could make them do it.
 
 1089
-01:11:25,208 --> 01:11:30,959
-Mm...
-Not there, it wasn't there.
+01:11:25,200 --> 01:11:30,950
+Mm... Not there, it wasn't there.
 
 1090
-01:11:30,959 --> 01:11:35,375
+01:11:30,950 --> 01:11:35,370
 [emotional music]
 
 1091
-01:11:45,917 --> 01:11:51,125
-I'm old enough now
-to know that it's behind me,
-you know, it's-- it's, uh--
+01:11:45,910 --> 01:11:51,120
+I'm old enough now to know that it's behind me, you know, it's-- it's, uh--
 
 1092
-01:11:51,125 --> 01:11:53,750
+01:11:51,120 --> 01:11:53,750
 To create technical revolution
 
 1093
-01:11:53,750 --> 01:11:58,291
-is-- is really a game for people
-in their, in their twenties.
+01:11:53,750 --> 01:11:58,290
+is-- is really a game for people in their, in their twenties.
 
 1094
-01:11:58,291 --> 01:12:02,500
-The stamina, you're also not
-as contaminated by the past.
+01:11:58,290 --> 01:12:02,500
+The stamina, you're also not as contaminated by the past.
 
 1095
-01:12:12,542 --> 01:12:14,542
-More than anything else
-it makes me feel old.
+01:12:12,540 --> 01:12:14,540
+More than anything else it makes me feel old.
 
 1096
-01:12:14,542 --> 01:12:19,542
-[chuckles]
-That, uh, stuff I-- I worked on
+01:12:14,540 --> 01:12:19,540
+[chuckles] That, uh, stuff I-- I worked on
 
 1097
-01:12:19,542 --> 01:12:24,083
-or bought, you know, is-- are--
-they are now museum pieces.
+01:12:19,540 --> 01:12:24,080
+or bought, you know, is-- are-- they are now museum pieces.
 
 1098
-01:12:28,500 --> 01:12:32,917
-Yeah, so there is
-a General Magic device,
-the Sony Magic Link.
+01:12:28,500 --> 01:12:32,910
+Yeah, so there is a General Magic device, the Sony Magic Link.
 
 1099
-01:12:36,959 --> 01:12:40,417
-Now I have thought
-about it a lot, there is
-a whole litany of things,
+01:12:36,950 --> 01:12:40,410
+Now I have thought about it a lot, there is a whole litany of things,
 
 1100
-01:12:40,417 --> 01:12:42,709
-uh, we should have
-done differently.
+01:12:40,410 --> 01:12:42,700
+uh, we should have done differently.
 
 1101
-01:12:42,709 --> 01:12:47,417
-A lot of blunders that I'm
-personally responsible for.
+01:12:42,700 --> 01:12:47,410
+A lot of blunders that I'm personally responsible for.
 
 1102
-01:12:47,417 --> 01:12:51,375
-It was completely possible
-to achieve the most ambitious
+01:12:47,410 --> 01:12:51,370
+It was completely possible to achieve the most ambitious
 
 1103
-01:12:51,375 --> 01:12:54,917
-of our visions, uh,
-but in a staged fashion.
+01:12:51,370 --> 01:12:54,910
+of our visions, uh, but in a staged fashion.
 
 1104
 01:13:01,750 --> 01:13:05,750
-[Marc] We sometimes
-need closure on things
-that are not closeable.
+[Marc] We sometimes need closure on things that are not closeable.
 
 1105
-01:13:05,750 --> 01:13:11,083
-A peak experience, positive
-or negative happens,
-it's not easy to resolve.
+01:13:05,750 --> 01:13:11,080
+A peak experience, positive or negative happens, it's not easy to resolve.
 
 1106
-01:13:11,083 --> 01:13:17,625
-In the moment we all do the best
-we can do in the moment,
-at that moment.
+01:13:11,080 --> 01:13:17,620
+In the moment we all do the best we can do in the moment, at that moment.
 
 1107
-01:13:17,625 --> 01:13:20,625
-It's in retrospect that you see
-what the impact was.
+01:13:17,620 --> 01:13:20,620
+It's in retrospect that you see what the impact was.
 
 1108
-01:13:22,583 --> 01:13:26,458
-I felt, a profound
-feeling of humiliation.
+01:13:22,580 --> 01:13:26,450
+I felt, a profound feeling of humiliation.
 
 1109
-01:13:29,250 --> 01:13:33,917
-Shame that I had
-brought everyone along
-with such high anticipation
+01:13:29,250 --> 01:13:33,910
+Shame that I had brought everyone along with such high anticipation
 
 1110
-01:13:33,917 --> 01:13:37,208
-and then couldn't at the end,
-deliver it for them,
+01:13:33,910 --> 01:13:37,200
+and then couldn't at the end, deliver it for them,
 
 1111
-01:13:37,208 --> 01:13:39,458
+01:13:37,200 --> 01:13:39,450
 and for myself, and for them.
 
 1112
-01:13:44,792 --> 01:13:51,750
-So I remember
-coming home one evening,
-so the kids were still up.
+01:13:44,790 --> 01:13:51,750
+So I remember coming home one evening, so the kids were still up.
 
 1113
-01:13:51,750 --> 01:13:58,125
-"Daddy." And daddy had given
-it all to perfect strangers.
+01:13:51,750 --> 01:13:58,120
+"Daddy." And daddy had given it all to perfect strangers.
 
 1114
-01:13:58,125 --> 01:14:01,959
+01:13:58,120 --> 01:14:01,950
 [mother speaking indistinct]
 
 1115
-01:14:01,959 --> 01:14:07,542
-And my wife said,
-"Don't come home like this."
+01:14:01,950 --> 01:14:07,540
+And my wife said, "Don't come home like this."
 
 1116
-01:14:07,542 --> 01:14:09,500
-[filmmaker] Can you, Marc
-slide over to your right,
+01:14:07,540 --> 01:14:09,500
+[filmmaker] Can you, Marc slide over to your right,
 
 1117
 01:14:09,500 --> 01:14:11,500
-so you are not
-bracketing the plate.
+so you are not bracketing the plate.
 
 1118
-01:14:13,750 --> 01:14:16,959
-[Marc] "If you need to sit
-in your car, for hours
+01:14:13,750 --> 01:14:16,950
+[Marc] "If you need to sit in your car, for hours
 
 1119
-01:14:16,959 --> 01:14:20,625
-or for all night,
-don't come back.
+01:14:16,950 --> 01:14:20,620
+or for all night, don't come back.
 
 1120
-01:14:20,625 --> 01:14:24,500
-Don't walk in the door
-if you're not a person,
-if you're not present,
+01:14:20,620 --> 01:14:24,500
+Don't walk in the door if you're not a person, if you're not present,
 
 1121
-01:14:24,500 --> 01:14:27,667
+01:14:24,500 --> 01:14:27,660
 because, you're not wanted."
 
 1122
-01:14:32,417 --> 01:14:35,709
-And you know in-- in--
-it collapsed,
+01:14:32,410 --> 01:14:35,700
+And you know in-- in-- it collapsed,
 
 1123
-01:14:35,709 --> 01:14:42,625
-it all came tumbling down,
-and the company didn't work,
-and my marriage didn't work,
+01:14:35,700 --> 01:14:42,620
+it all came tumbling down, and the company didn't work, and my marriage didn't work,
 
 1124
-01:14:42,625 --> 01:14:45,083
-in the same 12 month period,
-you know.
+01:14:42,620 --> 01:14:45,080
+in the same 12 month period, you know.
 
 1125
-01:14:46,792 --> 01:14:48,667
+01:14:46,790 --> 01:14:48,660
 And it all fell apart.
 
 1126
-01:14:52,667 --> 01:14:53,291
+01:14:52,660 --> 01:14:53,290
 Yeah.
 
 1127
-01:14:53,291 --> 01:14:56,667
+01:14:53,290 --> 01:14:56,660
 [melancholic music]
 
 1128
-01:15:00,875 --> 01:15:03,667
-[interviewer] Have you
-told your children about this?
+01:15:00,870 --> 01:15:03,660
+[interviewer] Have you told your children about this?
 
 1129
-01:15:03,667 --> 01:15:06,583
-Well I'm talking to them now,
-aren't I? [chuckles]
+01:15:03,660 --> 01:15:06,580
+Well I'm talking to them now, aren't I? [chuckles]
 
 1130
-01:15:06,583 --> 01:15:08,750
-It's one of the reasons
-I agreed to make this film.
+01:15:06,580 --> 01:15:08,750
+It's one of the reasons I agreed to make this film.
 
 1131
-01:15:16,000 --> 01:15:19,959
-Life is ebbs and flows,
-when a wave crashes
-on the shores
+01:15:16,000 --> 01:15:19,950
+Life is ebbs and flows, when a wave crashes on the shores
 
 1132
-01:15:19,959 --> 01:15:24,458
-and the rocks hear,
-you don't think of
-the wave as having failed.
+01:15:19,950 --> 01:15:24,450
+and the rocks hear, you don't think of the wave as having failed.
 
 1133
-01:15:24,458 --> 01:15:29,792
-You think of the wave as having
-done its thing and the next wave
-will come and the next wave,
+01:15:24,450 --> 01:15:29,790
+You think of the wave as having done its thing and the next wave will come and the next wave,
 
 1134
-01:15:29,792 --> 01:15:33,250
-and that's how I think of
-General Magic. A moment in time.
+01:15:29,790 --> 01:15:33,250
+and that's how I think of General Magic. A moment in time.
 
 1135
-01:15:38,542 --> 01:15:43,291
-[Sculley] It always amazed me,
-because I haven't seen Marc
-in many, many years,
+01:15:38,540 --> 01:15:43,290
+[Sculley] It always amazed me, because I haven't seen Marc in many, many years,
 
 1136
-01:15:43,291 --> 01:15:47,333
-you know, why there wasn't
-a second act.
+01:15:43,290 --> 01:15:47,330
+you know, why there wasn't a second act.
 
 1137
-01:15:47,333 --> 01:15:51,041
-Because here is an individual
-who was so good,
+01:15:47,330 --> 01:15:51,040
+Because here is an individual who was so good,
 
 1138
-01:15:51,041 --> 01:15:53,709
-so exceptional
-at what he did well.
+01:15:51,040 --> 01:15:53,700
+so exceptional at what he did well.
 
 1139
-01:15:53,709 --> 01:15:56,917
-Brought together
-perhaps the best team
+01:15:53,700 --> 01:15:56,910
+Brought together perhaps the best team
 
 1140
-01:15:56,917 --> 01:15:58,917
-and the reality is,
-in my mind Marc never failed,
+01:15:56,910 --> 01:15:58,910
+and the reality is, in my mind Marc never failed,
 
 1141
-01:15:58,917 --> 01:16:03,709
-you know, because he actually
-did conceptualize
+01:15:58,910 --> 01:16:03,700
+you know, because he actually did conceptualize
 
 1142
-01:16:03,709 --> 01:16:07,166
-so many of the products
-that we have today.
+01:16:03,700 --> 01:16:07,160
+so many of the products that we have today.
 
 1143
 01:16:12,750 --> 01:16:18,000
-It was a decade of failure
-in Silicon Valley for me.
+It was a decade of failure in Silicon Valley for me.
 
 1144
-01:16:18,000 --> 01:16:23,583
-General Magic was a disaster,
-Phillips was a critical success,
-but a business disaster.
+01:16:18,000 --> 01:16:23,580
+General Magic was a disaster, Phillips was a critical success, but a business disaster.
 
 1145
-01:16:23,583 --> 01:16:28,166
-Then I had my start up and then,
-you know, during the start up
-times the Internet crunch
+01:16:23,580 --> 01:16:28,160
+Then I had my start up and then, you know, during the start up times the Internet crunch
 
 1146
-01:16:28,166 --> 01:16:31,333
-happened and I couldn't get
-any more funding
-and that was a disaster.
+01:16:28,160 --> 01:16:31,330
+happened and I couldn't get any more funding and that was a disaster.
 
 1147
-01:16:31,333 --> 01:16:35,625
-So it was a disaster
-after disaster
-from a business perspective.
+01:16:31,330 --> 01:16:35,620
+So it was a disaster after disaster from a business perspective.
 
 1148
-01:16:35,625 --> 01:16:39,792
-But from a personal perspective
-it caused me to grow up
-each time,
+01:16:35,620 --> 01:16:39,790
+But from a personal perspective it caused me to grow up each time,
 
 1149
-01:16:39,792 --> 01:16:44,417
-and learn because I was faced
-with this real reality
+01:16:39,790 --> 01:16:44,410
+and learn because I was faced with this real reality
 
 1150
-01:16:44,417 --> 01:16:49,959
-of like, this isn't working
-and you better understand
-why and learn from it.
+01:16:44,410 --> 01:16:49,950
+of like, this isn't working and you better understand why and learn from it.
 
 1151
-01:16:49,959 --> 01:16:53,625
-Because I had to go through that
-to be able to set my--
-to set the stage up
+01:16:49,950 --> 01:16:53,620
+Because I had to go through that to be able to set my-- to set the stage up
 
 1152
-01:16:53,625 --> 01:16:56,375
-for what was to come
-in 2001 and beyond.
+01:16:53,620 --> 01:16:56,370
+for what was to come in 2001 and beyond.
 
 1153
-01:16:59,959 --> 01:17:04,875
+01:16:59,950 --> 01:17:04,870
 [lively electronic music]
 
 1154
-01:17:11,083 --> 01:17:14,625
-[Tony] General Magic gave us
-a glimpse of what
-the future could be.
+01:17:11,080 --> 01:17:14,620
+[Tony] General Magic gave us a glimpse of what the future could be.
 
 1155
-01:17:14,625 --> 01:17:17,667
-The technology unfortunately
-wasn't there at the time,
+01:17:14,620 --> 01:17:17,660
+The technology unfortunately wasn't there at the time,
 
 1156
-01:17:17,667 --> 01:17:20,834
-but those dreams,
-we kept dreaming.
+01:17:17,660 --> 01:17:20,830
+but those dreams, we kept dreaming.
 
 1157
-01:17:24,166 --> 01:17:29,041
-[Dee] Tony is very big on music
-and he would talk about
-music a lot and how,
+01:17:24,160 --> 01:17:29,040
+[Dee] Tony is very big on music and he would talk about music a lot and how,
 
 1158
-01:17:29,041 --> 01:17:33,000
-how someday we were gonna have,
-you know, a little device
+01:17:29,040 --> 01:17:33,000
+how someday we were gonna have, you know, a little device
 
 1159
-01:17:33,000 --> 01:17:39,709
-with all our music on it and I'm
-like, "OK, why do I need that?"
+01:17:33,000 --> 01:17:39,700
+with all our music on it and I'm like, "OK, why do I need that?"
 
 1160
-01:17:39,709 --> 01:17:42,875
-[Tony] I loved music
-growing up in Detroit,
-and I was always sick
+01:17:39,700 --> 01:17:42,870
+[Tony] I loved music growing up in Detroit, and I was always sick
 
 1161
-01:17:42,875 --> 01:17:46,125
-and tired of lugging my
-CD's and all this
-other stuff around.
+01:17:42,870 --> 01:17:46,120
+and tired of lugging my CD's and all this other stuff around.
 
 1162
-01:17:46,125 --> 01:17:48,709
-I wanted something where
-I could take it all the time.
+01:17:46,120 --> 01:17:48,700
+I wanted something where I could take it all the time.
 
 1163
-01:17:48,709 --> 01:17:52,542
-MP3 showed up.
-I was like, music is coming.
+01:17:48,700 --> 01:17:52,540
+MP3 showed up. I was like, music is coming.
 
 1164
-01:17:52,542 --> 01:17:58,083
-Next thing I know I get a call,
-"We've looked at all the MP3
-players, we think they are bad.
+01:17:52,540 --> 01:17:58,080
+Next thing I know I get a call, "We've looked at all the MP3 players, we think they are bad.
 
 1165
-01:17:58,083 --> 01:18:00,750
-We think there is one that can
-be done in the Apple way."
+01:17:58,080 --> 01:18:00,750
+We think there is one that can be done in the Apple way."
 
 1166
-01:18:00,750 --> 01:18:05,417
-And then Steve said,
-"Now we need you to come on
-the team to put it together."
+01:18:00,750 --> 01:18:05,410
+And then Steve said, "Now we need you to come on the team to put it together."
 
 1167
-01:18:05,417 --> 01:18:08,041
-And then I started calling
-all kinds of companies
+01:18:05,410 --> 01:18:08,040
+And then I started calling all kinds of companies
 
 1168
-01:18:08,041 --> 01:18:11,250
-all around the valley,
-around world.
-Trying to figure out displays
+01:18:08,040 --> 01:18:11,250
+all around the valley, around world. Trying to figure out displays
 
 1169
-01:18:11,250 --> 01:18:13,583
-trying to figure out batteries,
-trying to figure out storage
+01:18:11,250 --> 01:18:13,580
+trying to figure out batteries, trying to figure out storage
 
 1170
-01:18:13,583 --> 01:18:17,041
-and then Steve was able,
-and the team was able
-to build on top of those
+01:18:13,580 --> 01:18:17,040
+and then Steve was able, and the team was able to build on top of those
 
 1171
-01:18:17,041 --> 01:18:20,875
-and make it even better,
-and so we were like,
-it's happening.
+01:18:17,040 --> 01:18:20,870
+and make it even better, and so we were like, it's happening.
 
 1172
-01:18:20,875 --> 01:18:23,000
-[Steve Jobs] Boom, that's iPod.
-I happen to have one right here
+01:18:20,870 --> 01:18:23,000
+[Steve Jobs] Boom, that's iPod. I happen to have one right here
 
 1173
-01:18:23,000 --> 01:18:26,041
-in my pocket, as a matter of
-fact. There it is, right there.
+01:18:23,000 --> 01:18:26,040
+in my pocket, as a matter of fact. There it is, right there.
 
 1174
-01:18:26,041 --> 01:18:29,834
-[Tony] The Magic lesson
-was, we have to ship it
-as fast as possible
+01:18:26,040 --> 01:18:29,830
+[Tony] The Magic lesson was, we have to ship it as fast as possible
 
 1175
-01:18:29,834 --> 01:18:33,083
-so you could learn
-from the market and you
-can iterate quickly.
+01:18:29,830 --> 01:18:33,080
+so you could learn from the market and you can iterate quickly.
 
 1176
-01:18:33,083 --> 01:18:35,917
-Every year we made sure we had
-a new version of the iPod.
+01:18:33,080 --> 01:18:35,910
+Every year we made sure we had a new version of the iPod.
 
 1177
-01:18:35,917 --> 01:18:38,291
-And then we added
-downloadable apps,
+01:18:35,910 --> 01:18:38,290
+And then we added downloadable apps,
 
 1178
-01:18:38,291 --> 01:18:41,875
-games, email,
-communications, wireless.
+01:18:38,290 --> 01:18:41,870
+games, email, communications, wireless.
 
 1179
-01:18:41,875 --> 01:18:45,542
-We had these different pieces
-and I'm like this is starting
-to come together.
+01:18:41,870 --> 01:18:45,540
+We had these different pieces and I'm like this is starting to come together.
 
 1180
-01:18:45,542 --> 01:18:49,583
-I remember this,
-and it was like I was
-back at General Magic
+01:18:45,540 --> 01:18:49,580
+I remember this, and it was like I was back at General Magic
 
 1181
-01:18:49,583 --> 01:18:56,083
-again in a way, because it's
-what we talked about,
-just 15 years later.
+01:18:49,580 --> 01:18:56,080
+again in a way, because it's what we talked about, just 15 years later.
 
 1182
-01:18:56,083 --> 01:18:59,125
+01:18:56,080 --> 01:18:59,120
 This is real, Steve goes,
 
 1183
-01:18:59,125 --> 01:19:02,917
-"It's taking off, we need
-to put it on a cellphone."
+01:18:59,120 --> 01:19:02,910
+"It's taking off, we need to put it on a cellphone."
 
 1184
-01:19:07,166 --> 01:19:11,291
-[Steve Jobs] Today Apple is
-going to reinvent the phone.
+01:19:07,160 --> 01:19:11,290
+[Steve Jobs] Today Apple is going to reinvent the phone.
 
 1185
-01:19:12,792 --> 01:19:15,542
-And here it is.
-This is one device.
+01:19:12,790 --> 01:19:15,540
+And here it is. This is one device.
 
 1186
-01:19:17,208 --> 01:19:22,041
-This has been, at that point,
-17 years in Silicon Valley,
+01:19:17,200 --> 01:19:22,040
+This has been, at that point, 17 years in Silicon Valley,
 
 1187
-01:19:22,041 --> 01:19:24,792
-and we were finally able
-to realize the dream we had
+01:19:22,040 --> 01:19:24,790
+and we were finally able to realize the dream we had
 
 1188
-01:19:24,792 --> 01:19:29,000
-in 1991 on stage
-and Steve Jobs talking about it.
+01:19:24,790 --> 01:19:29,000
+in 1991 on stage and Steve Jobs talking about it.
 
 1189
 01:19:29,000 --> 01:19:31,250
-We're going to use the best
-pointing device in the world.
+We're going to use the best pointing device in the world.
 
 1190
 01:19:31,250 --> 01:19:34,250
-We're going to use
-a pointing device
-that we are all born with,
+We're going to use a pointing device that we are all born with,
 
 1191
-01:19:34,250 --> 01:19:37,917
-we're born with ten of them,
-we are going to use our fingers.
+01:19:34,250 --> 01:19:37,910
+we're born with ten of them, we are going to use our fingers.
 
 1192
-01:19:37,917 --> 01:19:42,834
-So, let's go ahead
-and turn it on, alrighty.
+01:19:37,910 --> 01:19:42,830
+So, let's go ahead and turn it on, alrighty.
 
 1193
-01:19:42,834 --> 01:19:47,208
-[Stern] I was proud to think
-that, "Yeah, my god,
-we did it."
+01:19:42,830 --> 01:19:47,200
+[Stern] I was proud to think that, "Yeah, my god, we did it."
 
 1194
-01:19:47,208 --> 01:19:51,959
-Tony did it. Everything
-we wanted to do, there it is.
+01:19:47,200 --> 01:19:51,950
+Tony did it. Everything we wanted to do, there it is.
 
 1195
-01:19:51,959 --> 01:19:55,834
-and on the other hand,
-I was sad that it wasn't us.
+01:19:51,950 --> 01:19:55,830
+and on the other hand, I was sad that it wasn't us.
 
 1196
-01:19:55,834 --> 01:19:59,875
-But I also felt vindicated
-in some way.
+01:19:55,830 --> 01:19:59,870
+But I also felt vindicated in some way.
 
 1197
-01:19:59,875 --> 01:20:03,083
-That the ideas had been right,
-the timing had been wrong.
+01:19:59,870 --> 01:20:03,080
+That the ideas had been right, the timing had been wrong.
 
 1198
-01:20:05,583 --> 01:20:09,750
-[Andy] Steve would often call me
-after like the big product
-introductions,
+01:20:05,580 --> 01:20:09,750
+[Andy] Steve would often call me after like the big product introductions,
 
 1199
-01:20:09,750 --> 01:20:15,166
-just to see what I thought.
-4:00 p.m. I was in my office,
-I got a call from Steve.
+01:20:09,750 --> 01:20:15,160
+just to see what I thought. 4:00 p.m. I was in my office, I got a call from Steve.
 
 1200
-01:20:15,166 --> 01:20:17,333
-He said, "What do you think,
-what do you think?"
+01:20:15,160 --> 01:20:17,330
+He said, "What do you think, what do you think?"
 
 1201
-01:20:17,333 --> 01:20:22,000
-And it was like
-the worst cell phone
-connection I've ever heard.
+01:20:17,330 --> 01:20:22,000
+And it was like the worst cell phone connection I've ever heard.
 
 1202
-01:20:22,000 --> 01:20:27,333
-You know it was all like,
-you could hear Steve, say:
+01:20:22,000 --> 01:20:27,330
+You know it was all like, you could hear Steve, say:
 
 1203
-01:20:27,333 --> 01:20:32,125
-So the first thing I ask him,
-I said, "Are you talking
-on an iPhone?"
+01:20:27,330 --> 01:20:32,120
+So the first thing I ask him, I said, "Are you talking on an iPhone?"
 
 1204
-01:20:32,125 --> 01:20:35,208
-He goes, "No, no, no."
-But I think he was.
+01:20:32,120 --> 01:20:35,200
+He goes, "No, no, no." But I think he was.
 
 1205
-01:20:35,208 --> 01:20:38,834
-Steve told me on the phone,
-he thought a lot about Magic Cap
+01:20:35,200 --> 01:20:38,830
+Steve told me on the phone, he thought a lot about Magic Cap
 
 1206
-01:20:38,834 --> 01:20:41,375
-during the course
-of the iPhone development,
+01:20:38,830 --> 01:20:41,370
+during the course of the iPhone development,
 
 1207
-01:20:41,375 --> 01:20:46,041
-and in particular mentioned
-the projected keyboard,
-he had seen that
+01:20:41,370 --> 01:20:46,040
+and in particular mentioned the projected keyboard, he had seen that
 
 1208
-01:20:46,041 --> 01:20:48,792
-and used it with Magic Cap
-and that gave him faith
+01:20:46,040 --> 01:20:48,790
+and used it with Magic Cap and that gave him faith
 
 1209
-01:20:48,792 --> 01:20:51,875
-that, that was the right
-direction to go.
+01:20:48,790 --> 01:20:51,870
+that, that was the right direction to go.
 
 1210
-01:20:51,875 --> 01:20:54,125
--Hey Zarko.
--Hi, Andy.
+01:20:51,870 --> 01:20:54,120
+-Hey Zarko. -Hi, Andy.
 
 1211
-01:20:54,125 --> 01:20:56,875
-Hi, I'm in the middle of
-giving a demo of Magic Cap
-for cellphones.
+01:20:54,120 --> 01:20:56,870
+Hi, I'm in the middle of giving a demo of Magic Cap for cellphones.
 
 1212
-01:20:56,875 --> 01:20:59,333
-It's really exciting,
-it's working great.
+01:20:56,870 --> 01:20:59,330
+It's really exciting, it's working great.
 
 1213
-01:20:59,333 --> 01:21:01,500
--You guys-- You guys
-did a great job.
--It's incredible.
+01:20:59,330 --> 01:21:01,500
+-You guys-- You guys did a great job. -It's incredible.
 
 1214
-01:21:01,500 --> 01:21:04,375
-Yeah, yeah it's almost like
-you are in the next room
-or something.
+01:21:01,500 --> 01:21:04,370
+Yeah, yeah it's almost like you are in the next room or something.
 
 1215
-01:21:04,375 --> 01:21:08,291
--Yeah, amazing. Bye.
--Yeah, OK.
+01:21:04,370 --> 01:21:08,290
+-Yeah, amazing. Bye. -Yeah, OK.
 
 1216
-01:21:08,291 --> 01:21:13,709
-[Joanna] Had I thought that
-it would be done by Steve Jobs,
+01:21:08,290 --> 01:21:13,700
+[Joanna] Had I thought that it would be done by Steve Jobs,
 
 1217
-01:21:13,709 --> 01:21:19,542
-if I had known that then,
-I think I wouldn't have been
-as devastated.
+01:21:13,700 --> 01:21:19,540
+if I had known that then, I think I wouldn't have been as devastated.
 
 1218
-01:21:19,542 --> 01:21:24,166
-Because then I would know
-that it would be done
-and it would be done right.
+01:21:19,540 --> 01:21:24,160
+Because then I would know that it would be done and it would be done right.
 
 1219
-01:21:24,166 --> 01:21:26,959
-It was very gratifying,
-because it had come full circle,
-you know?
+01:21:24,160 --> 01:21:26,950
+It was very gratifying, because it had come full circle, you know?
 
 1220
-01:21:26,959 --> 01:21:31,125
-Started with the Mac,
-and had spawned General Magic.
+01:21:26,950 --> 01:21:31,120
+Started with the Mac, and had spawned General Magic.
 
 1221
-01:21:31,125 --> 01:21:36,583
-General Magic progeny had
-spawned iPhone and Android.
+01:21:31,120 --> 01:21:36,580
+General Magic progeny had spawned iPhone and Android.
 
 1222
-01:21:36,583 --> 01:21:39,166
-I mean, we can't
-forget the Android.
+01:21:36,580 --> 01:21:39,160
+I mean, we can't forget the Android.
 
 1223
-01:21:39,166 --> 01:21:41,583
-Thank you for joining us today.
-You know Android
+01:21:39,160 --> 01:21:41,580
+Thank you for joining us today. You know Android
 
 1224
-01:21:41,583 --> 01:21:43,125
-obviously, you know,
-being an open source project,
+01:21:41,580 --> 01:21:43,120
+obviously, you know, being an open source project,
 
 1225
-01:21:43,125 --> 01:21:46,291
-we consider ourselves
-the shepherd of it.
+01:21:43,120 --> 01:21:46,290
+we consider ourselves the shepherd of it.
 
 1226
-01:21:46,291 --> 01:21:48,750
+01:21:46,290 --> 01:21:48,750
 So you see the vision continues.
 
 1227
-01:21:48,750 --> 01:21:52,875
-You know, if you look at
-Android, Andy Rubin droid,
-Andy was right there
+01:21:48,750 --> 01:21:52,870
+You know, if you look at Android, Andy Rubin droid, Andy was right there
 
 1228
-01:21:52,875 --> 01:21:57,083
-with us and then he carried it
-to Android and he makes it
-to now where we are.
+01:21:52,870 --> 01:21:57,080
+with us and then he carried it to Android and he makes it to now where we are.
 
 1229
-01:21:57,083 --> 01:21:59,458
-I mean, here's the test,
-what if General Magic
+01:21:57,080 --> 01:21:59,450
+I mean, here's the test, what if General Magic
 
 1230
-01:21:59,458 --> 01:22:02,917
-never happened,
-would we have had Android?
+01:21:59,450 --> 01:22:02,910
+never happened, would we have had Android?
 
 1231
-01:22:02,917 --> 01:22:06,458
-Not a chance, I mean all these
-things were linked together,
-one after another.
+01:22:02,910 --> 01:22:06,450
+Not a chance, I mean all these things were linked together, one after another.
 
 1232
-01:22:06,458 --> 01:22:09,625
-[Andy] One out of every five
-people on the planet uses
+01:22:06,450 --> 01:22:09,620
+[Andy] One out of every five people on the planet uses
 
 1233
-01:22:09,625 --> 01:22:12,917
-an Android phone, uh,
-growing every month.
+01:22:09,620 --> 01:22:12,910
+an Android phone, uh, growing every month.
 
 1234
-01:22:12,917 --> 01:22:17,458
-[Markoff] The vision was true,
-the vision was accurate,
-the vision is the idea
+01:22:12,910 --> 01:22:17,450
+[Markoff] The vision was true, the vision was accurate, the vision is the idea
 
 1235
-01:22:17,458 --> 01:22:21,583
-that basically got computing
-to the last hurdle.
+01:22:17,450 --> 01:22:21,580
+that basically got computing to the last hurdle.
 
 1236
-01:22:21,583 --> 01:22:23,709
-The last hurdle was
-when computing got into
+01:22:21,580 --> 01:22:23,700
+The last hurdle was when computing got into
 
 1237
-01:22:23,709 --> 01:22:25,542
-the palm of the hand
-of everybody in the world.
+01:22:23,700 --> 01:22:25,540
+the palm of the hand of everybody in the world.
 
 1238
-01:22:27,208 --> 01:22:31,625
-And between Tony and--
-and Andy, that's about 98%
+01:22:27,200 --> 01:22:31,620
+And between Tony and-- and Andy, that's about 98%
 
 1239
-01:22:31,625 --> 01:22:37,041
-of the world's smartphones,
-is those two guys who sat
-15 feet apart.
+01:22:31,620 --> 01:22:37,040
+of the world's smartphones, is those two guys who sat 15 feet apart.
 
 1240
-01:22:37,041 --> 01:22:40,709
-That's pretty amazing,
-and that by itself is--
+01:22:37,040 --> 01:22:40,700
+That's pretty amazing, and that by itself is--
 
 1241
-01:22:40,709 --> 01:22:46,917
-brings such satisfaction.
-It's, uh-- I can't even
-describe it.
+01:22:40,700 --> 01:22:46,910
+brings such satisfaction. It's, uh-- I can't even describe it.
 
 1242
-01:22:46,917 --> 01:22:49,875
-[Andy] First obvious thing
-to mention is that we are not
-alone here today.
+01:22:46,910 --> 01:22:49,870
+[Andy] First obvious thing to mention is that we are not alone here today.
 
 1243
-01:22:49,875 --> 01:22:55,333
-We are being filmed
-for posterity as part of our--
-our introduction video.
+01:22:49,870 --> 01:22:55,330
+We are being filmed for posterity as part of our-- our introduction video.
 
 1244
-01:22:55,333 --> 01:22:58,083
-Who knows if any of this
-will really be in the video.
+01:22:55,330 --> 01:22:58,080
+Who knows if any of this will really be in the video.
 
 1245
-01:22:58,083 --> 01:23:01,625
-[Amy] Imagine a star
-that went supernova
+01:22:58,080 --> 01:23:01,620
+[Amy] Imagine a star that went supernova
 
 1246
-01:23:01,625 --> 01:23:06,166
-and everything
-that you touch today,
+01:23:01,620 --> 01:23:06,160
+and everything that you touch today,
 
 1247
-01:23:06,166 --> 01:23:09,125
-everything you interact
-with today technology wise
+01:23:06,160 --> 01:23:09,120
+everything you interact with today technology wise
 
 1248
-01:23:09,125 --> 01:23:12,166
-is because that star power
-touched it.
+01:23:09,120 --> 01:23:12,160
+is because that star power touched it.
 
 1249
-01:23:12,166 --> 01:23:14,166
-I mean, all these companies,
-and I don't know
+01:23:12,160 --> 01:23:14,160
+I mean, all these companies, and I don't know
 
 1250
-01:23:14,166 --> 01:23:17,041
-if you add up the value
-of those what it would be,
+01:23:14,160 --> 01:23:17,040
+if you add up the value of those what it would be,
 
 1251
-01:23:17,041 --> 01:23:20,333
-but they all had
-their genesis with this crew
+01:23:17,040 --> 01:23:20,330
+but they all had their genesis with this crew
 
 1252
-01:23:20,333 --> 01:23:24,291
-of just a few dozen people,
-who were at General Magic.
+01:23:20,330 --> 01:23:24,290
+of just a few dozen people, who were at General Magic.
 
 1253
-01:23:24,291 --> 01:23:26,959
-[Adler] It was one
-of the only times
-I've ever felt like
+01:23:24,290 --> 01:23:26,950
+[Adler] It was one of the only times I've ever felt like
 
 1254
-01:23:26,959 --> 01:23:29,250
-there's no weak link
-in this chain,
+01:23:26,950 --> 01:23:29,250
+there's no weak link in this chain,
 
 1255
 01:23:29,250 --> 01:23:30,750
@@ -6375,289 +5041,258 @@ everyone on this team,
 
 1256
 01:23:30,750 --> 01:23:33,750
-uh, is brilliant,
-is so committed and passionate.
+uh, is brilliant, is so committed and passionate.
 
 1257
-01:23:33,750 --> 01:23:37,083
-What's so rare is having all
-those things at the same time.
+01:23:33,750 --> 01:23:37,080
+What's so rare is having all those things at the same time.
 
 1258
-01:23:37,083 --> 01:23:39,458
-[Tony] When you look at
-that class of people
+01:23:37,080 --> 01:23:39,450
+[Tony] When you look at that class of people
 
 1259
-01:23:39,458 --> 01:23:44,125
-and what the world
-looks like today,
-that was the training ground
+01:23:39,450 --> 01:23:44,120
+and what the world looks like today, that was the training ground
 
 1260
-01:23:44,125 --> 01:23:48,500
-for us, for what has
-shaped the world of today.
+01:23:44,120 --> 01:23:48,500
+for us, for what has shaped the world of today.
 
 1261
-01:23:48,500 --> 01:23:51,458
-[Kevin] We all carry things
-from General Magic,
-in terms of our view
+01:23:48,500 --> 01:23:51,450
+[Kevin] We all carry things from General Magic, in terms of our view
 
 1262
-01:23:51,458 --> 01:23:53,125
-of what could be
-possible in the future.
+01:23:51,450 --> 01:23:53,120
+of what could be possible in the future.
 
 1263
-01:23:53,125 --> 01:23:56,083
-And as engineers
-you can't help but think,
+01:23:53,120 --> 01:23:56,080
+And as engineers you can't help but think,
 
 1264
-01:23:56,083 --> 01:23:59,834
-"There's-- there's-- Can we
-do this now? How about now?"
+01:23:56,080 --> 01:23:59,830
+"There's-- there's-- Can we do this now? How about now?"
 
 1265
-01:23:59,834 --> 01:24:04,875
-I am so, so excited to show you
-our work, and I'm wearing
-Apple Watch right here.
+01:23:59,830 --> 01:24:04,870
+I am so, so excited to show you our work, and I'm wearing Apple Watch right here.
 
 1266
-01:24:04,875 --> 01:24:08,417
-A lot of General Magic was
-imagining what the world would
-be like if some things existed
+01:24:04,870 --> 01:24:08,410
+A lot of General Magic was imagining what the world would be like if some things existed
 
 1267
-01:24:08,417 --> 01:24:11,250
-that maybe we would make,
-and that's so fun to do.
+01:24:08,410 --> 01:24:11,250
+that maybe we would make, and that's so fun to do.
 
 1268
-01:24:11,250 --> 01:24:13,291
-You can control both the eyes
-and the mouth to get just
+01:24:11,250 --> 01:24:13,290
+You can control both the eyes and the mouth to get just
 
 1269
-01:24:13,291 --> 01:24:15,834
-the right expression you would
-like to send to somebody.
+01:24:13,290 --> 01:24:15,830
+the right expression you would like to send to somebody.
 
 1270
-01:24:15,834 --> 01:24:19,083
-And that is so true
-in so many fields right now,
-you are able to actually
+01:24:15,830 --> 01:24:19,080
+And that is so true in so many fields right now, you are able to actually
 
 1271
-01:24:19,083 --> 01:24:23,000
-transform industries
-by your work in technology.
+01:24:19,080 --> 01:24:23,000
+transform industries by your work in technology.
 
 1272
-01:24:23,000 --> 01:24:26,125
+01:24:23,000 --> 01:24:26,120
 [Tony] When you look at someone like Megan taking all of her knowledge
 
 1273
-01:24:27,458 --> 01:24:29,125
+01:24:27,450 --> 01:24:29,120
 and all the things she learned,
 
 1274
-01:24:29,125 --> 01:24:31,208
+01:24:29,120 --> 01:24:31,200
 and now bringing it to the government and seeing
 
 1275
-01:24:31,208 --> 01:24:34,333
+01:24:31,200 --> 01:24:34,330
 how the US Government is transforming through that.
 
 1276
-01:24:34,333 --> 01:24:38,417
+01:24:34,330 --> 01:24:38,410
 Hello, everybody, how you doing?
 
 1277
-01:24:38,417 --> 01:24:40,834
--Good to see you,
-is this my seat right here ?
--Yes, it is.
+01:24:38,410 --> 01:24:40,830
+-Good to see you, is this my seat right here ? -Yes, it is.
 
 1278
-01:24:40,834 --> 01:24:44,625
-President Obama had created
-the US Chief Technology
-Officer, which is my job
+01:24:40,830 --> 01:24:44,620
+President Obama had created the US Chief Technology Officer, which is my job
 
 1279
-01:24:44,625 --> 01:24:48,125
-and our team and really said:
-"Come and help me using
-those new methods
+01:24:44,620 --> 01:24:48,120
+and our team and really said: "Come and help me using those new methods
 
 1280
-01:24:48,125 --> 01:24:51,834
-on some of these harder
-problems, these problems
-that are in our civic space."
+01:24:48,120 --> 01:24:51,830
+on some of these harder problems, these problems that are in our civic space."
 
 1281
-01:24:51,834 --> 01:24:53,792
+01:24:51,830 --> 01:24:53,790
 There is the future right here.
 
 1282
-01:24:53,792 --> 01:24:55,458
-One of the things
-that I like to work on is
+01:24:53,790 --> 01:24:55,450
+One of the things that I like to work on is
 
 1283
-01:24:55,458 --> 01:24:59,291
-how to use technology
-to make people's lives better
+01:24:55,450 --> 01:24:59,290
+how to use technology to make people's lives better
 
 1284
-01:24:59,291 --> 01:25:02,083
+01:24:59,290 --> 01:25:02,080
 and sort of harness talent and unlock talent.
 
 1285
-01:25:02,083 --> 01:25:06,792
+01:25:02,080 --> 01:25:06,790
 I love thinking about, uh, how magic is anywhere.
 
 1286
-01:25:06,792 --> 01:25:11,083
+01:25:06,790 --> 01:25:11,080
 Uh, in everyone, and how do you pull that out
 
 1287
-01:25:11,083 --> 01:25:16,792
+01:25:11,080 --> 01:25:16,790
 and really make sure that the talent that wants to do its thing is able to do it.
 
 1288
-01:25:22,625 --> 01:25:25,709
+01:25:22,620 --> 01:25:25,700
 [Swisher] You know, as the human race thrives really on this planet
 
 1289
-01:25:25,709 --> 01:25:29,959
+01:25:25,700 --> 01:25:29,950
 it creates all kinds of problems, education, uniting people, climate change.
 
 1290
-01:25:29,959 --> 01:25:34,041
+01:25:29,950 --> 01:25:34,040
 There is not enough water, there is not enough food. What are we going to do?
 
 1291
-01:25:34,041 --> 01:25:38,667
+01:25:34,040 --> 01:25:38,660
 Those can all be solved with technologies, it's just a question how humanity uses it.
 
 1292
-01:25:41,041 --> 01:25:46,500
+01:25:41,040 --> 01:25:46,500
 But, the reliance on technology for everything, for human interactions is worrisome.
 
 1293
-01:25:46,500 --> 01:25:49,625
+01:25:46,500 --> 01:25:49,620
 Where people are, you know, you go to anything and everyone is like this, right.
 
 1294
-01:25:49,625 --> 01:25:53,166
+01:25:49,620 --> 01:25:53,160
 Um, so I worry about what happens to society and children
 
 1295
-01:25:53,166 --> 01:25:55,667
+01:25:53,160 --> 01:25:55,660
 and how they interact with each other.
 
 1296
-01:25:58,375 --> 01:26:01,208
+01:25:58,370 --> 01:26:01,200
 You can't change the human race, yeah, but you can start
 
 1297
-01:26:01,208 --> 01:26:03,458
+01:26:01,200 --> 01:26:03,450
 to educate them so that they change their behaviors.
 
 1298
-01:26:03,458 --> 01:26:06,583
+01:26:03,450 --> 01:26:06,580
 And so the question is, can you take these powerful tools
 
 1299
-01:26:06,583 --> 01:26:10,208
+01:26:06,580 --> 01:26:10,200
 and do something that really does help a lot of people?
 
 1300
-01:26:10,208 --> 01:26:13,375
+01:26:10,200 --> 01:26:13,370
 Can you inspire a group of young people now, to really,
 
 1301
-01:26:13,375 --> 01:26:17,250
+01:26:13,370 --> 01:26:17,250
 to be creative and come up with these new ideas?
 
 1302
-01:26:22,375 --> 01:26:26,333
+01:26:22,370 --> 01:26:26,330
 Tonight, we feature an iconic inventor of iPod and iPhone,
 
 1303
-01:26:26,333 --> 01:26:28,542
+01:26:26,330 --> 01:26:28,540
 I would like to bring up five numbers to introduce him.
 
 1304
-01:26:28,542 --> 01:26:31,667
+01:26:28,540 --> 01:26:31,660
 Seven billion, two hundred and seventy nine million,
 
 1305
-01:26:31,667 --> 01:26:35,375
+01:26:31,660 --> 01:26:35,370
 three hundred and ninety five thousand, eight hundred and seventy three.
 
 1306
-01:26:35,375 --> 01:26:39,208
+01:26:35,370 --> 01:26:39,200
 This is the number of kilowatt hours saved by Nest Thermostat owners.
 
 1307
-01:26:39,208 --> 01:26:43,375
+01:26:39,200 --> 01:26:43,370
 Eighteen, the number of generations of iPod's shipped.
 
 1308
-01:26:43,375 --> 01:26:46,542
+01:26:43,370 --> 01:26:46,540
 Three hundred, the number of patents authored.
 
 1309
-01:26:46,542 --> 01:26:50,375
+01:26:46,540 --> 01:26:50,370
 Three hundred and fifty million, the number of iPods sold.
 
 1310
-01:26:50,375 --> 01:26:54,750
+01:26:50,370 --> 01:26:54,750
 Join me in welcoming the one and only Tony Fadell.
 
 1311
-01:26:54,750 --> 01:26:58,583
+01:26:54,750 --> 01:26:58,580
 Hi, everybody.
 
 1312
-01:26:58,583 --> 01:27:03,041
+01:26:58,580 --> 01:27:03,040
 Let's say, you show up now, you're a kid, you show up here in the Valley,
 
 1313
-01:27:03,041 --> 01:27:06,583
+01:27:03,040 --> 01:27:06,580
 um, what would you tell someone similar to you who just walked in,
 
 1314
-01:27:06,583 --> 01:27:09,417
+01:27:06,580 --> 01:27:09,410
 you know, wet behind the ears in Silicon Valley today?
 
 1315
-01:27:09,417 --> 01:27:14,417
+01:27:09,410 --> 01:27:14,410
 You know I am only up here because of many people in this audience,
 
 1316
-01:27:14,417 --> 01:27:19,583
+01:27:14,410 --> 01:27:19,580
 who helped me get here, and that's the magic of Silicon Valley.
 
 1317
-01:27:19,583 --> 01:27:23,250
+01:27:19,580 --> 01:27:23,250
 We all started in the same place you are in today.
 
 1318
-01:27:23,250 --> 01:27:27,208
+01:27:23,250 --> 01:27:27,200
 Everyone has the same self doubts and no one's perfect.
 
 1319
-01:27:27,208 --> 01:27:30,250
+01:27:27,200 --> 01:27:30,250
 And when you meet your heroes and when you work with them
 
 1320
@@ -6665,117 +5300,113 @@ And when you meet your heroes and when you work with them
 and they treat you as a peer, learn from it.
 
 1321
-01:27:34,250 --> 01:27:37,583
+01:27:34,250 --> 01:27:37,580
 Keep moving. If you're dreaming the right dream,
 
 1322
-01:27:37,583 --> 01:27:40,709
+01:27:37,580 --> 01:27:40,700
 you're on the right path. I've been there before,
 
 1323
-01:27:40,709 --> 01:27:42,458
+01:27:40,700 --> 01:27:42,450
 it's tough, keep going.
 
 1324
-01:27:44,458 --> 01:27:47,458
+01:27:44,450 --> 01:27:47,450
 These people helped me to become the person I am.
 
 1325
-01:27:51,625 --> 01:27:57,792
+01:27:51,620 --> 01:27:57,790
 How can we take this same idea of bold dramatic change
 
 1326
-01:27:57,792 --> 01:27:59,917
+01:27:57,790 --> 01:27:59,910
 to help create a better society?
 
 1327
-01:27:59,917 --> 01:28:02,208
+01:27:59,910 --> 01:28:02,200
 We are going to have to invent those things
 
 1328
-01:28:02,208 --> 01:28:08,333
+01:28:02,200 --> 01:28:08,330
 and do it in all of these other domains that are being touched or revolutionized by technology.
 
 1329
-01:28:12,291 --> 01:28:16,583
+01:28:12,290 --> 01:28:16,580
 它可能看起来让人畏惧；它可能看起来很难；它可能看起来完全不可能
 
 1330
-01:28:16,583 --> 01:28:20,083
+01:28:16,580 --> 01:28:20,080
 but if you just find the right people and keep seeking out
 
 1331
-01:28:20,083 --> 01:28:24,375
+01:28:20,080 --> 01:28:24,370
 knowledge and advice and keep staying open to make a better world
 
 1332
-01:28:24,375 --> 01:28:28,041
+01:28:24,370 --> 01:28:28,040
 regardless of where you come from, great things can happen.
 
 1333
-01:28:28,041 --> 01:28:30,583
+01:28:28,040 --> 01:28:30,580
 We judge things by the moment in which we feel
 
 1334
-01:28:30,583 --> 01:28:33,667
+01:28:30,580 --> 01:28:33,660
 that they have made an impact on the mass culture.
 
 1335
-01:28:33,667 --> 01:28:37,291
+01:28:33,660 --> 01:28:37,290
 They are in the anthropology, they are in the culture of how we see
 
 1336
-01:28:37,291 --> 01:28:40,291
+01:28:37,290 --> 01:28:40,290
 ourselves, and how we come to expect the world to be
 
 1337
-01:28:40,291 --> 01:28:43,625
-and I don't think that will
-happen for another ten years.
+01:28:40,290 --> 01:28:43,620
+and I don't think that will happen for another ten years.
 
 1338
-01:28:43,625 --> 01:28:46,000
-I think we will build to it
-incrementally and every quarter
+01:28:43,620 --> 01:28:46,000
+I think we will build to it incrementally and every quarter
 
 1339
-01:28:46,000 --> 01:28:48,083
+01:28:46,000 --> 01:28:48,080
 and every year it will get closer and closer,
 
 1340
-01:28:48,083 --> 01:28:50,875
+01:28:48,080 --> 01:28:50,870
 but I don't think it will be until the 21st century when the stuff
 
 1341
-01:28:50,875 --> 01:28:54,542
+01:28:50,870 --> 01:28:54,540
 we are working on today becomes unexceptional, unexceptional.
 
 1342
-01:28:54,542 --> 01:28:57,792
+01:28:54,540 --> 01:28:57,790
 Not worth making a video about, and, and that's the test--
 
 1343
-01:28:57,792 --> 01:29:01,583
-Except for historical documentary purposes.
-[chuckles]
+01:28:57,790 --> 01:29:01,580
+Except for historical documentary purposes. [chuckles]
 
 1344
-01:29:01,583 --> 01:29:05,709
-And, and that's the test
-of, uh, of hey, we've made it.
+01:29:01,580 --> 01:29:05,700
+And, and that's the test of, uh, of hey, we've made it.
 
 1345
-01:29:05,709 --> 01:29:06,792
+01:29:05,700 --> 01:29:06,790
 We've really made a difference.
 
 1346
-01:29:06,792 --> 01:29:08,542
+01:29:06,790 --> 01:29:08,540
 We've really changed the world.
 
 1347
-01:29:08,542 --> 01:29:12,417
+01:29:08,540 --> 01:29:12,410
 [piano music]
 
 1348
-01:29:32,709 --> 01:29:36,250
+01:29:32,700 --> 01:29:36,250
 [no audible dialogue]
