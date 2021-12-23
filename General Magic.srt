@@ -2141,319 +2141,319 @@ They had, uh, decided to make something
 
 533
 00:36:09,950 --> 00:36:15,250
-You wanna know about the Newton? I'll tell you about the Newton, #### the Newton.
+想知道我怎么看 Newton 的？告诉你，**** Newton！
 
 534
-00:36:18,200 --> 00:36:22,290
-[Joanna] The Newton announcement caused vision envy
+00:36:18,200 --> 00:36:24,290
+[Joanna] Newton 的发布让我们的合作伙伴们都眼红了
 
 535
-00:36:22,290 --> 00:36:24,620
-on the part of all of our partners.
+00:36:24,290 --> 00:36:24,620
+
 
 536
 00:36:24,620 --> 00:36:28,540
-They thought that Sculley's was bigger than theirs.
+他们觉得 Sculley 发的产品不错
 
 537
 00:36:28,540 --> 00:36:32,040
-"I want that vision thing. Do that vision thing for me too."
+「我也要那样的，给我也做出来吧」
 
 538
 00:36:32,040 --> 00:36:36,580
-And so they wanted to immediately go up there and introduce.
+所以他们希望我们尽快发布产品
 
 539
 00:36:36,580 --> 00:36:40,580
-[Hoffman] We've got to explain the vision such that everybody gets it.
+[Hoffman] 我们必须要向大众解释我们的愿景
 
 540
 00:36:40,580 --> 00:36:44,370
-The press gets it, the corporations get it, it's all clear.
+向媒体解释、向其他公司解释，让大家都知道想做的东西
 
 541
 00:36:48,040 --> 00:36:51,700
-[女声] Leading the way to a new age of personal communication,
+引领个人通讯进入一个崭新时代时代
 
 542
 00:36:51,700 --> 00:36:56,000
-creating a revolutionary electronic messaging environment.
+创造一个革命性的电子信息环境
 
 543
 00:36:56,000 --> 00:36:59,080
-We call this environment, the Cloud.
+我们把这个环境命名为，云
 
 544
 00:36:59,080 --> 00:37:01,750
-[Stern] The fact that the Newton was going to ship and it was getting
+[Stern] Newton 已经发布，吸引了大量的媒体关注，并且将会量产
 
 545
 00:37:01,750 --> 00:37:04,870
-all this publicity meant that we had to come out of stealth mode
+这意味着我们不能再私底下偷偷摸摸、按部就班的做东西了
 
 546
 00:37:04,870 --> 00:37:08,660
-earlier than we had planned and well before we were ready to ship.
+哪怕还远没有准备好也必须把计划提前了
 
 547
 00:37:08,660 --> 00:37:12,620
-Stakes are higher, you better be better than these guys.
+赌注越来越多，必须要做得比别人更强
 
 548
 00:37:12,620 --> 00:37:16,250
-[Marc] Big event? This was huge and we made it huge
+[Marc] 搞个大新闻？那是一定要的
 
 549
 00:37:16,250 --> 00:37:18,330
-on purpose to raise the jeopardy.
+就是为了加大赌注
 
 550
 00:37:18,330 --> 00:37:22,250
-We knew it was gonna be a marathon that we were gonna run at sprint speed.
+我们意识到接下来要以短跑的速度开始马拉松了
 
 551
 00:37:22,250 --> 00:37:27,410
-It was gonna take everything out of us. Down the torpedoes, it's full speed ahead.
+一定要竭尽所能了，就像开膛的炮弹，准备开始全速出击
 
 552
 00:37:29,620 --> 00:37:33,620
-This is it, we're coming, these amazing devices.
+我们来了，带着这些让人感到惊奇的设备来了
 
 553
 00:37:33,620 --> 00:37:36,790
-[dramatic music]
 
 554
 00:37:40,620 --> 00:37:42,790
--[Markoff] You remember much about that day? -[Saffo] Yeah, well,
+- [Markoff] 你还记得那天发生的事儿吗？
+- [Saffo] emmm……
 
 555
 00:37:42,790 --> 00:37:45,620
-I remember my impression of Marc was, "Huh,
+我对 Marc 当时的印象……
 
 556
 00:37:45,620 --> 00:37:50,790
-most of the vision of Jobs, but he had better interface".
+给大家介绍愿景的感觉就很像 Steve Jobs，但他台风更得体一点儿
 
 557
 00:37:50,790 --> 00:37:52,790
-[announcer] Presenting Marc Porat.
+接下来有请 Marc Porat
 
 558
 00:37:52,790 --> 00:37:54,290
-[audience applauding]
 
 559
 00:37:54,290 --> 00:37:56,120
-Today we are going to introduce the vision.
+今天我们想跟大家介绍一下我们的愿景
 
 560
 00:37:56,120 --> 00:38:00,450
-Today we are introducing the technology, introducing The Alliance.
+我们在此发布一项新的技术，以及一个企业联盟
 
 561
 00:38:00,450 --> 00:38:02,790
-But let it be said it's about feelings.
+但我更想讨论的是我们的感觉
 
 562
 00:38:02,790 --> 00:38:07,450
-How you feel about the communication with another person.
+你在和别人沟通的时候是什么感觉？
 
 563
 00:38:07,450 --> 00:38:10,660
-To me the relationships of your life, is the fabric of your life.
+对我来说生活里的各种关系，构成了我生活的基础
 
 564
 00:38:10,660 --> 00:38:14,250
-That's the stuff that defines who we are as people.
+它定义了我是谁
 
 565
 00:38:14,250 --> 00:38:17,160
-[MacAskill] Marc was one of the most charismatic presenters you could ever imagine.
+[MacAskill] Marc 几乎是我能想到的最有个人魅力的演讲者了
 
 566
 00:38:17,160 --> 00:38:21,450
-But let me just hold it up for you, so you can see what this thing is, you know, about.
+让我把它举起来给大家看看，你们就能看到它是用来做啥的了
 
 567
 00:38:21,450 --> 00:38:23,500
-Its intent is to be with me all the time.
+它被设计用来一直随身携带
 
 568
 00:38:23,500 --> 00:38:26,830
+当 Porat 演讲的时候，台下的每个观众
 The thing about Porat when he speaks is, everybody in the audience
 
 569
 00:38:26,830 --> 00:38:31,000
-says to themselves two things, they say, "My god this guy is right.
+都会告诉自己两件事「啊！他说的是对的！
 
 570
 00:38:31,000 --> 00:38:36,580
-I can go to the roof of this building and if I jump, I will fly."
+如果我现在去楼顶跳下来，肯定能飞！」
 
 571
 00:38:36,580 --> 00:38:40,620
-And the second thing they would think is, "And that guy up there on stage,
+第二件事就是「我和台上的这个人
 
 572
 00:38:40,620 --> 00:38:44,620
-and me, we're the only two guys who really get it."
+是这个世界上仅有的两个搞清楚状况的人」
 
 573
 00:38:44,620 --> 00:38:48,370
-This, we hope will be with you as simply part of your existence.
+我们希望这个设备能融入你的日常生活
 
 574
 00:38:48,370 --> 00:38:52,120
-It will be that useful. The minute I see it in a store, I smile.
+他会很实用，见到他的第一眼，我就会开心地笑
 
 575
 00:38:52,120 --> 00:38:55,580
-It's about having fun, it's about leisure, it's about entertainment.
+用起来很开心、很轻松、很愉悦
 
 576
 00:38:55,580 --> 00:38:59,290
-I just recall listening to him and thinking, "Yes, yes!"
+我记得听他演讲的时候，脑中就不对附和「对！对！」
 
 577
 00:38:59,290 --> 00:39:04,370
-When we were talking about re-inventing telephony, we meant it. This is inexorable.
+当我们说要重新发明电话机，我们是认真的、不可阻挡的
 
 578
 00:39:04,370 --> 00:39:08,120
-The world of personal communications, when it's fulfilled, uh, possibly
+等个人通讯的时代到来的时候
 
 579
 00:39:08,120 --> 00:39:12,290
-in one generation, when I say generation, I mean my children, my son and daughter.
+也就是一代人以后，我孩子这代
 
 580
 00:39:12,290 --> 00:39:14,500
-When they walk around with these things they will be wireless.
+他们走在路上会随身携带这些设备，但那时候肯定是无线的了
 
 581
 00:39:14,500 --> 00:39:16,370
-[Hershenson] Reporters would leave these briefings saying,
+[Hershenson] 台下的记者当时可能都在心想
 
 582
 00:39:16,370 --> 00:39:20,000
-"My god, uh, forget the story I'm writing, I want that.
+「管它什么文章啊报道啊，我就想要那个东西」
 
 583
 00:39:20,000 --> 00:39:22,700
-The world that they just described to me,
+我很想活在他们刚刚描述的那个世界里
 
 584
 00:39:22,700 --> 00:39:25,700
-I want to live in that world, I want my kids to live in that world."
+我希望我的孩子们能活在那样的世界里
 
 585
 00:39:25,700 --> 00:39:28,870
-[reporter 1] A tiny gadget that combines the telephone,
+[记者甲] 一个小小的硬件，集成了电话
 
 586
 00:39:28,870 --> 00:39:31,620
-a fax machine, and a personal computer.
+传真和个人电脑的功能
 
 587
 00:39:31,620 --> 00:39:34,250
-Cellular phone, a pocket pager and a notepad.
+移动电话、口袋里的寻呼机、一个笔记本
 
 588
 00:39:34,250 --> 00:39:37,160
-Sounds a bit like something from Star Trek, you can send and receive messages,
+就像来自《星际迷航》里那样，你能随时随地地发送信息
 
 589
 00:39:37,160 --> 00:39:42,250
-order tickets, get the latest headlines or stock quotes and also you can talk on it.
+也能订票，或者看一眼股票市场的新闻，当然你也可以用它打电话
 
 590
 00:39:42,250 --> 00:39:46,660
-It was wall to wall coverage. New York times, Wall Street Journal, L.A. Times.
+哪儿哪儿都在报道，纽约时报、华尔街日报、洛杉矶时报
 
 591
 00:39:46,660 --> 00:39:48,580
-[Hoffman] It was front page in the Economist,
+[Hoffman] 直接就上了《经济学人》的封面
 
 592
 00:39:48,580 --> 00:39:51,540
-front page on the Wall Street Journal. No small thing.
+《华尔街日报》的封面，都是些重要媒体
 
 593
 00:39:51,540 --> 00:39:54,620
-[reporter] If this works the way this industry wants it to work,
+[记者] 如果用起来真的能像整个行业预测的那样
 
 594
 00:39:54,620 --> 00:39:57,950
-this is going to be huge, I mean, you are talking about
+这肯定是个大事情，毕竟我们预估的这个潜在市场
 
 595
 00:39:57,950 --> 00:40:01,370
-the potential for hundreds of millions of devices eventually.
+牵涉到数以亿计的设备
 
 596
 00:40:01,370 --> 00:40:05,700
-IBM is conspicuously absent from the alliance. So is Microsoft,
+很明显，在这个企业联盟里没有 IBM 的名字，也没有微软
 
 597
 00:40:05,700 --> 00:40:10,250
-which is racing to develop its own personal communicating software standard.
+但它肯定已经开始开发自己的个人通讯软件标准了
 
 598
 00:40:10,250 --> 00:40:15,700
-[reporter] Some say it's revolutionary. Others simply say it's magic.
+[记者] 有人说这个是革命性的，有人说这简直就是魔术
 
 599
 00:40:15,700 --> 00:40:17,700
-So we got a ton of coverage, a ton of coverage,
+我们获得了相当多的媒体关注，相当恐怖
 
 600
 00:40:17,700 --> 00:40:21,160
-and that's also where, the first questions where,
+但随之而来的是公众的第一个问题
 
 601
 00:40:21,160 --> 00:40:22,790
-"Well, this is, this is huge.
+「这的确很厉害
 
 602
 00:40:22,790 --> 00:40:26,000
-Are they going to be able to actually fulfill on that vision?"
+但是他真的会完全实现你们发布会上说的功能吗？」
 
 603
 00:40:26,000 --> 00:40:29,910
-[radio host] Marc Porat the President and CEO and co-founder of General Magic.
+[电台主播] Marc Porat，General Magic 的 CEO 和联合创始人
 
 604
 00:40:29,910 --> 00:40:34,660
-Thank you very much for being here. What do you see as your-- your startup date
+感谢你今天来到这里，你觉得你们大概什么时候能发售？
 
 605
 00:40:34,660 --> 00:40:37,450
-to actually have one of these things in somebody's hand?
+什么时候能真的买到你们的产品？
 
 606
 00:40:37,450 --> 00:40:40,290
-[Marc Porat on the phone] We'll be talking about dates and about product features
+[Marc Porat] 关于发售日期和详细的功能介绍
 
 607
 00:40:40,290 --> 00:40:43,620
-in some detail this summer, but I did want to have a chance to answer your--
+我们会在今年夏天公布，但我想借此机会回答……
 
 608
 00:40:43,620 --> 00:40:45,830
-In other words nobody is saying when one of these is gonna be available?
+也就是说没人说得请什么时候能买到？
 
 609
 00:40:45,830 --> 00:40:47,620
--[Marc Porat] That's correct. -OK, OK. So--
+- [Marc Porat] 对，是的
+- 那好吧
 
 610
 00:40:47,620 --> 00:40:50,450
-[Marc] I caution-- I-- I-- I counsel caution...
+[Marc] 我……我……我……很慎重……我……
 
 611
 00:40:50,450 --> 00:40:54,250
-[Adler] ...written record of it. Um, but what we have, we have sort of...
 
 612
 00:40:54,250 --> 00:40:57,000
