@@ -1681,139 +1681,140 @@ Apple 和 General Magic 的一个共同点
 
 417
 00:28:48,250 --> 00:28:51,870
-[Andy] All you have to do is tap on this little letter creating icon
+[Andy] 很简单，只要点击这个「写邮件」的小图标
 
 418
 00:28:51,870 --> 00:28:54,120
-and, uh, your favorite stationary pops out
+你最喜欢的信纸风格就会从抽屉里跳出来
 
 419
 00:28:54,120 --> 00:28:56,910
-of the drawer. You notice it looks like a little postcard.
+你也看到了，它就像一张小明信片
 
 420
 00:28:56,910 --> 00:29:00,660
-[Joanna] There was mail, there was calendar, everything was communicating
+[Joanna] 系统里有邮件、有日历，所有功能都是围绕「沟通」这个主题
 
 421
 00:29:00,660 --> 00:29:04,000
-with each other and tiny little things that would delight people
+这些小细节能让用户「会心一笑」
 
 422
 00:29:04,000 --> 00:29:08,660
-that would wink at people that would just make it so special.
+就像系统冲你抛媚眼一样，很特别
 
 423
 00:29:08,660 --> 00:29:13,120
-One interesting area we-- we haven't done is-- is expressing emotions.
+还有一个我们没做的事情就是「表达情绪」
 
 424
 00:29:13,120 --> 00:29:16,000
-Uh, what-- what extent would you use to express anger at someone.
+你会用什么东西来向别人表达「愤怒」的心情？
+
 
 425
 00:29:16,000 --> 00:29:19,200
-[Marc] Emoticons, today, emoticons are a big deal.
+[Marc] 在今天，表情图标在这个世界上扮演了重要的角色
 
 426
 00:29:19,200 --> 00:29:21,830
-In those days no one knew what it was, there was no such thing.
+但在那时，还没人知道这是什么东西，它们还完全不存在
 
 427
 00:29:21,830 --> 00:29:25,290
-Andy and Bill would disappear and come back with emoticons
+Andy 和 Bill 消失了几天，回来的时候就展示了表情图标这东西
 
 428
 00:29:25,290 --> 00:29:29,120
-that were animated. They were amazingly cute and intelligent.
+而且还是动态的，看上去相当可爱也挺像回事儿的
 
 429
 00:29:29,120 --> 00:29:32,200
-Only one person hated the happy face. It's like--
+只有一个人讨厌我画的这个笑脸
 
 430
 00:29:32,200 --> 00:29:35,290
--Who was that? -[laughter]
+那个人是谁？
 
 431
 00:29:35,290 --> 00:29:38,250
-[Adler] I've certainly never worked with a team as ambitious. It's almost like
+[Adler] 这是我第一次加入这么有雄心的团队
 
 432
 00:29:38,250 --> 00:29:42,790
-we didn't care about what made sense. You know, how else could it be good enough?
+好像没人在乎一般人的做事方法，这实在是太棒了
 
 433
 00:29:42,790 --> 00:29:46,120
-There was, uh, confidence, even arrogance there too.
+整个团队充满了自信，甚至……有一点点傲慢
 
 434
 00:29:46,120 --> 00:29:49,540
-[Tony] Are you kidding me? This is, this is fun!
+
 
 435
 00:29:49,540 --> 00:29:52,660
-[Amy] It was like we could walk through walls and do anything.
+[Amy] 有时候感觉自己甚至可以穿墙了，没有什么事情是做不了的
 
 436
 00:29:52,660 --> 00:29:55,950
-[Tony] Being there with all these people who were like, "We can change the world
+[Tony] 当时那个场景我们每个人都确信自己可以改变世界
 
 437
 00:29:55,950 --> 00:29:58,830
-and we're going to do it and let me show you how."
+而且似乎觉得已经知道应该怎么做了
 
 438
 00:29:58,830 --> 00:30:02,160
-[Hoffman] They were on a joy ride, a rocket ride
+[Hoffman] 那个自由的氛围就像在开跑车兜风，甚至是坐火箭兜风
 
 439
 00:30:02,160 --> 00:30:05,080
-with all the freedom to do what they wanted to do.
+他们想做什么就能做什么
 
 440
 00:30:05,080 --> 00:30:08,910
-Now it's getting them to understand this thing costs money.
+但慢慢地，他们也意识到，做这些需要钱
 
 441
-00:30:13,080 --> 00:30:14,040
-Real money.
+00:30:12,080 --> 00:30:14,740
+很 多 钱
 
 442
 00:30:17,830 --> 00:30:21,870
-In 1990 there was no digital telecommunications industry.
+在 1990 年，还没有「数字通信」这个产业
 
 443
 00:30:21,870 --> 00:30:24,950
-It did not exist, anywhere in the world.
+在世界上任何一个地方都不存在
 
 444
 00:30:24,950 --> 00:30:28,120
-We were in the analog era, there were no
+我们还处在模拟时代，世界上没有
 
 445
 00:30:28,120 --> 00:30:31,330
-digital cellphones, there was no World Wide Web.
+数字电话，也没有万维网
 
 446
 00:30:31,330 --> 00:30:33,830
-[Stern] We were talking about bringing millions of people onto a network
+[Stern] 一个容纳数百万人的网络可不是开玩笑的
 
 447
 00:30:33,830 --> 00:30:36,910
-that had to be industrial strength, reliable,
+必须要有工业等级的可靠度
 
 448
 00:30:36,910 --> 00:30:40,200
-and run 24 by 7 by 365 with no glitches.
+24 × 7，并且 365 天不间断地无故障运行
 
 449
 00:30:40,200 --> 00:30:42,700
-Who else could do that, but the telephone company?
+除了电话公司，还有谁能做到？
 
 450
 00:30:42,700 --> 00:30:44,950
-That's who we needed, and that meant AT&T.
+所以我们需要 AT&T.
 
 451
 00:30:50,330 --> 00:30:53,200
@@ -1825,323 +1826,318 @@ That's who we needed, and that meant AT&T.
 
 453
 00:30:55,540 --> 00:30:58,250
-我就从二楼会议室的窗户一直看着他们在挪动轿车
+我从二楼会议室的窗户一直看着他们挪车
 
 454
 00:30:58,250 --> 00:31:03,200
-但就始终停不进来
+但始终停不进来
 
 455
 00:31:03,200 --> 00:31:05,620
-So they eventually got out of their car and they trouped upstairs.
+最后他们一行人只能先下车，走上了楼
 
 456
 00:31:05,620 --> 00:31:09,040
-We're still waiting for Bill and people are staring at their shoes
+Bill 还没到，我们这帮人就只能盯着他们的鞋子看
 
 457
 00:31:09,040 --> 00:31:12,200
-and a little uncomfortable. That was not a good start.
+场面一度有点儿尴尬，不算是个好开头
 
 458
 00:31:12,200 --> 00:31:14,250
--Um... -[woman] What happened?
+- emmm... 
+- 发生啥了？
 
 459
 00:31:14,250 --> 00:31:18,120
-So Bill finally shows up. Um, he hadn't taken a shower in a week.
+Bill 终于来了，他好像有一个礼拜没洗澡了
 
 460
 00:31:18,120 --> 00:31:22,540
-He was wearing a Hawaiian shirt, he stunk like a goat.
+闻起来像一只臭臭的羊，还穿了一件夏威夷风的体恤
 
 461
 00:31:22,540 --> 00:31:25,660
-You could see the noses wrinkle on the faces of the three AT&T guys,
+AT&T 的人马上鼻子开始抽起来了
 
 462
 00:31:25,660 --> 00:31:27,750
-but they launched the demo.
+但我们还是开始演示了
 
 463
 00:31:27,750 --> 00:31:30,080
--[AT&T] This is a touchscreen? So I can ahead go and touch it. -[Andy] Yeah, yeah. Yeah.
+- 这是触摸屏？我能直接用手点？
+- 对的对的
 
 464
 00:31:30,080 --> 00:31:33,080
-[Stern] No one had ever thought of the kind of ideas
+[Stern] Marc、Bill 和 Andy 在这次演示里展现的点子
 
 465
 00:31:33,080 --> 00:31:36,000
-that Marc, Bill and Andy had instantiated in this demo.
+从来没人想到过
 
 466
 00:31:36,000 --> 00:31:37,870
-...another step. Would you like a cookie?
 
 467
 00:31:37,870 --> 00:31:39,790
--Oh no. I've eaten too many. -Would you like a cookie?
 
 468
 00:31:39,790 --> 00:31:45,450
-The AT&T folks said, "We're in," and they joined us as the first network partner.
+AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第一个网络合作商
 
 469
 00:31:46,950 --> 00:31:50,580
-[Hoffman] You got to have AT&T, you got to have Apple,
+[Hoffman] 必须要拉上 AT&T，也必须拉上 Apple
 
 470
 00:31:50,580 --> 00:31:52,160
-that's your roots.
+毕竟那是我们发源的地方
 
 471
 00:31:52,160 --> 00:31:56,750
-You got to have Motorola and Sony, they make the devices.
+然后你也必须拉上摩托罗拉和索尼，因为要靠他们生产设备
 
 472
 00:31:56,750 --> 00:31:58,080
-And you got to have Phillips.
+还有飞利浦
 
 473
 00:31:58,080 --> 00:32:00,200
-They're also gonna make devices.
+他们也会生产设备
 
 474
 00:32:00,200 --> 00:32:03,120
-Without those, we couldn't have been General Magic.
+没有这些，我们根本做不成 General Magic
 
 475
 00:32:03,120 --> 00:32:08,950
-[Stern] And we charged them six million dollars for the privilege of joining... each.
+[Stern] 作为提前加入我们的代价，我们让他们支付了六百万美元，是每家六百万哦
 
 476
 00:32:08,950 --> 00:32:12,250
-Here was this little startup in Silicon Valley, that was gonna change the world,
+这家小小的硅谷创业公司，会改变世界
 
 477
 00:32:12,250 --> 00:32:16,120
-everybody was afraid of being left out of the vision.
+每个人都怕错过这个机会
 
 478
 00:32:16,120 --> 00:32:19,750
-This company's scale is small, but thinking so big.
+这家公司规模虽小，但很有野心
 
 479
 00:32:19,750 --> 00:32:22,660
-Immediately we decided to join it
+我们很早就决定加入了
 
 480
 00:32:22,660 --> 00:32:26,410
-Yes, just, boom, one second, we decided.
+几乎是想都没想就决定了
 
 481
 00:32:26,410 --> 00:32:31,450
-[Joanna] Sony Japan was unbelievably great, but I think one of the things
+[Joanna] 索尼是一家很伟大的公司
 
 482
 00:32:31,450 --> 00:32:38,290
-that Marc underestimated is how each one of those relationships
+但是我觉得 Marc 低估了一件事情
 
 483
 00:32:38,290 --> 00:32:41,290
-contributed to an enormous level of complexity.
+那就是这么多大公司之间的复杂关系
 
 484
 00:32:41,290 --> 00:32:44,370
-...he said we have these three bears out there, and we call them Goldilocks.
 
 485
 00:32:44,370 --> 00:32:47,200
--We're gonna dance with the three bears. -[laughter]
 
 486
 00:32:47,200 --> 00:32:50,500
--[Andy] Marc is Goldilocks. -I find him, grraawr, grraawr!
 
 487
 00:32:50,500 --> 00:32:52,410
--[laughter] -Gurrhr!
 
 488
 00:32:52,410 --> 00:32:54,700
-I thought you grraawr, grraawr!
 
 489
 00:32:54,700 --> 00:32:57,120
-[Marc] The vision was gonna happen because we were putting together
+[Marc] 为了达成我们的目标
 
 490
 00:32:57,120 --> 00:33:00,330
-16 of the largest companies on the planet
+我们把这地球上最大的 16 家公司拉到了一起
 
 491
 00:33:00,330 --> 00:33:03,160
-who are natural enemies, into-- into the same room at the same time.
+他们当中有些互为竞争者
 
 492
 00:33:03,160 --> 00:33:07,450
-We knew we were innovating, no one had done anything like that, and if it succeeded
+我们很清楚自己在创新，前无古人的创新
 
 493
 00:33:07,450 --> 00:33:13,790
-it would change everything and that took a war-like energy.
+为了成功，必须像打仗一样动用一切资源
 
 494
 00:33:13,790 --> 00:33:17,160
-That was fighting, that was battle.
+这是一场战斗、一场战争
 
 495
 00:33:17,160 --> 00:33:21,410
-[calm music]
 
 496
 00:33:21,410 --> 00:33:24,910
-[Sculley] We had no choice, but to keep quiet about the things we were doing
+[Sculley] 我们没有选择，必须对正在做的事情保持低调
 
 497
 00:33:24,910 --> 00:33:30,540
-because other companies were interested in it as well, and we tried to keep secrecy
+因为其他公司对这些也很感兴趣，我们只能偷偷地做
 
 498
 00:33:30,540 --> 00:33:37,450
-at a level that would give a small company like General Magic time to create, time to develop.
+给 General Magic 这样的小公司一点儿时间去完成开发
 
 499
 00:33:37,450 --> 00:33:42,750
-[Dee] Everybody had to shred everything. We couldn't put everything in one bin.
+[Dee] 因为每个人都要用碎纸机，所以垃圾桶经常放不下碎纸条
 
 500
 00:33:42,750 --> 00:33:49,120
-We had to wait and-- and kind of dole it out to various different places.
+只能把垃圾挪到各个不同的地方先堆着
 
 501
 00:33:49,120 --> 00:33:51,200
-We were asked not to talk about it outside
+老板让我们不要对外说我们在做什么
 
 502
 00:33:51,200 --> 00:33:54,040
-of the office because we didn't want any of it leaked.
+因为怕信息泄漏
 
 503
 00:33:54,040 --> 00:33:58,040
-So there was this buzz around the company, but it really was kind of this, this, cipher.
+[TOM] 公司里有些人可能对此不满，但这确实是商业机密
 
 504
 00:33:58,040 --> 00:34:02,200
-We had to keep it under wraps. Part of that was this PR strategy
+必须藏着掖着，这是一个公关策略
 
 505
 00:34:02,200 --> 00:34:06,910
-that we had only one shot to make news.
+想要制造新闻，我们必须一炮打响
 
 506
 00:34:06,910 --> 00:34:10,450
-[Marc] "While we're in business development stage, security is essential.
+[Marc] 在我们的研发阶段，信息安全至关重要
 
 507
 00:34:10,450 --> 00:34:13,620
-If the concept leaks, we lose our competitive edge.
+如果这个概念被泄漏了，我们就失去了竞争优势
 
 508
 00:34:13,620 --> 00:34:18,410
-Please use the highest level of personal attention to security, including,
+请对安全问题加以最高级别的关注
 
 509
 00:34:18,410 --> 00:34:22,290
-if asked by an Apple colleague not on the team, say nothing.
+如果是 Apple 员工来问你相关事宜，请不要透露任何信息
 
 510
 00:34:22,290 --> 00:34:24,910
-If asked by a non-Apple person, tell me immediately."
+如果是其他公司的人……请立即汇报给我
 
 511
 00:34:24,910 --> 00:34:29,500
-Now it should be noted, John Sculley was running Apple at the time.
+请注意，John Sculley 那时候还在掌管 Apple
 
 512
 00:34:29,500 --> 00:34:35,120
-[Joanna] In that sense he was our ally, or so we thought.
+[Joanna] 所以那时候他是我们的盟友，至少我们是这么觉得的
 
 513
 00:34:39,250 --> 00:34:46,290
-I was getting intense pressure from the Apple board and from the Apple management team
+Apple 的董事会和整个管理团队给我的压力还是很大的
 
 514
 00:34:46,290 --> 00:34:49,450
-as to why was I spending so much time on General Magic.
+他们质疑我为什么要在 General Magic 上花那么多时间
 
 515
 00:34:49,450 --> 00:34:54,450
-And Apple was developing in parallel a business that it owned 100% of,
+而与此同时，还在 Apple 内部做一个平行的产品 Newton
 
 516
 00:34:54,450 --> 00:34:58,290
-called Newton, and that looked like they could ship a product.
+而 Newton 看起来完成度已经挺高了
 
 517
 00:34:58,290 --> 00:35:04,660
-Ten years ago we launched Macintosh, a revolution for the desktop.
+十年以前我们发布了 Macintosh，由此开始了对桌面的革命
 
 518
 00:35:04,660 --> 00:35:09,200
-And today we are launching Newton, a revolution for the pocket.
+今天，我们要发布 Newton，一次对口袋的革命
 
 519
 00:35:09,200 --> 00:35:13,660
-John Sculley gave a keynote address at the 1993
+John Sculley 做了一次公开的演讲
 
 520
 00:35:13,660 --> 00:35:17,790
-consumer electronic shows where he announced what we were doing.
+就在 1993 的 CES 大会上，公布了我们正在做的事情
 
 521
 00:35:17,790 --> 00:35:22,450
-Imagine being able to take a cellular telephone and be able to be paged
+想象一下你可以在掌上打电话、发传呼机信息
 
 522
 00:35:22,450 --> 00:35:26,910
-on the phone and write a little note and fax it off to someone else in response.
+也可以手写一些笔记然后通过传真发给别人
 
 523
 00:35:26,910 --> 00:35:32,330
-Except he announced it as something Apple was doing. We thought Apple wasn't doing it
+但其实他公布的事情是 Apple 内部的团队在做的，而我们以为他们并没有这样的计划
 
 524
 00:35:32,330 --> 00:35:34,910
-and we found out from that speech that they were.
+从演讲上我们才第一次知道 Apple 内部其实也在做这个
 
 525
 00:35:34,910 --> 00:35:38,370
-I wish I could say that I was hurt. I wasn't--
+我想说我有点儿伤到心了，但……
 
 526
 00:35:38,370 --> 00:35:42,160
-I wasn't just hurt, I was angry. I was fur-- I was really angry.
+我其实是有点儿愤怒，真的很愤怒
 
 527
 00:35:42,160 --> 00:35:44,370
-[Andy] They had, uh, decided to make something
+[Andy] 他们决定做这个东西
+They had, uh, decided to make something
 
 528
 00:35:44,370 --> 00:35:48,000
-essentially based on Marc's models.
+基本上就是围绕着 Marc 的概念
 
 529
 00:35:48,000 --> 00:35:53,160
-I thought Newton was, I thought that they could co-exist, you know.
+我觉得 Newton…… 是可以和他们共存的
 
 530
 00:35:53,160 --> 00:35:58,500
-And, so I wasn't really concerned that Newton would hurt General Magic.
+所以当时并没有担心 Newton 的存在会伤害到 General Magic
 
 531
 00:35:58,500 --> 00:36:03,330
-They were our closest partner who really gave us our life.
+他们是我们最亲密的合作伙伴，甚至给了我们生命
 
 532
 00:36:03,330 --> 00:36:09,950
-And so when we found out that they were trying to kill us, we felt completely betrayed.
+发现他们想要杀死我们以后，我们感到被彻底背叛了
 
 533
 00:36:09,950 --> 00:36:15,250
