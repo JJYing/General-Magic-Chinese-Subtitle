@@ -1,6 +1,6 @@
 1
 00:00:52,458 --> 00:00:55,750
-[舒缓的背景音乐]
+
 
 2
 00:01:22,583 --> 00:01:25,083
@@ -12,7 +12,7 @@
 
 4
 00:01:29,417 --> 00:01:34,750
-诞生在了错误的时间，然而他们还是推动了所有事情的发展
+诞生在了错误的时间，然而他们还是推动了整个世界的发展
 
 5
 00:01:34,750 --> 00:01:38,125
@@ -20,7 +20,7 @@
 
 6
 00:01:38,125 --> 00:01:43,208
-世上有很多传奇，而 General Magic 就是其中一个
+世上有很多传奇，General Magic 就是其中之一
 
 7
 00:01:45,375 --> 00:01:48,125
@@ -32,7 +32,7 @@
 
 9
 00:01:52,458 --> 00:01:54,917
-你将改变世界运行的轨迹
+你会改变世界运行的轨迹
 
 10
 00:01:54,917 --> 00:01:58,125
@@ -44,24 +44,24 @@
 
 12
 00:02:05,583 --> 00:02:09,750
-[Joanna] 无论我们的梦想多夸张，事实是你能
+[Joanna] 无论我们的梦想多夸张
 No matter how big we dreamed, the fact that you could touch
 
 13
 00:02:09,750 --> 00:02:12,125
-触碰到数以亿计的 the lives of billions, billions,
+想要触动数以亿计的人
 
 14
 00:02:12,125 --> 00:02:13,959
-it was vaguely imaginable,
+可能还是可以去想象一下的
 
 15
 00:02:13,959 --> 00:02:18,000
-but the scale of it was inconceivable.
+但数十亿这个规模，真不是凡人能想象出来的
 
 16
 00:02:18,000 --> 00:02:21,458
-[Hershenson] 你为什么要关心 General Magic 的故事？
+[Hershenson] 为什么要关心 General Magic 的故事？
 
 17
 00:02:21,458 --> 00:02:25,000
@@ -69,7 +69,7 @@ but the scale of it was inconceivable.
 
 18
 00:02:25,000 --> 00:02:29,667
-那就是……失败兵不是一切的结束
+那就是……失败并不是一切的结束
 
 19
 00:02:29,667 --> 00:02:31,875
@@ -81,23 +81,23 @@ but the scale of it was inconceivable.
 
 21
 00:02:39,000 --> 00:02:45,000
-就是因为他们知道他们当时做的事情是正确的
+因为他们知道他们当时做的事情是正确的
 
 22
 00:02:47,250 --> 00:02:51,917
-[Hershenson] 它失败了？或者说，这个公司失败了，但这些想法没有
+[Hershenson] 它失败了吗？或者说……这个公司失败了，但这些想法成功了
 
 23
 00:02:51,917 --> 00:02:56,375
-为这些想法工作的人们没有失败，那……这件事算失败吗？
+为这些想法去工作的人们没有失败，那……这件事算失败吗？
 
 24
 00:03:00,375 --> 00:03:05,375
-[戏剧性的配乐]
+
 
 25
 00:03:46,542 --> 00:03:48,417
-[铃声响起]
+
 
 26
 00:04:21,625 --> 00:04:23,000
@@ -105,7 +105,7 @@ but the scale of it was inconceivable.
 
 27
 00:04:24,375 --> 00:04:27,125
-应该是 16 岁吧当时
+应该是 16 岁吧大概
 
 28
 00:04:27,125 --> 00:04:31,041
@@ -141,11 +141,11 @@ but the scale of it was inconceivable.
 
 36
 00:05:04,542 --> 00:05:07,834
-然后就是 Mac 了，一切都围绕这个 Mac 了
+然后就是 Mac 了，一切都始于这个 Mac
 
 37
 00:05:09,166 --> 00:05:10,917
-[低声耳语] 那是什么？
+那是什么？
 
 38
 00:05:14,625 --> 00:05:19,208
@@ -153,7 +153,7 @@ but the scale of it was inconceivable.
 
 39
 00:05:19,208 --> 00:05:24,375
-就想滚石乐队的成员们一样，只不过他们玩的不是音乐，他们是我心目中的英雄
+就像滚石乐队的成员们一样，只不过他们玩的不是音乐，他们是我心目中的英雄
 
 40
 00:05:24,375 --> 00:05:28,500
@@ -173,7 +173,7 @@ but the scale of it was inconceivable.
 
 44
 00:05:41,583 --> 00:05:45,625
-[Vangelis 的著名配乐《烈火战车》响起]
+Vangelis 的著名配乐《烈火战车》响起
 
 45
 00:05:45,625 --> 00:05:48,208
@@ -197,7 +197,6 @@ Macintosh 正式公开发布
 50
 00:06:00,166 --> 00:06:03,709
 第一次在世人面前揭开面纱
-to the world, for the very first time.
 
 51
 00:06:03,709 --> 00:06:06,375
@@ -564,11 +563,11 @@ emmm... 他成功地说服了我
 
 141
 00:12:17,500 --> 00:12:19,792
-「我看到了一个前所未有的东西，
+我看到了一个前所未有的东西，
 
 142
 00:12:19,792 --> 00:12:22,417
-你一定要回 Apple，跟我一起把他做出来」
+你一定要回 Apple，跟我一起把他做出来
 
 143
 00:12:22,417 --> 00:12:27,417
@@ -628,7 +627,7 @@ Marc 说：「我们要创造的是取代个人电脑的东西」
 
 157
 00:13:14,250 --> 00:13:17,875
-「John，我觉得这就是 Apple 的未来
+John，我觉得这就是 Apple 的未来
 
 158
 00:13:17,875 --> 00:13:20,125
@@ -636,7 +635,7 @@ Marc 说：「我们要创造的是取代个人电脑的东西」
 
 159
 00:13:20,125 --> 00:13:22,208
-我觉得它应该是一个独立的公司」
+我感觉它应该是一个独立的公司
 
 160
 00:13:22,208 --> 00:13:26,000
@@ -644,7 +643,7 @@ Marc 说：「我们要创造的是取代个人电脑的东西」
 
 161
 00:13:26,000 --> 00:13:28,709
-Apple 成功地把这部分独立了出去，就有了 General Magic
+成功地把这部分独立了出去，就有了 General Magic
 
 162
 00:13:28,709 --> 00:13:33,333
@@ -784,7 +783,7 @@ Apple 暗中给这家公司助力
 
 196
 00:15:30,500 --> 00:15:36,458
-Andy Hertzfeld 知道我是 Mac 的工程师，所以他给我打了电话让我加入
+Andy Hertzfeld 知道我是 Mac 的开发者，所以他给我打了电话让我加入
 
 197
 00:15:36,458 --> 00:15:39,500
@@ -800,7 +799,7 @@ Andy Hertzfeld 知道我是 Mac 的工程师，所以他给我打了电话让我
 
 200
 00:15:46,959 --> 00:15:50,291
-我父母当时觉得「我完全没听说过这个
+我爸妈当时觉得「我完全没听说过这个
 
 201
 00:15:50,291 --> 00:15:53,750
@@ -1285,15 +1284,14 @@ It was this notion of anytime, anywhere communication.
 319
 00:23:10,330 --> 00:23:15,000
 我手里这个东西很大，也很丑，但这只是个早期版本
-You know this is a huge, ugly thing, but, um, we had to start somewhere, we had to start
 
 320
 00:23:15,000 --> 00:23:18,040
-市场上你买不到什么匹配的零件
+因为在市场上买不到什么匹配的零件
 
 321
 00:23:18,040 --> 00:23:22,620
-因为我们现在做的东西，是给未来准备
+我们现在做的东西，是给未来准备
 
 322
 00:23:22,620 --> 00:23:25,080
@@ -1301,171 +1299,172 @@ You know this is a huge, ugly thing, but, um, we had to start somewhere, we had 
 
 323
 00:23:25,080 --> 00:23:28,000
-that you can buy that are cheap enough that you can make the product reasonable
+所以现阶段只能用简单的零件先搭出产品原型
 
 324
 00:23:28,000 --> 00:23:30,790
-so people can afford it because if it cost a million dollars, forget it.
+生产出来的时候，用户也能买得起，这些新技术真的很贵
 
 325
 00:23:30,790 --> 00:23:32,950
-[interviewer] Was that the first one or the begin-- in the beginning?
+[采访者] 这是第一个版本吗？比较早期的一个？
 
 326
 00:23:32,950 --> 00:23:36,080
-This is in the very beginning and, um, one of the problems with this,
+对，这是最最早的一个，emmm……他们问题不少
 
 327
 00:23:36,080 --> 00:23:39,120
-was that the touchscreen was extremely noisy.
+最严重的是这个触摸屏非常得吵
 
 328
 00:23:39,120 --> 00:23:43,040
-And it just didn't have the resolution, it would be a horrible experience
+然后它的分辨率非常低，体验其实挺糟糕的
 
 329
 00:23:43,040 --> 00:23:46,410
-for people to use this thing. So that was actually our hardest component.
+所以触摸屏是我们所有部件里最难弄的了
 
 330
 00:23:46,410 --> 00:23:49,950
-We were pushing the envelope on every single front,
+但其实每个方面我们都在探索科技最前沿
 
 331
 00:23:49,950 --> 00:23:53,160
-so we're figuring out what size should it be, what sensor,
+需要自己研究它应该是什么尺寸的、应该装什么传感器
 
 332
 00:23:53,160 --> 00:23:57,160
-what electric plug should it have, how many buttons should we have if any.
+需要哪些接口，以及机器上需要安排多少个按钮，甚至可能一个都不需要？
 
 333
 00:23:57,160 --> 00:24:00,290
-[Kevin] The feeling was that anything was possible. You could shoot
+[Kevin] 感觉所有事情都是不确定、都是有可能的
 
 334
 00:24:00,290 --> 00:24:03,830
-as high as you wanted to here and as a team we were gonna be able to do it.
+可以尽管天马行空地去发挥创意，团队有能力把他实现出来
 
 335
 00:24:03,830 --> 00:24:08,790
-The purpose of doing all this, is to go out and-- and create prototypes
+当然，这么做出来的，还只是一个硬件原型
 
 336
 00:24:08,790 --> 00:24:11,830
-so that the team can plug them into the Mac and run the software
+有了硬件原型，就可以连上 Mac 的软件
 
 337
 00:24:11,830 --> 00:24:14,290
-behind it and experience what a user would experience.
+像真的用户一样把他给使用起来=
 
 338
 00:24:14,290 --> 00:24:17,830
-[Amy] The array of personalities, they were all like nuclear power plants,
+[Amy] 他们个性十足，但都精力充沛得像个核电厂
 
 339
 00:24:17,830 --> 00:24:21,200
-each one of them working on solving these difficult problems.
+每个人都在努力克服困难、找到解决方案
 
 340
 00:24:21,200 --> 00:24:25,000
-For me the challenge was challenging myself to try and work at that level.
+对我来说，最大的挑战就是要尽力跟上团队的节奏
 
 341
 00:24:25,000 --> 00:24:29,830
-I was a newbie. A lot of people got to just do, you know, if you're the young guy in the team
+我还是团队里的新人，跟已经有工作经验的人不一样
 
 342
 00:24:29,830 --> 00:24:33,000
-you had to learn and do. So you had to work double or triple time.
+我必须一边学，一边做，等于要花两倍甚至三倍的时间
 
 343
 00:24:33,000 --> 00:24:35,290
-He was our college kid.
+他就是我们当中的那个学生雇员
 
 344
 00:24:35,290 --> 00:24:37,950
-[Tony] I'm hooking up a demo so that we can see
+[Tony] 这个原型机我搭好了
 
 345
 00:24:37,950 --> 00:24:39,910
-keyboards working with the device.
+可以看看键盘是不是能工作
 
 346
 00:24:39,910 --> 00:24:43,910
-[Adler] Tony wanted to learn everything, from everyone.
+[Adler] Tony 什么都想学，而且想从每个人身上学东西
 
 347
 00:24:43,910 --> 00:24:47,750
-Whatever it was, yes! And more of it and how can I do more to help.
+是的，什么都想学，谁有需我都回去帮忙
 
 348
 00:24:47,750 --> 00:24:50,830
--[interviewer] Is it important? -Uh, if you want to hook up disc drives
+-[采访者] 这个东西重要吗？ 
+- 是的，他很重要
 
 349
 00:24:50,830 --> 00:24:53,450
-and things of that nature, yeah. It's really important.
+可以帮你访问光盘里的数据
 
 350
 00:24:53,450 --> 00:24:57,200
-[Tony] I wanted to make it work really seamlessly and fast.
+[Tony] 希望它能无缝的连接上，速度再快点
 
 351
 00:24:57,200 --> 00:25:01,660
-This is basically our first test of our-- our-- basically a first demo
+这是我们第一个原型机的……第一次测试
 
 352
 00:25:01,660 --> 00:25:04,910
-of our peripheral system for the-- for the walkabout.
+这是我们产品里的外围设备
 
 353
 00:25:04,910 --> 00:25:09,790
-And this was a technology to string peripherals together.
+准确地说是一个连接所有外围设备的技术
 
 354
 00:25:09,790 --> 00:25:14,910
-Today we call it USB, and so we were creating USB before the world knew about it.
+现在我们叫它 USB，是的，我们在全世界都没人见过的时候就开始做 USB 设备了
 
 355
 00:25:14,910 --> 00:25:16,870
--[woman whispering] Oh god. -[Tony] It finally works.
+- 哇塞 - 成了！
 
 356
 00:25:16,870 --> 00:25:21,040
-We decided to make everything. I mean, we were making it all.
+我们决定要自己打造所有的东西，真的是所有东西
 
 357
 00:25:21,040 --> 00:25:25,330
-See right now the whole class viewable texture is one formatter for everything.
+
 
 358
 00:25:25,330 --> 00:25:30,200
-That meant we were custom building every piece, it's kind of like hand assembling a car
+也就是说，每一个部件都是我们自己定制的，就像自己手工组装一部汽车一样
 
 359
 00:25:30,200 --> 00:25:35,040
-rather than using a factory. And so it's, it's insane, it's insane.
+没有什么工厂，就是纯手工，所以你能想象这有多疯狂
 
 360
 00:25:35,040 --> 00:25:40,120
-In many projects, you might build one or two innovative break-out things,
+一般的项目里，要做的事情就是找到一到两个很有创意的点子
 
 361
 00:25:40,120 --> 00:25:43,370
-and then you build on top of a lot of existing stuff, you kind of stand on
+然后围绕他们用很多现成的零件把产品搭出来，就好像
 
 362
 00:25:43,370 --> 00:25:46,910
-the shoulders of giants, and we weren't doing that at General Magic, we were
+站在巨人的肩膀上，但在 General Magic 不一样
 
 363
 00:25:46,910 --> 00:25:50,200
-building the giant from the toes all the way up to its head. [chuckles]
+我们其实是从头到脚，在搭建这个巨人
 
 364
 00:25:50,200 --> 00:25:52,750
-We couldn't find a touch screen to solve this problem, in fact,
+在那个时间点，一个合适的触摸屏真的是找不到
 
 365
 00:25:52,750 --> 00:25:56,080
@@ -1813,19 +1812,19 @@ That's who we needed, and that meant AT&T.
 
 451
 00:30:50,330 --> 00:30:53,200
-[Michael] The AT&T folks came in this gigantic stretched limo that was too big
+[Michael] AT&T 的人坐着一部超长的豪华轿车过来了
 
 452
 00:30:53,200 --> 00:30:55,540
-to get into the parking lot and I was watching them out of the window
+那部车实在是太大了，连停车场都停不进
 
 453
 00:30:55,540 --> 00:30:58,250
-of the second floor conference room. Watching them trying to maneuver the car
+我就从二楼会议室的窗户一直看着他们在挪动轿车
 
 454
 00:30:58,250 --> 00:31:03,200
-into the parking lot. They just couldn't do it.
+但就始终停不进来
 
 455
 00:31:03,200 --> 00:31:05,620
@@ -3773,15 +3772,16 @@ And if that was our target, it was very early for-- for Joe Sixpack.
 
 941
 01:01:12,250 --> 01:01:13,910
+我很担心 800 美元这个价格
 I worried about the 800 dollars.
 
 942
 01:01:13,910 --> 01:01:15,660
-I don't even know which button to push.
+我完全不知道按哪个按键
 
 943
 01:01:15,660 --> 01:01:18,450
-No, I don't need that. [laughter]
+不，我不需要这个机器
 
 944
 01:01:18,450 --> 01:01:19,950
@@ -3913,23 +3913,25 @@ he just drilled me. He was like,
 
 976
 01:03:20,660 --> 01:03:23,580
+你们的生意已经进行不下去了
 "You guys are going out of business.
 
 977
 01:03:23,580 --> 01:03:29,120
-Sony is going to drop you. I have sources that have told me that.
+有内部消息告诉我索尼会放弃你们
 
 978
 01:03:29,120 --> 01:03:31,830
+公司对此做何反应？
 What is the company's response?
 
 979
 01:03:31,830 --> 01:03:35,250
-What happens when Sony drops you?
+索尼真撇开你们的话怎么办？
 
 980
 01:03:35,250 --> 01:03:38,540
-You guys are dead."
+你们的公司已经差不多了
 
 981
 01:03:38,540 --> 01:03:41,000
@@ -3997,7 +3999,7 @@ It's a voyage that takes time, it's a journey that takes time. This will take ti
 
 997
 01:04:30,450 --> 01:04:33,000
-It takes time. You have to be patient.
+需要时间，必须得有耐心
 
 998
 01:04:33,000 --> 01:04:34,500
@@ -4129,11 +4131,11 @@ but it was, it was beyond, uhm, saving, unfortunately.
 
 1030
 01:06:36,660 --> 01:06:39,750
-[Stern] 看起来就像一个巨大的灾难 It looked like a massive disaster,
+[Stern] 看起来就像一个巨大的灾难
 
 1031
 01:06:39,750 --> 01:06:42,330
-一次失败、一个悲剧 a failure, a catastrophe.
+一次失败、一个悲剧
 
 1032
 01:06:42,330 --> 01:06:45,830
@@ -4181,19 +4183,19 @@ to yet another blue sky, uh, proposition."
 
 1043
 01:07:57,290 --> 01:08:00,910
-[whimsical music]
+
 
 1044
 01:08:08,540 --> 01:08:13,620
-[Swisher] 我觉得这个概念是有了，单用户基础不存在 I think the conceptual ideas were there, the user base was not there,
+[Swisher] 我觉得这个概念是有了，但用户基础不存在
 
 1045
 01:08:13,620 --> 01:08:17,620
-我们需要的技术也并不存在 the technology was not there, the things to do on it were not there,
+我们需要的技术也并不存在
 
 1046
 01:08:17,620 --> 01:08:20,160
-就想要在 1880 年代发明电视机，这完全不可能 it's like inventing the television in the 1880's, you just couldn't.
+就像你完全不可能在 1880 年代发明电视机
 
 1047
 01:08:20,160 --> 01:08:23,620
@@ -5253,6 +5255,7 @@ Join me in welcoming the one and only Tony Fadell.
 
 1311
 01:26:54,750 --> 01:26:58,580
+嗨，大家好
 Hi, everybody.
 
 1312
@@ -5389,16 +5392,18 @@ And, and that's the test of, uh, of hey, we've made it.
 
 1345
 01:29:05,700 --> 01:29:06,790
+我们真的影响了这个世界
 We've really made a difference.
 
 1346
 01:29:06,790 --> 01:29:08,540
+我们真的改变了世界
 We've really changed the world.
 
 1347
 01:29:08,540 --> 01:29:12,410
-[piano music]
+
 
 1348
 01:29:32,700 --> 01:29:36,250
-[no audible dialogue]
+
