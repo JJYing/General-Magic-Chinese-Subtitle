@@ -1468,211 +1468,216 @@ It was this notion of anytime, anywhere communication.
 
 365
 00:25:52,750 --> 00:25:56,080
-at one point, let me see if I can find it.
+让我看看能不能找到
 
 366
 00:25:57,660 --> 00:25:59,870
-At one point, we had to invent one. [chuckles]
+后来，我们只能自己来发明做屏幕
 
 367
 00:25:59,870 --> 00:26:03,290
-This Wendell, who works for Wendell Sander, he came up with this idea
+这个是 Wendell 做的，Wendell Sander，他想出来的办法
 
 368
 00:26:03,290 --> 00:26:06,040
-of a touch screen that would be balanced on four points
+你看这个屏幕的四个角一开始是均匀受力的
 
 369
 00:26:06,040 --> 00:26:09,200
+当手指按下去的时候，四个角上的传感器能感受到压力
 and as you pushed on it you could, you could sense touch.
 
 370
 00:26:09,200 --> 00:26:11,750
-So as you touch it in any particular place,
+当你点了一个特定位置的时候
 
 371
 00:26:11,750 --> 00:26:14,000
-you can do the math, so you do the whole force
+用一些算法就能计算出总的压力
 
 372
 00:26:14,000 --> 00:26:16,950
-minus the X and Y and you can figure out where you are.
+以及四个角上压力的细微差别，算出位置座标
 
 373
 00:26:16,950 --> 00:26:19,410
-Whether you are touching T or whether you're touching Caps Lock.
+然后再来判断你点的是「T」键还是「大写锁定」键
 
 374
 00:26:19,410 --> 00:26:23,200
--[interviewer] How small will it finally be, do you think? -Some day?
+- [采访者] 那这东西最终可以做到多小呢？
+- 你是说在未来？
 
 375
 00:26:23,200 --> 00:26:26,120
-Dick Tracy wrist watch, but... [chuckles]
+就像《至尊神探》里那个手表一样~
 
 376
 00:26:26,120 --> 00:26:30,330
-Right now, in the beginning, we are starting with a screen size that's probably about that big.
+但是现在的话，我们一开始只能做大概这么大
 
 377
 00:26:30,330 --> 00:26:35,330
-Technically it was really, really hard to build something the size of those models.
+技术上讲真的很难实现那么小的尺寸
 
 378
 00:26:35,330 --> 00:26:39,040
+今天随处可见的技术那时还不存在，但一个相对笨重的产品
 Uh, the technology just wasn't there yet, but, hey, that was ok,
 
 379
 00:26:39,040 --> 00:26:42,450
-to build something a little clunkier for the first generation,
+作为实验性的第一代来说其实 OK
 
 380
 00:26:42,450 --> 00:26:47,200
-we knew, uh, if it caught on, it would eventually get down there.
+我们相信随着技术的发展，它的尺寸总有一天会小到满足我们的要求 
 
 381
 00:26:48,750 --> 00:26:51,870
-[Adler] The touchscreen is a little funky.
+[Adler] 触摸屏还是很带劲儿的
 
 382
-00:26:51,870 --> 00:26:54,040
-What was this thing gonna look like? You know, we knew what size screen
+00:26:51,870 --> 00:26:53,540
+你问我这屏幕最后看起来啥样？
 
 383
-00:26:54,040 --> 00:26:55,790
-we were gonna have, but we didn't know that early
+00:26:53,540 --> 00:26:55,000
+我们知道触摸屏要做多大
 
 384
-00:26:55,790 --> 00:26:58,200
-everything we're gonna put on that screen.
+00:26:55,000 --> 00:26:58,200
+但一开始完全不知道要在上面显示啥
 
 385
 00:26:58,200 --> 00:26:59,660
-The thing about computer programming
+计算机编程其实就是一个
 
 386
 00:26:59,660 --> 00:27:02,580
-is you're making something out of nothing.
+从无到有创造东西的过程
 
 387
 00:27:02,580 --> 00:27:04,950
-[cameraman] This is not nerds creating for others nerds here.
+[摄像师] 这不是一个极客做出来、只给极客用的东西
 
 388
 00:27:04,950 --> 00:27:07,950
-There is a creative process here that is much like
+更像一个有创意的过程
 
 389
 00:27:07,950 --> 00:27:10,160
-making a film or painting a picture or doing a play.
+就像拍一部电影、画一幅画或者演一部话剧一样
 
 390
 00:27:10,160 --> 00:27:13,410
-This is very creative, which is a surprise to a lot of people.
+很多人可能想象不到，这里面真的包含了很多创意的部分
 
 391
 00:27:13,410 --> 00:27:15,750
--This is a very creative process. -[producer] You mean artistic?
+- 是个创造的过程
+- [制片人] 你是指这算艺术？
 
 392
 00:27:15,750 --> 00:27:17,660
--Artistic? You mean artistic. -Yeah.
+- 你是指艺术？ 
+- 对的对的~
 
 393
 00:27:17,660 --> 00:27:19,500
-I'll ask him about them, OK?
+好，让我来访谈他
 
 394
 00:27:19,500 --> 00:27:21,700
-Yeah, that's absolut-- that got the crew yesterday.
+他昨天才来我们摄制组
 
 395
 00:27:21,700 --> 00:27:24,790
-The common ground between Apple and what we did
+Apple 和 General Magic 的一个共同点
 
 396
 00:27:24,790 --> 00:27:28,160
-at General Magic in the sixties was idealism.
+就是很像六十年代的理想主义
 
 397
 00:27:28,160 --> 00:27:31,830
-Our art could make a difference in, in the lives of everyone,
+我们把这个当作艺术，希望他能影响每个人
 
 398
 00:27:31,830 --> 00:27:35,330
-everyone you know and everyone you don't know.
+每个你认识的、不认识的人
 
 399
 00:27:35,330 --> 00:27:39,660
-I think, uh, communications is the most fundamentally human thing that we do,
+我觉得……沟通是我们人类最基础的需求
 
 400
 00:27:39,660 --> 00:27:44,620
-and that's really why what we are doing cuts to the heart of-- of-- of who we are.
+沟通也能解释「我们是谁」的终极问题
 
 401
 00:27:44,620 --> 00:27:49,290
-Uh, that's what distinguishes people more than any other thing I think, the, uh,
+因为正是沟通让我们人类和所有其他物种区别开来
 
 402
 00:27:49,290 --> 00:27:55,040
-the sense of community, a sense of, of, reaching out from yourself to someone else.
+社区的意义就是……让你能够和所有其他人联系起来
 
 403
 00:27:55,040 --> 00:27:58,950
-One of the things Bill and I do is just by word of mouth passing, passing
+我和 Bill 要做的事情，就是把我们的理念口口相传
 
 404
 00:27:58,950 --> 00:28:02,500
-that spirit down, down to the next generation.
+一直传到下一代
 
 405
 00:28:02,500 --> 00:28:06,330
-We were always saying, wow, wouldn't it be great if we did that and Andy would do this,
+我们经常在那边侃侃而谈「这个东西要是做成这样就好了」
 
 406
 00:28:06,330 --> 00:28:09,700
-he would stay up all night coding the thing that we just came up with
+但是 Andy 不一样，要是晚上想到个什么点子  
 
 407
 00:28:09,700 --> 00:28:13,000
-the idea that evening. He would stay up all night and bring in
+他就通宵编程把它做出来
 
 408
 00:28:13,000 --> 00:28:16,080
-a fully working thing the next morning.
+第二天一早拿出一个原型给我们看
 
 409
 00:28:16,080 --> 00:28:20,700
-[Kevin] So we created this concept of different rooms, and Andy went off
+[Kevin] 我们想出了这个「不同房间」的创意
 
 410
 00:28:20,700 --> 00:28:23,500
-and over the weekend he completely rewrote the system
+然后 Andy 就花了一个周末的时间整个重写了系统
 
 411
 00:28:23,500 --> 00:28:28,370
-to implement this hallways thing. So we come back and it's all there.
+把这个想法给实现出来，等上班的时候，就已经可以跑通了
 
 412
 00:28:28,370 --> 00:28:32,950
-That shouldn't have been possible for one person to do that much work in one go.
+其实对于个人来说，一下子实现那么多东西是很恐怖的 
 
 413
 00:28:32,950 --> 00:28:36,450
-[Adler] Passion is the thing that breaks through logic
+[Adler] 激情无关乎逻辑
 
 414
-00:28:36,450 --> 00:28:39,750
-and makes you try to get every part right,
+00:28:36,450 --> 00:28:39,150
+当你想做一件事情的时候
 
 415
-00:28:39,750 --> 00:28:43,750
-not because of some science, but because of
+00:28:39,150 --> 00:28:43,750
+不是出于很科学的原因
 
 416
-00:28:43,750 --> 00:28:48,250
-your feeling of pride and desire to do something great.
+00:28:42,750 --> 00:28:48,250
+而是你内心对于成功的渴望
 
 417
 00:28:48,250 --> 00:28:51,870
