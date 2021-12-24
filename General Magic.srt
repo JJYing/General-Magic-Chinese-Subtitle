@@ -2457,163 +2457,166 @@ The thing about Porat when he speaks is, everybody in the audience
 
 612
 00:40:54,250 --> 00:40:57,000
-It did not go smoothly after that at all.
+然后事情就变得很不顺利
 
 613
 00:40:57,000 --> 00:41:01,200
+有些时间点上，必须要改变，去做点什么
 Moments where somebody has to start doing something and, uh, what we have decided is
 
 614
 00:41:01,200 --> 00:41:03,750
+那个重要的时候我们做的一个决定就是
 that for each of those important moments we want to make sure that there is
 
 615
 00:41:03,750 --> 00:41:06,950
-real responsibility for someone to, you know, to-- to say,
+有人需要真的负担起责任，站出来说
 
 616
 00:41:06,950 --> 00:41:09,250
-"I am at this important moment, you'll start doing your work."
+「现在已经到了重要关头，你需要完成你的工作」
 
 617
 00:41:09,250 --> 00:41:14,330
-Marc and Bill and Andy together decided, "Well, this is the person
+Marc、Bill 和 Andy 一起做了个决定
 
 618
 00:41:14,330 --> 00:41:18,660
-to manage the engineering team." That's what they-- that's what they wanted me to do.
+他们让我来做这个研发团队的经理
 
 619
 00:41:18,660 --> 00:41:20,830
-And then there was this one day where I came to talk to all of them
+接下来我跟整个团队说了这个事情
 
 620
 00:41:20,830 --> 00:41:24,120
-at once and they said, "Oh we don't need a manager.
+马上有人跳出来反对：「我们不需要一个经理」
 
 621
 00:41:24,120 --> 00:41:28,450
+「我们不需要你，因为我们根本不需要被管理
 We don't want you, because we don't need a manager. Our leader, our leaders
 
 622
 00:41:28,450 --> 00:41:33,160
-are Andy and Bill. Uh, that's what makes this place great, is we don't have managers."
+已经有 Andy 和 Bill 就够了，我们来这里就是因为他们，不需要什么经理」
 
 623
 00:41:33,160 --> 00:41:37,120
-[Tony] "We can be engineers without a manager and we know what's best.
+[Tony] 我们是真正的工程师，知道要做什么，不需要经理
 
 624
 00:41:37,120 --> 00:41:41,000
-Managers are just going to get in the way. We don't need program managers,
+经理只会让事情变糟，也不需要项目经理
 
 625
 00:41:41,000 --> 00:41:43,660
-we don't need any of that stuff. We are just going to make it happen."
+不需要太复杂的管理层，我们自己能做好的
 
 626
 00:41:43,660 --> 00:41:45,700
-[engine revving]
+
 
 627
 00:41:49,750 --> 00:41:53,830
-[Marc] There was a fearlessness and a sense of correctness,
+[Marc] 当时我们简直无所畏惧缺少一些自我质疑
 
 628
 00:41:53,830 --> 00:41:58,370
-no questioning of "Could I be wrong?" None.
+没有人会问「我们是不是做错了？」，没有人
 
 629
 00:41:58,370 --> 00:42:01,540
-Because that's what you need to break out of earth's gravity,
+因为当你要冲破地球的重力飞速上升，必须这么做
 
 630
 00:42:01,540 --> 00:42:04,660
-you need-- you need an enormous amount of momentum.
+你需要巨大的动能和惯性来驱动自己
 
 631
 00:42:04,660 --> 00:42:08,160
-And that momentum comes from suppressing introspection
+如果一直在自我质疑、害怕会失败
 
 632
 00:42:08,160 --> 00:42:10,580
-about the possibility of failure.
+这种动能和惯性就会消失了
 
 633
 00:42:12,580 --> 00:42:14,830
-[Stern] The Alliance was the biggest and most complicated
+[Stern] 我们组建的企业联盟
 
 634
 00:42:14,830 --> 00:42:17,700
-consortium of global companies that had been created
+涵盖了全球最大的财团
 
 635
 00:42:17,700 --> 00:42:19,370
-up until that time in American business.
+至少在美国市场上看是这样
 
 636
 00:42:19,370 --> 00:42:20,580
-You had competitors at the table.
+坐在一起开会讨论的，可能是一些竞争对手
 
 637
 00:42:20,580 --> 00:42:22,580
-Sony and Panasonic hated each other,
+比如索尼和松下就是世仇
 
 638
 00:42:22,580 --> 00:42:24,250
-and it made it hard for them to commit
+所以对他们来说
 
 639
 00:42:24,250 --> 00:42:26,120
-fully to our business.
+很难在商业上付出全力
 
 640
 00:42:26,120 --> 00:42:27,950
-We needed to become independent,
+我们想要更进一步的话只能寻求独立
 
 641
 00:42:27,950 --> 00:42:29,330
-and the only way we could do that
+唯一能让我们独立的办法
 
 642
 00:42:29,330 --> 00:42:31,750
-was buy selling stock to the public.
+就是公开上市，向公众募集资金
 
 643
 00:42:31,750 --> 00:42:34,700
-It was the first, so called, concept IPO,
+也就是 IPO 了
 
 644
 00:42:34,700 --> 00:42:37,200
-which is when a company could go public without any revenue,
+一个还完全没有收入，更别提利润的公司
 
 645
 00:42:37,200 --> 00:42:38,950
-let alone any profits.
+只能走这条路了
 
 646
 00:42:38,950 --> 00:42:42,660
-What made that possible? The imprimatur of Goldman Sachs.
+怎么才能 IPO 呢？那就得看高盛了
 
 647
 00:42:44,790 --> 00:42:49,370
-Goldman Sachs was the gold standard for investment banking.
+高盛是投行里的最高标准
 
 648
 00:42:49,370 --> 00:42:55,410
-If Goldman was going to do your initial public offering, it meant that you too
+如果高盛能接这个 IPO
 
 649
 00:42:55,410 --> 00:42:59,790
-met the gold standard for being a real company with real prospects.
+那就意味着这家公司也达到了最高标准
 
 650
 00:42:59,790 --> 00:43:02,040
-Didn't have a product, didn't have a revenue stream,
+没有产品上市、没有现金流
 
 651
 00:43:02,040 --> 00:43:04,910
-but, you know, it seemed cool at the time, let's invest.
+但是看上去公司还是很酷很有希望的，所以就开始吧
 
 652
 00:43:04,910 --> 00:43:07,660
@@ -2645,7 +2648,6 @@ He got the deal, he participated in the IPO.
 
 659
 00:43:30,250 --> 00:43:33,790
-[indistinct chatter]
 
 660
 00:43:33,790 --> 00:43:35,620
@@ -2653,23 +2655,21 @@ Where is that [indistinct] happening?
 
 661
 00:43:38,830 --> 00:43:39,660
-Right here.
 
 662
 00:43:42,040 --> 00:43:46,450
-So then they didn't make any 44260s in five volts without this, right, enable thing?
 
 663
 00:43:46,450 --> 00:43:50,250
-[Megan] Probably the most challenging part of the product was deciding what not to do.
+[Megan] 这个产品开发起来最难的部分可能是决定砍哪些功能
 
 664
 00:43:50,250 --> 00:43:53,160
-What to do and what not to do, because it's really hard, you're building
+这个很难，因为我们在做一个非常复杂的平台
 
 665
 00:43:53,160 --> 00:43:58,290
-a very complex platform. And so just often things would take longer.
+复杂度越高，花的时间就越长
 
 666
 00:43:58,290 --> 00:44:02,160
@@ -2693,39 +2693,38 @@ But I couldn't really articulate the way they could. So yeah,
 
 671
 00:44:18,160 --> 00:44:22,330
--I had to challenge myself and kinda go into the dark hole. -A3 Volts...
+I had to challenge myself and kinda go into the dark hole
 
 672
 00:44:22,330 --> 00:44:25,700
-[Megan] Once we got the basics there, you take the new chip that had
+[Megan] 基础的框架搭好，最新的芯片装好之后
 
 673
 00:44:25,700 --> 00:44:29,750
-whatever the latest software that everybody had put together,
+软件就能跑起来了，大家都在写全新的程序放进去
 
 674
 00:44:29,750 --> 00:44:33,290
-pop it in and begin to see the screen come to life.
+然后在屏幕上运行和体验
 
 675
 00:44:35,250 --> 00:44:37,000
-[keyboard clicking]
 
 676
 00:44:37,000 --> 00:44:41,370
-[Amy] We could see it, we could touch it and feel it.
+[Amy] 你能看见、你能触摸，你也能感受到
 
 677
 00:44:41,370 --> 00:44:46,080
-But the responsiveness of the device was really slow. Uh, the processor was underpowered,
+但因为芯片还是太弱，所以机器的反应很慢
 
 678
 00:44:46,080 --> 00:44:52,370
-for example. So the experience was a bit tap... tap...
+点完一次就得等一小会儿，节奏就像「点……等待……点……」
 
 679
 00:44:52,370 --> 00:44:54,450
-And, you know, kind of annoying.
+你可以想象得到，这个感觉就很让人挫败
 
 680
 00:44:56,370 --> 00:45:00,080
