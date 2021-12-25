@@ -2616,42 +2616,41 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 651
 00:43:02,040 --> 00:43:04,910
-但是看上去公司还是很酷很有希望的，所以就开始吧
+但是看上去公司还是很酷很有希望的，那就开始吧
 
 652
 00:43:04,910 --> 00:43:07,660
-[Marc] The best investment bankers came to pitch us.
+[Marc] 最顶尖的投行都来找我们了
 
 653
 00:43:07,660 --> 00:43:13,450
-One of them came and said, "I must have a piece of the IPO.
+其中有一家过来之后说：「我一定要参与你们的 IPO
 
 654
 00:43:13,450 --> 00:43:17,000
-What would it take, what-- if I gave you the shirt off my back, would that do it?
+假如……假如我把衣服脱了，能说服你吗？」
 
 655
 00:43:17,000 --> 00:43:20,830
-And I said, "Yeah. It would!" And he stripped down...
+然后我说：「可以的，你脱脱看」，然后他就真地脱了……
 
 656
 00:43:20,830 --> 00:43:24,120
-- 别拍这个 - [笑] - Don't film this stuff. -[laughter]
+这段别拍
 
 657
 00:43:24,120 --> 00:43:27,620
-[Marc] And there we were standing in the conference room with a half-naked banker.
+[Marc] 然后我们就看到一个半裸的银行家在会议室里跟我们谈生意 
 
 658
 00:43:27,620 --> 00:43:30,250
-He got the deal, he participated in the IPO.
+我们后来同意了，他参与了 IPO
 
 659
 00:43:30,250 --> 00:43:33,790
 
 660
 00:43:33,790 --> 00:43:35,620
-Where is that [indistinct] happening?
 
 661
 00:43:38,830 --> 00:43:39,660
@@ -2673,27 +2672,27 @@ Where is that [indistinct] happening?
 
 666
 00:43:58,290 --> 00:44:02,160
-For me, I had never done anything like that. It was a huge challenge.
+这是我做过最难的一个项目，太有挑战性了
 
 667
 00:44:02,160 --> 00:44:06,870
-You really had to work very hard to build what we were trying to build.
+不努力根本做不出我们想要的效果
 
 668
 00:44:08,830 --> 00:44:12,580
-I really had to up my game and they were all like, "Fadell you're doing it wrong.
+我已经做到自己的极限，但同事们还是经常说「Fadell 你做错了
 
 669
 00:44:12,580 --> 00:44:15,660
-You should be doing it that way." And I'm like, "No, I think it's the right way."
+你必须要这样这样这样」，我觉得自己其实没错
 
 670
 00:44:15,660 --> 00:44:18,160
-But I couldn't really articulate the way they could. So yeah,
+但我又不像他们那么善于表达自己
 
 671
 00:44:18,160 --> 00:44:22,330
-I had to challenge myself and kinda go into the dark hole
+就只能不停试错，陷入了死循环
 
 672
 00:44:22,330 --> 00:44:25,700
@@ -2728,91 +2727,90 @@ I had to challenge myself and kinda go into the dark hole
 
 680
 00:44:56,370 --> 00:45:00,080
-I was sitting in a lot of the user test labs.
+我经常就在做用户测试的房间里
 
 681
 00:45:00,080 --> 00:45:03,040
-The engineers would sit there and say, "No, lady, what are you doing?
+工程师门经常会吼：「大姐，不是，不是这样
 
 682
 00:45:03,040 --> 00:45:06,080
-Don't, don't tap that. No, it's not there, it's over there!"
+不能点这里，点这么没用的，应该点那里」
 
 683
 00:45:06,080 --> 00:45:09,080
-And we'd all go, "Ooh." There was some comedy there.
+然后我们都挺有挫败感，还有个笑话
 
 684
 00:45:09,080 --> 00:45:12,080
-[woman 1] The thing at the bottom that kinda looks like a comb,
+[被测试者] 底下这个东西看起来有点像把数字
 
 685
 00:45:12,080 --> 00:45:15,910
-I haven't the slightest idea what that is.
+我完全猜不出他代表什么意思
 
 686
 00:45:15,910 --> 00:45:17,660
-[man] This doesn't look like it's working.
+[被测试者] 看上去好像已经失去响应了？
 
 687
 00:45:17,660 --> 00:45:19,540
--[chimes] -[woman] Is this noise supposed to be here?
+-[被测试者] 这个噪音有点儿大，正常的吗？
 
 688
 00:45:19,540 --> 00:45:21,910
--[engineer] OK, we've crashed. We just crashed. -[woman] Uh-oh.
+-[工程师] 是的，我们的程序崩溃了
 
 689
 00:45:21,910 --> 00:45:24,080
-[Hershenson] It had this little top hat.
+[Hershenson] 我记得有一个帽子的图标
 
 690
 00:45:24,080 --> 00:45:26,540
-Like some operating systems had little spinning wheels
+就像操作系统里那个代表「工作中」的图标
 
 691
 00:45:26,540 --> 00:45:28,910
-or a top hat would just start spinning.
+它有时候就会自己转起来
 
 692
 00:45:28,910 --> 00:45:30,950
+然后就不停地不停地转
 And just start spinning and just keep spinning.
 
 693
 00:45:30,950 --> 00:45:33,540
-You just stare at this ####### thing.
+然后你就只能特码的看着他
 
 694
 00:45:33,540 --> 00:45:36,250
-Finally you just pull out the battery and reset the device,
+然后你就只能把电源和电池，重启设备
 
 695
 00:45:36,250 --> 00:45:38,330
-because there is no point in waiting.
+很容易让人失去信心
 
 696
 00:45:38,330 --> 00:45:41,750
--[beeping] -[indistinct] target for re-bunking.
 
 697
 00:45:41,750 --> 00:45:44,580
-[engineer] It's not my fault, is it? It's the software engineer.
 
 698
 00:45:44,580 --> 00:45:49,200
-And, you know, it's slowly dawning on us, like we are not gonna get this done.
+这些大大小小的问题，给我们一种预感，有可能这个产品做不出来了
 
 699
 00:45:49,200 --> 00:45:52,000
-[woman 1] This isn't a finished program by any means, is it?
+[被测试者] 这不是一个已经写完了的程序吧？
 
 700
 00:45:57,950 --> 00:46:01,160
-[Stern] The roadshow for the General Magic public offering
+[Stern] 整个 General Magic 的 IPO 路演过程
 
 701
 00:46:01,160 --> 00:46:04,790
-was flying around in a private jet, flying first class,
+都是在私人飞机或者头等舱里飞来飞去度过的
 
 702
 00:46:04,790 --> 00:46:10,290
