@@ -2814,175 +2814,175 @@ And just start spinning and just keep spinning.
 
 702
 00:46:04,790 --> 00:46:10,290
-staying in the best hotels and having people sit at our feet and lap up what we were saying.
+住也是住在最好的酒店，每个人都坐在我们脚边听我们说话
 
 703
 00:46:10,290 --> 00:46:12,620
-The closest thing it comes to is touring with a rock band.
+这种感觉无比像一个摇滚乐队在巡回演出
 
 704
 00:46:12,620 --> 00:46:16,120
-We've got a roadie crew that has to set up the cameras and the big screen
+我们的路演团队不得不每次都现场设置很大的屏幕和摄像机
 
 705
 00:46:16,120 --> 00:46:18,700
-to make sure that people can see the demonstration of the device.
+因为来看的人太多了，必须确保他们都看得清
 
 706
 00:46:18,700 --> 00:46:24,580
+我们设想中的设备你可以一直握在手中，他功能很多
 What we envisioned is something in your hand that's with you all the time, that allows you
 
 707
 00:46:24,580 --> 00:46:29,620
-to have access whether it's for fun or more importantly for mission critical applications.
+从随便玩玩的娱乐到更严肃、重要的应用
 
 708
 00:46:29,620 --> 00:46:31,330
-[audience applauding]
 
 709
 00:46:31,330 --> 00:46:33,700
-All we did was demonstrate the device.
+我们其实每次都只是演示设备
 
 710
 00:46:33,700 --> 00:46:38,790
-I would go out in the hallway and I would pretend to be an airline company
+我有次走到后台，假装自己是航空公司
 
 711
 00:46:38,790 --> 00:46:44,160
-and Marc would make an airline reservation, and in real time, Marc would reserve a flight,
+然后 Marc 跟我合作假装在实时预订一个航班
 
 712
 00:46:44,160 --> 00:46:47,660
-and blow people away because no one had ever seen anything like it.
+看到这个功能的人基本都惊呆了，因为以前从没见过类似的
 
 713
 00:46:47,660 --> 00:46:49,950
-We've got tools, we've got partners.
+我们有工具、有合作伙伴
 
 714
 00:46:49,950 --> 00:46:51,540
-We've got markets that are happening all around us.
+我们有正在蓬勃发展的市场
 
 715
 00:46:51,540 --> 00:46:53,620
--Give us a clap. -[audience applauding]
+给我们点掌声吧~
 
 716
 00:46:53,620 --> 00:46:56,580
-Great. That's the right stuff.
+很好，很好
 
 717
 00:46:56,580 --> 00:47:01,330
-[Stern] The roadshow succeeded beyond everybody's wild expectations.
+[Stern] 这次路演的成功完全超出了我们的想象
 
 718
 00:47:01,330 --> 00:47:04,200
-The first concept public offering in Silicon Valley history
+作为第一次用概念来做 IPO 的硅谷公司
 
 719
 00:47:04,200 --> 00:47:08,950
-and we raised a total of, uh, 96 million dollars.
+我们总共募资 9 千 6 百万美元
 
 720
 00:47:08,950 --> 00:47:09,870
-That's about as good as it gets.
+这个数字已经是好得不能再好了
 
 721
 00:47:12,000 --> 00:47:17,040
-We were kings of the universe, and it was really fun.
+这开心的感觉，就好像自己是宇宙之主
 
 722
 00:47:19,870 --> 00:47:23,410
-[Marc] Today we would call it going viral. The press loved us.
+[Marc] 用今天的话来说，就是病毒式地传播，各路媒体爱死我们了
 
 723
 00:47:23,410 --> 00:47:26,370
-They heard the vision, they saw what was going on, and whoop! They're in.
+他们知道了我们的愿景，了解了我们当时在做的事情，所以都来报道了
 
 724
 00:47:26,370 --> 00:47:29,700
-[MacAskill] I was just afraid Marc thought things were just too easy to do.
+[MacAskill] 我有点担心 Marc 因为这次成功而变得轻飘飘
 
 725
 00:47:29,700 --> 00:47:32,370
-How are you gonna get the price point? How are you gonna keep it from crashing?
+怎么去给产品定价？怎么解决经常崩溃的问题？
 
 726
 00:47:32,370 --> 00:47:34,870
-How are you gonna make it fast enough? How are you gonna make it readable?
+怎么让系统变得够快？怎么让屏幕上的内容变得可读？
 
 727
 00:47:34,870 --> 00:47:37,200
-I just didn't think he was focused on that stuff.
+我觉得对于这些产品问题，Marc 不再那么关注
 
 728
 00:47:37,200 --> 00:47:41,200
-[Tony] We were so distracted by all the articles,
+[Tony] 当时那些媒体文章，其实让我们有点分心
 
 729
 00:47:41,200 --> 00:47:45,410
-that we started to believe our own-- our own tale.
+以至于我们都开始觉得自己就是个传奇
 
 730
 00:47:45,410 --> 00:47:48,790
-You know that we're gonna conquer the world, but yet we hadn't finished.
+知道自己一定会征服世界，但现实情况是我们并没有
 
 731
 00:47:48,790 --> 00:47:53,290
-We were not paying attention to the other external trends that were happening around us,
+我们甚至开始忽视外界的新技术趋势
 
 732
 00:47:53,290 --> 00:47:56,540
-because we were aiming so far out in the future. It was like the--
+因为觉得我们做的是未来的产品
 
 733
 00:47:56,540 --> 00:48:00,080
-the current context around us really wasn't considered that relevant,
+现在发生的事情又有什么关系呢？
 
 734
 00:48:00,080 --> 00:48:04,450
-because we were aiming to far out. But boy was that relevant.
+我们想得太远了，但现在发生的事情，其实真的不应该去忽视
 
 735
 00:48:06,500 --> 00:48:09,580
-[modem connecting sound]
 
 736
 00:48:09,580 --> 00:48:13,580
-[TV announcer 1] Put simply the internet is just a network of networks.
+[电视播报员] 简单来说，互联网就是联通各种网络的网络
 
 737
 00:48:13,580 --> 00:48:16,750
-[TV announcer] In recent years, a relatively unknown communication system,
+[电视播报员] 最近几年，以往不为人知的新兴通信技术
+In recent years, a relatively unknown communication system,
 
 738
 00:48:16,750 --> 00:48:20,790
-called the Internet, has exploded in popularity with such intensity
+也就是互联网，以爆发的趋势在世界范围内流行起来
 
 739
 00:48:20,790 --> 00:48:26,000
-that it's predicted that over 25 million people will be using it by the year 1998...
+据预测，到 1998 年的时候，会有超过 2 千 5 百万用户
 
 740
 00:48:26,000 --> 00:48:28,790
-And we had an intern who's like, "Hey everybody,
+我们的一个实习生有一天跟我们说
 
 741
 00:48:28,790 --> 00:48:32,040
-it's all about the Web. You guys are totally missing it." He was telling us this.
+你们知道互联网吗？好像你们都不怎么关注来着？
 
 742
 00:48:32,040 --> 00:48:36,580
-It was probably late 94' early 95' and you could go to every Website at that time.
+在 94 年底、95 年初的时候，你已经可以访问很多网站了
 
 743
 00:48:36,580 --> 00:48:39,290
-There was a list of them and you could go and visit all of the Websites.
+而且有一个目录站点，涵盖了几乎所有你可以访问的网站
 
 744
 00:48:39,290 --> 00:48:42,870
-And it was all very rough, you know there was mostly text.
+虽然总体来说还人原始，大部分都是纯文字
 
 745
 00:48:42,870 --> 00:48:48,290
