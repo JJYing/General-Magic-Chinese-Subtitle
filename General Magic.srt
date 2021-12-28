@@ -3871,40 +3871,39 @@ Very low, and there were some problems with the AT&T Network. So bit by bit
 
 968
 01:02:56,950 --> 01:02:59,120
-I continue to believe in the wireless dimension,
+我坚信无线技术是一个很好的方向
 
 969
 01:02:59,120 --> 01:03:02,120
-there will be smart phones, there will be smart pagers,
+肯定会有智能电话、智能寻呼机诞生的
 
 970
 01:03:02,120 --> 01:03:04,910
-and maybe even things like intelligent watches, for all we know.
+甚至还会有智能手表这样的东西
 
 971
 01:03:04,910 --> 01:03:10,160
-It's a question of resources, priorities and market readiness,
+不过着一切都取决于资源、优先级以及市场接受度
 
 972
 01:03:10,160 --> 01:03:12,370
-uh, for us to figure out where the sweet spot is. We--
+我们需要找到最佳的切入点
 
 973
 01:03:12,370 --> 01:03:15,660
--[Heckler] Can we make some money while this is going on? -[Marc chuckles]
+[Heckler] 那我们在这个过程中能赚到钱吗？
 
 974
 01:03:15,660 --> 01:03:18,500
-[Hershenson] This guy from the San Francisco Chronicle, I mean, I remember
+[Hershenson] 好像是《旧金山纪事报》的一个人
 
 975
 01:03:18,500 --> 01:03:20,660
-he just drilled me. He was like,
+他不停地追问我
 
 976
 01:03:20,660 --> 01:03:23,580
 你们的生意已经进行不下去了
-"You guys are going out of business.
 
 977
 01:03:23,580 --> 01:03:29,120
@@ -3913,7 +3912,6 @@ he just drilled me. He was like,
 978
 01:03:29,120 --> 01:03:31,830
 公司对此做何反应？
-What is the company's response?
 
 979
 01:03:31,830 --> 01:03:35,250
@@ -3925,115 +3923,117 @@ What is the company's response?
 
 981
 01:03:38,540 --> 01:03:41,000
-It's like, dude, you didn't work here for three and a half years,
+可你不是那个在这里工作了三年半的人
 
 982
 01:03:41,000 --> 01:03:43,000
-pulling all-nighters, seven days a week.
+没有在这里一周工作七天，每天深夜才回家
 
 983
 01:03:43,000 --> 01:03:45,200
-You didn't see the future and know what's coming
+你也不知道我们规划的未来是怎么样的
 
 984
 01:03:45,200 --> 01:03:50,000
-and, and now it's all just in ashes around you.
+但现在就只看到我们碰的一鼻子灰
 
 985
 01:03:50,000 --> 01:03:53,500
-[Stern] I'm looking at spreadsheets, in my office
+[Stern] 我在办公室里看着我们的财务报表
 
 986
 01:03:53,500 --> 01:03:56,790
-and thinking, "In a half hour I'm gonna have to get on the phone
+心想不出半小时高盛的分析师就该给我打电话了吧
 
 987
 01:03:56,790 --> 01:04:01,040
-and talk to the analyst from Goldman Sachs and I don't know what the hell I'm gonna say.
+但我特码的完全不知道应该说啥
 
 988
 01:04:01,040 --> 01:04:04,040
-How do I create the impression that there is a future here."
+我应该怎么说服他们，我们还是有未来的
 
 989
 01:04:04,040 --> 01:04:06,370
-Marc did it, but, uh, I was at a loss.
+Marc 去接电话了，而我彻底茫然
 
 990
 01:04:06,370 --> 01:04:11,000
-The initial experience is terrific, and where we are headed
+一开始的体验的确挺糟糕的，但我们的目标
 
 991
 01:04:11,000 --> 01:04:14,950
-is sublime, and to get from terrific to sublime takes time.
+是做一个很出彩的东西，从糟糕到出彩，需要时间
 
 992
 01:04:14,950 --> 01:04:17,870
--[Hoffman] I don't want to be negative. -Why is this tilted?
+- [Hoffman] 我不想那么消极，但是……
+- 为什么镜头有点儿斜？
 
 993
 01:04:17,870 --> 01:04:20,450
--[cameraman] It's not titled. -[Hoffman] It's been a lot of hype.
+- [摄像师] 没斜，正的
+- [Hoffman] 这就是一个彻头彻尾的炒作
 
 994
 01:04:20,450 --> 01:04:24,250
-I would not say that in the video. Where we are starting, as exciting as it is,
+我不大想在视频里这么说，但我们现在这个开始阶段已经挺出彩了
 
 995
 01:04:24,250 --> 01:04:26,540
-is not where we are going to end up. This will take time.
+但我们能做到的程度绝对不止于此，只是需要时间去迭代
 
 996
 01:04:26,540 --> 01:04:30,450
-It's a voyage that takes time, it's a journey that takes time. This will take time.
+这个过程需要时间、这段旅程需要时间、做这一切都需要时间
 
 997
 01:04:30,450 --> 01:04:33,000
-需要时间，必须得有耐心
+必须得有耐心
 
 998
 01:04:33,000 --> 01:04:34,500
-[Hoffman] Perfect, absolutely perfect.
+[Hoffman] 可以可以，很完美
 
 999
 01:04:34,500 --> 01:04:36,200
-You know, I just thought as you were talking
+我觉得你在说这一切
 
 1000
 01:04:36,200 --> 01:04:38,000
-how complicated it is for you to be figuring out
+有多复杂的时候
 
 1001
 01:04:38,000 --> 01:04:40,000
--what you can and can't say. -Yeah, it's true. [chuckles]
+- 直接告诉我们那些可以播，哪些不能，就很好
+- 确实，确实
 
 1002
 01:04:40,000 --> 01:04:41,540
-It's a whole other issue I wasn't thinking about.
+这个问题我之前没注意到
 
 1003
 01:04:41,540 --> 01:04:46,040
-[Hoffman indistinct]
 
 1004
 01:04:46,040 --> 01:04:48,500
-I was torn up, it was...
+我整个人都垮了
 
 1005
 01:04:51,410 --> 01:04:55,500
-To walk in, there was a week, you know, Phil actually had to set me aside
+Phil 不得不放了我一个礼拜假期
 
 1006
 01:04:55,500 --> 01:05:01,160
-because I was so distraught, that there was a week or two that I actually just took off.
+因为我实在是没有心思了，所以有一两个礼拜没来上班
 
 1007
 01:05:01,160 --> 01:05:03,910
-I didn't even show up for work because I was so distraught.
+实在是心灰意冷
 
 1008
 01:05:03,910 --> 01:05:08,080
-And then Phil actually had to sit me down and go, "Tony what's wrong? You're not you."
+后来 Phil 不得不跑来跟我说：「Tony 你怎么了？你以前不是这样的」
 
 1009
 01:05:08,080 --> 01:05:14,250
@@ -4041,87 +4041,88 @@ And then Phil actually had to sit me down and go, "Tony what's wrong? You're not
 
 1010
 01:05:14,250 --> 01:05:18,330
-And so for me personally that was a major rocking event.
+所以对我来说真的是一个重大的打击
 
 1011
 01:05:18,330 --> 01:05:23,290
-Then the next one disappointment for me is, you know, I started design devices
+而更大的失望还在后头，我开始振作起来
 
 1012
 01:05:23,290 --> 01:05:26,950
-and I started to try to mold General Magic technology
+尝试用 General Magic 现有的技术
 
 1013
 01:05:26,950 --> 01:05:30,620
-into something that I thought was sellable.
+融合成一个新的产品，一个我感觉卖得出去的产品
 
 1014
 01:05:30,620 --> 01:05:34,250
-And so I created basically a whole product plan, and technology plan
+大致上完成了从技术到产品的规划
 
 1015
 01:05:34,250 --> 01:05:36,870
+然后把这个想法带回了 General Magic
 for what I thought was going to be a successful product.
 
 1016
 01:05:36,870 --> 01:05:39,950
-I go back to General Magic, I said, "Look I have a firmed up product plan,
+跟大家说：「我想了一个全新的产品计划
 
 1017
 01:05:39,950 --> 01:05:43,540
-you need to mold your software to build this kind of device." And they just looked at me
+在软件上做一些适配就能造这种新硬件了」
 
 1018
 01:05:43,540 --> 01:05:48,540
-and said, "Sorry, we can't do that. We have other priorities."
+但他们看着我说：「对不起我们不能做这个，我们有其他优先要做的事情」
 
 1019
 01:05:51,330 --> 01:05:57,290
-For General Magic, as I saw it, was, basically the end.
+General Magic，对我来说，已经结束了
 
 1020
 01:05:57,290 --> 01:06:01,450
-They were defeated. That was the saddest part about that meeting,
+整个会上最难过的部分就是大家都觉得已经被打败了
 
 1021
 01:06:01,450 --> 01:06:06,000
-is that, and Andy in particular I think was the one who said,
+尤其是 Andy，他好像说
 
 1022
 01:06:06,000 --> 01:06:11,410
-"We're not gonna-- we can't do this. We're not going to do it," and...
+「我们……我们做……我们没法继续了」
 
 1023
 01:06:11,410 --> 01:06:13,700
-they just didn't-- They didn't have anything left.
+后来他们真的就都离开了
 
 1024
 01:06:16,750 --> 01:06:19,580
-[Kevin] I am a particularly loyal person, so it was, it was
+[Kevin] 我是一个非常忠诚的人
 
 1025
 01:06:19,580 --> 01:06:21,540
-very hard for me to leave General Magic.
+实在是很难说离开就离开
 
 1026
 01:06:21,540 --> 01:06:24,330
-I was fully bought into what we were doing, uhm,
+我最早加入就是因为深信我们想做的方向是很正确的
 
 1027
 01:06:24,330 --> 01:06:28,700
-and I stayed perhaps even longer than maybe I ought to have, to try to help
+所以最后在公司待了很长时间，其实不需要那么做
 
 1028
 01:06:28,700 --> 01:06:31,200
-change the direction, uhm,
+但还是想帮帮忙，看看能不能换一个方向继续
 
 1029
 01:06:31,200 --> 01:06:35,080
-but it was, it was beyond, uhm, saving, unfortunately.
+但很不幸，一切都已经无可挽救了
 
 1030
 01:06:36,660 --> 01:06:39,750
-[Stern] 看起来就像一个巨大的灾难
+[Stern] 眼前留下的，是一个巨大的灾难
 
 1031
 01:06:39,750 --> 01:06:42,330
@@ -4129,47 +4130,47 @@ but it was, it was beyond, uhm, saving, unfortunately.
 
 1032
 01:06:42,330 --> 01:06:45,830
-It was a sense of rejection that penetrated right to your heart
+这种挫败感，简直直接穿透进我的五脏六腑
 
 1033
 01:06:45,830 --> 01:06:49,200
-and your gut, and I-- I just felt sick.
+整个人都不好受
 
 1034
 01:07:07,750 --> 01:07:12,500
-[Joanna] It was, uh, devastating. For me it was, it was really devastating
+[Joanna] 毁灭性的，对我来说真的就是毁灭性的
 
 1035
 01:07:12,500 --> 01:07:17,040
-and, uh, I thought immediately, "I have to take time off.
+我立马就想「我应该休息一段时间」
 
 1036
 01:07:17,040 --> 01:07:22,200
-It's-- it's going to be a long time before I start committing
+从那以后我花了很长时间
 
 1037
 01:07:22,200 --> 01:07:28,750
-to yet another blue sky, uh, proposition."
+才换过劲儿来，寻找新的方向
 
 1038
 01:07:30,410 --> 01:07:34,040
-[Stern] Marc、Bill 和 Andy 向全世界 The vision that Marc, Bill and Andy had sold,
+[Stern] Marc、Bill 和 Andy 向全世界不光向全世界灌输那个想法
 
 1039
 01:07:34,040 --> 01:07:37,580
-向我们自己灌输了这个想法 not just to the world, but to us,
+更是深深地在我们自己心里灌输了这个想法
 
 1040
 01:07:37,580 --> 01:07:41,160
-这东西很酷、很有趣 that this was a cool, fun,
+这个想法很酷、很有趣
 
 1041
 01:07:41,160 --> 01:07:45,750
-每个人都会想要一个，因为感觉我们自己就很想要 lovely thing to have, and that everybody would want one because we did.
+每个人都会想要一个，因为感觉我们自己就很想要
 
 1042
 01:07:46,790 --> 01:07:48,250
-但我们错了 And we were wrong.
+但我们错了
 
 1043
 01:07:57,290 --> 01:08:00,910
@@ -4189,211 +4190,210 @@ to yet another blue sky, uh, proposition."
 
 1047
 01:08:20,160 --> 01:08:23,620
-Like it doesn't matter if you invented it because you didn't have shows,
+就算真发明出来了也没用，因为电视上没有可以播放的剧集
 
 1048
 01:08:23,620 --> 01:08:25,790
-you didn't have capabilities.
+而且也完全没有这个能力
 
 1049
 01:08:25,790 --> 01:08:29,160
-I think there was actually nothing General Magic could have done
+我觉得 General Magic 当时就不可能成功
 
 1050
 01:08:29,160 --> 01:08:32,870
-to succeed, because they were at the wrong time.
+因为他们诞生在了一个错误的时间
 
 1051
 01:08:32,870 --> 01:08:38,330
-The way I think about that, it's like a wave. If you start paddling too early
+我能想到的一个比喻，就是冲浪，假如你太早开始划水
 
 1052
 01:08:38,330 --> 01:08:41,000
-your arms will be tired by the time the wave arrives,
+那等浪来的时候你已经精疲力尽了
 
 1053
 01:08:41,000 --> 01:08:43,910
-and the wave will slide right under you and leave you behind.
+只能眼睁睁看着浪卷走
 
 1054
 01:08:43,910 --> 01:08:47,790
-That's sort of what happened with General Magic. They saw the wave before anyone else,
+General Magic 就是这样，他们比谁都先看见了那波大浪
 
 1055
 01:08:47,790 --> 01:08:52,290
-and they thought it was coming sooner and they got tired before it arrived.
+但浪过来的时间比他们预想的要晚，所以他们还没站起来就已经累了
 
 1056
 01:08:52,290 --> 01:08:54,870
-Yeah, but they had all the right talent.
+但他们拥有所需要的所有才智
 
 1057
 01:08:57,330 --> 01:09:00,080
-[Sculley] You can become so focused, and such a believer
+[Sculley] 有时候你会变得太过专注
 
 1058
 01:09:00,080 --> 01:09:04,660
-in what you are doing that you can miss the change of context in an industry.
+只相信自己在做的事情而忽视了正在改变的行业环境
 
 1059
 01:09:04,660 --> 01:09:09,830
-In this case, the World Wide Web and General Magic probably didn't pivot,
+就这件事而言，General Magic 就输在互联网的快速兴起
 
 1060
 01:09:09,830 --> 01:09:15,370
-uh, fast enough to the post world after the Web, but I missed it as well.
+他们没有抓住网络带来的机会，我自己也错过了
 
 1061
 01:09:15,370 --> 01:09:17,910
-I was getting increased pressure as a CEO of Apple,
+我作为 Apple CEO 的压力与日俱增
 
 1062
 01:09:17,910 --> 01:09:22,500
-by the Apple board, you know, why was I wasting Apple's time and money
+Apple 董事会觉得我在「后 PC 时代」的设备上浪费了太多的时间和资金
 
 1063
 01:09:22,500 --> 01:09:26,160
-on these post PC devices and not just focusing on the Macintosh.
+为什么不专注于 Macintosh 呢？
 
 1064
 01:09:26,160 --> 01:09:28,830
-The result? I eventually got fired by Apple.
+结果呢……就是我后来被 Apple 给炒掉了
 
 1065
 01:09:37,040 --> 01:09:41,700
-I learned from failure how incredibly painful it can be when you fail publicly.
+这次失败让我感受到了空前的痛苦，尤其是这个过程非常公开
 
 1066
 01:09:41,700 --> 01:09:44,330
-It wasn't just the little failures, but, you know, I had to fail
+而且这也不是一次小小的失败
 
 1067
 01:09:44,330 --> 01:09:47,540
-in front of the whole world when I was fired from Apple.
+我是在全世界人面前被 Apple 给炒掉了
 
 1068
 01:09:47,540 --> 01:09:51,160
-It really hurt me for a long, long time, and it wasn't
+这事情我花了很长很长时间去消化
 
 1069
 01:09:51,160 --> 01:09:55,700
-till about 15 years later that I could actually get my head around and deal with it.
+一直到大概 15 年之后我才能坦然接受
 
 1070
 01:10:01,370 --> 01:10:04,370
-But the stories of Silicon Valley are always the stories
+但这就是硅谷都是关于那些
 
 1071
 01:10:04,370 --> 01:10:08,290
-of these incredibly successful companies,
+无比成功的公司
 
 1072
 01:10:08,290 --> 01:10:11,540
-and yet here is a company, General Magic,
+但还是有些公司，比如 General Magic
 
 1073
 01:10:11,540 --> 01:10:15,950
-that wasn't commercially successful and eventually went bankrupt,
+商业上并不成功，甚至最终破产
 
 1074
 01:10:15,950 --> 01:10:20,580
-and yet so much of what came out of General Magic
+但 General Magic 还是产出了巨大的成果
 
 1075
 01:10:20,580 --> 01:10:24,330
-is the foundation of everything we take for granted today.
+这些成果成了我们今天习以为常的日常生活的基础
 
 1076
 01:10:35,660 --> 01:10:39,250
-[Joanna] Failure doesn't-- doesn't stop me as long as it's
+[Joanna] 一般来说，失败不会让我停下脚步
 
 1077
 01:10:39,250 --> 01:10:42,580
-on a path towards something really wonderful.
+只要这个尝试是朝着美好的方向
 
 1078
 01:10:42,580 --> 01:10:47,120
-But with General Magic there was a certain deflation in me personally,
+但 General Magic 好像不太好说
 
 1079
 01:10:47,120 --> 01:10:52,330
-where I felt like, uh, "Will I be able to do this one more time? I'm not sure."
+如果可以再来一遍，我会去尝试吗？
 
 1080
 01:10:52,330 --> 01:10:57,700
-Because the potential was so phenomenal and you could see this is going to happen.
+因为我们的潜力实在是太大了，你一看就知道这肯定是未来
 
 1081
 01:10:57,700 --> 01:11:01,500
-You know that this is going to happen, and you realize
+你知道这些东西终究会被做出来，但你也意识到
 
 1082
 01:11:01,500 --> 01:11:04,540
-you're not gonna be the one that makes it happen.
+达成这些的人不是你
 
 1083
 01:11:04,540 --> 01:11:08,620
-It's even more comprehensive than I remembered.
+这书里的内容甚至比我记忆里的还全~
 
 1084
 01:11:08,620 --> 01:11:10,790
-Yeah.
+
 
 1085
 01:11:10,790 --> 01:11:16,910
-[chuckles] Now that I look at it, I think, what were we thinking?
+现在回过头来看，我们当时在想啥啊？
 
 1086
 01:11:16,910 --> 01:11:19,540
-We were trying to do all this?
+这么多东西都要做出来？
 
 1087
 01:11:19,540 --> 01:11:21,620
-And, you know...
+而且
 
 1088
 01:11:21,620 --> 01:11:25,200
-And we thought we could push the industry, we could make them do it.
+我们觉得自己可以改变这个行业
 
 1089
 01:11:25,200 --> 01:11:30,950
-Mm... Not there, it wasn't there.
+Emmm…… 不可能的，在当时就不可能
 
 1090
 01:11:30,950 --> 01:11:35,370
-[emotional music]
 
 1091
 01:11:45,910 --> 01:11:51,120
-I'm old enough now to know that it's behind me, you know, it's-- it's, uh--
+我现在已经老到可以看淡很多事情了
 
 1092
 01:11:51,120 --> 01:11:53,750
-To create technical revolution
+想要做一些技术革新
 
 1093
 01:11:53,750 --> 01:11:58,290
-is-- is really a game for people in their, in their twenties.
+真的要靠那些二十多岁的年轻人
 
 1094
 01:11:58,290 --> 01:12:02,500
-The stamina, you're also not as contaminated by the past.
+他们有那个精力，也不会被过往经历所束缚
 
 1095
 01:12:12,540 --> 01:12:14,540
-More than anything else it makes me feel old.
+所有我亲手做过的东西、买过的东西
 
 1096
 01:12:14,540 --> 01:12:19,540
-[chuckles] That, uh, stuff I-- I worked on
+都让我觉得自己更老了
 
 1097
 01:12:19,540 --> 01:12:24,080
-or bought, you know, is-- are-- they are now museum pieces.
+因为……他们现在都是博物馆展品了
 
 1098
 01:12:28,500 --> 01:12:32,910
-Yeah, so there is a General Magic device, the Sony Magic Link.
+有了，有 General Magic 的设备，Sony Magic Link 就在这里
 
 1099
 01:12:36,950 --> 01:12:40,410
