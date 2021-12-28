@@ -2490,7 +2490,6 @@ Marc、Bill 和 Andy 一起做了个决定
 621
 00:41:24,120 --> 00:41:28,450
 「我们不需要你，因为我们根本不需要被管理
-We don't want you, because we don't need a manager. Our leader, our leaders
 
 622
 00:41:28,450 --> 00:41:33,160
@@ -2770,7 +2769,6 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 692
 00:45:28,910 --> 00:45:30,950
 然后就不停地不停地转
-And just start spinning and just keep spinning.
 
 693
 00:45:30,950 --> 00:45:33,540
@@ -3726,7 +3724,6 @@ Sony Magic Link 智能通讯仪，清理你的桌面，清理你的思绪
 934
 01:00:43,700 --> 01:00:48,080
 位置在冰箱后面，外面的人啥也看不到
-behind the refrigerators, you couldn't see anything. It became clear that the Fry's staff
 
 935
 01:00:48,080 --> 01:00:51,830
@@ -4054,7 +4051,6 @@ Phil 不得不放了我一个礼拜假期
 1015
 01:05:34,250 --> 01:05:36,870
 然后把这个想法带回了 General Magic
-for what I thought was going to be a successful product.
 
 1016
 01:05:36,870 --> 01:05:39,950
@@ -4744,7 +4740,6 @@ Steve Jobs 在台上说
 1189
 01:19:29,000 --> 01:19:31,250
 我们将使用世界上最好的指点设备
-We're going to use the best pointing device in the world.
 
 1190
 01:19:31,250 --> 01:19:34,250
@@ -5130,25 +5125,23 @@ Hi 大家好~
 
 1285
 01:25:02,080 --> 01:25:06,790
-I love thinking about, uh, how magic is anywhere.
+我喜欢找到一个办法，让「魔术」的精神更广泛地传播
 
 1286
 01:25:06,790 --> 01:25:11,080
-Uh, in everyone, and how do you pull that out
+让所有人都知道、都能做到
 
 1287
 01:25:11,080 --> 01:25:16,790
-and really make sure that the talent that wants to do its thing is able to do it.
+帮助有意愿、有能力的人才，实现他们的目标
 
 1288
 01:25:22,620 --> 01:25:25,700
 <font color="#ffffff"><b> Swisher: </b></font>在这个星球上繁衍的人类
-You know, as the human race thrives really on this planet
 
 1289
 01:25:25,700 --> 01:25:29,950
 不断地制造各种问题：教育、团结、气候变化
-it creates all kinds of problems, education, uniting people, climate change.
 
 1290
 01:25:29,950 --> 01:25:34,040
@@ -5177,136 +5170,134 @@ it creates all kinds of problems, education, uniting people, climate change.
 1296
 01:25:58,370 --> 01:26:01,200
 你没法改变整个人类种族
-You can't change the human race, yeah, but you can start
 
 1297
 01:26:01,200 --> 01:26:03,450
-to educate them so that they change their behaviors.
+但你可以试着去教育他们，让他们慢慢改变自己的行为
 
 1298
 01:26:03,450 --> 01:26:06,580
-And so the question is, can you take these powerful tools
+留给我们的问题是如何使用越来越先进的工具
 
 1299
 01:26:06,580 --> 01:26:10,200
-and do something that really does help a lot of people?
+从根本上帮助普通人
 
 1300
 01:26:10,200 --> 01:26:13,370
-Can you inspire a group of young people now, to really,
+以及能不能去启发年轻一代
 
 1301
 01:26:13,370 --> 01:26:17,250
-to be creative and come up with these new ideas?
+让他们发挥创意，继续创造新的点子
 
 1302
 01:26:22,370 --> 01:26:26,330
-Tonight, we feature an iconic inventor of iPod and iPhone,
+今晚，我们请来了 iPod 和 iPhone 背后那个标志性的发明者
 
 1303
 01:26:26,330 --> 01:26:28,540
-I would like to bring up five numbers to introduce him.
+我想用五个数字来介绍他
 
 1304
 01:26:28,540 --> 01:26:31,660
-Seven billion, two hundred and seventy nine million,
+七千零二亿七千九百三十九万
 
 1305
 01:26:31,660 --> 01:26:35,370
-three hundred and ninety five thousand, eight hundred and seventy three.
+五千八百七十三（700，279，395，873）
 
 1306
 01:26:35,370 --> 01:26:39,200
-This is the number of kilowatt hours saved by Nest Thermostat owners.
+这是 Nest 系统给它的使用者们节省下来的电量度数
 
 1307
 01:26:39,200 --> 01:26:43,370
-Eighteen, the number of generations of iPod's shipped.
+18，上市过的所有 iPod 的代数
 
 1308
 01:26:43,370 --> 01:26:46,540
-Three hundred, the number of patents authored.
+300，所拥有的专利数
 
 1309
 01:26:46,540 --> 01:26:50,370
-Three hundred and fifty million, the number of iPods sold.
+3 亿 5000 万，iPod 的历史总销售数量
 
 1310
 01:26:50,370 --> 01:26:54,750
-Join me in welcoming the one and only Tony Fadell.
+请和我一起欢迎独一无二的 Tony Fadell
 
 1311
 01:26:54,750 --> 01:26:58,580
 嗨，大家好
-Hi, everybody.
 
 1312
 01:26:58,580 --> 01:27:03,040
-Let's say, you show up now, you're a kid, you show up here in the Valley,
+假如有一个年轻人，刚刚来到硅谷
 
 1313
 01:27:03,040 --> 01:27:06,580
-um, what would you tell someone similar to you who just walked in,
+就跟你当年一样，初出茅庐
 
 1314
 01:27:06,580 --> 01:27:09,410
-you know, wet behind the ears in Silicon Valley today?
+你有什么想要对他说的吗？
 
 1315
 01:27:09,410 --> 01:27:14,410
-You know I am only up here because of many people in this audience,
+没有台下很多人的帮助，我今天完全不可能站在这里
 
 1316
 01:27:14,410 --> 01:27:19,580
-who helped me get here, and that's the magic of Silicon Valley.
+这就是硅谷的魔力
 
 1317
 01:27:19,580 --> 01:27:23,250
-We all started in the same place you are in today.
+所有人入行的时候都跟今天的大家一模一样
 
 1318
 01:27:23,250 --> 01:27:27,200
-Everyone has the same self doubts and no one's perfect.
+每个人都怀疑过自己，也没有任何人是完美无缺的
 
 1319
 01:27:27,200 --> 01:27:30,250
-And when you meet your heroes and when you work with them
+当你遇到了你心目中的英雄，甚至还能跟他们合作
 
 1320
 01:27:30,250 --> 01:27:34,250
-and they treat you as a peer, learn from it.
+他们也当你是同伴，多向他们请教
 
 1321
 01:27:34,250 --> 01:27:37,580
-Keep moving. If you're dreaming the right dream,
+然后不断进步，只要你心中的梦想方向正确
 
 1322
 01:27:37,580 --> 01:27:40,700
-you're on the right path. I've been there before,
+你就不会走偏，我也是这么过来的
 
 1323
 01:27:40,700 --> 01:27:42,450
-it's tough, keep going.
+没有谁的路是好走的，坚持走下去
 
 1324
 01:27:44,450 --> 01:27:47,450
-These people helped me to become the person I am.
+这些人成就了今天的我
 
 1325
 01:27:51,620 --> 01:27:57,790
-How can we take this same idea of bold dramatic change
+我们怎么用类似的大胆的想法
 
 1326
 01:27:57,790 --> 01:27:59,910
-to help create a better society?
+去改善整个社会？
 
 1327
 01:27:59,910 --> 01:28:02,200
-We are going to have to invent those things
+只能不断去发明创造
 
 1328
 01:28:02,200 --> 01:28:08,330
-and do it in all of these other domains that are being touched or revolutionized by technology.
+在各个不同的领域中用技术去做出改革
 
 1329
 01:28:12,290 --> 01:28:16,580
@@ -5314,78 +5305,69 @@ and do it in all of these other domains that are being touched or revolutionized
 
 1330
 01:28:16,580 --> 01:28:20,080
-but if you just find the right people and keep seeking out
+只要你能找到正确的人，同时不断探索
 
 1331
 01:28:20,080 --> 01:28:24,370
-knowledge and advice and keep staying open to make a better world
+知识、听取意见，始终保持一颗开放的心，就能创造一个更好的世界
 
 1332
 01:28:24,370 --> 01:28:28,040
-regardless of where you come from, great things can happen.
+你的出身并不重要，是金子总能发光
 
 1333
 01:28:28,040 --> 01:28:30,580
-We judge things by the moment in which we feel
+对于一件事情的评价标准
 
 1334
 01:28:30,580 --> 01:28:33,660
-that they have made an impact on the mass culture.
+我们主要看它是不是能对大众文化产生深远的影响
 
 1335
 01:28:33,660 --> 01:28:37,290
-They are in the anthropology, they are in the culture of how we see
+在人类学的范畴，在我们如何看待自己的问题上产生影响
 
 1336
 01:28:37,290 --> 01:28:40,290
-ourselves, and how we come to expect the world to be
+以及我们期望未来的世界是怎样的
 
 1337
 01:28:40,290 --> 01:28:43,620
-and I don't think that will happen for another ten years.
+但我不觉得我们的目标会在十年能达成
 
 1338
 01:28:43,620 --> 01:28:46,000
-I think we will build to it incrementally and every quarter
+每个季度、每年我们都会保持迭代
 
 1339
 01:28:46,000 --> 01:28:48,080
-and every year it will get closer and closer,
+一步步逼近我们的目标
 
 1340
 01:28:48,080 --> 01:28:50,870
-but I don't think it will be until the 21st century when the stuff
+但可能只有在 21 世纪来临之后
 
 1341
 01:28:50,870 --> 01:28:54,540
-we are working on today becomes unexceptional, unexceptional.
+我们现在做的东西才会在日常生活里变得司空见惯，无比普通
 
 1342
 01:28:54,540 --> 01:28:57,790
-Not worth making a video about, and, and that's the test--
+根本不值得拍一个视频
 
 1343
 01:28:57,790 --> 01:29:01,580
-Except for historical documentary purposes. [chuckles]
+除非是为了拍一部考古纪录片
 
 1344
 01:29:01,580 --> 01:29:05,700
-And, and that's the test of, uh, of hey, we've made it.
+如果这真的成了纪录片，那说明
 
 1345
 01:29:05,700 --> 01:29:06,790
 我们真的影响了这个世界
-We've really made a difference.
 
 1346
 01:29:06,790 --> 01:29:08,540
 我们真的改变了世界
-We've really changed the world.
-
-1347
-01:29:08,540 --> 01:29:12,410
-
-
-1348
-01:29:32,700 --> 01:29:36,250
 
