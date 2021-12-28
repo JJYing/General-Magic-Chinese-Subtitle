@@ -4636,167 +4636,167 @@ General Magic 就是其中这一波浪，他就存在于时间的一个小角落
 1160
 01:17:39,700 --> 01:17:42,870
 [Tony] 我超爱底特律本土的音乐
-I loved music growing up in Detroit, and I was always sick
 
 1161
 01:17:42,870 --> 01:17:46,120
-and tired of lugging my CD's and all this other stuff around.
+但一直很讨厌到哪儿都要带着一大坨 CD 唱片
 
 1162
 01:17:46,120 --> 01:17:48,700
-I wanted something where I could take it all the time.
+很想要一个东西让我可以把所有音乐都放在一起
 
 1163
 01:17:48,700 --> 01:17:52,540
-MP3 showed up. I was like, music is coming.
+后来 MP3 出现， 我当时就觉得，属于音乐的时代来了
 
 1164
 01:17:52,540 --> 01:17:58,080
-Next thing I know I get a call, "We've looked at all the MP3 players, we think they are bad.
+然后我接到了一个电话：「我们看过了所有的 MP3 播放器，全都太差了
 
 1165
 01:17:58,080 --> 01:18:00,750
-We think there is one that can be done in the Apple way."
+我们用 Apple 的方式应该可以做一个成功的出来」
 
 1166
 01:18:00,750 --> 01:18:05,410
-And then Steve said, "Now we need you to come on the team to put it together."
+打电话的是 Steve Jobs，「我们想让你加入我们把它做出来」
 
 1167
 01:18:05,410 --> 01:18:08,040
-And then I started calling all kinds of companies
+然后我就给整个硅谷，整个世界的公司打电话
 
 1168
 01:18:08,040 --> 01:18:11,250
-all around the valley, around world. Trying to figure out displays
+想要找到合适的显示器
 
 1169
 01:18:11,250 --> 01:18:13,580
-trying to figure out batteries, trying to figure out storage
+合适的电池、合适的存储设备
 
 1170
 01:18:13,580 --> 01:18:17,040
-and then Steve was able, and the team was able to build on top of those
+然后 Steve 和整个团队以这个硬件基础
 
 1171
 01:18:17,040 --> 01:18:20,870
-and make it even better, and so we were like, it's happening.
+打造出了一个更好的音乐设备，然后一切就开始了
 
 1172
 01:18:20,870 --> 01:18:23,000
-[Steve Jobs] Boom, that's iPod. I happen to have one right here
+[Steve Jobs] 这就是 iPod，我碰巧口袋里就有一个
 
 1173
 01:18:23,000 --> 01:18:26,040
-in my pocket, as a matter of fact. There it is, right there.
+它就是这样子的
 
 1174
 01:18:26,040 --> 01:18:29,830
-[Tony] The Magic lesson was, we have to ship it as fast as possible
+[Tony] General Magic 给我的教训就是，产品必须尽快上市
 
 1175
 01:18:29,830 --> 01:18:33,080
-so you could learn from the market and you can iterate quickly.
+你才能从市场得到反馈，然后快速迭代
 
 1176
 01:18:33,080 --> 01:18:35,910
-Every year we made sure we had a new version of the iPod.
+我们每年都能保证有一代新的 iPod 上市
 
 1177
 01:18:35,910 --> 01:18:38,290
-And then we added downloadable apps,
+给它加上了可以按照 App 的功能
 
 1178
 01:18:38,290 --> 01:18:41,870
-games, email, communications, wireless.
+也加了游戏、电子邮件、通讯工具，以及无线网络
 
 1179
 01:18:41,870 --> 01:18:45,540
-We had these different pieces and I'm like this is starting to come together.
+把这些部分一点点加上去的时候
 
 1180
 01:18:45,540 --> 01:18:49,580
-I remember this, and it was like I was back at General Magic
+我依稀感觉到自己又回到了 General Magic 的时光
 
 1181
 01:18:49,580 --> 01:18:56,080
-again in a way, because it's what we talked about, just 15 years later.
+我们当时讨论的内容，15 年之后又回来了
 
 1182
 01:18:56,080 --> 01:18:59,120
-This is real, Steve goes,
+只不过这次是真实现了
 
 1183
 01:18:59,120 --> 01:19:02,910
-"It's taking off, we need to put it on a cellphone."
+然后 Steve 说：「既然这些都有了，让我们把它们放进手机里吧」
 
 1184
 01:19:07,160 --> 01:19:11,290
-[Steve Jobs] Today Apple is going to reinvent the phone.
+[Steve Jobs] 今天 Apple 将要重新发明手机
 
 1185
 01:19:12,790 --> 01:19:15,540
-And here it is. This is one device.
+就长这样，所有的功能就在这一台设备里
 
 1186
 01:19:17,200 --> 01:19:22,040
-This has been, at that point, 17 years in Silicon Valley,
+从那时往前数，17 年了
 
 1187
 01:19:22,040 --> 01:19:24,790
-and we were finally able to realize the dream we had
+我们终于实现了当年的梦想，1991 年的梦想
 
 1188
 01:19:24,790 --> 01:19:29,000
-in 1991 on stage and Steve Jobs talking about it.
+Steve Jobs 在台上说
 
 1189
 01:19:29,000 --> 01:19:31,250
+我们将使用世界上最好的指点设备
 We're going to use the best pointing device in the world.
 
 1190
 01:19:31,250 --> 01:19:34,250
-We're going to use a pointing device that we are all born with,
+也是我们天生就拥有的指点设备
 
 1191
 01:19:34,250 --> 01:19:37,910
-we're born with ten of them, we are going to use our fingers.
+用我们着十根手指
 
 1192
 01:19:37,910 --> 01:19:42,830
-So, let's go ahead and turn it on, alrighty.
+接下来让我们开机体验一下
 
 1193
 01:19:42,830 --> 01:19:47,200
-[Stern] I was proud to think that, "Yeah, my god, we did it."
+[Stern] 我很自豪地想，啊！我们做到了
 
 1194
 01:19:47,200 --> 01:19:51,950
-Tony did it. Everything we wanted to do, there it is.
+Tony 做到了，我们想做的东西，就是那样的！
 
 1195
 01:19:51,950 --> 01:19:55,830
-and on the other hand, I was sad that it wasn't us.
+同时也有点儿失落，把它做出来的人，不是我们
 
 1196
 01:19:55,830 --> 01:19:59,870
-But I also felt vindicated in some way.
+但不管怎么样，我们的想法被证明都是正确的
 
 1197
 01:19:59,870 --> 01:20:03,080
-That the ideas had been right, the timing had been wrong.
+只是时间不对
 
 1198
 01:20:05,580 --> 01:20:09,750
-[Andy] Steve would often call me after like the big product introductions,
+[Andy] Steve 经常在重要产品发布之后给我打电话，想问问我是怎么看的
 
 1199
 01:20:09,750 --> 01:20:15,160
-just to see what I thought. 4:00 p.m. I was in my office, I got a call from Steve.
+那次是下午四点，我还在办公室，又接到了他的电话
 
 1200
 01:20:15,160 --> 01:20:17,330
-He said, "What do you think, what do you think?"
+他说：「你觉得怎么样？你觉得怎么样？」
 
 1201
 01:20:17,330 --> 01:20:22,000
