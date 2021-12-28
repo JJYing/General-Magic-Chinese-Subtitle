@@ -4,7 +4,7 @@
 
 2
 00:01:22,583 --> 00:01:25,083
-[Swisher] 在硅谷有很多关于起源的故事
+<font color="#ffffff"><b> Swisher: </b></font>在硅谷有很多关于起源的故事
 
 3
 00:01:25,083 --> 00:01:29,417
@@ -16,7 +16,7 @@
 
 5
 00:01:34,750 --> 00:01:38,125
-[Markoff] 有很多故事定义了硅谷
+<font color="#ffffff"><b> Markoff: </b></font>有很多故事定义了硅谷
 
 6
 00:01:38,125 --> 00:01:43,208
@@ -24,7 +24,7 @@
 
 7
 00:01:45,375 --> 00:01:48,125
-[Sculley] 你必须相信、必须要自豪
+<font color="#ffffff"><b> Sculley: </b></font>你必须相信、必须要自豪
 
 8
 00:01:48,125 --> 00:01:52,458
@@ -44,8 +44,7 @@
 
 12
 00:02:05,583 --> 00:02:09,750
-[Joanna] 无论我们的梦想多夸张
-No matter how big we dreamed, the fact that you could touch
+<font color="#ffffff"><b>Joanna: </b></font>无论我们的梦想多夸张
 
 13
 00:02:09,750 --> 00:02:12,125
@@ -61,7 +60,7 @@ No matter how big we dreamed, the fact that you could touch
 
 16
 00:02:18,000 --> 00:02:21,458
-[Hershenson] 为什么要关心 General Magic 的故事？
+<font color="#ffffff"><b> Hershenson: </b></font>为什么要关心 General Magic 的故事？
 
 17
 00:02:21,458 --> 00:02:25,000
@@ -77,7 +76,7 @@ No matter how big we dreamed, the fact that you could touch
 
 20
 00:02:34,959 --> 00:02:39,000
-[Hoffman] 这个故事至今萦绕在经历者们的心中
+<font color="#ffffff"><b> Hoffman: </b></font>这个故事至今萦绕在经历者们的心中
 
 21
 00:02:39,000 --> 00:02:45,000
@@ -85,7 +84,7 @@ No matter how big we dreamed, the fact that you could touch
 
 22
 00:02:47,250 --> 00:02:51,917
-[Hershenson] 它失败了吗？或者说……这个公司失败了，但这些想法成功了
+<font color="#ffffff"><b> Hershenson: </b></font>它失败了吗？或者说……这个公司失败了，但这些想法成功了
 
 23
 00:02:51,917 --> 00:02:56,375
@@ -101,7 +100,7 @@ No matter how big we dreamed, the fact that you could touch
 
 26
 00:04:21,625 --> 00:04:23,000
-[Tony] 我当时正在念高中
+<font color="#ffffff"><b> Tony: </b></font>我当时正在念高中
 
 27
 00:04:24,375 --> 00:04:27,125
@@ -200,7 +199,7 @@ Macintosh 正式公开发布
 
 51
 00:06:03,709 --> 00:06:06,375
-[Joanna] 你问我还记得什么？我就坐在那儿
+<font color="#ffffff"><b>Joanna: </b></font>你问我还记得什么？我就坐在那儿
 
 52
 00:06:06,375 --> 00:06:13,542
@@ -261,7 +260,7 @@ Steve Jobs 反复向我们灌输这些
 
 66
 00:06:53,750 --> 00:06:57,041
-[Andy] 我们骨子里真的相信
+<font color="#ffffff"><b>Andy: </b></font>我们骨子里真的相信
 
 67
 00:06:57,041 --> 00:07:02,458
@@ -277,7 +276,7 @@ Steve Jobs 反复向我们灌输这些
 
 70
 00:07:10,291 --> 00:07:11,583
-[Joanna] 但在这背后
+<font color="#ffffff"><b>Joanna: </b></font>但在这背后
 
 71
 00:07:11,583 --> 00:07:14,792
@@ -297,7 +296,7 @@ Steve Jobs 深陷政治斗争中
 
 75
 00:07:24,959 --> 00:07:27,959
-[Andy] 我接到一个电话，大概是早上十点吧
+<font color="#ffffff"><b>Andy: </b></font>我接到一个电话，大概是早上十点吧
 
 76
 00:07:27,959 --> 00:07:33,458
@@ -314,7 +313,7 @@ Steve 和 John Sculley 对于要做什么没有达成统一
 
 79
 00:07:48,709 --> 00:07:52,333
-当争斗积累到一定程度，董事会告诉 Sculley
+当冲突积累到一定程度，董事会告诉 Sculley
 
 80
 00:07:52,333 --> 00:07:54,709
@@ -330,7 +329,7 @@ emm…… 对所有人来说都是非常痛苦的决定
 
 83
 00:08:05,250 --> 00:08:06,792
-[Joanna] Mac 之后
+<font color="#ffffff"><b>Joanna: </b></font>Mac 之后
 
 84
 00:08:06,792 --> 00:08:09,834
@@ -339,11 +338,11 @@ emm…… 对所有人来说都是非常痛苦的决定
 85
 00:08:09,834 --> 00:08:13,375
 -因为他确实让我们筋疲力尽，没法再抽身做其他事了
--[Andy] 是的
+-<font color="#ffffff"><b>Andy: </b></font>是的
 
 86
 00:08:13,375 --> 00:08:16,667
-[Joanna] 其他项目不断地开始，但都像烟花一样快速熄灭了
+<font color="#ffffff"><b>Joanna: </b></font>其他项目不断地开始，但都像烟花一样快速熄灭了
 
 87
 00:08:16,667 --> 00:08:19,625
@@ -454,7 +453,7 @@ emm…… 对所有人来说都是非常痛苦的决定
 
 114
 00:10:30,834 --> 00:10:34,834
-我们那么早就想到这个点子了[轻笑]
+我们那么早就想到这个点子了
 
 115
 00:10:37,875 --> 00:10:38,834
@@ -462,11 +461,11 @@ emm…… 对所有人来说都是非常痛苦的决定
 
 116
 00:10:43,875 --> 00:10:46,500
+1
 
 117
 00:10:52,417 --> 00:10:55,375
-[John Sculley ── 前 Apple 公司 CEO]
-商业其实就是讲故事，搞商业的人就是整天讲故事
+<font color="#cccccc" size="14">John Sculley ── 前 Apple 公司 CEO<br></font>商业其实就是讲故事，搞商业的人就是整天讲故事
 
 118
 00:10:55,375 --> 00:10:59,500
@@ -506,7 +505,7 @@ emm…… 对所有人来说都是非常痛苦的决定
 
 127
 00:11:28,333 --> 00:11:32,667
-[Marc] 它是一个电话机，本质上就是一个智能手机
+<font color="#ffffff"><b>Marc: </b></font>它是一个电话机，本质上就是一个智能手机
 
 128
 00:11:32,667 --> 00:11:35,625
@@ -542,7 +541,7 @@ emmm... 他成功地说服了我
 
 136
 00:12:03,959 --> 00:12:07,792
-也说服了 Bill Atkinson 和 Andy Hertzfeld.
+也说服了 Bill Atkinson 和 Andy Hertzfeld
 
 137
 00:12:07,792 --> 00:12:09,542
@@ -554,8 +553,7 @@ emmm... 他成功地说服了我
 
 139
 00:12:11,875 --> 00:12:15,333
-[Andy Hertzfeld ── Mac 开发团队核心成员]
-我听见答录机上有一条来自 Bill Atkinson 的留言
+<font color="#cccccc" size="14">Andy Hertzfeld ── Mac 开发团队核心成员<br></font>我听见答录机上有一条来自 Bill Atkinson 的留言
 
 140
 00:12:15,333 --> 00:12:17,500
@@ -587,7 +585,7 @@ emmm... 他成功地说服了我
 
 147
 00:12:38,291 --> 00:12:43,041
-[Andy] 我一开始还是很怀疑的，因为 Marc 看起来就是个很「商务」的人
+<font color="#ffffff"><b>Andy: </b></font>我一开始还是很怀疑的，因为 Marc 看起来就是个很「商务」的人
 
 148
 00:12:43,041 --> 00:12:45,542
@@ -595,7 +593,7 @@ emmm... 他成功地说服了我
 
 149
 00:12:45,542 --> 00:12:48,875
-[Joanna] 我看到这个概念的时候，我跟 Marc 说
+<font color="#ffffff"><b>Joanna: </b></font>我看到这个概念的时候，我跟 Marc 说
 
 150
 00:12:48,875 --> 00:12:50,959
@@ -670,8 +668,7 @@ John，我觉得这就是 Apple 的未来
 
 168
 00:13:51,208 --> 00:13:55,083
-[ John Markoff ── 纽约时报]
-Apple 暗中给这家公司助力
+<font color="#cccccc" size="14">John Markoff ── 纽约时报<br></font>Apple 暗中给这家公司助力
 
 169
 00:13:55,083 --> 00:13:56,709
@@ -691,7 +688,7 @@ Apple 暗中给这家公司助力
 
 173
 00:14:05,542 --> 00:14:09,959
-我都是就感觉「我不在乎他们做啥，我一定要加入他们！」
+我就是觉得「我不在乎他们做啥，我一定要加入他们！」
 
 174
 00:14:09,959 --> 00:14:14,041
@@ -723,7 +720,7 @@ Apple 暗中给这家公司助力
 
 181
 00:14:36,792 --> 00:14:41,250
-[Stern] 硅谷的每个人都知道了 General Magic 在做一些很酷的事情
+<font color="#ffffff"><b> Stern: </b></font>硅谷的每个人都知道了 General Magic 在做一些很酷的事情
 
 182
 00:14:41,250 --> 00:14:44,125
@@ -755,7 +752,7 @@ Apple 暗中给这家公司助力
 
 189
 00:15:06,000 --> 00:15:09,000
-[Bill] Hi Megan，欢迎加入我们
+<font color="#ffffff"><b> Bill: </b></font>Hi Megan，欢迎加入我们
 
 190
 00:15:09,000 --> 00:15:11,000
@@ -763,7 +760,7 @@ Apple 暗中给这家公司助力
 
 191
 00:15:11,000 --> 00:15:13,458
-[Megan] 我一直在创造东西
+<font color="#ffffff"><b> Megan: </b></font>我一直在创造东西
 
 192
 00:15:13,458 --> 00:15:18,542
@@ -787,7 +784,7 @@ Andy Hertzfeld 知道我是 Mac 的开发者，所以他给我打了电话让我
 
 197
 00:15:36,458 --> 00:15:39,500
-[Andy] 不好意思，但是我们必须要让你签一下这个保密协议……
+<font color="#ffffff"><b>Andy: </b></font>不好意思，但是我们必须要让你签一下这个保密协议……
 
 198
 00:15:39,500 --> 00:15:41,917
@@ -827,7 +824,7 @@ Andy Hertzfeld 知道我是 Mac 的开发者，所以他给我打了电话让我
 
 207
 00:16:11,250 --> 00:16:13,667
-[Tony] 终于我得到了一次面试机会
+<font color="#ffffff"><b> Tony: </b></font>终于我得到了一次面试机会
 
 208
 00:16:13,667 --> 00:16:18,875
@@ -854,7 +851,7 @@ Andy Hertzfeld 知道我是 Mac 的开发者，所以他给我打了电话让我
 
 213
 00:16:33,000 --> 00:16:34,625
-[Dee] 他还是不停地给我打电话
+<font color="#ffffff"><b> Dee: </b></font> 他还是不停地给我打电话
 
 214
 00:16:34,625 --> 00:16:37,041
@@ -1025,7 +1022,7 @@ Dan Winkler？他也来了？我知道 Dan
 
 255
 00:19:39,667 --> 00:19:41,583
-emmm…… 这里正在做什么呢？
+emmm… 这里正在做什么呢？
 
 256
 00:19:41,583 --> 00:19:44,333
@@ -1079,7 +1076,7 @@ Joanna Hoffman 走过来了，我就感觉「我的天哪！」
 
 268
 00:20:23,750 --> 00:20:28,250
-[Amy] 一开始在工程方面进行研究
+<font color="#ffffff"><b> Amy: </b></font>一开始在工程方面进行研究
 
 269
 00:20:28,250 --> 00:20:30,375
@@ -1103,7 +1100,7 @@ Joanna Hoffman 走过来了，我就感觉「我的天哪！」
 
 274
 00:20:41,667 --> 00:20:44,583
-[Megan] 普通人的二十几岁就是经常出去玩，每天泡在酒吧里
+<font color="#ffffff"><b> Megan: </b></font>普通人的二十几岁就是经常出去玩，每天泡在酒吧里
 
 275
 00:20:44,583 --> 00:20:47,125
@@ -1180,7 +1177,7 @@ Tony，是你吗？
 
 294
 00:21:48,500 --> 00:21:50,790
-[Hoffman] 但我能感觉到这些人
+<font color="#ffffff"><b> Hoffman: </b></font>但我能感觉到这些人
 
 295
 00:21:50,790 --> 00:21:53,540
@@ -1229,7 +1226,6 @@ Tony，是你吗？
 306
 00:22:34,700 --> 00:22:36,830
 这个想法是让你能在任何时间、任何地点进行沟通
-It was this notion of anytime, anywhere communication.
 
 307
 00:22:36,830 --> 00:22:39,250
@@ -1311,7 +1307,7 @@ It was this notion of anytime, anywhere communication.
 
 326
 00:23:32,950 --> 00:23:36,080
-对，这是最最早的一个，emmm……他们问题不少
+对，这是最最早的一个，emmm…他们问题不少
 
 327
 00:23:36,080 --> 00:23:39,120
@@ -1339,7 +1335,7 @@ It was this notion of anytime, anywhere communication.
 
 333
 00:23:57,160 --> 00:24:00,290
-[Kevin] 感觉所有事情都是不确定、都是有可能的
+<font color="#ffffff"><b> Kevin: </b></font>感觉所有事情都是不确定、都是有可能的
 
 334
 00:24:00,290 --> 00:24:03,830
@@ -1355,11 +1351,11 @@ It was this notion of anytime, anywhere communication.
 
 337
 00:24:11,830 --> 00:24:14,290
-像真的用户一样把他给使用起来=
+像真的用户一样把他给使用起来
 
 338
 00:24:14,290 --> 00:24:17,830
-[Amy] 他们个性十足，但都精力充沛得像个核电厂
+<font color="#ffffff"><b> Amy: </b></font>他们个性十足，但都精力充沛得像个核电厂
 
 339
 00:24:17,830 --> 00:24:21,200
@@ -1383,7 +1379,7 @@ It was this notion of anytime, anywhere communication.
 
 344
 00:24:35,290 --> 00:24:37,950
-[Tony] 这个原型机我搭好了
+<font color="#ffffff"><b> Tony: </b></font>这个原型机我搭好了
 
 345
 00:24:37,950 --> 00:24:39,910
@@ -1391,11 +1387,11 @@ It was this notion of anytime, anywhere communication.
 
 346
 00:24:39,910 --> 00:24:43,910
-[Adler] Tony 什么都想学，而且想从每个人身上学东西
+<font color="#ffffff"><b> Adler: </b></font>Tony 什么都想学，而且想从每个人身上学东西
 
 347
 00:24:43,910 --> 00:24:47,750
-是的，什么都想学，谁有需我都回去帮忙
+是的，什么都想学，谁有需要我都会去帮忙
 
 348
 00:24:47,750 --> 00:24:50,830
@@ -1408,7 +1404,7 @@ It was this notion of anytime, anywhere communication.
 
 350
 00:24:53,450 --> 00:24:57,200
-[Tony] 希望它能无缝的连接上，速度再快点
+<font color="#ffffff"><b> Tony: </b></font>希望它能无缝的连接上，速度再快点
 
 351
 00:24:57,200 --> 00:25:01,660
@@ -1485,7 +1481,6 @@ It was this notion of anytime, anywhere communication.
 369
 00:26:06,040 --> 00:26:09,200
 当手指按下去的时候，四个角上的传感器能感受到压力
-and as you pushed on it you could, you could sense touch.
 
 370
 00:26:09,200 --> 00:26:11,750
@@ -1523,7 +1518,6 @@ and as you pushed on it you could, you could sense touch.
 378
 00:26:35,330 --> 00:26:39,040
 今天随处可见的技术那时还不存在，但一个相对笨重的产品
-Uh, the technology just wasn't there yet, but, hey, that was ok,
 
 379
 00:26:39,040 --> 00:26:42,450
@@ -1535,7 +1529,7 @@ Uh, the technology just wasn't there yet, but, hey, that was ok,
 
 381
 00:26:48,750 --> 00:26:51,870
-[Adler] 触摸屏还是很带劲儿的
+<font color="#ffffff"><b> Adler: </b></font>触摸屏还是很带劲儿的
 
 382
 00:26:51,870 --> 00:26:53,540
@@ -1649,7 +1643,7 @@ Apple 和 General Magic 的一个共同点
 
 409
 00:28:16,080 --> 00:28:20,700
-[Kevin] 我们想出了这个「不同房间」的创意
+<font color="#ffffff"><b> Kevin: </b></font>我们想出了这个「不同房间」的创意
 
 410
 00:28:20,700 --> 00:28:23,500
@@ -1665,14 +1659,14 @@ Apple 和 General Magic 的一个共同点
 
 413
 00:28:32,950 --> 00:28:36,450
-[Adler] 激情无关乎逻辑
+<font color="#ffffff"><b> Adler: </b></font>激情无关乎逻辑
 
 414
 00:28:36,450 --> 00:28:39,150
 当你想做一件事情的时候
 
 415
-00:28:39,150 --> 00:28:43,750
+00:28:39,150 --> 00:28:42,750
 不是出于很科学的原因
 
 416
@@ -1681,7 +1675,7 @@ Apple 和 General Magic 的一个共同点
 
 417
 00:28:48,250 --> 00:28:51,870
-[Andy] 很简单，只要点击这个「写邮件」的小图标
+<font color="#ffffff"><b>Andy: </b></font>很简单，只要点击这个「写邮件」的小图标
 
 418
 00:28:51,870 --> 00:28:54,120
@@ -1693,7 +1687,7 @@ Apple 和 General Magic 的一个共同点
 
 420
 00:28:56,910 --> 00:29:00,660
-[Joanna] 系统里有邮件、有日历，所有功能都是围绕「沟通」这个主题
+<font color="#ffffff"><b>Joanna: </b></font>系统里有邮件、有日历，所有功能都是围绕「沟通」这个主题
 
 421
 00:29:00,660 --> 00:29:04,000
@@ -1714,7 +1708,7 @@ Apple 和 General Magic 的一个共同点
 
 425
 00:29:16,000 --> 00:29:19,200
-[Marc] 在今天，表情图标在这个世界上扮演了重要的角色
+<font color="#ffffff"><b>Marc: </b></font>在今天，表情图标在这个世界上扮演了重要的角色
 
 426
 00:29:19,200 --> 00:29:21,830
@@ -1738,7 +1732,7 @@ Andy 和 Bill 消失了几天，回来的时候就展示了表情图标这东西
 
 431
 00:29:35,290 --> 00:29:38,250
-[Adler] 这是我第一次加入这么有雄心的团队
+<font color="#ffffff"><b> Adler: </b></font>这是我第一次加入这么有雄心的团队
 
 432
 00:29:38,250 --> 00:29:42,790
@@ -1754,11 +1748,11 @@ Andy 和 Bill 消失了几天，回来的时候就展示了表情图标这东西
 
 435
 00:29:49,540 --> 00:29:52,660
-[Amy] 有时候感觉自己甚至可以穿墙了，没有什么事情是做不了的
+<font color="#ffffff"><b> Amy: </b></font>有时候感觉自己甚至可以穿墙了，没有什么事情是做不了的
 
 436
 00:29:52,660 --> 00:29:55,950
-[Tony] 当时那个场景我们每个人都确信自己可以改变世界
+<font color="#ffffff"><b> Tony: </b></font>当时那个场景我们每个人都确信自己可以改变世界
 
 437
 00:29:55,950 --> 00:29:58,830
@@ -1766,7 +1760,7 @@ Andy 和 Bill 消失了几天，回来的时候就展示了表情图标这东西
 
 438
 00:29:58,830 --> 00:30:02,160
-[Hoffman] 那个自由的氛围就像在开跑车兜风，甚至是坐火箭兜风
+<font color="#ffffff"><b> Hoffman: </b></font>那个自由的氛围就像在开跑车兜风，甚至是坐火箭兜风
 
 439
 00:30:02,160 --> 00:30:05,080
@@ -1798,7 +1792,7 @@ Andy 和 Bill 消失了几天，回来的时候就展示了表情图标这东西
 
 446
 00:30:31,330 --> 00:30:33,830
-[Stern] 一个容纳数百万人的网络可不是开玩笑的
+<font color="#ffffff"><b> Stern: </b></font>一个容纳数百万人的网络可不是开玩笑的
 
 447
 00:30:33,830 --> 00:30:36,910
@@ -1814,11 +1808,11 @@ Andy 和 Bill 消失了几天，回来的时候就展示了表情图标这东西
 
 450
 00:30:42,700 --> 00:30:44,950
-所以我们需要 AT&T.
+所以我们需要 AT﹠T
 
 451
 00:30:50,330 --> 00:30:53,200
-[Michael] AT&T 的人坐着一部超长的豪华轿车过来了
+<font color="#ffffff"><b> Michael: </b></font>AT﹠T 的人坐着一部超长的豪华轿车过来了
 
 452
 00:30:53,200 --> 00:30:55,540
@@ -1859,7 +1853,7 @@ Bill 终于来了，他好像有一个礼拜没洗澡了
 
 461
 00:31:22,540 --> 00:31:25,660
-AT&T 的人马上鼻子开始抽起来了
+AT﹠T 的人马上鼻子开始抽起来了
 
 462
 00:31:25,660 --> 00:31:27,750
@@ -1872,7 +1866,7 @@ AT&T 的人马上鼻子开始抽起来了
 
 464
 00:31:30,080 --> 00:31:33,080
-[Stern] Marc、Bill 和 Andy 在这次演示里展现的点子
+<font color="#ffffff"><b> Stern: </b></font>Marc、Bill 和 Andy 在这次演示里展现的点子
 
 465
 00:31:33,080 --> 00:31:36,000
@@ -1886,11 +1880,11 @@ AT&T 的人马上鼻子开始抽起来了
 
 468
 00:31:39,790 --> 00:31:45,450
-AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第一个网络合作商
+AT﹠T 的人说：「可以，我们入伙了」，然后他们就成了我们第一个网络合作商
 
 469
 00:31:46,950 --> 00:31:50,580
-[Hoffman] 必须要拉上 AT&T，也必须拉上 Apple
+<font color="#ffffff"><b> Hoffman: </b></font>必须要拉上 AT﹠T，也必须拉上 Apple
 
 470
 00:31:50,580 --> 00:31:52,160
@@ -1914,7 +1908,7 @@ AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第
 
 475
 00:32:03,120 --> 00:32:08,950
-[Stern] 作为提前加入我们的代价，我们让他们支付了六百万美元，是每家六百万哦
+<font color="#ffffff"><b> Stern: </b></font>作为提前加入我们的代价，我们让他们支付了六百万美元，是每家六百万哦
 
 476
 00:32:08,950 --> 00:32:12,250
@@ -1938,7 +1932,7 @@ AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第
 
 481
 00:32:26,410 --> 00:32:31,450
-[Joanna] 索尼是一家很伟大的公司
+<font color="#ffffff"><b>Joanna: </b></font>索尼是一家很伟大的公司
 
 482
 00:32:31,450 --> 00:32:38,290
@@ -1965,7 +1959,7 @@ AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第
 
 489
 00:32:54,700 --> 00:32:57,120
-[Marc] 为了达成我们的目标
+<font color="#ffffff"><b>Marc: </b></font>为了达成我们的目标
 
 490
 00:32:57,120 --> 00:33:00,330
@@ -1992,7 +1986,7 @@ AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第
 
 496
 00:33:21,410 --> 00:33:24,910
-[Sculley] 我们没有选择，必须对正在做的事情保持低调
+<font color="#ffffff"><b> Sculley: </b></font>我们没有选择，必须对正在做的事情保持低调
 
 497
 00:33:24,910 --> 00:33:30,540
@@ -2004,7 +1998,7 @@ AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第
 
 499
 00:33:37,450 --> 00:33:42,750
-[Dee] 因为每个人都要用碎纸机，所以垃圾桶经常放不下碎纸条
+<font color="#ffffff"><b> Dee: </b></font> 因为每个人都要用碎纸机，所以垃圾桶经常放不下碎纸条
 
 500
 00:33:42,750 --> 00:33:49,120
@@ -2020,7 +2014,7 @@ AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第
 
 503
 00:33:54,040 --> 00:33:58,040
-[TOM] 公司里有些人可能对此不满，但这确实是商业机密
+<font color="#ffffff"><b> Tom: </b></font>公司里有些人可能对此不满，但这确实是商业机密
 
 504
 00:33:58,040 --> 00:34:02,200
@@ -2032,7 +2026,7 @@ AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第
 
 506
 00:34:06,910 --> 00:34:10,450
-[Marc] 在我们的研发阶段，信息安全至关重要
+<font color="#ffffff"><b>Marc: </b></font>在我们的研发阶段，信息安全至关重要
 
 507
 00:34:10,450 --> 00:34:13,620
@@ -2056,7 +2050,7 @@ AT&T 的人说：「可以，我们入伙了」，然后他们就成了我们第
 
 512
 00:34:29,500 --> 00:34:35,120
-[Joanna] 所以那时候他是我们的盟友，至少我们是这么觉得的
+<font color="#ffffff"><b>Joanna: </b></font>所以那时候他是我们的盟友，至少我们是这么觉得的
 
 513
 00:34:39,250 --> 00:34:46,290
@@ -2116,7 +2110,7 @@ John Sculley 做了一次公开的演讲
 
 527
 00:35:42,160 --> 00:35:44,370
-[Andy] 他们决定做这个东西
+<font color="#ffffff"><b>Andy: </b></font>他们决定做这个东西
 They had, uh, decided to make something
 
 528
@@ -2145,7 +2139,7 @@ They had, uh, decided to make something
 
 534
 00:36:18,200 --> 00:36:24,290
-[Joanna] Newton 的发布让我们的合作伙伴们都眼红了
+<font color="#ffffff"><b>Joanna: </b></font>Newton 的发布让我们的合作伙伴们都眼红了
 
 535
 00:36:24,290 --> 00:36:24,620
@@ -2165,7 +2159,7 @@ They had, uh, decided to make something
 
 539
 00:36:36,580 --> 00:36:40,580
-[Hoffman] 我们必须要向大众解释我们的愿景
+<font color="#ffffff"><b> Hoffman: </b></font>我们必须要向大众解释我们的愿景
 
 540
 00:36:40,580 --> 00:36:44,370
@@ -2185,7 +2179,7 @@ They had, uh, decided to make something
 
 544
 00:36:59,080 --> 00:37:01,750
-[Stern] Newton 已经发布，吸引了大量的媒体关注，并且将会量产
+<font color="#ffffff"><b> Stern: </b></font>Newton 已经发布，吸引了大量的媒体关注，并且将会量产
 
 545
 00:37:01,750 --> 00:37:04,870
@@ -2201,7 +2195,7 @@ They had, uh, decided to make something
 
 548
 00:37:12,620 --> 00:37:16,250
-[Marc] 搞个大新闻？那是一定要的
+<font color="#ffffff"><b>Marc: </b></font>搞个大新闻？那是一定要的
 
 549
 00:37:16,250 --> 00:37:18,330
@@ -2224,8 +2218,8 @@ They had, uh, decided to make something
 
 554
 00:37:40,620 --> 00:37:42,790
-- [Markoff] 你还记得那天发生的事儿吗？
-- [Saffo] emmm……
+- <font color="#ffffff"><b> Markoff: </b></font>你还记得那天发生的事儿吗？
+- <font color="#ffffff"><b> Saffo: </b></font>emmm…
 
 555
 00:37:42,790 --> 00:37:45,620
@@ -2268,7 +2262,7 @@ They had, uh, decided to make something
 
 565
 00:38:14,250 --> 00:38:17,160
-[MacAskill] Marc 几乎是我能想到的最有个人魅力的演讲者了
+<font color="#ffffff"><b> MacAskill: </b></font>Marc 几乎是我能想到的最有个人魅力的演讲者了
 
 566
 00:38:17,160 --> 00:38:21,450
@@ -2333,7 +2327,7 @@ The thing about Porat when he speaks is, everybody in the audience
 
 581
 00:39:14,500 --> 00:39:16,370
-[Hershenson] 台下的记者当时可能都在心想
+<font color="#ffffff"><b> Hershenson: </b></font>台下的记者当时可能都在心想
 
 582
 00:39:16,370 --> 00:39:20,000
@@ -2373,7 +2367,7 @@ The thing about Porat when he speaks is, everybody in the audience
 
 591
 00:39:46,660 --> 00:39:48,580
-[Hoffman] 直接就上了《经济学人》的封面
+<font color="#ffffff"><b> Hoffman: </b></font>直接就上了《经济学人》的封面
 
 592
 00:39:48,580 --> 00:39:51,540
@@ -2433,7 +2427,7 @@ The thing about Porat when he speaks is, everybody in the audience
 
 606
 00:40:37,450 --> 00:40:40,290
-[Marc Porat] 关于发售日期和详细的功能介绍
+<font color="#ffffff"><b> Marc: </b></font>关于发售日期和详细的功能介绍
 
 607
 00:40:40,290 --> 00:40:43,620
@@ -2450,7 +2444,7 @@ The thing about Porat when he speaks is, everybody in the audience
 
 610
 00:40:47,620 --> 00:40:50,450
-[Marc] 我……我……我……很慎重……我……
+<font color="#ffffff"><b>Marc: </b></font>我……我……我……很慎重……我……
 
 611
 00:40:50,450 --> 00:40:54,250
@@ -2504,7 +2498,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 623
 00:41:33,160 --> 00:41:37,120
-[Tony] 我们是真正的工程师，知道要做什么，不需要经理
+<font color="#ffffff"><b> Tony: </b></font>我们是真正的工程师，知道要做什么，不需要经理
 
 624
 00:41:37,120 --> 00:41:41,000
@@ -2520,7 +2514,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 627
 00:41:49,750 --> 00:41:53,830
-[Marc] 当时我们简直无所畏惧缺少一些自我质疑
+<font color="#ffffff"><b>Marc: </b></font>当时我们简直无所畏惧缺少一些自我质疑
 
 628
 00:41:53,830 --> 00:41:58,370
@@ -2544,7 +2538,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 633
 00:42:12,580 --> 00:42:14,830
-[Stern] 我们组建的企业联盟
+<font color="#ffffff"><b> Stern: </b></font>我们组建的企业联盟
 
 634
 00:42:14,830 --> 00:42:17,700
@@ -2620,7 +2614,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 652
 00:43:04,910 --> 00:43:07,660
-[Marc] 最顶尖的投行都来找我们了
+<font color="#ffffff"><b>Marc: </b></font>最顶尖的投行都来找我们了
 
 653
 00:43:07,660 --> 00:43:13,450
@@ -2640,7 +2634,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 657
 00:43:24,120 --> 00:43:27,620
-[Marc] 然后我们就看到一个半裸的银行家在会议室里跟我们谈生意 
+<font color="#ffffff"><b>Marc: </b></font>然后我们就看到一个半裸的银行家在会议室里跟我们谈生意 
 
 658
 00:43:27,620 --> 00:43:30,250
@@ -2660,7 +2654,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 663
 00:43:46,450 --> 00:43:50,250
-[Megan] 这个产品开发起来最难的部分可能是决定砍哪些功能
+<font color="#ffffff"><b> Megan: </b></font>这个产品开发起来最难的部分可能是决定砍哪些功能
 
 664
 00:43:50,250 --> 00:43:53,160
@@ -2696,7 +2690,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 672
 00:44:22,330 --> 00:44:25,700
-[Megan] 基础的框架搭好，最新的芯片装好之后
+<font color="#ffffff"><b> Megan: </b></font>基础的框架搭好，最新的芯片装好之后
 
 673
 00:44:25,700 --> 00:44:29,750
@@ -2711,7 +2705,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 676
 00:44:37,000 --> 00:44:41,370
-[Amy] 你能看见、你能触摸，你也能感受到
+<font color="#ffffff"><b> Amy: </b></font>你能看见、你能触摸，你也能感受到
 
 677
 00:44:41,370 --> 00:44:46,080
@@ -2763,7 +2757,7 @@ We don't want you, because we don't need a manager. Our leader, our leaders
 
 689
 00:45:21,910 --> 00:45:24,080
-[Hershenson] 我记得有一个帽子的图标
+<font color="#ffffff"><b> Hershenson: </b></font>我记得有一个帽子的图标
 
 690
 00:45:24,080 --> 00:45:26,540
@@ -2806,7 +2800,7 @@ And just start spinning and just keep spinning.
 
 700
 00:45:57,950 --> 00:46:01,160
-[Stern] 整个 General Magic 的 IPO 路演过程
+<font color="#ffffff"><b> Stern: </b></font>整个 General Magic 的 IPO 路演过程
 
 701
 00:46:01,160 --> 00:46:04,790
@@ -2874,7 +2868,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 717
 00:46:56,580 --> 00:47:01,330
-[Stern] 这次路演的成功完全超出了我们的想象
+<font color="#ffffff"><b> Stern: </b></font>这次路演的成功完全超出了我们的想象
 
 718
 00:47:01,330 --> 00:47:04,200
@@ -2894,7 +2888,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 722
 00:47:19,870 --> 00:47:23,410
-[Marc] 用今天的话来说，就是病毒式地传播，各路媒体爱死我们了
+<font color="#ffffff"><b>Marc: </b></font>用今天的话来说，就是病毒式地传播，各路媒体爱死我们了
 
 723
 00:47:23,410 --> 00:47:26,370
@@ -2902,7 +2896,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 724
 00:47:26,370 --> 00:47:29,700
-[MacAskill] 我有点担心 Marc 因为这次成功而变得轻飘飘
+<font color="#ffffff"><b> MacAskill: </b></font>我有点担心 Marc 因为这次成功而变得轻飘飘
 
 725
 00:47:29,700 --> 00:47:32,370
@@ -2918,7 +2912,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 728
 00:47:37,200 --> 00:47:41,200
-[Tony] 当时那些媒体文章，其实让我们有点分心
+<font color="#ffffff"><b> Tony: </b></font>当时那些媒体文章，其实让我们有点分心
 
 729
 00:47:41,200 --> 00:47:45,410
@@ -2997,11 +2991,11 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 748
 00:48:57,790 --> 00:49:01,290
-[Amy] 互联网显然已经是一股巨大的力量了，但我们没有深入研究
+<font color="#ffffff"><b> Amy: </b></font>互联网显然已经是一股巨大的力量了，但我们没有深入研究
 
 749
 00:49:01,290 --> 00:49:04,450
-因为你懂的，我们已经和 AT&T 的私有网络深度捆绑了
+因为你懂的，我们已经和 AT﹠T 的私有网络深度捆绑了
 
 750
 00:49:04,450 --> 00:49:09,250
@@ -3009,11 +3003,11 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 751
 00:49:09,250 --> 00:49:11,830
-这是当时 AT&T 的盈利方式
+这是当时 AT﹠T 的盈利方式
 
 752
 00:49:11,830 --> 00:49:18,290
-如果也想学习互联网那样进行互通，就会彻底破坏 AT&T 的商业模式
+如果也想学习互联网那样进行互通，就会彻底破坏 AT﹠T 的商业模式
 
 753
 00:49:18,290 --> 00:49:23,370
@@ -3029,7 +3023,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 756
 00:49:34,330 --> 00:49:37,620
-[Stern] 尽管着一切就在我们眼皮底下发生
+<font color="#ffffff"><b> Stern: </b></font>尽管着一切就在我们眼皮底下发生
 
 757
 00:49:37,620 --> 00:49:41,500
@@ -3040,7 +3034,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 759
 00:49:55,660 --> 00:50:00,410
-[MacAskill] 公司里有一个开发者，Pierre Omidyar，他平时超级安静，连说话都吸声细语
+<font color="#ffffff"><b> MacAskill: </b></font>公司里有一个开发者，Pierre Omidyar，他平时超级安静，连说话都吸声细语
 
 760
 00:50:00,410 --> 00:50:04,750
@@ -3068,7 +3062,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 766
 00:50:21,540 --> 00:50:23,910
-[Stern] 他跑来跟我说：「你能不能帮我把这个网站发展起来？
+<font color="#ffffff"><b> Stern: </b></font>他跑来跟我说：「你能不能帮我把这个网站发展起来？
 
 767
 00:50:23,910 --> 00:50:26,910
@@ -3095,7 +3089,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 773
 00:50:43,910 --> 00:50:46,870
-[MacAskill] 他跟很多人都说了这个点子想拉他们入伙，但一个都拉不到
+<font color="#ffffff"><b> MacAskill: </b></font>他跟很多人都说了这个点子想拉他们入伙，但一个都拉不到
 
 774
 00:50:46,870 --> 00:50:50,250
@@ -3127,7 +3121,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 781
 00:51:09,370 --> 00:51:12,540
-[MacAskill] 我一开始完全不知道我们中还有这样的人物
+<font color="#ffffff"><b> MacAskill: </b></font>我一开始完全不知道我们中还有这样的人物
 
 782
 00:51:12,540 --> 00:51:17,120
@@ -3135,7 +3129,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 783
 00:51:19,660 --> 00:51:23,410
-[Hershenson] 与此同时，我们收到了合作伙伴的要求
+<font color="#ffffff"><b> Hershenson: </b></font>与此同时，我们收到了合作伙伴的要求
 
 784
 00:51:23,410 --> 00:51:26,080
@@ -3143,7 +3137,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 785
 00:51:26,080 --> 00:51:28,500
-[Andy] 进度推迟总归是一件让人紧张的事儿
+<font color="#ffffff"><b>Andy: </b></font>进度推迟总归是一件让人紧张的事儿
 
 786
 00:51:28,500 --> 00:51:33,040
@@ -3175,7 +3169,7 @@ What we envisioned is something in your hand that's with you all the time, that 
 
 793
 00:51:55,250 --> 00:51:57,330
-Emmm……我们还在做
+emmm…我们还在做
 
 794
 00:51:57,330 --> 00:52:00,450
@@ -3211,7 +3205,7 @@ Emmm……我们还在做
 
 802
 00:52:22,660 --> 00:52:25,500
-[Andy] 这里是宠物商店，你能看到这里有很多动物
+<font color="#ffffff"><b>Andy: </b></font>这里是宠物商店，你能看到这里有很多动物
 
 803
 00:52:25,500 --> 00:52:28,120
@@ -3228,7 +3222,7 @@ When I pick the cat up, it kind of scrunches up against
 
 806
 00:52:36,040 --> 00:52:39,330
-[Hershenson] 都是些很有想法的人，天马行空方面很在行
+<font color="#ffffff"><b> Hershenson: </b></font>都是些很有想法的人，天马行空方面很在行
 
 807
 00:52:39,330 --> 00:52:41,700
@@ -3248,7 +3242,7 @@ When I pick the cat up, it kind of scrunches up against
 
 811
 00:52:53,910 --> 00:52:57,700
-[Sculley] Newton 当时已经开发完了
+<font color="#ffffff"><b> Sculley: </b></font>Newton 当时已经开发完了
 
 812
 00:52:57,700 --> 00:53:00,040
@@ -3260,7 +3254,7 @@ When I pick the cat up, it kind of scrunches up against
 
 814
 00:53:03,700 --> 00:53:06,330
-[Hershenson] 一开始你觉得不爽是因为他们背叛了你
+<font color="#ffffff"><b> Hershenson: </b></font>一开始你觉得不爽是因为他们背叛了你
 
 815
 00:53:06,330 --> 00:53:09,660
@@ -3271,7 +3265,7 @@ When I pick the cat up, it kind of scrunches up against
 
 817
 00:53:16,250 --> 00:53:18,750
-[Marc] 总有一些东西会冒出来
+<font color="#ffffff"><b>Marc: </b></font>总有一些东西会冒出来
 
 818
 00:53:18,750 --> 00:53:20,370
@@ -3308,7 +3302,6 @@ When I pick the cat up, it kind of scrunches up against
 826
 00:53:38,160 --> 00:53:43,250
 我第一次感受到了压力，一次恐怖的冲击
-And I felt the first wave, that first zap of terror.
 
 827
 00:53:43,250 --> 00:53:46,660
@@ -3360,7 +3353,7 @@ And I felt the first wave, that first zap of terror.
 
 839
 00:54:31,790 --> 00:54:36,000
-[Adler] 最后期限其实很重要，赶不上你就可能错过机会
+<font color="#ffffff"><b> Adler: </b></font>最后期限其实很重要，赶不上你就可能错过机会
 
 840
 00:54:36,000 --> 00:54:37,450
@@ -3424,7 +3417,7 @@ And I felt the first wave, that first zap of terror.
 
 855
 00:55:35,040 --> 00:55:39,910
-[Marc] 有一天晚上，好像是礼拜天吧，我走进了办公室
+<font color="#ffffff"><b>Marc: </b></font>有一天晚上，好像是礼拜天吧，我走进了办公室
 
 856
 00:55:39,910 --> 00:55:44,120
@@ -3444,7 +3437,7 @@ And I felt the first wave, that first zap of terror.
 
 860
 00:55:55,870 --> 00:55:58,660
-[Tony] 我们必须严肃对待了
+<font color="#ffffff"><b> Tony: </b></font>我们必须严肃对待了
 
 861
 00:55:58,660 --> 00:56:02,330
@@ -3452,7 +3445,7 @@ And I felt the first wave, that first zap of terror.
 
 862
 00:56:02,330 --> 00:56:04,580
-[Megan] 我记得有人就随便睡在一个床垫上
+<font color="#ffffff"><b> Megan: </b></font>我记得有人就随便睡在一个床垫上
 
 863
 00:56:04,580 --> 00:56:07,250
@@ -3464,7 +3457,7 @@ And I felt the first wave, that first zap of terror.
 
 865
 00:56:10,370 --> 00:56:13,870
-[Kevin] 每个人都使出了全力
+<font color="#ffffff"><b> Kevin: </b></font>每个人都使出了全力
 
 866
 00:56:13,870 --> 00:56:17,870
@@ -3472,7 +3465,7 @@ And I felt the first wave, that first zap of terror.
 
 867
 00:56:17,870 --> 00:56:22,080
-[Stern] 哪怕是晚上，大家也都围在一群电脑旁边干活
+<font color="#ffffff"><b> Stern: </b></font>哪怕是晚上，大家也都围在一群电脑旁边干活
 
 868
 00:56:22,080 --> 00:56:25,580
@@ -3495,11 +3488,11 @@ And I felt the first wave, that first zap of terror.
 
 873
 00:56:43,910 --> 00:56:47,540
-[Stern] 大家终于都意识到，要么付出全力，要么公司就得死
+<font color="#ffffff"><b> Stern: </b></font>大家终于都意识到，要么付出全力，要么公司就得死
 
 874
 00:56:47,540 --> 00:56:49,700
-[Hershenson] 像一个鼓的节奏不停重复
+<font color="#ffffff"><b> Hershenson: </b></font>像一个鼓的节奏不停重复
 
 875
 00:56:49,700 --> 00:56:53,250
@@ -3507,7 +3500,7 @@ And I felt the first wave, that first zap of terror.
 
 876
 00:56:53,250 --> 00:56:56,250
-[Stern] 就工作强度和承受的压力而言，这是我们最坏的时刻
+<font color="#ffffff"><b> Stern: </b></font>就工作强度和承受的压力而言，这是我们最坏的时刻
 
 877
 00:56:56,250 --> 00:56:59,950
@@ -3534,7 +3527,7 @@ And I felt the first wave, that first zap of terror.
 
 884
 00:57:18,620 --> 00:57:21,160
-[Megan] 是一种奇妙的体验
+<font color="#ffffff"><b> Megan: </b></font>是一种奇妙的体验
 
 885
 00:57:21,160 --> 00:57:24,910
@@ -3542,19 +3535,19 @@ And I felt the first wave, that first zap of terror.
 
 886
 00:57:24,910 --> 00:57:28,450
-[Tony] 曾经设想的东西，现在变成了现实
+<font color="#ffffff"><b> Tony: </b></font>曾经设想的东西，现在变成了现实
 
 887
 00:57:28,450 --> 00:57:32,750
-[Hershenson] 我们终于完成了！现在你能看到它，你能摸到它，也能真的用起来了！
+<font color="#ffffff"><b> Hershenson: </b></font>我们终于完成了！现在你能看到它，你能摸到它，也能真的用起来了！
 
 888
 00:57:32,750 --> 00:57:36,790
-[Tony] 是时候上市了，我们要开卖了！
+<font color="#ffffff"><b> Tony: </b></font>是时候上市了，我们要开卖了！
 
 889
 00:57:36,790 --> 00:57:39,620
-[Adler] 然后有一天早上，每个人都在
+<font color="#ffffff"><b> Adler: </b></font>然后有一天早上，每个人都在
 
 890
 00:57:39,620 --> 00:57:41,160
@@ -3574,7 +3567,7 @@ And I felt the first wave, that first zap of terror.
 
 894
 00:57:50,660 --> 00:57:53,700
-[Hershenson] Marc Porat 说：「每个人都说几句吧，我们的产品到底是不是准备好了？」
+<font color="#ffffff"><b> Hershenson: </b></font>Marc Porat 说：「每个人都说几句吧，我们的产品到底是不是准备好了？」
 
 895
 00:57:53,700 --> 00:57:58,540
@@ -3590,7 +3583,7 @@ Marc 听了之后还是说：「我们的合作伙伴给了我们最后期限，
 
 898
 00:58:15,000 --> 00:58:19,290
-我想先说说……emmm……我们已经为它工作了四年了
+我想先说说……emmm…我们已经为它工作了四年了
 
 899
 00:58:19,290 --> 00:58:23,700
@@ -3670,7 +3663,7 @@ Sony Magic Link 智能通讯仪，清理你的桌面，清理你的思绪
 
 918
 00:59:32,660 --> 00:59:35,410
-[Kevin] 毕竟开发了那么久，第一次发布的时候，感受还是挺奇怪的
+<font color="#ffffff"><b> Kevin: </b></font>毕竟开发了那么久，第一次发布的时候，感受还是挺奇怪的
 
 919
 00:59:35,410 --> 00:59:38,290
@@ -3696,7 +3689,7 @@ Sony Magic Link 智能通讯仪，清理你的桌面，清理你的思绪
 
 925
 01:00:01,410 --> 01:00:05,950
-[Marc] 抛开所有争议，也不管那些分歧，至少我们终于上市了
+<font color="#ffffff"><b>Marc: </b></font>抛开所有争议，也不管那些分歧，至少我们终于上市了
 
 926
 01:00:05,950 --> 01:00:09,410
@@ -3708,7 +3701,7 @@ Sony Magic Link 智能通讯仪，清理你的桌面，清理你的思绪
 
 928
 01:00:17,910 --> 01:00:22,200
-[Marc] 我们在做什么？今天我想说，我们迈出了第一步
+<font color="#ffffff"><b>Marc: </b></font>我们在做什么？今天我想说，我们迈出了第一步
 
 929
 01:00:22,200 --> 01:00:26,790
@@ -3716,7 +3709,7 @@ Sony Magic Link 智能通讯仪，清理你的桌面，清理你的思绪
 
 930
 01:00:30,500 --> 01:00:33,870
-[Stern] 我们在 Fry's 家电连锁店安排了一次公众演示
+<font color="#ffffff"><b> Stern: </b></font>我们在 Fry's 家电连锁店安排了一次公众演示
 
 931
 01:00:33,870 --> 01:00:37,080
@@ -3745,7 +3738,7 @@ behind the refrigerators, you couldn't see anything. It became clear that the Fr
 
 937
 01:00:55,700 --> 01:00:59,580
-[Amy] 我们一直对外宣传目标用户是普通人
+<font color="#ffffff"><b> Amy: </b></font>我们一直对外宣传目标用户是普通人
 
 938
 01:00:59,580 --> 01:01:05,450
@@ -3757,7 +3750,7 @@ behind the refrigerators, you couldn't see anything. It became clear that the Fr
 
 940
 01:01:09,620 --> 01:01:12,250
-[MacAskill] 我很担心它的尺寸、它的电池续航
+<font color="#ffffff"><b> MacAskill: </b></font>我很担心它的尺寸、它的电池续航
 
 941
 01:01:12,250 --> 01:01:13,910
@@ -3786,7 +3779,7 @@ behind the refrigerators, you couldn't see anything. It became clear that the Fr
 
 947
 01:01:30,080 --> 01:01:35,750
-[Stern] 我胃都开始疼了，感觉我们可能要凉了
+<font color="#ffffff"><b> Stern: </b></font>我胃都开始疼了，感觉我们可能要凉了
 
 948
 01:01:35,750 --> 01:01:42,080
@@ -3794,12 +3787,11 @@ behind the refrigerators, you couldn't see anything. It became clear that the Fr
 
 949
 01:01:42,080 --> 01:01:47,370
-[Marc] 我们等着销售数据上涨，但销售真的很差
+<font color="#ffffff"><b>Marc: </b></font>我们等着销售数据上涨，但销售真的很差
 
 950
 01:01:47,370 --> 01:01:51,620
-很差很差，而且 AT&T 的网络还经常有问题
-Very low, and there were some problems with the AT&T Network. So bit by bit
+很差很差，而且 AT﹠T 的网络还经常有问题
 
 951
 01:01:51,620 --> 01:01:54,750
@@ -3839,7 +3831,7 @@ Very low, and there were some problems with the AT&T Network. So bit by bit
 
 960
 01:02:33,660 --> 01:02:36,660
-[Marc] 我知道股价是我们现在最担心的问题了
+<font color="#ffffff"><b>Marc: </b></font>我知道股价是我们现在最担心的问题了
 
 961
 01:02:36,660 --> 01:02:38,620
@@ -3895,7 +3887,7 @@ Very low, and there were some problems with the AT&T Network. So bit by bit
 
 974
 01:03:15,660 --> 01:03:18,500
-[Hershenson] 好像是《旧金山纪事报》的一个人
+<font color="#ffffff"><b> Hershenson: </b></font>好像是《旧金山纪事报》的一个人
 
 975
 01:03:18,500 --> 01:03:20,660
@@ -3939,7 +3931,7 @@ Very low, and there were some problems with the AT&T Network. So bit by bit
 
 985
 01:03:50,000 --> 01:03:53,500
-[Stern] 我在办公室里看着我们的财务报表
+<font color="#ffffff"><b> Stern: </b></font>我在办公室里看着我们的财务报表
 
 986
 01:03:53,500 --> 01:03:56,790
@@ -3967,13 +3959,13 @@ Marc 去接电话了，而我彻底茫然
 
 992
 01:04:14,950 --> 01:04:17,870
-- [Hoffman] 我不想那么消极，但是……
+- <font color="#ffffff"><b> Hoffman: </b></font>我不想那么消极，但是……
 - 为什么镜头有点儿斜？
 
 993
 01:04:17,870 --> 01:04:20,450
 - [摄像师] 没斜，正的
-- [Hoffman] 这就是一个彻头彻尾的炒作
+- <font color="#ffffff"><b> Hoffman: </b></font>这就是一个彻头彻尾的炒作
 
 994
 01:04:20,450 --> 01:04:24,250
@@ -3993,7 +3985,7 @@ Marc 去接电话了，而我彻底茫然
 
 998
 01:04:33,000 --> 01:04:34,500
-[Hoffman] 可以可以，很完美
+<font color="#ffffff"><b> Hoffman: </b></font>可以可以，很完美
 
 999
 01:04:34,500 --> 01:04:36,200
@@ -4098,7 +4090,7 @@ General Magic，对我来说，已经结束了
 
 1024
 01:06:16,750 --> 01:06:19,580
-[Kevin] 我是一个非常忠诚的人
+<font color="#ffffff"><b> Kevin: </b></font>我是一个非常忠诚的人
 
 1025
 01:06:19,580 --> 01:06:21,540
@@ -4122,7 +4114,7 @@ General Magic，对我来说，已经结束了
 
 1030
 01:06:36,660 --> 01:06:39,750
-[Stern] 眼前留下的，是一个巨大的灾难
+<font color="#ffffff"><b> Stern: </b></font>眼前留下的，是一个巨大的灾难
 
 1031
 01:06:39,750 --> 01:06:42,330
@@ -4138,7 +4130,7 @@ General Magic，对我来说，已经结束了
 
 1034
 01:07:07,750 --> 01:07:12,500
-[Joanna] 毁灭性的，对我来说真的就是毁灭性的
+<font color="#ffffff"><b>Joanna: </b></font>毁灭性的，对我来说真的就是毁灭性的
 
 1035
 01:07:12,500 --> 01:07:17,040
@@ -4154,7 +4146,7 @@ General Magic，对我来说，已经结束了
 
 1038
 01:07:30,410 --> 01:07:34,040
-[Stern] Marc、Bill 和 Andy 向全世界不光向全世界灌输那个想法
+<font color="#ffffff"><b> Stern: </b></font>Marc、Bill 和 Andy 向全世界不光向全世界灌输那个想法
 
 1039
 01:07:34,040 --> 01:07:37,580
@@ -4178,7 +4170,7 @@ General Magic，对我来说，已经结束了
 
 1044
 01:08:08,540 --> 01:08:13,620
-[Swisher] 我觉得这个概念是有了，但用户基础不存在
+<font color="#ffffff"><b> Swisher: </b></font>我觉得这个概念是有了，但用户基础不存在
 
 1045
 01:08:13,620 --> 01:08:17,620
@@ -4230,7 +4222,7 @@ General Magic 就是这样，他们比谁都先看见了那波大浪
 
 1057
 01:08:57,330 --> 01:09:00,080
-[Sculley] 有时候你会变得太过专注
+<font color="#ffffff"><b> Sculley: </b></font>有时候你会变得太过专注
 
 1058
 01:09:00,080 --> 01:09:04,660
@@ -4306,7 +4298,7 @@ Apple 董事会觉得我在「后 PC 时代」的设备上浪费了太多的时�
 
 1076
 01:10:35,660 --> 01:10:39,250
-[Joanna] 一般来说，失败不会让我停下脚步
+<font color="#ffffff"><b>Joanna: </b></font>一般来说，失败不会让我停下脚步
 
 1077
 01:10:39,250 --> 01:10:42,580
@@ -4358,7 +4350,7 @@ Apple 董事会觉得我在「后 PC 时代」的设备上浪费了太多的时�
 
 1089
 01:11:25,200 --> 01:11:30,950
-Emmm…… 不可能的，在当时就不可能
+emmm… 不可能的，在当时就不可能
 
 1090
 01:11:30,950 --> 01:11:35,370
@@ -4417,7 +4409,7 @@ Emmm…… 不可能的，在当时就不可能
 
 1104
 01:13:01,750 --> 01:13:05,750
-[Marc] 有时候我们遇到的无法放下的事情，更应该去努力忘掉
+<font color="#ffffff"><b>Marc: </b></font>有时候我们遇到的无法放下的事情，更应该去努力忘掉
 
 1105
 01:13:05,750 --> 01:13:11,080
@@ -4470,7 +4462,7 @@ Emmm…… 不可能的，在当时就不可能
 
 1118
 01:14:13,750 --> 01:14:16,950
-[Marc] 「你就在自己的车里坐上几个小时
+<font color="#ffffff"><b>Marc: </b></font>「你就在自己的车里坐上几个小时
 
 1119
 01:14:16,950 --> 01:14:20,620
@@ -4536,7 +4528,7 @@ General Magic 就是其中这一波浪，他就存在于时间的一个小角落
 
 1135
 01:15:38,540 --> 01:15:43,290
-[Sculley] 我一直觉得很奇怪，有好多好多年都没见到 Marc 了
+<font color="#ffffff"><b> Sculley: </b></font>我一直觉得很奇怪，有好多好多年都没见到 Marc 了
 
 1136
 01:15:43,290 --> 01:15:47,330
@@ -4611,7 +4603,7 @@ General Magic 就是其中这一波浪，他就存在于时间的一个小角落
 
 1154
 01:17:11,080 --> 01:17:14,620
-[Tony] General Magic 让我们窥探到了未来的可能性
+<font color="#ffffff"><b> Tony: </b></font>General Magic 让我们窥探到了未来的可能性
 
 1155
 01:17:14,620 --> 01:17:17,660
@@ -4623,7 +4615,7 @@ General Magic 就是其中这一波浪，他就存在于时间的一个小角落
 
 1157
 01:17:24,160 --> 01:17:29,040
-[Dee] Tony 超级喜欢音乐，整体聊个不停
+<font color="#ffffff"><b> Dee: </b></font> Tony 超级喜欢音乐，整体聊个不停
 
 1158
 01:17:29,040 --> 01:17:33,000
@@ -4635,7 +4627,7 @@ General Magic 就是其中这一波浪，他就存在于时间的一个小角落
 
 1160
 01:17:39,700 --> 01:17:42,870
-[Tony] 我超爱底特律本土的音乐
+<font color="#ffffff"><b> Tony: </b></font>我超爱底特律本土的音乐
 
 1161
 01:17:42,870 --> 01:17:46,120
@@ -4683,7 +4675,7 @@ General Magic 就是其中这一波浪，他就存在于时间的一个小角落
 
 1172
 01:18:20,870 --> 01:18:23,000
-[Steve Jobs] 这就是 iPod，我碰巧口袋里就有一个
+<font color="#ffffff"><b> Steve Jobs: </b></font>这就是 iPod，我碰巧口袋里就有一个
 
 1173
 01:18:23,000 --> 01:18:26,040
@@ -4691,7 +4683,7 @@ General Magic 就是其中这一波浪，他就存在于时间的一个小角落
 
 1174
 01:18:26,040 --> 01:18:29,830
-[Tony] General Magic 给我的教训就是，产品必须尽快上市
+<font color="#ffffff"><b> Tony: </b></font>General Magic 给我的教训就是，产品必须尽快上市
 
 1175
 01:18:29,830 --> 01:18:33,080
@@ -4731,7 +4723,7 @@ General Magic 就是其中这一波浪，他就存在于时间的一个小角落
 
 1184
 01:19:07,160 --> 01:19:11,290
-[Steve Jobs] 今天 Apple 将要重新发明手机
+<font color="#ffffff"><b> Steve Jobs: </b></font>今天 Apple 将要重新发明手机
 
 1185
 01:19:12,790 --> 01:19:15,540
@@ -4768,7 +4760,7 @@ We're going to use the best pointing device in the world.
 
 1193
 01:19:42,830 --> 01:19:47,200
-[Stern] 我很自豪地想，啊！我们做到了
+<font color="#ffffff"><b> Stern: </b></font>我很自豪地想，啊！我们做到了
 
 1194
 01:19:47,200 --> 01:19:51,950
@@ -4788,7 +4780,7 @@ Tony 做到了，我们想做的东西，就是那样的！
 
 1198
 01:20:05,580 --> 01:20:09,750
-[Andy] Steve 经常在重要产品发布之后给我打电话，想问问我是怎么看的
+<font color="#ffffff"><b>Andy: </b></font>Steve 经常在重要产品发布之后给我打电话，想问问我是怎么看的
 
 1199
 01:20:09,750 --> 01:20:15,160
@@ -4862,7 +4854,7 @@ Steve 在电话里跟我说，他在开发 iPhone 的时候
 
 1216
 01:21:08,290 --> 01:21:13,700
-[Joanna] 假如我能预想到完成我们的设想的人是  Steve Jobs
+<font color="#ffffff"><b>Joanna: </b></font>假如我能预想到完成我们的设想的人是  Steve Jobs
 
 1217
 01:21:13,700 --> 01:21:19,540
@@ -4927,7 +4919,7 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1232
 01:22:06,450 --> 01:22:09,620
-[Andy] 现在我们的星球上，每五个人里就有一个 Android 手机用户
+<font color="#ffffff"><b>Andy: </b></font>现在我们的星球上，每五个人里就有一个 Android 手机用户
 
 1233
 01:22:09,620 --> 01:22:12,910
@@ -4935,7 +4927,7 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1234
 01:22:12,910 --> 01:22:17,450
-[Markoff] 我们的愿景是真实的、是准确的
+<font color="#ffffff"><b> Markoff: </b></font>我们的愿景是真实的、是准确的
 
 1235
 01:22:17,450 --> 01:22:21,580
@@ -4967,7 +4959,7 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1242
 01:22:46,910 --> 01:22:49,870
-[Andy] 首先不得不提一下，今天这里不光只有我们自己的员工
+<font color="#ffffff"><b>Andy: </b></font>首先不得不提一下，今天这里不光只有我们自己的员工
 
 1243
 01:22:49,870 --> 01:22:55,330
@@ -4979,18 +4971,15 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1245
 01:22:58,080 --> 01:23:01,620
-<font color="#cccccc" size="14">Altocom 创始人（发明了世界上第一台软件调制解调器）<br></font>
-[Amy] 想象一颗即将超新星爆发的恒心
+<font color="#cccccc" size="14">Altocom 创始人（发明了世界上第一台软件调制解调器）<br></font><font color="#ffffff"><b> Amy: </b></font>想象一颗即将超新星爆发的恒心
 
 1246
 01:23:01,620 --> 01:23:06,160
-<font color="#cccccc" size="14">Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人<br></font>
-你今天接触到的所有
+<font color="#cccccc" size="14">Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人<br></font>你今天接触到的所有
 
 1247
 01:23:06,160 --> 01:23:09,120
-<font color="#cccccc" size="14">Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人<br></font>
-可以交互的东西，背后的技术
+<font color="#cccccc" size="14">Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人<br></font>可以交互的东西，背后的技术
 
 1248
 01:23:09,120 --> 01:23:12,160
@@ -4998,38 +4987,31 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1249
 01:23:12,160 --> 01:23:14,160
-<font color="#cccccc" size="14">LinkedIn 联合创始人 / CTO<br></font>
-所有这些公司架起来，我肯定算不出了其中的价值了
+<font color="#cccccc" size="14">LinkedIn 联合创始人 / CTO<br></font>所有这些公司架起来，我肯定算不出了其中的价值了
 
 1250
 01:23:14,160 --> 01:23:17,040
-<font color="#cccccc" size="14">LinkedIn 联合创始人 / CTO<br></font>
-但毫无疑问里面有很大一部分
+<font color="#cccccc" size="14">LinkedIn 联合创始人 / CTO<br></font>但毫无疑问里面有很大一部分
 
 1251
 01:23:17,040 --> 01:23:20,330
-<font color="#cccccc" size="14">Adobe CTO / 创造了 Dreamweaver<br></font>
-来源于我们当时的团队
+<font color="#cccccc" size="14">Adobe CTO / 创造了 Dreamweaver<br></font>来源于我们当时的团队
 
 1252
 01:23:20,330 --> 01:23:24,290
-<font color="#cccccc" size="14">Google.org 负责人 / 第一个 LGBT 网站 Planet Out.com 的 CEO<br></font>
-虽然 General Magic 的团队也就是几十个人而已
+<font color="#cccccc" size="14">Google.org 负责人 / 第一个 LGBT 网站 Planet Out.com 的 CEO<br></font>虽然 General Magic 的团队也就是几十个人而已
 
 1253
 01:23:24,290 --> 01:23:26,950
-<font color="#cccccc" size="14">Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO<br></font>
-[Adler] 那是我第一次觉得，所有环节上
+<font color="#cccccc" size="14">Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO<br></font><font color="#ffffff"><b> Adler: </b></font>那是我第一次觉得，所有环节上
 
 1254
 01:23:26,950 --> 01:23:29,250
-<font color="#cccccc" size="14">Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO<br></font>
-都没有缺点
+<font color="#cccccc" size="14">Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO<br></font>都没有缺点
 
 1255
 01:23:29,250 --> 01:23:30,750
-<font color="#cccccc" size="14">WebTV 联合创始人 / Steve Jobs 的公关<br></font>
-团队里的每个人
+<font color="#cccccc" size="14">WebTV 联合创始人 / Steve Jobs 的公关<br></font>团队里的每个人
 
 1256
 01:23:30,750 --> 01:23:33,750
@@ -5041,22 +5023,19 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1258
 01:23:36,480 --> 01:23:38,700
-<font color="#cccccc" size="14">Facebook Connectivity 非洲区负责人<br></font>
-[Tony] 看看当时那帮人
+<font color="#cccccc" size="14">Facebook Connectivity 非洲区负责人<br></font><font color="#ffffff"><b> Tony: </b></font>看看当时那帮人
 
 1259
 01:23:38,700 --> 01:23:41,400
-<font color="#cccccc" size="14">Pinterest 产品负责人<br></font>
-再看看我们现在的生活，General Magic 就像一个军校
+<font color="#cccccc" size="14">Pinterest 产品负责人<br></font>再看看我们现在的生活，General Magic 就像一个军校
 
 1260
 01:23:41,400 --> 01:23:48,500
-<font color="#cccccc" size="14">iPod 硬件架构师 / iPhone 硬件架构师 / Nest 创始人 & CEO<br></font>
-它塑造了我们，也塑造了现在的世界
+<font color="#cccccc" size="14">iPod 硬件架构师 / iPhone 硬件架构师 / Nest 创始人 & CEO<br></font>它塑造了我们，也塑造了现在的世界
 
 1261
 01:23:48,500 --> 01:23:51,450
-[Kevin] 在 General Magic 时候那种看待未来可能性的态度
+<font color="#ffffff"><b> Kevin: </b></font>在 General Magic 时候那种看待未来可能性的态度
 
 1262
 01:23:51,450 --> 01:23:53,120
@@ -5068,13 +5047,11 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1264
 01:23:56,080 --> 01:23:59,830
-<font color="#cccccc" size="14">Kevin Lynch，Apple 技术副总裁<br></font>
-「这个……那个……现在能实现了吗？现在呢？」
+<font color="#cccccc" size="14">Kevin Lynch，Apple 技术副总裁<br></font>「这个……那个……现在能实现了吗？现在呢？」
 
 1265
 01:23:59,830 --> 01:24:04,870
-<font color="#cccccc" size="14">Kevin Lynch，Apple 技术副总裁<br></font>
-我很激动向大家展示我的工作成果，就是我手上戴着的 Apple Watch
+<font color="#cccccc" size="14">Kevin Lynch，Apple 技术副总裁<br></font>我很激动向大家展示我的工作成果，就是我手上戴着的 Apple Watch
 
 1266
 01:24:04,870 --> 01:24:08,410
@@ -5103,7 +5080,7 @@ A lot of General Magic was imagining what the world would be like if some things
 
 1272
 01:24:23,000 --> 01:24:26,120
-[Tony] Megan 把她的知识
+<font color="#ffffff"><b> Tony: </b></font>Megan 把她的知识
 
 1273
 01:24:27,450 --> 01:24:29,120
@@ -5126,14 +5103,11 @@ Hi 大家好~
 
 1278
 01:24:40,830 --> 01:24:44,620
-<font color="#cccccc" size="14">Megan Smith，美国联邦政府首席技术官<br></font>
-奥巴马总统创造了「联邦政府首席技术官」这个职位，这也正是我的工作
+<font color="#cccccc" size="14">Megan Smith，美国联邦政府首席技术官<br></font>奥巴马总统创造了「联邦政府首席技术官」这个职位，这也正是我的工作
 
 1279
 01:24:44,620 --> 01:24:48,120
-<font color="#cccccc" size="14">Megan Smith，美国联邦政府首席技术官<br></font>
-我们团队经常呼吁：「来帮助我把新的技术用在困难的问题上
-and our team and really said: "Come and help me using those new methods
+<font color="#cccccc" size="14">Megan Smith，美国联邦政府首席技术官<br></font>我们团队经常呼吁：「来帮助我把新的技术用在困难的问题上
 
 1280
 01:24:48,120 --> 01:24:51,830
@@ -5168,7 +5142,7 @@ and really make sure that the talent that wants to do its thing is able to do it
 
 1288
 01:25:22,620 --> 01:25:25,700
-[Swisher] 在这个星球上繁衍的人类
+<font color="#ffffff"><b> Swisher: </b></font>在这个星球上繁衍的人类
 You know, as the human race thrives really on this planet
 
 1289
