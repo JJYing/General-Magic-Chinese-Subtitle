@@ -4800,243 +4800,259 @@ Tony 做到了，我们想做的东西，就是那样的！
 
 1201
 01:20:17,330 --> 01:20:22,000
-And it was like the worst cell phone connection I've ever heard.
+那应该是史上最差的通话质量
 
 1202
 01:20:22,000 --> 01:20:27,330
-You know it was all like, you could hear Steve, say:
+反正 Steve 听起来就是「呲呲呲呲呲……」
 
 1203
 01:20:27,330 --> 01:20:32,120
-So the first thing I ask him, I said, "Are you talking on an iPhone?"
+我马上问他：「你现在是用的 iPhone 打电话吗？」
 
 1204
 01:20:32,120 --> 01:20:35,200
-He goes, "No, no, no." But I think he was.
+他否认了，但我不信~
 
 1205
 01:20:35,200 --> 01:20:38,830
-Steve told me on the phone, he thought a lot about Magic Cap
+Steve 在电话里跟我说，他在开发 iPhone 的时候
 
 1206
 01:20:38,830 --> 01:20:41,370
-during the course of the iPhone development,
+经常会想到 Magic Cap
 
 1207
 01:20:41,370 --> 01:20:46,040
-and in particular mentioned the projected keyboard, he had seen that
+他特别提到了我们用的屏幕内虚拟键盘
 
 1208
 01:20:46,040 --> 01:20:48,790
-and used it with Magic Cap and that gave him faith
+他在 Magic Cap 上见到过也试过
 
 1209
 01:20:48,790 --> 01:20:51,870
-that, that was the right direction to go.
+这给了他信心，让他相信这才是正确的方向
 
 1210
 01:20:51,870 --> 01:20:54,120
--Hey Zarko. -Hi, Andy.
+- Zarko 你好~
+- 你好，Andy~
 
 1211
 01:20:54,120 --> 01:20:56,870
-Hi, I'm in the middle of giving a demo of Magic Cap for cellphones.
+你好~ 我现在正在现场演示 Magic Cap 的手机版操作系统
 
 1212
 01:20:56,870 --> 01:20:59,330
-It's really exciting, it's working great.
+还挺好用的，我很激动~
 
 1213
 01:20:59,330 --> 01:21:01,500
--You guys-- You guys did a great job. -It's incredible.
+你们……你太棒了！
 
 1214
 01:21:01,500 --> 01:21:04,370
-Yeah, yeah it's almost like you are in the next room or something.
+对啊！听上去也很清楚，好像你就在隔壁
 
 1215
 01:21:04,370 --> 01:21:08,290
--Yeah, amazing. Bye. -Yeah, OK.
+- 对啊，很完美~ 先再见了~
+- 好的，再见~
 
 1216
 01:21:08,290 --> 01:21:13,700
-[Joanna] Had I thought that it would be done by Steve Jobs,
+[Joanna] 假如我能预想到完成我们的设想的人是  Steve Jobs
 
 1217
 01:21:13,700 --> 01:21:19,540
-if I had known that then, I think I wouldn't have been as devastated.
+可能我当时就不会那么难过了
 
 1218
 01:21:19,540 --> 01:21:24,160
-Because then I would know that it would be done and it would be done right.
+因为我知道他要做的事就一定会做好
 
 1219
 01:21:24,160 --> 01:21:26,950
-It was very gratifying, because it had come full circle, you know?
+一想到这个完整的循环，我就很心满意足
 
 1220
 01:21:26,950 --> 01:21:31,120
-Started with the Mac, and had spawned General Magic.
+从 Mac 电脑开始，衍生出了 General Magic
 
 1221
 01:21:31,120 --> 01:21:36,580
-General Magic progeny had spawned iPhone and Android.
+General Magic 的员工又造就了 iPhone 和 Android
 
 1222
 01:21:36,580 --> 01:21:39,160
-I mean, we can't forget the Android.
+哦，对了，不能忘记还有 Android！
 
 1223
 01:21:39,160 --> 01:21:41,580
-Thank you for joining us today. You know Android
+感谢大家今天的光临
 
 1224
 01:21:41,580 --> 01:21:43,120
+Android 是个开源的项目
 obviously, you know, being an open source project,
 
 1225
 01:21:43,120 --> 01:21:46,290
-we consider ourselves the shepherd of it.
+所以很显然我们希望自己承担的角色是牧羊人
 
 1226
 01:21:46,290 --> 01:21:48,750
-So you see the vision continues.
+你能看到我们的愿景在不断传递
 
 1227
 01:21:48,750 --> 01:21:52,870
-You know, if you look at Android, Andy Rubin droid, Andy was right there
+Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1228
 01:21:52,870 --> 01:21:57,080
-with us and then he carried it to Android and he makes it to now where we are.
+他把我们的想法带到了 Android 里
 
 1229
 01:21:57,080 --> 01:21:59,450
-I mean, here's the test, what if General Magic
+你可以做个思想实验，加入 General Magic 从未诞生
 
 1230
 01:21:59,450 --> 01:22:02,910
-never happened, would we have had Android?
+我们还会有 Android 吗？
 
 1231
 01:22:02,910 --> 01:22:06,450
-Not a chance, I mean all these things were linked together, one after another.
+根本不可能，所有这些事情，他们都联系在一起，哪个都不能少
 
 1232
 01:22:06,450 --> 01:22:09,620
-[Andy] One out of every five people on the planet uses
+[Andy] 现在我们的星球上，每五个人里就有一个 Android 手机用户
 
 1233
 01:22:09,620 --> 01:22:12,910
-an Android phone, uh, growing every month.
+而且还在不断增长
 
 1234
 01:22:12,910 --> 01:22:17,450
-[Markoff] The vision was true, the vision was accurate, the vision is the idea
+[Markoff] 我们的愿景是真实的、是准确的
 
 1235
 01:22:17,450 --> 01:22:21,580
-that basically got computing to the last hurdle.
+那个愿景就是让计算跨过最后一个障碍
 
 1236
 01:22:21,580 --> 01:22:23,700
-The last hurdle was when computing got into
+那个最后的障碍就是想办法
 
 1237
 01:22:23,700 --> 01:22:25,540
-the palm of the hand of everybody in the world.
+让世界上每个人都能在掌上使用计算机
 
 1238
 01:22:27,200 --> 01:22:31,620
-And between Tony and-- and Andy, that's about 98%
+算起来世界上 98% 使用智能手机的人
 
 1239
 01:22:31,620 --> 01:22:37,040
-of the world's smartphones, is those two guys who sat 15 feet apart.
+都要感谢 Tony 和 Andy，而他们俩当时的工位就只间隔不到五米
 
 1240
 01:22:37,040 --> 01:22:40,700
-That's pretty amazing, and that by itself is--
+光想想这件事就很让人感叹
 
 1241
 01:22:40,700 --> 01:22:46,910
-brings such satisfaction. It's, uh-- I can't even describe it.
+这种满足感……难以言表
 
 1242
 01:22:46,910 --> 01:22:49,870
-[Andy] First obvious thing to mention is that we are not alone here today.
+[Andy] 首先不得不提一下，今天这里不光只有我们自己的员工
 
 1243
 01:22:49,870 --> 01:22:55,330
-We are being filmed for posterity as part of our-- our introduction video.
+摄制组会拍摄我们，素材留给以后用，可能作为团队的介绍视频
 
 1244
 01:22:55,330 --> 01:22:58,080
-Who knows if any of this will really be in the video.
+所以每个人都有可能被拍进镜头里
 
 1245
 01:22:58,080 --> 01:23:01,620
-[Amy] Imagine a star that went supernova
+<font color="#cccccc" size="14">Altocom 创始人（发明了世界上第一台软件调制解调器）<br></font>
+[Amy] 想象一颗即将超新星爆发的恒心
 
 1246
 01:23:01,620 --> 01:23:06,160
-and everything that you touch today,
+<font color="#cccccc" size="14">Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人<br></font>
+你今天接触到的所有
 
 1247
 01:23:06,160 --> 01:23:09,120
-everything you interact with today technology wise
+<font color="#cccccc" size="14">Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人<br></font>
+可以交互的东西，背后的技术
 
 1248
 01:23:09,120 --> 01:23:12,160
-is because that star power touched it.
+都是这颗恒心驱动的
 
 1249
 01:23:12,160 --> 01:23:14,160
-I mean, all these companies, and I don't know
+<font color="#cccccc" size="14">LinkedIn 联合创始人 / CTO<br></font>
+所有这些公司架起来，我肯定算不出了其中的价值了
 
 1250
 01:23:14,160 --> 01:23:17,040
-if you add up the value of those what it would be,
+<font color="#cccccc" size="14">LinkedIn 联合创始人 / CTO<br></font>
+但毫无疑问里面有很大一部分
 
 1251
 01:23:17,040 --> 01:23:20,330
-but they all had their genesis with this crew
+<font color="#cccccc" size="14">Adobe CTO / 创造了 Dreamweaver<br></font>
+来源于我们当时的团队
 
 1252
 01:23:20,330 --> 01:23:24,290
-of just a few dozen people, who were at General Magic.
+<font color="#cccccc" size="14">Google.org 负责人 / 第一个 LGBT 网站 Planet Out.com 的 CEO<br></font>
+虽然 General Magic 的团队也就是几十个人而已
 
 1253
 01:23:24,290 --> 01:23:26,950
-[Adler] It was one of the only times I've ever felt like
+<font color="#cccccc" size="14">Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO<br></font>
+[Adler] 那是我第一次觉得，所有环节上
 
 1254
 01:23:26,950 --> 01:23:29,250
-there's no weak link in this chain,
+<font color="#cccccc" size="14">Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO<br></font>
+都没有缺点
 
 1255
 01:23:29,250 --> 01:23:30,750
-everyone on this team,
+<font color="#cccccc" size="14">WebTV 联合创始人 / Steve Jobs 的公关<br></font>
+团队里的每个人
 
 1256
 01:23:30,750 --> 01:23:33,750
-uh, is brilliant, is so committed and passionate.
+都很厉害、很有决心，也很有激情
 
 1257
-01:23:33,750 --> 01:23:37,080
-What's so rare is having all those things at the same time.
+01:23:33,750 --> 01:23:36,480
+其实很难能同时拥有这些品质
 
 1258
-01:23:37,080 --> 01:23:39,450
-[Tony] When you look at that class of people
+01:23:36,480 --> 01:23:38,700
+<font color="#cccccc" size="14">Facebook Connectivity 非洲区负责人<br></font>
+[Tony] 看看当时那帮人
 
 1259
-01:23:39,450 --> 01:23:44,120
-and what the world looks like today, that was the training ground
+01:23:38,700 --> 01:23:41,400
+<font color="#cccccc" size="14">Pinterest 产品负责人<br></font>
+再看看我们现在的生活，General Magic 就像一个军校
 
 1260
-01:23:44,120 --> 01:23:48,500
-for us, for what has shaped the world of today.
+01:23:41,400 --> 01:23:48,500
+<font color="#cccccc" size="14">iPod 硬件架构师 / iPhone 硬件架构师 / Nest 创始人 & CEO<br></font>
+它塑造了我们，也塑造了现在的世界
 
 1261
 01:23:48,500 --> 01:23:51,450
