@@ -5056,99 +5056,103 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1261
 01:23:48,500 --> 01:23:51,450
-[Kevin] We all carry things from General Magic, in terms of our view
+[Kevin] 在 General Magic 时候那种看待未来可能性的态度
 
 1262
 01:23:51,450 --> 01:23:53,120
-of what could be possible in the future.
+一直保留在我们身上
 
 1263
 01:23:53,120 --> 01:23:56,080
-And as engineers you can't help but think,
+身为工程师，你会不断去思考
 
 1264
 01:23:56,080 --> 01:23:59,830
-"There's-- there's-- Can we do this now? How about now?"
+<font color="#cccccc" size="14">Kevin Lynch，Apple 技术副总裁<br></font>
+「这个……那个……现在能实现了吗？现在呢？」
 
 1265
 01:23:59,830 --> 01:24:04,870
-I am so, so excited to show you our work, and I'm wearing Apple Watch right here.
+<font color="#cccccc" size="14">Kevin Lynch，Apple 技术副总裁<br></font>
+我很激动向大家展示我的工作成果，就是我手上戴着的 Apple Watch
 
 1266
 01:24:04,870 --> 01:24:08,410
+我们这些老员工经常会去想，如果当初我们设想的东西
 A lot of General Magic was imagining what the world would be like if some things existed
 
 1267
 01:24:08,410 --> 01:24:11,250
-that maybe we would make, and that's so fun to do.
+已经造出来的话现在这个世界会怎么样？很有意思
 
 1268
 01:24:11,250 --> 01:24:13,290
-You can control both the eyes and the mouth to get just
+你能控制眼睛和嘴巴
 
 1269
 01:24:13,290 --> 01:24:15,830
-the right expression you would like to send to somebody.
+找到合适的表情然后发给别人
 
 1270
 01:24:15,830 --> 01:24:19,080
-And that is so true in so many fields right now, you are able to actually
+而现在在很多领域里
 
 1271
 01:24:19,080 --> 01:24:23,000
-transform industries by your work in technology.
+我们做的技术工作真的能改变整个行业的发展
 
 1272
 01:24:23,000 --> 01:24:26,120
-[Tony] When you look at someone like Megan taking all of her knowledge
+[Tony] Megan 把她的知识
 
 1273
 01:24:27,450 --> 01:24:29,120
-and all the things she learned,
+和毕生所学
 
 1274
 01:24:29,120 --> 01:24:31,200
-and now bringing it to the government and seeing
+都带到了政府部门
 
 1275
 01:24:31,200 --> 01:24:34,330
-how the US Government is transforming through that.
+见证了美国政府的变革
 
 1276
 01:24:34,330 --> 01:24:38,410
-Hello, everybody, how you doing?
+Hi 大家好~
 
 1277
 01:24:38,410 --> 01:24:40,830
--Good to see you, is this my seat right here ? -Yes, it is.
 
 1278
 01:24:40,830 --> 01:24:44,620
-President Obama had created the US Chief Technology Officer, which is my job
+<font color="#cccccc" size="14">Megan Smith，美国联邦政府首席技术官<br></font>
+奥巴马总统创造了「联邦政府首席技术官」这个职位，这也正是我的工作
 
 1279
 01:24:44,620 --> 01:24:48,120
+<font color="#cccccc" size="14">Megan Smith，美国联邦政府首席技术官<br></font>
+我们团队经常呼吁：「来帮助我把新的技术用在困难的问题上
 and our team and really said: "Come and help me using those new methods
 
 1280
 01:24:48,120 --> 01:24:51,830
-on some of these harder problems, these problems that are in our civic space."
+在民用领域解决更多问题」
 
 1281
 01:24:51,830 --> 01:24:53,790
-There is the future right here.
 
 1282
 01:24:53,790 --> 01:24:55,450
-One of the things that I like to work on is
+我最感谢的工作内容之一
 
 1283
 01:24:55,450 --> 01:24:59,290
-how to use technology to make people's lives better
+就是把技术用到改善人们的生活上
 
 1284
 01:24:59,290 --> 01:25:02,080
-and sort of harness talent and unlock talent.
+尽可能的利用和释放天才们的才能
 
 1285
 01:25:02,080 --> 01:25:06,790
@@ -5164,38 +5168,41 @@ and really make sure that the talent that wants to do its thing is able to do it
 
 1288
 01:25:22,620 --> 01:25:25,700
-[Swisher] You know, as the human race thrives really on this planet
+[Swisher] 在这个星球上繁衍的人类
+You know, as the human race thrives really on this planet
 
 1289
 01:25:25,700 --> 01:25:29,950
+不断地制造各种问题：教育、团结、气候变化
 it creates all kinds of problems, education, uniting people, climate change.
 
 1290
 01:25:29,950 --> 01:25:34,040
-There is not enough water, there is not enough food. What are we going to do?
+缺少足够的水，缺少足够的食物？我们该怎么办？
 
 1291
 01:25:34,040 --> 01:25:38,660
-Those can all be solved with technologies, it's just a question how humanity uses it.
+这些问题都能用技术解决，关键是看人们怎么使用技术
 
 1292
 01:25:41,040 --> 01:25:46,500
-But, the reliance on technology for everything, for human interactions is worrisome.
+但人类过度依赖技术，也是有隐患的
 
 1293
 01:25:46,500 --> 01:25:49,620
-Where people are, you know, you go to anything and everyone is like this, right.
+现在的人不管去什么地方做什么事都是这样的
 
 1294
 01:25:49,620 --> 01:25:53,160
-Um, so I worry about what happens to society and children
+所以我很担心我们的社会、我们的下一代会变成什么样子
 
 1295
 01:25:53,160 --> 01:25:55,660
-and how they interact with each other.
+不知道他们会怎么样彼此沟通
 
 1296
 01:25:58,370 --> 01:26:01,200
+你没法改变整个人类种族
 You can't change the human race, yeah, but you can start
 
 1297
