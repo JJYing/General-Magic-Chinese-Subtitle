@@ -2425,7 +2425,7 @@ The thing about Porat when he speaks is, everybody in the audience
 
 604
 00:40:29,910 --> 00:40:34,660
-感谢你今天来到这里，你觉得你们大概什么时候能发售？
+感谢你今天来到这里，你觉得你们的产品大概什么时候能上市？
 
 605
 00:40:34,660 --> 00:40:37,450
@@ -2954,7 +2954,6 @@ What we envisioned is something in your hand that's with you all the time, that 
 737
 00:48:13,580 --> 00:48:16,750
 [电视播报员] 最近几年，以往不为人知的新兴通信技术
-In recent years, a relatively unknown communication system,
 
 738
 00:48:16,750 --> 00:48:20,790
@@ -3241,7 +3240,7 @@ When I pick the cat up, it kind of scrunches up against
 
 809
 00:52:47,330 --> 00:52:51,450
-就在那段时间，Newton 正式发售了
+就在那段时间，Newton 正式上市了
 
 810
 00:52:51,450 --> 00:52:53,910
@@ -3489,287 +3488,280 @@ And I felt the first wave, that first zap of terror.
 
 871
 00:56:34,790 --> 00:56:40,750
-每个人都精疲力尽，但做不出来誓不离开
+每个人都精疲力尽，做不出来誓不离开
 
 872
 00:56:40,750 --> 00:56:43,910
 
 873
 00:56:43,910 --> 00:56:47,540
-[Stern] Every single one of us, it was all hands on deck, ship or die.
+[Stern] 大家终于都意识到，要么付出全力，要么公司就得死
 
 874
 00:56:47,540 --> 00:56:49,700
-[Hershenson] There was this constant drum beat of,
+[Hershenson] 像一个鼓的节奏不停重复
 
 875
 00:56:49,700 --> 00:56:53,250
-"We have to ship, we have to ship, we have to ship."
+"我们得做出来！我们得做出来！我们得做出来！"
 
 876
 00:56:53,250 --> 00:56:56,250
-[Stern] In terms of intensity and pressure it was the best of times
+[Stern] 就工作强度和承受的压力而言，这是我们最坏的时刻
 
 877
 00:56:56,250 --> 00:56:59,950
-and it was the worst of times. In some ways we were never closer to each other
+也是我们最好的时刻，因为从某种程度上来说，我们从没有那么团结过
 
 878
 00:56:59,950 --> 00:57:04,790
-and we never felt better about what we were doing, because we were getting there.
+也从没在工作上感觉更好过，因为我们终于快要把产品做出来了
 
 879
 00:57:04,790 --> 00:57:07,250
--[woman] My fingers? -[engineer] Uh-huh. Both hands.
 
 880
 00:57:07,250 --> 00:57:10,370
--[woman] That'll never work. -[engineer] One finger at the other end.
 
 881
 00:57:10,370 --> 00:57:12,790
--[keyboard clicking] -[woman laughing]
 
 882
 00:57:12,790 --> 00:57:15,910
-[man] It's quick, it's-- there's a pleasing pace to it.
 
 883
 00:57:15,910 --> 00:57:18,620
--[engineer] A little better? OK. -[man 4] Yeah, much better, much better.
 
 884
 00:57:18,620 --> 00:57:21,160
-[Megan] It's this incredible experience
+[Megan] 是一种奇妙的体验
 
 885
 00:57:21,160 --> 00:57:24,910
-of sort of all these different people working, you know, like a symphony.
+不同的人全力合作，就像个交响乐团
 
 886
 00:57:24,910 --> 00:57:28,450
-[Tony] This thing that we imagined, now has become real.
+[Tony] 曾经设想的东西，现在变成了现实
 
 887
 00:57:28,450 --> 00:57:32,750
-[Hershenson] We've done it, and now you can see it and touch it and use it as well.
+[Hershenson] 我们终于完成了！现在你能看到它，你能摸到它，也能真的用起来了！
 
 888
 00:57:32,750 --> 00:57:36,790
-[Tony] It's time to ship. We need to get this out.
+[Tony] 是时候上市了，我们要开卖了！
 
 889
 00:57:36,790 --> 00:57:39,620
-[Adler] It was one in the morning, everyone was there,
+[Adler] 然后有一天早上，每个人都在
 
 890
 00:57:39,620 --> 00:57:41,160
-everyone was exhausted.
+每个人都累垮了
 
 891
 00:57:41,160 --> 00:57:42,700
-It was a classic decision
+终于到了每个产品都要经历的时间点
 
 892
 00:57:42,700 --> 00:57:45,290
-that every project has to make like, go or no go.
+决定是不是正式上市的时间点
 
 893
 00:57:45,290 --> 00:57:50,660
-So here we all were, in it together and saying like, "Is this it, are we done?"
+所以我们都聚在一起，共同讨论「是不是真的做到可以开卖的程度了」
 
 894
 00:57:50,660 --> 00:57:53,700
-[Hershenson] Marc Porat said, "Anyone could speak about whether we should ship.
+[Hershenson] Marc Porat 说：「每个人都说几句吧，我们的产品到底是不是准备好了？」
 
 895
 00:57:53,700 --> 00:57:58,540
-Is the software ready?" And a ton of engineers said, "We should wait."
+「软件部分完成了吗？」很多软件工程师说：「应该再等等」
 
 896
 00:57:58,540 --> 00:58:03,540
-Marc listened and he said, "Our partners have given us a deadline, we're shipping."
+Marc 听了之后还是说：「我们的合作伙伴给了我们最后期限，我们不得不上市了」
 
 897
 00:58:10,910 --> 00:58:15,000
-So welcome to the first public demonstration of-- of General Magic's technologies.
+欢迎大家来到 General Magic 的第一次公开展示
 
 898
 00:58:15,000 --> 00:58:19,290
-I wanna talk a little bit about, um, you know, we worked really hard the last four years
+我想先说说……emmm……我们已经为它工作了四年了
 
 899
 00:58:19,290 --> 00:58:23,700
-putting all this stuff together. Uh, I feel, you know, emotional about it.
+此刻我实在是百感交集
 
 900
 00:58:23,700 --> 00:58:27,660
--Uh, people, uh, people-- -[audience applauding]
+大家……额……大家
 
 901
 00:58:27,660 --> 00:58:31,910
--What I wanna do is, uh, is talk about the, uh-- -[audience applauding]
+我想先给大家介绍一下
 
 902
 00:58:31,910 --> 00:58:35,870
-The incredible-- the best part of working on this the last four years is not the invention,
+这个最棒的……过去四年里最开心的事情不是发明了什么东西
 
 903
 00:58:35,870 --> 00:58:39,500
-I-- I love helping create this stuff, but the best part was working
+……我……我当然喜欢搞创造，但这四年的工作给我带来最棒的事情
 
 904
 00:58:39,500 --> 00:58:41,790
-with the incredible team that we have assembled at General Magic.
+是我们在 General Magic 组建的这只无敌的团队
 
 905
 00:58:41,790 --> 00:58:46,120
-This isn't the work of just me and Bill, but the work of some incredibly brilliant,
+今天要发布的东西不是我和 Bill 做出来的，而是我们整个富有激情
 
 906
 00:58:46,120 --> 00:58:50,250
-passionate people that I'm honored to be able to work with and I think these guys
+和天才的团队努力的成果，我很荣幸能和他们共事
 
 907
 00:58:50,250 --> 00:58:53,290
-these-- We're working with a bunch of young programmers in their twenties
+团队里有很多年轻的开发者，他们都只有二十多岁
 
 908
 00:58:53,290 --> 00:58:57,660
-that are going to go on to do things that dwarf anything that Bill and I have ever done.
+他们在这个年纪的成就让我和 Bill 相形见绌
 
 909
 00:58:57,660 --> 00:59:04,000
-They are just incredibly great and so, without further ado, with, uh, great pride, uh,
+他们实在是太棒了，但请允许我现在进入今天的主题
 
 910
 00:59:04,000 --> 00:59:07,450
-and representing Bill and-- and the amazing team at General Magic,
+很骄傲，今天可以代表 Bill 还有整个 General Magic 团队
 
 911
 00:59:07,450 --> 00:59:10,250
-here it is world, Magic Cap.
+向世界第一次展示我们的操作系统 ── Magic Cap
 
 912
 00:59:10,250 --> 00:59:13,620
--[SONY commercial] It's a new way to reach just about anyone -[beeping]
+[Sony 广告] 这是一种全新的与人沟通的方式
 
 913
 00:59:13,620 --> 00:59:16,700
--...anywhere, anytime. -[beeping]
+任何地点、任何时间
 
 914
 00:59:16,700 --> 00:59:18,870
-You're only a press of a button away.
+只须轻轻一按
 
 915
 00:59:18,870 --> 00:59:22,830
--[beeping] -Sony Magic Link, and what it takes off your desk
+Sony Magic Link 就能帮你解脱桌面的杂物
 
 916
 00:59:22,830 --> 00:59:26,580
-is only matched, by what it takes off your mind.
+同时让你专心工作
 
 917
 00:59:26,580 --> 00:59:32,660
-Sony Magic Link Intelligent Communicator. It clears your desk, it clears your mind."
+Sony Magic Link 智能通讯仪，清理你的桌面，清理你的思绪
 
 918
 00:59:32,660 --> 00:59:35,410
-[Kevin] Still so very disturbing when you, when you work on something for so long
+[Kevin] 毕竟开发了那么久，第一次发布的时候，感受还是挺奇怪的
 
 919
 00:59:35,410 --> 00:59:38,290
-and then you let it out into the world. It's like having this baby
+就像你的孩子出生来到这个世界上
 
 920
 00:59:38,290 --> 00:59:42,080
-and like, have you raised it well enough? Is it going to be okay on its own out there?
+你会担心它长得够好吗？靠它自己能独立生存吗？
 
 921
 00:59:42,080 --> 00:59:45,250
-Uhm, it's a little traumatic, actually to let something out like that.
+整个发布过程就挺痛苦的
 
 922
 00:59:45,250 --> 00:59:50,200
-[audience cheering, clapping]
 
 923
 00:59:56,120 --> 00:59:58,790
-Hey, these really belong to you, somebody asked me that. They are yours!
+这些东西属于大家！刚刚有人问了，这些真的是发给大家的！
 
 924
 00:59:58,790 --> 01:00:01,410
--[laughter] -[audience applauding]
 
 925
 01:00:01,410 --> 01:00:05,950
-[Marc] Whatever doubts we had or whatever disagreements or anything, we were on.
+[Marc] 抛开所有争议，也不管那些分歧，至少我们终于上市了
 
 926
 01:00:05,950 --> 01:00:09,410
-We were, this was the moment, this was the launch.
+这是属于我们的时刻，最终发布的时刻
 
 927
 01:00:09,410 --> 01:00:12,700
-We were gonna make it, we were gonna succeed and it was gonna be amazing.
+我们肯定会成功的，未来非常美好~
 
 928
 01:00:17,910 --> 01:00:22,200
-[Marc] So, what are we doing? Today we are making the first steps.
+[Marc] 我们在做什么？今天我想说，我们迈出了第一步
 
 929
 01:00:22,200 --> 01:00:26,790
-This afternoon it's out there, the devices are out there and the service is out there.
+就在今天下午，我们的设备上市了，我们的服务开始运行了
 
 930
 01:00:30,500 --> 01:00:33,870
-[Stern] We had arranged to have a demonstration day at Fry's,
+[Stern] 我们在 Fry's 家电连锁店安排了一次公众演示
 
 931
 01:00:33,870 --> 01:00:37,080
-a famous place for new product introductions.
+很多新产品都会在那里开介绍会
 
 932
 01:00:37,080 --> 01:00:40,080
-And a few famous people from Apple came, just out of courtesy.
+出于礼貌，很多 Apple 的名人也来站台了
 
 933
 01:00:40,080 --> 01:00:43,700
-We went into the store and all of the, all of the demonstration stuff was way in the back,
+我们到店里发现演示的柜台在很里面
 
 934
 01:00:43,700 --> 01:00:48,080
+位置在冰箱后面，外面的人啥也看不到
 behind the refrigerators, you couldn't see anything. It became clear that the Fry's staff
 
 935
 01:00:48,080 --> 01:00:51,830
-had not been trained on how to demonstrate the devices, or even knew
+而且我们发现 Fry's 的员工完全没有受过训练，不知道怎么演示我们的设备
 
 936
 01:00:51,830 --> 01:00:55,700
-what they were or who we were, or why we were there.
+甚至不知道这是什么东西也不认识我们，完全一头雾水
 
 937
 01:00:55,700 --> 01:00:59,580
-[Amy] We talked about our user as being Joe Sixpack.
+[Amy] 我们一直对外宣传目标用户是普通人
 
 938
 01:00:59,580 --> 01:01:05,450
-And I do remember sitting around thinking, "You know, Joe Sixpack really doesn't have email."
+但我一直有点疑问，普通人好像不会去用电子邮件啊？
 
 939
 01:01:05,450 --> 01:01:09,620
-And if that was our target, it was very early for-- for Joe Sixpack.
+能用上电子邮件的「普通人」那是很超前的了
 
 940
 01:01:09,620 --> 01:01:12,250
-[MacAskill] I worried about the size, I worried about the battery life,
+[MacAskill] 我很担心它的尺寸、它的电池续航
 
 941
 01:01:12,250 --> 01:01:13,910
-我很担心 800 美元这个价格
-I worried about the 800 dollars.
+也很担心 800 美元这个价格
 
 942
 01:01:13,910 --> 01:01:15,660
@@ -3781,99 +3773,101 @@ I worried about the 800 dollars.
 
 944
 01:01:18,450 --> 01:01:19,950
--[reporter] You might need it. -I don't.
+- 你可能会需要……
+- 不，我不需要
 
 945
 01:01:19,950 --> 01:01:22,910
-What it really comes down to is a personal decision
+对于潜在买家来说，一个很实际的问题是
 
 946
 01:01:22,910 --> 01:01:25,750
-as to whether or not you really wanna be in touch all the time.
+我真的那么需要随时都能被联系到吗？
 
 947
 01:01:30,080 --> 01:01:35,750
-[Stern] My stomach turned sour and I thought we're doomed.
+[Stern] 我胃都开始疼了，感觉我们可能要凉了
 
 948
 01:01:35,750 --> 01:01:42,080
-No one came, no one bought it. Nothing.
+没有人来尝试，没有人买，什么都没有
 
 949
 01:01:42,080 --> 01:01:47,370
-[Marc] And so we are waiting for the sales to happen and the sales numbers were low.
+[Marc] 我们等着销售数据上涨，但销售真的很差
 
 950
 01:01:47,370 --> 01:01:51,620
+很差很差，而且 AT&T 的网络还经常有问题
 Very low, and there were some problems with the AT&T Network. So bit by bit
 
 951
 01:01:51,620 --> 01:01:54,750
-we began to get evidence that this thing wasn't gonna rocket right,
+所以我们慢慢意识到，我们的产品应该是没有机会得到市场认可了
 
 952
 01:01:54,750 --> 01:01:59,830
-it was gonna be more difficult, and that's the reality that starts to sink in,
+情况越来越糟，我们不得不面对现实
 
 953
 01:01:59,830 --> 01:02:01,950
-is that, this is not as easy as it seems.
+这个东西真的不那么好做
 
 954
 01:02:01,950 --> 01:02:05,370
-We had sold fewer than 3000 devices, and almost all of those
+我们买了不到 3000 台机器，而且其中大部分
 
 955
 01:02:05,370 --> 01:02:08,830
-had been sold to friends and family of the company and our partners.
+都卖给了我们公司员工的朋友和家人
 
 956
 01:02:08,830 --> 01:02:12,080
-Virtually none to ordinary consumers.
+几乎没有一个真正的消费者
 
 957
 01:02:12,080 --> 01:02:15,370
-I was looking at the list of the names of the buyers
+我看着我们的买家名单
 
 958
 01:02:15,370 --> 01:02:19,450
-and I recognized all of them, I knew who they were, and I thought
+每一个名字我都认识
 
 959
 01:02:19,450 --> 01:02:23,910
-that we don't have a business here, we are not gonna make it.
+我意识到这根本算不是一门生意了，我们失败了
 
 960
 01:02:33,660 --> 01:02:36,660
-[Marc] Share price, that's I think, the greatest concern in this room and that's
+[Marc] 我知道股价是我们现在最担心的问题了
 
 961
 01:02:36,660 --> 01:02:38,620
-what we're going to take on, head on.
+但是我们也不得不面对
 
 962
 01:02:38,620 --> 01:02:42,040
-The explosion of the Internet has forced a rethinking of strategies
+互联网的爆炸性发展迫使我们要重新思考我们的战略
 
 963
 01:02:42,040 --> 01:02:43,500
-across the entire industry.
+整个行业都需要重新思考
 
 964
 01:02:43,500 --> 01:02:45,950
-I have believed for years, and continue to believe,
+我一直以来都相信，以后也会相信
 
 965
 01:02:45,950 --> 01:02:50,160
-that the notion of taking intelligent devices with you,
+把可以随身携带的智能设备
 
 966
 01:02:50,160 --> 01:02:53,790
-of the scale from this big
+从那么大
 
 967
 01:02:53,790 --> 01:02:56,950
-to that small is for real as a market.
+做到这么小，一定会有市场的
 
 968
 01:02:56,950 --> 01:02:59,120
@@ -4043,7 +4037,7 @@ And then Phil actually had to sit me down and go, "Tony what's wrong? You're not
 
 1009
 01:05:08,080 --> 01:05:14,250
-Like to go from 80, 120 hours a week to none.
+从一周工作 80 甚至 120 小时，直接到不干活了
 
 1010
 01:05:14,250 --> 01:05:18,330
