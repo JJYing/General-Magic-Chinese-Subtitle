@@ -450,7 +450,7 @@ emm… 对所有人来说都是非常痛苦的决定
 
 113
 00:10:52,417 --> 00:10:55,375
-<font color="#cccccc">John Sculley ── 前 Apple 公司 CEO<br></font>商业其实就是讲故事，搞商业的人就是整天讲故事
+<font color="#cccccc">[ John Sculley ── 前 Apple 公司 CEO ]<br></font>商业其实就是讲故事，搞商业的人就是整天讲故事
 
 114
 00:10:55,375 --> 00:10:59,500
@@ -518,7 +518,7 @@ emm… 对所有人来说都是非常痛苦的决定
 
 130
 00:11:54,166 --> 00:11:59,792
-Marc 走到哪儿都带着他那本书，经常说着说着就开始翻起来
+Marc 走到哪儿都带着他那本大大红书，经常说着说着就开始翻起来
 
 131
 00:11:59,792 --> 00:12:03,959
@@ -530,7 +530,7 @@ emmm… 他成功地说服了我
 
 133
 00:12:11,875 --> 00:12:15,333
-<font color="#cccccc">Andy Hertzfeld ── Mac 开发团队核心成员<br></font>我听见答录机上有一条来自 Bill Atkinson 的留言
+<font color="#cccccc">[ Andy Hertzfeld ── Mac 开发团队核心成员 ]<br></font>我听见答录机上有一条来自 Bill Atkinson 的留言
 
 134
 00:12:15,333 --> 00:12:17,500
@@ -538,7 +538,7 @@ emmm… 他成功地说服了我
 
 135
 00:12:17,500 --> 00:12:19,792
-我看到了一个前所未有的东西，
+我看到了一个前所未有的东西
 
 136
 00:12:19,792 --> 00:12:22,417
@@ -642,7 +642,7 @@ John，我觉得这就是 Apple 的未来
 
 161
 00:13:51,208 --> 00:13:55,083
-<font color="#cccccc">John Markoff ── 纽约时报<br></font>Apple 暗中给这家公司助力
+<font color="#cccccc">[ John Markoff ── 纽约时报 ]<br></font>Apple 暗中给这家公司助力
 
 162
 00:13:55,083 --> 00:13:56,709
@@ -903,7 +903,7 @@ Andy Hertzfeld 知道我是 Mac 的开发者，所以他给我打了电话让我
 
 225
 00:18:26,834 --> 00:18:30,041
-他们有时自称为「首席变革代理人」之类的
+他们有时自称为「<b>首席变革代理人</b>」之类的
 
 226
 00:18:30,041 --> 00:18:33,750
@@ -4802,15 +4802,15 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1193
 01:22:58,080 --> 01:23:01,620
-<font color="#cccccc">Altocom 创始人（发明了世界上第一台软件调制解调器）<br></font><font color="#ffffff"><b> Amy: </b></font>想象一颗即将超新星爆发的恒心
+<font color="#cccccc">[ Altocom 创始人（发明了世界上第一台软件调制解调器） ]<br></font><font color="#ffffff"><b> Amy: </b></font>想象一颗即将超新星爆发的恒心
 
 1194
 01:23:01,620 --> 01:23:06,160
-<font color="#cccccc">Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人<br></font>你今天接触到的所有
+<font color="#cccccc">[ Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人 ]<br></font>你今天接触到的所有
 
 1195
 01:23:06,160 --> 01:23:09,120
-<font color="#cccccc">Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人<br></font>可以交互的东西，背后的技术
+<font color="#cccccc">[ Google Plus / eBay 研发 VP / 黑莓和三星 SVP / Google 语音识别负责人 ]<br></font>可以交互的东西，背后的技术
 
 1196
 01:23:09,120 --> 01:23:12,160
@@ -4818,31 +4818,31 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1197
 01:23:12,160 --> 01:23:14,160
-<font color="#cccccc">LinkedIn 联合创始人 / CTO<br></font>所有这些公司架起来，我肯定算不出了其中的价值了
+<font color="#cccccc">[ LinkedIn 联合创始人 / CTO ]<br></font>所有这些公司架起来，我肯定算不出了其中的价值了
 
 1198
 01:23:14,160 --> 01:23:17,040
-<font color="#cccccc">LinkedIn 联合创始人 / CTO<br></font>但毫无疑问里面有很大一部分
+<font color="#cccccc">[ LinkedIn 联合创始人 / CTO ]<br></font>但毫无疑问里面有很大一部分
 
 1199
 01:23:17,040 --> 01:23:20,330
-<font color="#cccccc">Adobe CTO / 创造了 Dreamweaver<br></font>来源于我们当时的团队
+<font color="#cccccc">[ Adobe CTO / 创造了 Dreamweaver ]<br></font>来源于我们当时的团队
 
 1200
 01:23:20,330 --> 01:23:24,290
-<font color="#cccccc">Google.org 负责人 / 第一个 LGBT 网站 Planet Out.com 的 CEO<br></font>虽然 General Magic 的团队也就是几十个人而已
+<font color="#cccccc">[ Google.org 负责人 / 第一个 LGBT 网站 Planet Out.com 的 CEO ]<br></font>虽然 General Magic 的团队也就是几十个人而已
 
 1201
 01:23:24,290 --> 01:23:26,950
-<font color="#cccccc">Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO<br></font><font color="#ffffff"><b> Adler: </b></font>那是我第一次觉得，所有环节上
+<font color="#cccccc">[ Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO ]<br></font><font color="#ffffff"><b> Adler: </b></font>那是我第一次觉得，所有环节上
 
 1202
 01:23:26,950 --> 01:23:29,250
-<font color="#cccccc">Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO<br></font>都没有缺点
+<font color="#cccccc">[ Safari 浏览器负责人 / Apple AI 负责人 /  WebTV 创始人 & CEO ]<br></font>都没有缺点
 
 1203
 01:23:29,250 --> 01:23:30,750
-<font color="#cccccc">WebTV 联合创始人 / Steve Jobs 的公关<br></font>团队里的每个人
+<font color="#cccccc">[ WebTV 联合创始人 / Steve Jobs 的公关 ]<br></font>团队里的每个人
 
 1204
 01:23:30,750 --> 01:23:33,750
@@ -4854,15 +4854,15 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1206
 01:23:36,480 --> 01:23:38,700
-<font color="#cccccc">Facebook Connectivity 非洲区负责人<br></font><font color="#ffffff"><b> Tony: </b></font>看看当时那帮人
+<font color="#cccccc">[ Facebook Connectivity 非洲区负责人 ]<br></font><font color="#ffffff"><b> Tony: </b></font>看看当时那帮人
 
 1207
 01:23:38,700 --> 01:23:41,400
-<font color="#cccccc">Pinterest 产品负责人<br></font>再看看我们现在的生活，General Magic 就像一个军校
+<font color="#cccccc">[ Pinterest 产品负责人 ]<br></font>再看看我们现在的生活，General Magic 就像一个军校
 
 1208
 01:23:41,400 --> 01:23:48,500
-<font color="#cccccc">iPod 硬件架构师 / iPhone 硬件架构师 / Nest 创始人 & CEO<br></font>它塑造了我们，也塑造了现在的世界
+<font color="#cccccc">[ iPod 硬件架构师 / iPhone 硬件架构师 / Nest 创始人 & CEO ]<br></font>它塑造了我们，也塑造了现在的世界
 
 1209
 01:23:48,500 --> 01:23:51,450
@@ -4878,11 +4878,11 @@ Android，它的创立者 Andy Rubin 也曾是我们中的一员
 
 1212
 01:23:56,080 --> 01:23:59,830
-<font color="#cccccc">Kevin Lynch，Apple 技术副总裁<br></font>「这个……那个……现在能实现了吗？现在呢？」
+<font color="#cccccc">[ Kevin Lynch，Apple 技术副总裁 ]<br></font>「这个……那个……现在能实现了吗？现在呢？」
 
 1213
 01:23:59,830 --> 01:24:04,870
-<font color="#cccccc">Kevin Lynch，Apple 技术副总裁<br></font>我很激动向大家展示我的工作成果，就是我手上戴着的 Apple Watch
+<font color="#cccccc">[ Kevin Lynch，Apple 技术副总裁 ]<br></font>我很激动向大家展示我的工作成果，就是我手上戴着的 Apple Watch
 
 1214
 01:24:04,870 --> 01:24:08,410
@@ -4931,11 +4931,11 @@ Hi 大家好~
 
 1225
 01:24:40,830 --> 01:24:44,620
-<font color="#cccccc">Megan Smith，美国联邦政府首席技术官<br></font>奥巴马总统创造了「联邦政府首席技术官」这个职位，这也正是我的工作
+<font color="#cccccc">[ Megan Smith，美国联邦政府首席技术官 ]<br></font>奥巴马总统创造了「联邦政府首席技术官」这个职位，这也正是我的工作
 
 1226
 01:24:44,620 --> 01:24:48,120
-<font color="#cccccc">Megan Smith，美国联邦政府首席技术官<br></font>我们团队经常呼吁：「来帮助我把新的技术用在困难的问题上
+<font color="#cccccc">[ Megan Smith，美国联邦政府首席技术官 ]<br></font>我们团队经常呼吁：「来帮助我把新的技术用在困难的问题上
 
 1227
 01:24:48,120 --> 01:24:51,830
