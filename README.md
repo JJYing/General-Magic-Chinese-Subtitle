@@ -9,7 +9,7 @@
 
 # 字幕下载 & 使用
 * 直接点此[下载 SRT 文件](https://github.com/JJYing/General-Magic-Chinese-Subtitle/releases/download/0.9/General.Magic.srt)
-* 基于某个你能「找到」的 7 GB 出头的版本
+* 仅适配某个你能「找到」的 7 GB 出头的版本
 
 # 申明
 * 本字幕翻译基于官方英文字幕，内容有删减
