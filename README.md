@@ -1,5 +1,5 @@
 # 字幕下载 & 使用
-* 直接点此[下载 SRT 文件](https://github.com/JJYing/General-Magic-Chinese-Subtitle/releases/download/0.9/General.Magic.srt)
+* 直接点此[下载 SRT 文件](https://github.com/JJYing/General-Magic-Chinese-Subtitle/releases/download/1.0/General.Magic.srt)
 * 仅适配某个你能「找到」的 7 GB 出头的版本
 
 # 为什么要翻译这个字幕？
@@ -9,8 +9,7 @@
 
 个人觉得作为一个纪录片，《General Magic》成片质量很高，故事也相对不为人知，很有意思，非常推荐~ 尤其是看到主人公们在反复说着梦想的时候我的眼睛湿了，突然发觉自己已经想不起年少时的梦想了，但真心希望中文字幕不要成为大家观看的障碍，让这部很有教育意义的纪录片被更多还在寻找、追寻梦想的人看到，给大家更多的启发~
 
-主体部分翻译全部完成
-
 # 申明
 * 本字幕翻译基于官方英文字幕，内容有删减
 * 仅用于学习和研究
+* 感谢群友小强提供的字幕订正
