@@ -2105,7 +2105,6 @@ John Sculley 做了一次公开的演讲
 515
 00:35:42,160 --> 00:35:44,370
 <font color="#ffffff"><b>Andy: </b></font>他们决定做这个东西
-They had, uh, decided to make something
 
 516
 00:35:44,370 --> 00:35:48,000
@@ -2273,7 +2272,6 @@ They had, uh, decided to make something
 556
 00:38:23,500 --> 00:38:26,830
 当 Porat 演讲的时候，台下的每个观众
-The thing about Porat when he speaks is, everybody in the audience
 
 557
 00:38:26,830 --> 00:38:31,000
