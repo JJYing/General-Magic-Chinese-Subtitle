@@ -12,4 +12,4 @@
 # 申明
 * 本字幕翻译基于官方英文字幕，内容有删减
 * 仅用于学习和研究
-* 感谢群友小强提供的字幕订正
+* 感谢 @[chengsong-cs](https://github.com/chengsong-cs)、@[YebaiZhao](https://github.com/YebaiZhao) 和群友小强提供的字幕订正
