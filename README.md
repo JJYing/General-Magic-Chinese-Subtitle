@@ -1,5 +1,5 @@
 # 字幕下载 & 使用
-* 直接点此[下载 SRT 文件](https://github.com/JJYing/General-Magic-Chinese-Subtitle/releases/download/1.0/General.Magic.srt)
+* 直接点此[下载 SRT 文件](https://github.com/JJYing/General-Magic-Chinese-Subtitle/releases/download/V1.2/General.Magic.srt)
 * 仅适配某个你能「找到」的 7 GB 出头的版本
 
 # 为什么要翻译这个字幕？
